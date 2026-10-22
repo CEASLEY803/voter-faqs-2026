@@ -16,6 +16,7 @@ import requests
 ROOT = Path(__file__).resolve().parent
 SC_URL = "https://scvotes.gov/voters/voter-faq/"
 VOTE411_URL = "https://www.vote411.org/south-carolina"
+EXTRACTION_VERSION = 3
 
 
 def render_html(element):
@@ -117,6 +118,33 @@ def parse_scvotes(soup, metadata):
     return entries
 
 
+def vote411_blocks(container):
+    """Yield question labels and content separately using published punctuation."""
+    for child in container.children:
+        if not isinstance(child, Tag):
+            yield False, child
+        elif child.name in {"div", "section", "article"}:
+            yield from vote411_blocks(child)
+        elif child.name in {"h1", "h2", "h3", "h4", "h5", "h6"}:
+            is_question = child.get_text(" ", strip=True).endswith("?")
+            yield is_question, child
+        elif child.name == "p":
+            first = None
+            for fragment in child.children:
+                if isinstance(fragment, Tag) or str(fragment).strip():
+                    first = fragment
+                    break
+            if isinstance(first, Tag) and first.name in {"strong", "b"} and first.get_text(" ", strip=True).endswith("?"):
+                yield True, first
+                remainder = deepcopy(child)
+                remainder.find(first.name).decompose()
+                yield False, remainder
+            else:
+                yield False, child
+        else:
+            yield False, child
+
+
 def parse_vote411(soup, metadata):
     tabs = soup.select(".tabs-right > .tab")
     if not tabs:
@@ -130,36 +158,37 @@ def parse_vote411(soup, metadata):
         if heading is None or body is None:
             raise ValueError("A Vote411 tab has changed structure.")
         title = source_text([heading], url)
-        questions = body.find_all("h6")
-        if any(question.parent is not body for question in questions):
-            raise ValueError(f"Nested question headings need review: {title}")
-        if not questions:
+        blocks = list(vote411_blocks(body))
+        if not any(is_question for is_question, element in blocks):
             content = source_text([body], url)
             if content:
                 supporting.append(make_supporting_content(title, "section_without_questions", content, metadata))
             continue
         introduction = []
-        for child in body.children:
-            if isinstance(child, Tag) and child.name == "h6":
-                break
-            introduction.append(child)
+        question = None
+        answer_parts = []
+        for is_question, element in blocks:
+            if is_question:
+                if question is not None:
+                    entries.append(make_entry(question, source_text(answer_parts, url), metadata))
+                question = source_text([element], url)
+                answer_parts = []
+            elif question is None:
+                introduction.append(element)
+            else:
+                answer_parts.append(element)
+        if question is not None:
+            entries.append(make_entry(question, source_text(answer_parts, url), metadata))
         introductory_text = source_text(introduction, url)
         if introductory_text:
             supporting.append(make_supporting_content(title, "topic_introduction", introductory_text, metadata))
-        for question in questions:
-            answer_parts = []
-            for sibling in question.next_siblings:
-                if isinstance(sibling, Tag) and sibling.name == "h6":
-                    break
-                answer_parts.append(sibling)
-            entries.append(make_entry(source_text([question], url), source_text(answer_parts, url), metadata))
     return entries, supporting
 
 
-def validate_dataset(dataset):
+def validate_dataset(dataset, allow_empty=False):
     """Check format and collection defects, without deciding factual correctness."""
     entries = dataset["questions"]
-    if not entries or dataset["num_questions"] != len(entries) or dataset["num_answers"] != len(entries):
+    if (not entries and not allow_empty) or dataset["num_questions"] != len(entries) or dataset["num_answers"] != len(entries):
         raise ValueError("Empty dataset or incorrect counts.")
     validate_records(entries, ("q", "a", "s", "t"))
 
@@ -208,7 +237,7 @@ def main():
         json.dumps(supporting_dataset, indent=4, ensure_ascii=False) + "\n", encoding="utf-8")
     metadata = {"sources": [primary_metadata, secondary_metadata],
                 "counts": {"scvotes": len(primary), "vote411": len(secondary), "supporting_sections": len(supporting)},
-                "extraction_version": 2,
+                "extraction_version": EXTRACTION_VERSION,
                 "reprocessed_from": str(arguments.from_run) if arguments.from_run else None,
                 "review_status": "Pending human review of source fidelity and completeness",
                 "supporting_content_file": "sc_supporting_content.json"}
