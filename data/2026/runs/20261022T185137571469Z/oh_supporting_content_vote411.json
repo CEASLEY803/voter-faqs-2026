@@ -1,0 +1,90 @@
+{
+    "state": "oh",
+    "num_sections": 12,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "topic_introduction",
+            "content": "Absentee voting in Ohio is available and no excuse is required. The last day to request an absentee ballot (https://absentee.vote411.org/vote/VoterInformation.htm) is 7 days before an election.\n\nYour marked absentee ballot must be received by your county Board of Elections by 7:30pm on Election Day in order to be counted. It can also be returned in person to your county Board of Elections, outside at the drop box, or inside the building, before the close of the polls on Election Day. NOTE: Do not return your voted absentee ballot to your neighborhood polling place, it will not be counted.",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2026-10-22T18:51:38+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "topic_introduction",
+            "content": "Ballot curing is when a voter corrects an issue with their ballot, so it can be counted.",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2026-10-22T18:51:38+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).\n\nFor information on state campaign contributions, please visit your state's resource. (https://www.sos.state.oh.us/campaign-finance/)",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2026-10-22T18:51:38+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Information on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp).",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2026-10-22T18:51:38+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "topic_introduction",
+            "content": "Early voting for the November 3, 2026 General Election begins on October 6th and ends November 1st.\n\nEarly Voting Starts: 28 days before Election Day\nEarly Voting Ends: The Sunday before Election Day",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2026-10-22T18:51:38+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "The next election date can be found here https://www.vote411.org/ohio (https://www.vote411.org/north-dakota)\n\nContact your local Board of Elections (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2026-10-22T18:51:38+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "The polls will be open from 6:30 am - 7:30 pm.",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2026-10-22T18:51:38+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2026-10-22T18:51:38+00:00"
+        },
+        {
+            "topic": "Poll Worker Information",
+            "kind": "topic_introduction",
+            "content": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker toda (https://powerthepolls.org/lwv)y!",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2026-10-22T18:51:38+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "You can find your polling place by utilizing your state resource. (https://www.sos.state.oh.us/elections/voters/toolkit/polling-location/?_t_id=1B2M2Y8AsgTpgAmY7PhCfg%3d%3d&_t_q=Polling+place&_t_tags=language%3aen&_t_ip=38.104.28.38&_t_hit.id=SOS_Web_Models_Pages_ChildPage/_383953ac-c1df-4209-9b9a-707a6ccee27a_en&_t_hit.pos=2) If you have further questions on your polling place location, please contact your county clerk. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2026-10-22T18:51:38+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "Ohio is a “partially open” primary state. This allows voters to vote in another parties primary. You are asked to choose your party when you register to vote, however, you are able to publicly change your party affiliation in order to vote in your selected parties primary election.\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2026-10-22T18:51:38+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (https://voterlookup.ohiosos.gov/voterlookup.aspx)",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2026-10-22T18:51:38+00:00"
+        }
+    ]
+}

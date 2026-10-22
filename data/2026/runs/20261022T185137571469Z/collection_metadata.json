@@ -1,0 +1,21 @@
+{
+    "state": "oh",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/ohio",
+            "final_url": "https://www.vote411.org/ohio",
+            "collected_at": "2026-10-22T18:51:38+00:00",
+            "sha256": "f2269f1762c55a460c5e82136aaa00e029ea2db2d94f30de4a0cd6ee023c24f9",
+            "snapshot": "data/2026/runs/20261022T185137571469Z/vote411-oh.html"
+        }
+    ],
+    "counts": {
+        "vote411": 60,
+        "supporting_sections": 12
+    },
+    "extraction_version": 2,
+    "faq_file": "oh_qa_vote411.json",
+    "supporting_content_file": "oh_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}
