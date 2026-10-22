@@ -16,7 +16,7 @@ import requests
 ROOT = Path(__file__).resolve().parent
 SC_URL = "https://scvotes.gov/voters/voter-faq/"
 VOTE411_URL = "https://www.vote411.org/south-carolina"
-EXTRACTION_VERSION = 3
+EXTRACTION_VERSION = 4
 
 
 def render_html(element):
@@ -51,17 +51,19 @@ def render_html(element):
     return content
 
 
-def source_text(elements, url):
-    """Preserve paragraphs and lists, and append published link destinations."""
+def source_text(elements, url, include_links=True):
+    """Preserve blocks and optionally append destinations to visible link text."""
     parts = []
     for element in elements:
         copied = deepcopy(element)
         if isinstance(copied, Tag):
             for unwanted in copied.select("script, style"):
                 unwanted.decompose()
-            links = copied.find_all("a", href=True)
-            if copied.name == "a":
-                links.insert(0, copied)
+            links = []
+            if include_links:
+                links = copied.find_all("a", href=True)
+                if copied.name == "a" and copied.has_attr("href"):
+                    links.insert(0, copied)
             for link in links:
                 target = urljoin(url, link.get("href", ""))
                 if urlparse(target).scheme in {"http", "https", "mailto", "tel"}:
@@ -113,7 +115,7 @@ def parse_scvotes(soup, metadata):
         answer = row.select_one(".accordion-row-content")
         if question is None or answer is None:
             raise ValueError("An SC Votes row has changed structure.")
-        entries.append(make_entry(source_text([question], metadata["final_url"]),
+        entries.append(make_entry(source_text([question], metadata["final_url"], include_links=False),
                                   source_text([answer], metadata["final_url"]), metadata))
     return entries
 
@@ -124,7 +126,9 @@ def vote411_blocks(container):
         if not isinstance(child, Tag):
             yield False, child
         elif child.name in {"div", "section", "article"}:
+            yield False, Tag(name="p")
             yield from vote411_blocks(child)
+            yield False, Tag(name="p")
         elif child.name in {"h1", "h2", "h3", "h4", "h5", "h6"}:
             is_question = child.get_text(" ", strip=True).endswith("?")
             yield is_question, child
@@ -171,7 +175,7 @@ def parse_vote411(soup, metadata):
             if is_question:
                 if question is not None:
                     entries.append(make_entry(question, source_text(answer_parts, url), metadata))
-                question = source_text([element], url)
+                question = source_text([element], url, include_links=False)
                 answer_parts = []
             elif question is None:
                 introduction.append(element)
