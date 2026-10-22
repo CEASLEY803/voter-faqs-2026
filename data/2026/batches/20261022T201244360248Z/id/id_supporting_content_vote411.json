@@ -1,0 +1,146 @@
+{
+    "state": "id",
+    "num_sections": 20,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "topic_introduction",
+            "content": "Vote-by-mail (absentee voting) is available in Idaho and no excuse is required. The deadline to request an absentee ballot (https://voteidaho.gov/casting-your-ballot/#absentee-voting) is 11 days before the election. You can submit your absentee ballot request form by mail, in person at your local elections office, or online (https://idahovotes.gov/online-voter-tools/).\n\nReturn your voted ballot by mail, to a secure ballot drop box, or to your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm) by 8pm on Election Day for your vote to be counted. You can track your absentee ballot (https://voteidaho.gov/casting-your-ballot/#absentee-voting) status on the Secretary of State's website.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "section_without_questions",
+            "content": "Idaho does not have a statewide post-Election Day absentee/mail ballot curing (correction) process. Some counties provide a signature curing process, and the deadline depends on the county. Contact your (https://voteidaho.gov/county-clerk/) local election office for more information. You can also track your ballot using your state’s online tool (https://elections.sos.idaho.gov/ElectionLink/ElectionLink/VoterSearch.aspx).",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).\n\nFor information on state campaign contributions, please visit your state's resource. (https://sos.idaho.gov/elect/finance/index.html)",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Information on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp).",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Drop Boxes",
+            "kind": "section_without_questions",
+            "content": "You can return your voted ballot to your local county clerk’s office. You can find the address of your county clerk  (https://absentee.vote411.org/vote/eoddomestic.htm)here (https://idahovotes.gov/county-clerks/).",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "section_without_questions",
+            "content": "Early voting for the November 3, 2026 General Election begins on October 13th and ends October 30th. Dates may vary by county.\n\nEarly Voting Starts: the fourth Monday before Election Day. This may vary by county. Contact your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm) for more details.\n\nEarly Voting Ends: The Friday before Election Day\n\nAll Idaho voters may vote before Election Day through in-person absentee voting, and no excuse is required. Counties may also choose to offer early voting. Contact your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm) for information about in-person absentee and early voting dates, hours, and locations in your county. Election Day registration is permitted at your polling place on Election Day as well as the Elections Department during Early Voting.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "The next election date can be found here https://www.vote411.org/idaho.\n\nFor more election information contact your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "Polls will be open from 8:00 am to 8:00 pm on Election Day.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Official Election Results",
+            "kind": "section_without_questions",
+            "content": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and it’s essential that they take the time to make sure every vote is counted.\n\nOfficial election results will be uploaded on Idaho’s Secretary of State website (https://sos.idaho.gov/elections-division/election-results/) as they become available.\n\n  Official Results  (https://sos.idaho.gov/elections-division/election-results/)",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Poll Worker Information",
+            "kind": "section_without_questions",
+            "content": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker toda (https://powerthepolls.org/lwv )y!\n\nIn order to be a poll worker in Idaho, you must:\n\n- Political affiliation preferred\n- It is recommended that you are a resident of the election district for the 30 days prior to the election\n- Complete required training\n- Be entitled to compensation\n- Students with citizenship who are 16 years old may work\n\nTo sign up, contact your local  (https://absentee.vote411.org/vote/eoddomestic.htm)board of elections (https://www.overseasvotefoundation.org/vote/election-official-directory).",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "You can find your polling place by utilizing your state resource. (https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ViewPollingLocation.aspx)\n\nIf you have further questions on your polling place location, please contact your county clerk (https://www.overseasvotefoundation.org/vote/election-official-directory). (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "Idaho is a “partially closed” primary state. Each party has the ability to choose whether to allow unaffiliated voters or voters not registered with their party to participate in their primary. This decision is made 6 months before the primary election date each year. Unless the party chooses to allow voters not registered with their party to participate in the primary election, only voters registered with the party may vote in their primary.\n\nWhen there are elections on nonpartisan issues or races scheduled on the same day as a party primary election, all registered voters can vote on the nonpartisan races.\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Provisional Voting",
+            "kind": "section_without_questions",
+            "content": "There is no provisional voting.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Provisions for Voters with Disabilities",
+            "kind": "section_without_questions",
+            "content": "You may receive assistance to vote from any person of your choice. You may also ask for assistance from a poll worker.\n\nCurbside assistance and home voting is available in special circumstances. Please make arrangements with your county clerk's office (https://absentee.vote411.org/vote/eoddomestic.htm) in advance.\n\nEach polling place in the state will be equipped with a ballot marking device to assist voters who have difficulty reading or marking a ballot vote privately and independently. The ballot marking device is intended to assist the visually impaired, voters with disabilities and the elderly.\n\nVisually impaired voters can use headphones to listen to an audio ballot and make their selections using a Braille keypad. The ballot marking device has a touch screen with a zoom feature to enlarge the ballot print and a contrast feature to make the ballot easier to read for some voters. The ballot marking device only marks a ballot. No votes are stored in the machine. Votes are counted by the election board of your county. You can review and change your selections before the device marks a paper ballot. If you are using the ballot marking device, you may request a new ballot from a poll worker if you make a mistake. Additional instructions will be available at the polls and poll workers are trained to help if you request their assistance.\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Time Off To Vote",
+            "kind": "section_without_questions",
+            "content": "Time off to vote is subject to the employer, there is no requirement for employers to grant time off to vote for employees.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (https://elections.sos.idaho.gov/ElectionLink/ElectionLink/VoterSearch.aspx)",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Voter ID Requirements",
+            "kind": "topic_introduction",
+            "content": "DO I NEED TO SHOW ID WHEN I VOTE IN IDAHO:\n\nYes. When you vote in person, either during early voting or on Election Day, you must show a photo ID or sign a Personal Identification Affidavit to confirm your identity.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Voter Registration Deadlines",
+            "kind": "section_without_questions",
+            "content": "The voter registration deadline for the Tuesday, November 3, 2026 General Election is October 23, 2026. Election Day registration is available.\n\nOnline registration deadline: 11 days before Election Day\n\nRegister by mail deadline: Received 11 days before Election Day\n\nIn-person registration deadline: Election Day\n\nAny person who is qualified to vote may register in person at the polls on Election Day by providing proof of residence. All documents used in providing proof of residence must be accompanied by a photo ID. Acceptable documents include:\n\n- A valid Idaho driver's license issued through the Department of Transportation.\n- A valid Idaho identification card issued through the Department of Transportation\n- Any document which contains a valid address in the precinct together with a picture identification card\n- A current valid student photo ID and a fee statement with an address in the precinct.\n\nNot registered? Use our registration tool (https://www.vote411.org/register#.UFdk4FHh-So) to fill out your application!",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "topic": "Voting Machines",
+            "kind": "section_without_questions",
+            "content": "The voting systems used in Idaho are optical scan and hand-counted paper ballots.\n\nOptical Scanning: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. In some places, you can check your card or paper right there at the polling place by feeding it into a card-reading machine to make sure you have voted the way you want to. When you are finished filling out all the cards. You may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that counts the votes. When Election Day is over, the computer counts how many votes were cast for each candidate.\n\nPaper Ballots: Paper ballots are one of the oldest ways of voting in America. They are still used on Election Day. Paper ballots are mostly used for absentee ballots. When you come to the polling place, you will get a paper ballot from the poll worker. You take it to the voting booth, and use a pen or pencil to mark a box next to your candidate and issue choices. You then drop the marked ballot into a sealed ballot box. At the end of the day, votes are counted by poll workers reading the ballots.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        }
+    ]
+}

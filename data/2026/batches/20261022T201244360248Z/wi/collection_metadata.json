@@ -1,0 +1,23 @@
+{
+    "state": "wi",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/wisconsin",
+            "final_url": "https://www.vote411.org/wisconsin",
+            "collected_at": "2026-10-22T19:14:07+00:00",
+            "sha256": "ccb94e1f52be4e17a666e19c7c378c3e163e260ec2cf880b5ffad132ea1825ec",
+            "snapshot": "data/2026/batches/20261022T201244360248Z/wi/vote411-wi.html"
+        }
+    ],
+    "counts": {
+        "vote411": 57,
+        "supporting_sections": 14
+    },
+    "extraction_version": 4,
+    "reprocessed_from": "data/2026/batches/20261022T191516674464Z/wi",
+    "review_flags": [],
+    "faq_file": "wi_qa_vote411.json",
+    "supporting_content_file": "wi_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

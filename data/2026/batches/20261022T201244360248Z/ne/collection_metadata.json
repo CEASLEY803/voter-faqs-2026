@@ -1,0 +1,23 @@
+{
+    "state": "ne",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/nebraska",
+            "final_url": "https://www.vote411.org/nebraska",
+            "collected_at": "2026-10-22T19:13:35+00:00",
+            "sha256": "f9e1b09747076e64f1d3dc8ead49eeeee368008f0a3a18e1a127bb64d42d3796",
+            "snapshot": "data/2026/batches/20261022T201244360248Z/ne/vote411-ne.html"
+        }
+    ],
+    "counts": {
+        "vote411": 1,
+        "supporting_sections": 21
+    },
+    "extraction_version": 4,
+    "reprocessed_from": "data/2026/batches/20261022T191516674464Z/ne",
+    "review_flags": [],
+    "faq_file": "ne_qa_vote411.json",
+    "supporting_content_file": "ne_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

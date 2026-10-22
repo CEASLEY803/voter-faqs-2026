@@ -1,0 +1,139 @@
+{
+    "state": "vt",
+    "num_sections": 19,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "topic_introduction",
+            "content": "Vote-by-mail (absentee voting) is available in Vermont and no excuse is required. The last day to request an absentee ballot is 1 day before the election. You can return your absentee ballot request form through mail, in person at your local elections office, or online (https://sos.vermont.gov/elections/voters/early-absentee-voting/). All requests must be submitted by 5pm or the close of the Town Clerk's office on the day before the election.\n\nVoted ballots must be received by Election Day to be counted. You can track your absentee ballot here.  (https://mvp.vermont.gov/)",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "section_without_questions",
+            "content": "The deadline to cure (correct) your absentee/mail ballot is 7 p.m. on Election Day. If your ballot is found incomplete or incorrect, the registrar will attempt to notify you of the error and how you can correct the issue. We recommend that you track the status of your ballot using your state’s online tool (http://vote.vermont.gov/) before Election Day to make sure it has been received and accepted.\n\nIf you voted a provisional ballot, election officials will do the research to determine if you are an eligible voter after the close of the polls. Questioned ballots are either counted or rejected 2 days after the election.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).\n\nFor information on state campaign contributions, please visit your state's resource. (https://sos.vermont.gov/elections/campaign-finance/)",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Information on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp). (https://sos.vermont.gov/elections/election-info-resources/candidates/)",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Drop Boxes",
+            "kind": "section_without_questions",
+            "content": "You can only use the dropbox of the city or town you vote from. A spreadsheet listing each town, whether it has a dropbox, and dropbox locations is downloadable at the Secretary of State site (https://sos.vermont.gov/elections/voters/). You can also drop off your ballot at your assigned polling location on election day.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "section_without_questions",
+            "content": "Early voting for the November 3, 2026 General Election begins on September 19th and ends November 2nd.\n\nEarly Voting Starts: 45 days before Election Day\nEarly Voting Ends: The day before Election Day\n\nNote: Vermont conducts elections primarily by mail.\n\nEarly voting is also available with no excuse required. You may vote at your town clerk's office (https://sos.vermont.gov/elections/town-clerks/) in person during the hours the office is open to the public, within 45 days before a primary or general election or 20 days before a municipal election. Due to the pandemic, Some Vermont town offices are closed to the public or have limited hours to protect health and safety, and most have a secure ballot drop box available whether or not the office is open. Please contact your town clerk. (https://sos.vermont.gov/elections/town-clerks/)",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "The next election dates can be found here https://www.vote411.org/vermont.\n\nContact your local Board of Elections (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "All polls are open from between 5am and 10am and close at 7pm.\n\nFor local polling place hours, please visit the Vermont Voter Portal or call your local town clerk. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Official Election Results",
+            "kind": "section_without_questions",
+            "content": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and it’s essential that they take the time to make sure every vote is counted.\n\nOfficial election results will be uploaded on Vermont’s Secretary of State website (https://sos.vermont.gov/elections/election-info-resources/) as they become available.\n\n  Official Results  (https://sos.vermont.gov/elections/election-info-resources/)",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Poll Worker Information",
+            "kind": "section_without_questions",
+            "content": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker toda (https://powerthepolls.org/lwv )y!\n\nIn order to be a poll worker in Vermont, you must:\n\n- Be registered to vote in Vermont\n- Be entitled to compensation\n- Be at least 18 years of age\n- Political affiliation considered\n- Be a resident of the voting district\n- Complete required training\n- Students who are 16 and 17 years old may be appointed as assistant elections officers\n\nTo sign up, contact your local board of elections (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "You can find your polling place by utilizing your state resource. (https://vote.vermont.gov/public/dashboard)\n\nIf you have further questions on your polling place location, please contact your county clerk. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "Vermont is an “open primary” state. You can choose the party’s ballot you wish to vote. This decision does not register you with that party and it is a private decision.\n\nIn a primary election if candidates tie there will be a primary runoff election scheduled for a few weeks after the primary election date. The runoff election will have the top two candidates with the most votes to ensure that one of them receives the majority of the voters.\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Provisional Voting",
+            "kind": "section_without_questions",
+            "content": "A provisional ballot is only used if a person trying to vote at the polling place is not on the checklist and cannot affirm they registered to vote by the deadline.\n\nProvisional ballots are counted 2 days after the election.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Provisions for Voters with Disabilities",
+            "kind": "section_without_questions",
+            "content": "Voters with disabilities are able to vote, at their polling locations, using accessible voting technology. Voters will access a tablet-based system that marks your selection onto the same paper ballot used by all voters at the polls. This system also contains an online-based ballot marking system that allows voters with disabilities to vote privately and independently from home during the early voting period.\n\nIf you need help with voting, you can:\n\n- Contact your Town Clerk to ask for accomodations\n- Bring a person of your choice with you into the voting booth (not your employer or union representative)\n- Ask an election official for help with marking your ballot\n- Ask an election official to bring a ballot to your car\n- Bring a magnifying glass or other devices to help you use the ballot\n- Bring a list of candidates into the voting book with you\n- Ask for another ballot (maximum of 3) if you make a mistake\n- Use the Omniballot tablet accessible voting system at the polls.\n\nFor more information contact your Secretary of State. (https://sos.vermont.gov/elections/voters/accessible-voting/)",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Time Off To Vote",
+            "kind": "section_without_questions",
+            "content": "Time off to vote is subject to the employer, there is no requirement for employers to grant time off to vote for employees.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (https://vote.vermont.gov/public/dashboard)",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Voter Registration Deadlines",
+            "kind": "section_without_questions",
+            "content": "The voter registration deadline for the Tuesday, November 3, 2026 General Election is November 3, 2026.\n\nOnline registration deadline: Election Day\n\nRegister by mail deadline: Received by Election Day\n\nIn-person registration deadline: Election Day\n\nNot registered? Use our registration tool (https://www.vote411.org/register#.UFdk4FHh-So) to fill out your application!",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "topic": "Voting Machines",
+            "kind": "section_without_questions",
+            "content": "The voting systems used in Vermont are optical scan, paper ballots and the Omniballot tablet system.\n\nOptical Scan: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The names of the various candidates and ballot measures are printed on the card. With a special pen or pencil located at the table or booth, you fill in the box or circle or the space between two arrows. When you are finished filling out the card, you may bring the card over to a ballot box, where poll workers will show you how to put the card in the box. Or in some places, you may feed the completed card or paper into a computer where the scanner ensures that your card was properly completed so that your vote will be counted.\n\nPaper Ballots: Paper ballots are one of the oldest ways of voting in America. They are still used in a few places on Election Day. When you come to the polling place, you will get a paper ballot from the poll worker. You take it to the voting booth and use a pen or pencil to mark a box next to your candidate and issue choices. You then drop the marked ballot into a sealed ballot box.\n\nOmniballot Tablet Accessible Voting System: In-person. Voters with disabilities may vote independently at their polling locations using accessible voting technology. Voters will access the tablet-based system that marks your selection onto the same paper ballot used by all voters at the polls.\n\nOnline: This system also contains an online-based ballot marking system that allows voters with disabilities to vote privately and independently from home through the VT Portal on the voter’s personal computer during the early voting period.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        }
+    ]
+}

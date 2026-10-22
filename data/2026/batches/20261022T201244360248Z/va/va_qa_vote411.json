@@ -1,0 +1,392 @@
+{
+    "state": "va",
+    "num_questions": 64,
+    "num_answers": 64,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "Any registered voter in Virginia.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "You can request an absentee ballot in a few different ways, including:\n\n- Applying online (https://vote.elections.virginia.gov/VoterInformation)\n- Calling your local registrar’s office to have an absentee ballot application sent to you, or\n- Printing and completing the “Vote by Mail” application form (https://www.elections.virginia.gov/media/formswarehouse/absentee-voting/applications/REVISED-SBE-701-703rev7.022..pdf) and submitting it to your local registrar’s office by mail, fax, or scanned attachment to an email.\n\nContact information for your local registrar's office is available using our online lookup tool (https://absentee.vote411.org/vote/eoddomestic.htm).\n\nYou can request your absentee ballot at any time during the year; the form permits a permanent request ensuring that you continue receiving an absentee ballot without additional requests.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "The last day to request an absentee ballot (https://absentee.vote411.org/vote/VoterInformation.htm) is by 5pm 11 days before an election.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "a": "Your marked absentee ballot must be postmarked by Election Day and be received by your local registrar by noon on the third day after the election in order to be counted. It can also be returned in person to your local registrar’s office or a ballot drop box by 7pm on Election Day. Absentee ballot envelopes submitted by mail or drop box no longer require a witness signature. Instead, voters must include their birthdate and the last four digits of their social security number.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Ballots can be mailed out to applicants starting 45 days before Election Day.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT IN PERSON?",
+            "a": "You can hand-deliver their marked absentee ballot to your local registrar’s office, to a secure ballot drop box, or at any polling place in your city or county by 7pm on Election Day.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT AND/OR ABSENTEE APPLICATION?",
+            "a": "You can sign up to track your absentee ballot (https://www.elections.virginia.gov/citizen-portal/) on Virginia’s Department of Elections website. Absentee ballots must be processed but results cannot be announced before the polls close on Election Day.\n\nIf you have any issues with your state’s online tracker, please contact your local elections official (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "To vote a regular ballot in person, you need to bring your absentee ballot to your polling place to be voided.\n\nIf you do not bring your absentee ballot to the polls, you can still vote a regular ballot during Early Voting by signing a Gold Form, but if it’s Election Day, you will have to vote a provisional ballot. If the pollbook indicates that you were not only issued an absentee ballot but also that the ballot was returned, the voter can only vote a provisional ballot that will be reviewed by the local Electoral Board to ensure that you only vote once.\n\nDo not mail a ballot and vote in person. For specifics, you can find your local county registrar contact info here. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "HOW CAN I APPLY FOR AN EMERGENCY ABSENTEE BALLOT?",
+            "a": "You can apply for an emergency absentee ballot if you at:\n\n- Hospitalized or have an illness\n- Dealing with a hospitalization, illness or death of a spouse, child or parent\n- Have another emergency found to justify an emergency absentee ballot\n\nIf you meet these requirements, you can have a designated representative request an absentee ballot (https://www.elections.virginia.gov/casting-a-ballot/absentee-voting/) through the day before the election. You must complete the application and deliver it to the local registrar's office by 2 pm the day before the election. Voted ballots must be returned before the polls close on Election Day.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "ARE THERE ADDITIONAL REQUIREMENTS FOR FIRST-TIME ABSENTEE BALLOT VOTERS?",
+            "a": "For federal elections only, first-time voters in their county or city who registered by mail are qualified to vote by absentee ballot if a copy of a qualified ID is included with the completed ballot. These voters will be sent a notice with their absentee ballot explaining the requirements.\n\nVoters who receive the notice will need to include a copy of one of these types of IDs with their voted ballot:\n\n- A current and valid photo ID (for example a driver’s license);\n- A current utility bill, bank statement, government check or paycheck that shows name and address; or\n- Another government document that shows name and address (for example a voter card).\n\nIf the voter returns an absentee ballot by mail without a copy of one of these forms of ID, the absentee ballot will be treated as a provisional ballot and counted only if the voter provides a copy of their ID to the electoral board by the Friday at noon following Election Day.\n\nNon-federal elections do not require a copy of an ID.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Does Virginia allow ballot curing?",
+            "a": "Yes, Virginia allows you to cure your absentee/mail ballot",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "What if I have an issue with my absentee or mail-in ballot?",
+            "a": "If your ballot is found incomplete or incorrect, the registrar should notify you of the error within three days by mail or email with information on how to correct the issue.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "What is the deadline to cure my ballot?",
+            "a": "The deadline to cure your absentee/mail ballot is by noon on the 3rd day after the election. You can track your absentee/mail ballot using your state’s online tool (https://ballot.elections.virginia.gov/login/Voter/Account/Login2?returnUrl=%2Flogin%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcore.voter.frontend%26scope%3Dopenid%2520profile%2520offline_access%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fballot.elections.virginia.gov%252Fvoter%252Fapi%252Fauth%252Fcallback%26acr_values%3Dusertype%253AVoter%2520voterLoginMode%253Alight%2520shortName%253Avirginia%26code_challenge%3Dz8CUBt7N0VDYZF4uuPqB6he9J0cu8YlMJ0GmJW0hk1w%26code_challenge_method%3DS256).",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "How do I cure my provisional ballot?",
+            "a": "If you voted a provisional ballot, you will need to submit a copy of a valid ID to the registrar by noon on the third day after the election.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "What is a ballot drop box?",
+            "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Are drop boxes available in my state?",
+            "a": "Yes, drop boxes are available in Virginia.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Where can I find ballot drop box locations?",
+            "a": "Voters can hand-deliver their ballot to their local registrar or in a secure drop box. Voters can look up the location of their local registrar’s office here (https://vote.elections.virginia.gov/VoterInformation/PublicContactLookup), including the location of all drop boxes.\n\nDrop boxes will be located at all satellite locations during the Early Voting period and at precinct polling locations on Election Day, plus other locations determined by local registrars.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Can I track my ballot?",
+            "a": "Yes! You can track the status of your ballot on the Virginia Department of Elections website (https://www.elections.virginia.gov/citizen-portal/).",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "WHEN IS EARLY IN-PERSON VOTING?",
+            "a": "You can vote early in-person at your local registrar’s office beginning 45 days before Election Day and ending the Saturday before Election Day. Before visiting your local registrar’s office, we recommend checking your registration status (https://vote.elections.virginia.gov/VoterInformation) or calling your registrar’s office to confirm. You can find your registrar’s phone number here (https://vote.elections.virginia.gov/VoterInformation/PublicContactLookup).",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "WHAT IS THE EARLY IN-PERSON VOTING PROCESS?",
+            "a": "At the registrar’s office or satellite voting location, you must provide your name and address and show an acceptable form of identification (ID) or sign an ID Confirmation Statement.\n\nIf you do not provide an acceptable ID or sign an ID Confirmation Statement, you will be offered a provisional ballot. You are allowed until the Friday at noon following Election Day to provide a copy of acceptable identification to the electoral board or sign an ID Confirmation Statement.\n\nAccessible equipment or curbside voting is available for early in-person voting upon request.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "HOW DO I VOTE AN ABSENTEE BALLOT?",
+            "a": "All registered Virginia voters are eligible for absentee voting either in-person or by mail 45 days before the election. You can request mail ballots be sent to you permanently. Absentee ballot envelopes submitted by mail or drop box no longer require a witness signature. Instead, voters must include their birthdate and the last four digits of their social security number. For more information about absentee voting, please review the Absentee Voting Process for Virginia. (https://www.vote411.org/virginia#absentee-ballot-process)",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Who is eligible to vote in Virginia?",
+            "a": "To be eligible to register and vote in Virginia, you must:\n\n- Be a U.S. citizen\n- Be a resident of Virginia\n- Be at least 18 years old by Election Day\n- Not claim the right to vote in another state\n- Not be legally declared “mentally incompetent” to understand the act of voting by a court\n- Not have been convicted of the felony of murder, voluntary manslaughter, or involuntary manslaughter, unless your voting rights have been restored.\n\nEligible 17-year-olds who will turn 18 by the next general election may register and vote in intervening primary and special elections. Eligible 16-year-olds may pre-register to vote.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Can I vote in Virginia if I have a felony conviction?",
+            "a": "In Virginia, people convicted of a felony of murder, voluntary manslaughter, or involuntary manslaughter lose their right to vote until their voting rights are restored by the Governor. Other felony convictions no longer disqualify a person otherwise qualified to vote, but anyone with a felony conviction must answer “yes” to the voting registration form question about having a felony conviction. Unless the governor has restored that person’s voting rights, they need to answer “no” to the question regarding whether their right to vote has been restored. These answers will not prohibit a person from otherwise registering to vote. However, currently, if a person is incarcerated for any felony conviction, their registration will not be processed while they are in prison.\n\nMost people become eligible for restoration after they are released from incarceration. If your rights have been restored, you must register to vote before participating in an election. People held in pretrial detention and those convicted of misdemeanors retain their voting rights, as do those convicted of any felony, other than murder, voluntary manslaughter or involuntary manslaughter.\n\nIf you are unsure whether your rights have been restored, you can check with the Virginia Secretary of the Commonwealth (https://www.restore.virginia.gov/).",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "How do I vote in Virginia if I don’t have a permanent address?",
+            "a": "You must provide a street address or a description of where you live as a residence address. You may provide a mailing address in Box 4 if your residence address is not serviced by the U.S. Postal Service; you are experiencing homelessness; you are an overseas citizen; or you are a uniformed service member, or a qualifying spouse or dependent. The mailing address on the registration form can be a P.O. box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for you.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Can students vote in Virginia?",
+            "a": "Yes. Students may register and vote in Virginia if they meet the state's voter eligibility requirements. Students can register using either their school address or their home address, but they may only be registered and vote in one location.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Do I need an ID to register to vote in Virginia?",
+            "a": "To register to vote online using Virginia’s Citizen Portal, you must have a valid Virginia driver's license or state ID card and a social security number.\n\nRegister online here (https://vote.elections.virginia.gov/Registration/DmvLookup).",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "What types of ID are accepted for registration?",
+            "a": "See above.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "What if I don’t have an ID?",
+            "a": "If you do not have a Virginia driver’s license or state ID card, you can download a PDF voter registration application (https://www.elections.virginia.gov/media/formswarehouse/veris-voter-registration/applications/VA-NVRA-1-Voter-Registration-Application-rev-4_1-(1).pdf), follow the instructions, or visit your local registrar (https://vote.elections.virginia.gov/VoterInformation/PublicContactLookup) and apply in person.\n\nYou can find more information on the Virginia Department of Elections’ How to Register resource (https://www.elections.virginia.gov/registration/how-to-register/).\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "When are official election results available in Virginia?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "Official election results will be uploaded on Virginia Department of Elections’ Election Results webpage (https://www.elections.virginia.gov/resultsreports/) as they become available.\n\n  Official Results  (https://www.elections.virginia.gov/resultsreports/)",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "What does a poll worker do in Virginia?",
+            "a": "Officers of Election, also known as poll workers, help elections run smoothly during early voting and on Election Day. Depending on the needs of the locality, they may serve in a variety of roles, including:\n\n- Greeter\n- Pollbook Officer\n- Ballot Officer\n- Voting Equipment and Booth Officer\n- Chief Officer\n- Assistant Chief Officer\n- Electoral Board Representative\n\nResponsibilities vary by role and polling location. Contact your local election office (https://absentee.vote411.org/vote/eoddomestic.htm) to learn more about serving as an Officer of Election.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "What qualifications do I need to be a poll worker in Virginia?",
+            "a": "To serve as an officer of election in Virginia, you must:\n\n- Be a registered voter in Virginia\n- Complete required training before serving\n- Not hold elected office or be the employee of an elected official\n\nVirginia also allows eligible 16- and 17-year-old students to serve through the Student Election Officer Program.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Are poll workers paid in Virginia?",
+            "a": "Yes. Payment amounts vary by county and may depend on the position. Contact your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "How do I apply to be a poll worker in Virginia?",
+            "a": "You can apply by filling out an interest form online (https://apps.elections.virginia.gov/OnlineForms/OfficerofElection) or by contacting your county elections office. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Does Virginia offer provisional voting?",
+            "a": "Yes, Virginia offers provisional voting if you meet specific conditions.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "How do I vote a provisional ballot?",
+            "a": "There are several reasons a voter may vote a provisional ballot:\n\n- The voter registered on Election Day or during Early Voting in-person.\n- The voter’s name is not in the pollbook.\n- The pollbook indicates the person has already voted.\n- The General Registrar cannot confirm the voter is registered to vote.\n- The voter says they are registered to vote in this precinct and eligible in this election.\n- The pollbook indicates the person requested an absentee ballot, the ballot has not been returned, and the voter doesn’t have the original absentee ballot with them.\n- The voter is voting in a split precinct and believes they have been registered in the incorrect district.\n- Polling hours are extended by court order. Note: ballots cast after 7:00 pm are closed are kept separate from all other ballots.\n- If a voter is challenged by another voter and will not sign the affirmation statement but insists on voting\n\nThe election official will tell you when and where the Electoral Board will meet and will give you a phone number to call and find out the status of your provisional ballot.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Can I vote a provisional ballot if I don’t bring my ID to vote?",
+            "a": "Voters who do not bring a form of ID to the polls, and do not sign an ID Confirmation Statement will be given the opportunity to vote a provisional ballot.\n\nOnce you complete the provisional ballot, you will be given written instructions from the election official on how to submit a copy of your ID so that your vote can be counted. All information on how to submit the proper ID will be given at this time.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "What is the deadline to cure my ballot?",
+            "a": "You have until noon on the Friday following the election to deliver a copy of your ID, or sign and submit an ID Confirmation Statement, to the local election board in order for your provisional ballot to be counted.\n\nYou can submit your ID, or a signed ID Confirmation Statement, through fax, email, in person, or through the USPS or a commercial delivery service. The copy of the ID, or signed ID Confirmation Statement, must be delivered by noon on Friday. A Friday postmark does not count.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "When are provisional ballots counted?",
+            "a": "The local electoral board reviews each provisional ballot during its canvass (official tally) of votes cast to determine if the vote will be counted. The first meeting of the electoral board to review provisional ballots is the day after Election Day and the process must be concluded within seven days.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "CAN I VOTE CURBSIDE IN VIRGINIA?",
+            "a": "Curbside voting is available for people ages 65 and older or any person with a disability or injury.\n\nAn area for curbside voting outside of the polling place will be clearly marked and with instructions prominently displayed on how the voter is to notify an officer of election of their request to vote outside of the polling place. The necessary materials will then be brought to the voters in their vehicle. The voter will be afforded every opportunity to vote in a private and independent fashion.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "WHAT IF I NEED A HELPER TO VOTE?",
+            "a": "You have the right to have an election officer or other person help you vote if you are physically disabled, unable to read, or unable to write. Blind voters may also have any person assist them. You may have anyone who is not your employer or union representative assist you with voting.\n\nThe officer of election or other person so designated who helps you prepare your ballot shall do so in accordance with your instructions, without soliciting your vote or in any manner attempting to influence your vote, and shall not in any manner divulge or indicate, by signs or otherwise, how you voted on any office or question.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "WHAT IF I HAVE A VISUAL IMPAIRMENT OR PRINT DISABILITY?",
+            "a": "Voters with a visual impairment or print disability may electronically receive and mark an absentee ballot using a screen-assisted ballot making tool provided by the Department of Elections. These voters are still required to return physical copies of their ballots.\n\nGeneral registrars are required to provide the voter with appropriate envelopes for the return of the ballot. One envelope will have to have a tactile marking that allows the voter to identify which envelope is the outer envelope when returning their ballot.\n\nFor individuals with vision impairments the state board of elections works to provide large print copies of all voting related material. Your local registrar's office should have large print versions of all materials in circulation at this time.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "ARE POLLING PLACES ACCESSIBLE FOR VOTERS WITH DISABILITIES?",
+            "a": "In accordance with the Help America Vote Act, Virginia is in the process of making all its polling places fully accessible to elderly voters and voters with disabilities.\n\nEvery polling location in Virginia must be equipped with at least one accessible voting system that will allow all voters with a disability to vote in the same private and independent manner as a voter without a disability.\n\nIf you require voting assistance due to a physical disability or inability to read or write, you can receive it upon request. Any of the election officers can advise you of your rights in this area. If you have cognitive disabilities, due to any reason, you can be eligible to vote if you are not currently ruled to be mentally incompetent by a court of law.\n\nIf you find that your polling place is not accessible for any reason, please fill out the voter accessibility feedback form. The state board of elections is dedicated to providing the best voting experience possible and will keep any remarks confidential.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "WHAT OTHER RESOURCES ARE THERE FOR VOTERS WITH DISABILITIES?",
+            "a": "For more information, you can visit Virginia Department of Elections’ Accessible Voting resource or the American Association of People With Disabilities (AAPD). (https://www.elections.virginia.gov/casting-a-ballot/accessible-voting/)",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "How does it work?",
+            "a": "With ranked choice voting (RCV), you get to vote for candidates on your ballot in order of your preference - first choice, second choice, third choice, and so on.\n\nBallots are counted in rounds in which candidates receiving the fewest votes are eliminated. Then, their supporters’ ballots are counted toward the next choice indicated on their ballot.\n\nThe first round of counting will begin on election night. Additional rounds will occur after all ballots have been received and may take up to 7 days to determine a winner.\n\nTo learn more, visit your Virginia's RCV resource page (https://www.elections.virginia.gov/casting-a-ballot/ranked-choice-voting/).",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "WHAT DO I NEED TO REGISTER TO VOTE?",
+            "a": "If you’re a college student wishing to register to vote in Virginia, you may do so like any other applicant by submitting a voter registration application. Remember, you must update your voter registration information whenever you change your residence.\n\n- Be a resident of Virginia (a person who has come to Virginia for temporary purposes and intends to return to another state is not considered a resident for voting purposes).\n- Be a U. S. Citizen.\n- Be 18 years old (any person who is 17 years old and will be eighteen years of age at the next general election shall be permitted to register in advance and also vote in any intervening primary or special election).\n- Not be registered and plan to vote in another state.\n- Not currently declared mentally incompetent by a court of law.\n- If convicted of a felony, your right to vote must have been restored. Use our online tool  (https://www.vote411.org/register)to register to vote today!",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Does Virginia require employers to give time off to vote?",
+            "a": "No. Virginia law does not require employers to provide time off for employees to vote. If you work on Election Day, consider voting early in person or absentee by mail to ensure you have time to cast your ballot. Employees who serve as election officers are entitled to time off to perform their election duties.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Do I need ID to vote in Virginia?",
+            "a": "Yes. If you vote in person, you will be asked to show an acceptable form of identification. If you vote absentee by mail, you must provide the last four digits of your Social Security number when applying for your absentee ballot.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "What types of ID can I use to vote in-person in Virginia?",
+            "a": "Acceptable forms of ID include:\n\n- Voter confirmation documents\n- Virginia driver’s license\n- Virginia DMV-issued photo ID\n- US Passport\n- US Military ID\n- Employer-issued photo ID\n- Student ID issued by any community college or university in the US\n- Other US or Virginia government-issued photo ID\n- Tribal enrollment or other tribal photo ID\n- Virginia Voter Photo ID card\n- A copy of a current utility bill, bank statement, government check, paycheck, or other government document containing the name and address of the voter\n- Nursing home resident ID\n- Signed ID Confirmation Statement\n\nNote: Virginia law permits an expired DMV license to be used for voting purposes",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "What types of ID can I use to vote absentee in Virginia?",
+            "a": "To apply for an absentee ballot by mail, you must provide the last four digits of your Social Security number on your application.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "What if I don’t have an acceptable ID?",
+            "a": "If you do not have an acceptable ID when voting in person, you can sign an ID Confirmation Statement and vote a regular ballot. If you choose not to sign the statement, you may vote a provisional ballot and will receive instructions on how to have your ballot counted.\n\nFor a more detailed list of acceptable IDs, click here (https://www.elections.virginia.gov/media/formswarehouse/voter-id/outreach-materials/documents/Voter-Identification-Chart---Revised-07.2025.pdf).",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Can I use my student ID to vote in Virginia?",
+            "a": "Yes. If you vote in person, Virginia accepts valid student IDs issued by U.S. colleges and universities. Some electronic student IDs are also accepted if they are officially issued by the school.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "What is the deadline to register to vote in Virginia?",
+            "a": "- Online registration deadline: 11 days before Election Day\n- Register by mail deadline: Postmarked 11 days before Election Day\n- In-person registration deadline: Election Day\n\nIf the Governor calls a special election, the voter registration deadline is 7 days, instead of 11.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "How can I register to vote in Virginia?",
+            "a": "- Register online (https://vote.elections.virginia.gov/Registration/DmvLookup)\n- By mail (https://www.elections.virginia.gov/media/formswarehouse/veris-voter-registration/applications/VA-NVRA-1-Voter-Registration-Application-rev-6-2025.pdf)\n- In person at your local voter registration office. (https://vote.elections.virginia.gov/VoterInformation/PublicContactLookup)",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "How can I check my voter registration status?",
+            "a": "You can verify your voter registration status using Virginia’s voter information tool. (https://vote.elections.virginia.gov/VoterInformation)",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Does Virginia have online voter registration?",
+            "a": "Yes! Use our online registration tool (https://www.vote411.org/register) to complete your application",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Is same-day voter registration available in Virginia?",
+            "a": "Yes, Virginia has same-day voter registration.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "How does same-day voter registration work?",
+            "a": "You can register and vote a provisional ballot at your polling location on Election Day and during early in-person voting after the registration deadline.\n\nYour voted provisional ballot will be counted as a regular ballot after your local registrar is able to confirm your eligibility to register.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Can I pre-register to vote?",
+            "a": "Yes, you can pre-register to vote at age 16.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Who is eligible to register in Virginia?",
+            "a": "Check if you’re eligible to register here (https://www.vote411.org/virginia#eligibility-requirements).",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "What types of voting machines does Virginia use?",
+            "a": "The voting system used in Virginia is Optical Scan.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "What is optical scan voting?",
+            "a": "With optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\n\n- With a pen or pencil, you fill in a little box, circle, or space between two arrows.\n- When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\n- Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "state": "me",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/maine",
+            "final_url": "https://www.vote411.org/maine",
+            "collected_at": "2026-10-22T19:13:21+00:00",
+            "sha256": "1342bdef9f489cc89a5cfcc74b9931c2483b6943ae6186c0109c88ce0993284e",
+            "snapshot": "data/2026/batches/20261022T201244360248Z/me/vote411-me.html"
+        }
+    ],
+    "counts": {
+        "vote411": 67,
+        "supporting_sections": 12
+    },
+    "extraction_version": 4,
+    "reprocessed_from": "data/2026/batches/20261022T191516674464Z/me",
+    "review_flags": [],
+    "faq_file": "me_qa_vote411.json",
+    "supporting_content_file": "me_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

@@ -1,0 +1,20 @@
+{
+    "state": "ms",
+    "num_questions": 2,
+    "num_answers": 2,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "Who can vote absentee in-person?",
+            "a": "- A student, teacher, or administrator at school who needs to be away from their home county for their studies or job on Election Day.\n- A voter who is away from their home county on Election Day for any reason can vote absentee.\n- Any person who has a temporary or permanent physical disability\n- The parent, spouse, or dependent of a person with a temporary or permanent physical disability who is hospitalized outside of their home county or more than 50 miles away, and will be with that person on Election Day\n- Any person who is 65 years old or older\n- A member of the Mississippi congressional delegation who is absent from Mississippi on Election Day\n- A voter who has to work on Election Day when the polls are open",
+            "s": "https://www.vote411.org/mississippi",
+            "t": "2026-10-22T19:13:28+00:00"
+        },
+        {
+            "q": "Who can vote absentee by mail?",
+            "a": "- Any person temporarily living outside of their home county who needs their ballot mailed to an address outside the county\n- Any person with a temporary or permanent physical disability who can't vote in person without significant difficulty or whose presence at the voting place could be dangerous to themselves or others\n- The parent, spouse, or dependent of a person with a temporary or permanent physical disability who is hospitalized outside their home county or more than 50 miles away, and will be with that person on Election Day\n- Any person who is 65 years old or older\n\nBeginning July 1, 2024, new qualifying criteria for requesting an absentee ballot by mail will be established. Voters will be eligible to vote-by-mail if they are:\n\n- Incarcerated in a prison or jail in the county where they are registered to vote and have not been convicted of a disenfranchising offense\n- Required to be on-call during voting hours on Election Day\n\nReturning your Voted Ballot:\n\nAll mail ballots have to be sent back by mail. You can't drop off a completed mail ballot by hand, use drop boxes, or any other way to return the mail ballot. Voted ballots must be postmarked by Election Day and received up to 5 days after the election to be counted. Track the status of your absentee or affidavit ballot using your state's online tool. (https://myelectionday.sos.state.ms.us/VoterOutreach/Pages/VoterRegistrationCheck.aspx)\n\nPlease check with your voter registrar (https://www.overseasvotefoundation.org/vote/election-official-directory) to determine if you are entitled to vote absentee and to learn the procedures for doing so. You can fill out an absentee ballot request form here (https://absentee.vote411.org/vote/VoterInformation.htm). (https://www.usvotefoundation.org/vote/RavaLogin.htm?redirect=/w/domestic_absentee/1.htm)\n\nMississippians who need assistance with voting\n\nIf you need assistance due to a disability, blindness, or inability to read or write, you may select a person of your choice to assist you with delivering or returning your absentee mail-in ballot.\n\nThose who requested an absentee ballot but end up voting in person:\n\nYou may only do so by a provisional ballot. Do not mail a ballot and vote in person. For specifics, you can find your local county clerk contact info here (https://absentee.vote411.org/vote/eoddomestic.htm).\n\nUS military personnel and overseas citizens can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation (https://www.overseasvotefoundation.org/vote/home.htm).\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/mississippi",
+            "t": "2026-10-22T19:13:28+00:00"
+        }
+    ]
+}

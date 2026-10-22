@@ -1,0 +1,153 @@
+{
+    "state": "ne",
+    "num_sections": 21,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "section_without_questions",
+            "content": "Early mail-in voting (formerly known as absentee voting) is available, and no excuse is required. The last day to request an absentee ballot (https://absentee.vote411.org/vote/VoterInformation.htm) is the second Friday before the election (unless that date is a state holiday, in which case the deadline is the following Monday). You can return your absentee ballot request form through the mail or in person. Voted ballots must be received by Election Day in order to be counted. You can sign up to track your absentee ballot (https://www.votercheck.necvr.ne.gov/voterview) on your Secretary of State website. Absentee ballots begin being counted on Election Day. Contact your local elections office for more information.\n\nRequesting and Returning an Early-Vote (absentee) Ballot\n\nYou can apply for an early voting (formerly known as absentee) ballot by contacting your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm) in person, by personal agent, by mail or by fax. You can print the early voting application request form (https://absentee.vote411.org/vote/VoterInformation.htm) from your state's website. To apply for early voting, you should complete the form and then mail or fax it to your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm).\n\nYou may also send in a hand-written request. You can obtain an early voting ballot by writing to your county clerk or election commissioner with the following information:\n\n- Your name and residence address\n- Your political party affiliation\n- Your voting precinct (if known)\n- Your phone number\n- The mailing address you want the ballots sent to\n- Your signature\n\nNOTE: Beginning April 2024, voters will be required to provide their Nebraska drivers’ license or state ID number when requesting and returning a ballot by mail. Alternatively, voters could include a photocopy of their qualifying ID.\n\nAll county election offices will accept early voting applications up to 120 days prior to a statewide election. However, regular early voting ballots are not sent out or voted until 35 days before the election. The last day to request an early voting ballot to be mailed is the second Friday before the election. All early voting ballots whether personally delivered, delivered by agent or delivered by mail or other carriers must arrive by the closing of the polls on Election Day: 8:00 pm central time and 7:00 pm mountain time.\n\nThose who requested an absentee ballot but end up voting in person:\n\nYou may only do so by a provisional ballot. Do not mail a ballot and vote in person. For specifics, you can find your local county clerk contact info here. (https://absentee.vote411.org/vote/eoddomestic.htm)\n\nOverseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation (https://www.overseasvotefoundation.org/vote/home.htm).\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "section_without_questions",
+            "content": "Nebraska does not have a statewide absentee/mail ballot curing process. We recommend that you track the status of your ballot using your state’s online tool (https://www.votercheck.necvr.ne.gov/voterview/) to make sure it has been received and accepted.\n\nIf you voted a provisional ballot due to not having an acceptable ID at the polls, you have until the Tuesday following the election to present your acceptable form of ID to your county election office. You can check the status of your provisional ballot using your state’s online tool (https://www.votercheck.necvr.ne.gov/voterview/).",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).\n\nFor information on state campaign contributions, please visit your state's resource (https://nadc.nebraska.gov/).",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Information on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp).",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Drop Boxes",
+            "kind": "section_without_questions",
+            "content": "You can hand-deliver your ballot to your county election office or a designated drop box. You can look up the address of your county election office here (https://absentee.vote411.org/vote/eoddomestic.htm). To find drop box locations, you can check your county election commission site",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "section_without_questions",
+            "content": "Early voting for the November 3, 2026 General Election begins on October 5th and ends on November 2nd.\n\nIn-Person Early Voting Starts: 30 days before Election Day\n\nBy Mail Early Voting Starts: 35 days before Election Day\n\nEarly Voting Ends: The day before Election Day\n\nEarly voting is available from 30 days before a statewide election and 15 days before a special election.\n\nFor more information on early voting, please see the section on Absentee Ballot Process. (https://www.vote411.org/nebraska#absentee-ballot-process)",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "The next election date can be found here https://www.vote411.org/nebraska.\n\nContact your local Board of Elections (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "Polling locations will be open from 8:00 am to 8:00 pm central time and 7:00 am to 7:00 pm mountain time.",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Eligibility Requirements",
+            "kind": "section_without_questions",
+            "content": "To be eligible to vote in Nebraska, you must be:\n\n- A United States citizen\n- At least 18 years old on Election Day\n- A resident of Nebraska on or before registration deadline\n- Not a convicted felon; or if convicted your civil rights have been restored at least two years since your sentence has been completed, including probation or parole\n- Not have been officially found to be mentally incompetent\n- Registered to vote\n\nNote: If you recently moved to Nebraska, or moved to another state after the registration deadline, you may only vote a Presidential ballot. By law, your residence is that place at which you have established a home, where you are habitually present, and to which, when you depart, you intend to return. Leaving for temporary purposes, such as military service or school attendance, need not result in a change of residence for voting purposes. However, any permanent change in your residence or address will require you to re-register to vote.\n\nIncarcerated Voters & Returning Citizens:\n\nIn Nebraska, if you are convicted of a state or federal felony, you temporarily lose your right to vote. Your voting rights are restored after you complete your sentence, including any parole or probation. You will usually receive a notice from the Department of Corrections, a parole administrator, or a judge confirming that your sentence is complete. At that point, you must submit a new voter registration application to vote. Pretrial detention and misdemeanors do not restrict your voting rights. If you were convicted of treason, you must apply for a restoration of civil rights before registering to vote.\n\nVoters without traditional residence:\n\nIt is not mandatory for citizens to possess a \"permanent home\" for voter registration. A citizen can provide an alternative description of their residence, even if they are experiencing homelessness, as long as it enables the authorities to identify and assign a voting precinct to them. This precinct assignment ensures that the voter receives the appropriate ballot. The mailing address on their registration form can be a PO box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for them.",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Official Election Results",
+            "kind": "section_without_questions",
+            "content": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and it’s essential that they take the time to make sure every vote is counted.\n\nOfficial election results will be uploaded on Nebraska’s Secretary of State website (https://sos.nebraska.gov/elections) as they become available.\n\n  Official Results  (https://sos.nebraska.gov/elections/2024-elections)",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Poll Worker Information",
+            "kind": "section_without_questions",
+            "content": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker toda (https://powerthepolls.org/lwv )y!\n\nIn order to be a poll worker in Nebraska, you must:\n\n- Be registered to vote in Nebraska\n- Be at least 18 years of age\n- Political affiliation generally required\n- Be entitled to compensation\n- Be a resident of the precinct\n- Complete required training\n- Be able to read and write English\n- Students 16 years or older who meet all other voter requirements may be appointed\n\nTo sign up, contact your local board of elections (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "You can find your polling place by utilizing your state resource (https://www.votercheck.necvr.ne.gov/).\n\nIf you have further questions on your polling place location, please contact your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "Nebraska uses a mixed primary election system with both partisan and nonpartisan races.\n\nSome offices, including federal, statewide, and many county offices, are partisan and appear on party primary ballots. Other offices, such as the Nebraska Legislature, school boards, and certain local boards, are nonpartisan and appear on a nonpartisan ballot.\n\nAll voters receive a nonpartisan ballot. Depending on your party registration, you may also receive one partisan ballot. Registered nonpartisan voters may request a partisan ballot for certain parties. Which races appear on that ballot depends on the party’s primary rules (https://sos.nebraska.gov/elections/how-nonpartisan-voting-works-nebraska-primary-elections).\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Provisional Voting",
+            "kind": "section_without_questions",
+            "content": "Provisional voting is available ballots are done being counted by 7 business days after the election.\n\nProvisional ballots are eligible for verification in correct precinct. You can check the status of your provisional ballot by using your state's resource (https://www.votercheck.necvr.ne.gov/).",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Provisions for Voters with Disabilities",
+            "kind": "section_without_questions",
+            "content": "If you cannot read, are blind or have a physical disability, you may request assistance in marking your ballot. You may have a friend or relative assist you, or you may request the assistance of two election board workers, each from a different party.\n\nIf you do not understand the language spoken at the polling place or in which the ballot is written, you may use an interpreter at the polling place.\n\nIf you are physically unable to enter the polling place, you main remain in your vehicle and vote outside.\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Time Off To Vote",
+            "kind": "section_without_questions",
+            "content": "Employers must grant employees from one to two hours paid leave to vote, unless polls are open two consecutive hours before or after the regular working shift. Employees must request this time prior to Election Day, and the employer may specify when during the working day employees may take time off. To view the statute, click here. (https://nebraskalegislature.gov/laws/statutes.php?statute=32-922)",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (https://www.votercheck.necvr.ne.gov)",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Voter ID Requirements",
+            "kind": "section_without_questions",
+            "content": "Nebraska requires voters to show photo ID when voting in person. This requirement applies to all statewide and special elections.\n\nAcceptable photo IDs must show your name and photo. Valid photo IDs include:\n\nNebraska driver’s license or state ID\n\n- U.S. passport\n- Military ID\n- Tribal ID\n- Hospital, assisted-living facility, or nursing home record\n- Nebraska political subdivision ID (state, county, city, school, etc.)\n- Nebraska college or university ID\n\nExpired photo IDs are accepted.\n\nYou can get a free Nebraska state ID for voting from the DMV. If you were born in Nebraska and need a birth certificate to get a free state ID, you can get a free certified copy of your birth certificate from the Nebraska Department of Health and Human Services. Note: A birth certificate is not a valid form of photo ID.\n\nIf your eligibility cannot be confirmed at the polling place, for example, if your name does not appear on the voter list for that location or if you do not present an acceptable photo ID, you may be asked to vote a provisional ballot. If you vote a provisional ballot, you must present an acceptable photo ID to your local election office no later than the Tuesday after Election Day or sign a reasonable impediment certification for your vote to be counted.\n\nReasonable impediments include illness or disability, lack of documents required to obtain a photo ID, or a religious objection to being photographed.",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Voter Registration Deadlines",
+            "kind": "section_without_questions",
+            "content": "Online registration deadline: Third Friday before Election Day\n\nRegister by mail deadline: Must be mailed and postmarked on or before the third Friday before Election Day\n\nDMV registration deadline: Third Friday before Election Day\n\nRegistration by personal messenger or agent deadline: Must arrive on or before the third Friday before Election Day\n\nIn-person registration deadline: By 6 p.m. on the second Friday before Election Day\n\nDeadlines are subject to change due to weekends and holidays.\n\nNot registered? Use our online registration tool (https://www.vote411.org/register) to complete your application!",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        },
+        {
+            "topic": "Voting Machines",
+            "kind": "section_without_questions",
+            "content": "Nebraska uses paper ballots that are tabulated using optical scanners at county election sites. Ballots cast in person at a polling place and ballots returned by mail are secured and then loaded into a tabulation machine for counting. Nebraska conducts post-election audits at every election, which compare a representative sample of paper ballots counted by hand with the machine tabulation results.\n\nExpressVote ballot-marking devices (formerly AutoMark machines) are also available to voters, particularly to meet ADA accessibility requirements. These devices use a screen and/or audio prompts to help voters make their selections and then print those selections onto a paper ballot. That paper ballot is reviewed by the voter and counted using the same optical scanners as all other ballots.\n\nYou can learn more here. (https://sos.nebraska.gov/nebraska-election-security)",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        }
+    ]
+}

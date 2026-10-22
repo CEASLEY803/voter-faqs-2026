@@ -1,0 +1,23 @@
+{
+    "state": "sc",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/south-carolina",
+            "final_url": "https://www.vote411.org/south-carolina",
+            "collected_at": "2026-10-22T19:13:53+00:00",
+            "sha256": "6ef7d64b21c3db3593d5496eac8741b2bf04106d3d76503f1e97fd708c870289",
+            "snapshot": "data/2026/batches/20261022T201244360248Z/sc/vote411-sc.html"
+        }
+    ],
+    "counts": {
+        "vote411": 47,
+        "supporting_sections": 12
+    },
+    "extraction_version": 4,
+    "reprocessed_from": "data/2026/batches/20261022T191516674464Z/sc",
+    "review_flags": [],
+    "faq_file": "sc_qa_vote411.json",
+    "supporting_content_file": "sc_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

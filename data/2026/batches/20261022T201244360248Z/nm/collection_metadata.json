@@ -1,0 +1,23 @@
+{
+    "state": "nm",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/new-mexico",
+            "final_url": "https://www.vote411.org/new-mexico",
+            "collected_at": "2026-10-22T19:13:40+00:00",
+            "sha256": "8601c79862f7c0a1635959b0a7e1a3da9582e37d63082c2855f1ebd5e8544e0c",
+            "snapshot": "data/2026/batches/20261022T201244360248Z/nm/vote411-nm.html"
+        }
+    ],
+    "counts": {
+        "vote411": 63,
+        "supporting_sections": 13
+    },
+    "extraction_version": 4,
+    "reprocessed_from": "data/2026/batches/20261022T191516674464Z/nm",
+    "review_flags": [],
+    "faq_file": "nm_qa_vote411.json",
+    "supporting_content_file": "nm_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

@@ -1,0 +1,332 @@
+{
+    "state": "mi",
+    "num_questions": 54,
+    "num_answers": 54,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "Does Michigan allow ballot curing?",
+            "a": "Yes, Michigan allows voters to fix an issue with their ballot.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "a": "The county clerk will notify you of the ballot issue by phone, email, text message, or mail.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What is the deadline to cure my ballot?",
+            "a": "The deadline to cure (correct) your absentee/ ballot is before 5pm on the 3rd day following the election, by filing out a cure form and returning it in person, by email, or by mail.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Can I track my absentee ballot?",
+            "a": "You can track the status of your absentee/mail ballot using your state’s online tool (https://mvic.sos.state.mi.us/Voter/Index).",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "How do I cure a provisional ballot?",
+            "a": "Voters who cast a provisional ballot due to voter ID must submit their acceptable voter ID in-person at your city or township clerk’s office, by fax, or mail by the 6th calendar day after the election.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What is a ballot drop box?",
+            "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Are drop boxes available in my state?",
+            "a": "Yes, vote-by-mail drop boxes are available in Michigan.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Where can I find ballot drop box locations?",
+            "a": "Every qualified voter in Michigan now has the right to at least one State-funded drop box for every municipality. In larger cities, voters now have the right to at least one drop box for every 15,000 registered voters. Drop boxes are distributed equitably throughout the municipality and are accessible 24 hours a day during the 40 days before an election until 8 pm on Election Day.\n\nBallot drop box locations are now available at Michigan.gov/Vote (https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.michigan.gov%2Fdocuments%2Fsos%2FBallot_Dropbox_Locations_697191_7.pdf%3Futm_source%3DMichiganPolicast&data=05%7C01%7Cmbrown%40lwv.org%7Cf329174bb1e647ed30fb08daa7c0b76f%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C1%7C638006743423964248%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=PxgW4oDBuaYXrCNqWHo%2BV0GY2bwLApUq5G425nfEfGE%3D&reserved=0). Choose “Where are my clerk’s offices?”",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Can I track the ballot after placing in the drop box?",
+            "a": "Yes, you can track your ballot by looking up your on the Secretary of State website (https://mvic.sos.state.mi.us/Voter/Index) and by subscribing to electronic notifications (https://mvic.sos.state.mi.us/Voter/VoterSearch).",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Can I vote before Election Day in Michigan?",
+            "a": "Yes. All registered voters in Michigan can vote before Election Day by voting early in person at an early voting site or by using an absentee ballot.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Do I have to apply to vote early in Michigan?",
+            "a": "No. You do not need to apply to vote early in person. You can go directly to your assigned early voting site during the early voting period.\n\nYou must apply if you want to vote using an absentee ballot (https://www.vote411.org/michigan#absentee-ballot-process), unless you are on the permanent absentee list.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "When can I vote early in Michigan?",
+            "a": "Early in-person voting runs for at least 9 consecutive days, beginning the second Saturday before Election Day and ending the Sunday before Election Day. Some communities may offer additional days.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Where can I vote early in person in Michigan?",
+            "a": "You can find your assigned early voting site up to 60 days before Election Day at Michigan.gov/Vote. (https://mvic.sos.state.mi.us/Voter/Index#early-voting-search-section)",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Who is eligible to vote in Michigan?",
+            "a": "To register to vote in Michigan, you must be:\n\n- A U.S. citizen\n- At least 16 years old to pre-register and at least 17.5 years old to register (you must be 18 years old by Election Day to vote)*\n- A Michigan resident for at least 30 days by Election Day\n- Not currently serving a sentence in jail or prison\n\n*If you are at least 16 years old, you can pre-register to vote and will automatically become an active registered voter when you turn 17.5 years old.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Can I vote in Michigan if I have a felony conviction?",
+            "a": "In Michigan, you cannot vote if you are currently incarcerated for a misdemeanor or felony conviction. Your voting rights are automatically restored when you are released, and you can register to vote right away.\n\nYour voting rights are not affected by pretrial detention, probation, or parole.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "How do I vote if I don’t have a permanent address?",
+            "a": "You can still register and vote in Michigan if you do not have a permanent address. You have the right to vote regardless of housing status. When registering, you can describe or list an address where you usually stay. This can include:\n\n- A shelter address\n- A street corner or park address\n- An address where you receive mail",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Can students vote in Michigan?",
+            "a": "Yes. Students can register and vote in Michigan if they meet all voter eligibility requirements. College and university students can choose to register using either their Michigan home address or their campus address.\n\nYou do not need a Michigan driver’s license or ID to register, but you cannot register online without one. You can still register by mail or in person at your local clerk’s office.\n\nIf you are a student from out of state, you can also choose to vote in your home state using an absentee ballot, but you’ll need to follow your home state’s rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Do I need an ID to register to vote in Michigan?",
+            "a": "It depends on how you register:\n\n- If you register in person, you will be asked to show ID and you must provide one if you have one. If you do not have a photo ID you can sign an affidavit saying that you do not have a photo ID.\n- If you register by mail for the first time in Michigan, you must provide a form of ID.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What types of ID are accepted for registration?",
+            "a": "Accepted forms of ID include:\n\n- A Michigan driver's license or state ID\n- Current Utility Bill\n\nStudents may also register with a school-issued ID card plus a lease agreement or postmarked mail showing their current address.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What if I don’t have an ID?",
+            "a": "If you do not have the above ID when you register you will need to provide it before you vote either in person or by mail.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "When are official election results available in Michigan?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "Official election results will be uploaded on Michigan’s Secretary of State website (https://mvic.sos.state.mi.us/votehistory/Index) as they become available.\n\n  Official Results  (https://mvic.sos.state.mi.us/votehistory/Index?type=C&electionDate=8-6-2024)",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What does a poll worker do in Michigan?",
+            "a": "Poll workers, also called election inspectors, are trained local workers who help run elections. They may:\n\n- Check in voters and verify registration\n- Issue ballots and explain how to vote\n- Help voters use voting equipment\n- Assist with counting and processing ballots, including absentee ballots",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What qualifications do I need to be a poll worker in Michigan?",
+            "a": "To be an election inspector in Michigan, you must:\n\n- Be at least 16 years old\n- Be a Michigan resident (and a registered voter if you are 18 or older)\n- Not have a felony or election-related conviction\n- Not be a candidate, a candidate’s immediate family member, an election challenger, or a member of the local board of canvassers\n- Disclose a political party affiliation (this is required for staffing balance). Party registration is not a requirement. Affiliating as “independent” or “unaffiliated” is not a legal option for an election inspector.\n\nIf hired, you will receive official training from your local or county clerk on how to run elections and assist voters in accordance with Michigan election law.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Are poll workers paid in Michigan?",
+            "a": "Yes. Poll workers are paid for their work. Pay is set by each city, township, or county, so the amount can vary depending on where you work. For more information, please contact your local election officials. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "How do I apply to be a poll worker in Michigan?",
+            "a": "You can apply by filling out the Democracy MVP Election Inspector Interest Form (https://www.michigan.gov/sos/elections/pollworker/election-worker-intro) at Michigan.gov. After you submit the form, your local clerk may contact you about training and next steps if they are hiring.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Does Michigan offer provisional voting?",
+            "a": "Yes, Michigan offers provisional voting.\n\nImportant note about provisional voting:\n\nBefore completing the provisional balloting process because your name does not appear on the registration list, you should consider going in person to your local clerk's office on Election Day to register to vote. After you register, you will be able to vote using a regular ballot that will be counted on Election Day.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "How do I vote a provisional ballot?",
+            "a": "If you’re at the correct polling place but your name does not appear on the registration list, you cannot produce a registration receipt, and you do not re-register on Election Day at your local clerk's office, you may vote a provisional ballot at your polling place.\n\nIn order to get a provisional ballot, you must:\n\n- Complete an Application to Vote form,\n- Complete an affidavit stating that you registered to vote on or before the close of registration for the election, and\n- Respond to questions regarding your identity and residence.\n\nYou may ask election workers for help in filling out these forms.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "When will my provisional ballot be counted?",
+            "a": "If you can provide a photo ID with an address that shows you’re eligible to vote in that polling place, your provisional ballot will be counted on Election Day.\n\nIf not, the ballot will be placed in a provisional ballot security envelope and returned to the clerk’s office. You have six days after Election Day to satisfy the residency and/or identification requirements at their clerk’s office in order for your ballot to be counted.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What voting assistance is available for voters with disabilities?",
+            "a": "The Help America Vote Act requires that election authorities have voting equipment for voters with disabilities to vote privately and independently, and Illinois is no exception.\n\nThere are options for a seated voting booth, voting assistance from a friend, relative, or two election judges (one from each party), voting by mail, and curbside voting.\n\nLanguage assistance is also available where required.\n\nFor more information on the provisions available for disabled voters, please contact your local election authority (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "How do I request accommodation or report accessibility issues?",
+            "a": "If you have any questions about receiving help in voting, please ask the clerk or inspector at the polling place.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Can I vote by mail because of my disability?",
+            "a": "Vote-by-mail (absentee voting) is available in Michigan and no excuse is required. You can find more about how to vote by mail here. (https://www.vote411.org/michigan#absentee-ballot-process)\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in Michigan?",
+            "a": "Here is what you need to know to register in Michigan:\n\nThere are three ways to register to vote in Michigan: online (https://mvic.sos.state.mi.us/), by mailing a completed application (https://www.michigan.gov/sos/elections/voting/voters#voterreg) to your local clerk, or in person at your city or township clerk’s office (https://ntee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in Michigan?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in Michigan?",
+            "a": "The deadline to register to vote in Michigan online or by mail is 15 days before Election Day. Be sure to check the exact date each year. You can also register in person through Election Day at your city or township clerk’s office.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in Michigan?",
+            "a": "Michigan voters are asked to show photo ID at the polls, such as a Michigan driver’s license, U.S. passport, military ID, student ID, or other accepted forms. If you don’t have ID or forget to bring it, you can still vote by signing a simple affidavit, your ballot will still be counted.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "I’m originally from another state—can I still vote in my home state while studying in Michigan?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Michigan?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Does Michigan require employers to give time off to vote?",
+            "a": "There is no state law mandating paid or unpaid time off for voting in Michigan, so voters should plan ahead. You can vote early in person, vote by absentee ballot, or vote before or after your work shift on Election Day. Some employers may choose to offer time off, but it is not required by law.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Do I need an ID to vote in Michigan?",
+            "a": "Yes, Michigan requests a photo ID to vote in person. If you don’t have an accepted ID, there are other ways to confirm your identity.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What types of ID can I use to vote in Michigan?",
+            "a": "Voters can meet the photo ID requirement by showing a Michigan driver’s license or state ID. If you do not have a Michigan driver’s license or state ID, you can use any of the following current (not expired) photo IDs:\n\n- Driver’s license or state ID from another state\n- Federal, state, county, or local government-issued photo ID\n- U.S. passport\n- Military ID with photo\n- Student ID with photo from a high school or accredited college or university\n- Tribal ID with photo\n- Veteran’s ID\n- Concealed pistol license\n- Municipal ID",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What if I don’t have an acceptable ID?",
+            "a": "If you do not have a photo ID, you can still vote by signing an affidavit stating you do not have one. Once signed, you will be able to vote a regular ballot that will be counted.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Does mail/absentee voting require ID?",
+            "a": "Any registered voter in Michigan can request an absentee ballot. You do not need to provide a reason.\n\nIf you apply online, you must provide your Michigan driver’s license or state ID number, or the last four digits of your Social Security number.\n\nIf you apply by mail or in person, you do not need to provide these numbers. Instead, your signature will be checked against your voter registration record.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Are student or digital IDs accepted?",
+            "a": "Student IDs are accepted if they include a photo and are from a high school or accredited institution. Digital or mobile IDs are not listed as acceptable forms of identification in Michigan. If you have any questions, please reach out to your local elections official. (https://absentee.vote411.org/vote/eoddomestic.htm)\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What is the deadline to register to vote in Michigan?",
+            "a": "- Online registration deadline: 15 days before Election Day\n- Register by mail deadline: Postmarked 15 days before Election Day\n- In-person registration deadline: Election Day",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "How can I register to vote in Michigan?",
+            "a": "- Online at michigan.gov/voterregistration, (https://nam10.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.mi.gov%2Fvoterregistration&data=05%7C01%7Cmbrown%40lwv.org%7Cf329174bb1e647ed30fb08daa7c0b76f%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C1%7C638006743424120470%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=xOu63qoZfrlqiw%2B%2FD%2FUDMf8j%2F4udpwhDIAGTiNoOSwI%3D&reserved=0) if you have a valid Michigan driver’s license or state ID;\n- At a Secretary of State branch office;\n- At your city or township clerk’s office or your county clerk’s office;\n- At any state agency that provides public assistance or services to people with disabilities;\n- By mailing in a completed voter registration application postmarked no later than the fifteenth day before the election or,\n- Through a voter registration drive.\n\nBeginning on the 14th day before the election and through 8 pm on Election Day, you have one way to register to vote: visit your city or township clerk’s office. You must show proof of where you live.\n\nDocuments must have your name and current address. You can show a digital copy of any document. Acceptable documents include:\n\n- Michigan driver’s license or State ID card\n- Current utility bill\n- Bank statement\n- Paycheck or government check\n- Other government document",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "How can I check my voter registration status?",
+            "a": "You can verify your voter registration status using Michigan’s voter information tool. (https://mvic.sos.state.mi.us/Voter/Index)",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Does Michigan have online voter registration?",
+            "a": "Yes! Use our online registration tool (https://www.vote411.org/register) to complete your application",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Is same-day voter registration available in Michigan?",
+            "a": "Yes, Michigan has same-day voter registration.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Can I pre-register to vote?",
+            "a": "Yes, you can pre-register to vote if you are 16 or 17 years old.\n\nPre-register online, by mail, or automatically at the Secretary of State’s office when applying for a Driver's License, State ID, Graduated Driver’s License or when updating your address.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Who is eligible to register in Michigan?",
+            "a": "Check if you’re eligible to register here (https://www.vote411.org/michigan#eligibility-requirements).",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What types of voting machines does Michigan use?",
+            "a": "The voting system used in Michigan is Optical Scan.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What is optical scan voting?",
+            "a": "With optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\n\n- With a pen or pencil, you fill in a little box, circle, or space between two arrows.\n- When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\n- Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        }
+    ]
+}

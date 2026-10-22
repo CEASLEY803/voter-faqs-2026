@@ -1,0 +1,170 @@
+{
+    "state": "nj",
+    "num_questions": 27,
+    "num_answers": 27,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "In New Jersey, all registered voters can apply to vote absentee.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "You may apply for a vote by mail ballot by completing an vote by mail ballot application (https://absentee.vote411.org/vote/VoterInformation.htm) and mailing it to your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm). The application must be received by the County Clerk at least 7 days before the election.\n\nYou can also apply in person to the county clerk until 3 pm the day before Election Day.\n\nThe County Clerk cannot accept faxed copies of a vote by mail ballot application unless you are a Military or Overseas voter, since an original signature is required.\n\nTo become a Permanent Mail-in Ballot Voter: simply check the appropriate box on the Absentee Ballot Application (https://www.state.nj.us/state/elections/assets/pdf/forms-vote-by-mail/vote-by-mail-english.pdf) indicating that you wish to receive your ballot by mail in all future elections.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "You may apply for a mail-in ballot by mail up to 7 days prior to the election, or you can apply in person to the County Clerk until 3pm the day before Election Day.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
+            "a": "You must request an absentee ballot for each election unless you check the “ALL FUTURE ELECTIONS” box on the Absentee Ballot Application (https://www.state.nj.us/state/elections/assets/pdf/forms-vote-by-mail/vote-by-mail-english.pdf) indicating that you wish to receive your ballot by mail in all future elections.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "a": "Voted ballots must be postmarked on or before 8pm on Election Day or delivered in person or in a secure ballot drop box by 8pm on Election Day.\n\nA mail-in ballot without a postmark will still be counted if it is delivered by the U.S. Postal Service within 48 hours after polls close and meets all other election rules.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Election officials begin mailing out vote-by-mail ballots starting 45 days before each election.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
+            "a": "Vote your ballot then fill in and sign the certificate attached to the inner envelope. Place the ballot into the certificate envelope, then place the certificate envelope into the mailing envelope.\n\nVoters do not need to provide a copy of their ID in order to cast a vote-by-mail ballot except under certain circumstances for first time voters. These voters will receive a notice with their vote-by-mail ballot.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT?",
+            "a": "You can return your ballot by mail, in person to your County Board of Elections, or in a secure ballot drop box.\n\nThe deadline for delivering your ballot in person or in the secure drop box is by 8pm on Election Day.\n\nIf you return your ballot by mail, it must be postmarked no later than 8pm on Election Day and received by your County Board of Elections by 6 days after Election Day.\n\nNote: A mail-in ballot without a postmark will still be counted if it is delivered by the U.S. Postal Service within 48 hours after polls close and meets all other election rules.\n\nYour Vote-By-Mail ballot CANNOT be returned to your In-Person Early Voting Poll Location or your Election Day Poll Location.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "You can track your ballot (https://www.nj.gov/state/elections/vote-track-my-ballot.shtml) on the Department of State’s website.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "If you requested a Mail-In Ballot but wish to vote at the polls on Election Day you may request an Opt-Out Form from your county clerk. (https://absentee.vote411.org/vote/eoddomestic.htm) If mail-in ballots have already been mailed for the election, you will not be able to vote on a machine at the polls.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "WHO CAN REGISTER TO VOTE IN NEW JERSEY?",
+            "a": "To register to vote in New Jersey, you must:\n\n- Be a US citizen\n- Be at least 17 years old (you must be 18 to vote)\n- Be a resident of your county for at least 30 days before the election\n- Not be serving a sentence of incarceration due to a felony conviction",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "WHO CAN VOTE IN NEW JERSEY?",
+            "a": "You can vote in New Jersey if:\n\n- You are registered to vote by the deadline (21 days before the election)\n- You are a U.S. citizen\n- You will be 18 years old or older by Election Day\n- You have been a resident of your county for at least 30 days\n- You are not currently incarcerated for a felony conviction",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "CAN I VOTE IN NEW JERSEY IF I HAVE A FELONY CONVICTION?",
+            "a": "In New Jersey, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "CAN I REGISTER AND VOTE IN NEW JERSEY IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "a": "Yes. In New Jersey, if you reside at a location that has not been assigned a street address or you are experiencing homelessness, you may complete section 8 of the voter registration form by providing a contact point or the location where you spend most of your time. This can be a description of a street corner, park, shelter, or any other place where you usually stay. The mailing address on your registration form can be a PO box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for you.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN NEW JERSEY?",
+            "a": "Yes, you must provide identification when registering to vote in New Jersey.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN NEW JERSEY?",
+            "a": "Acceptable forms of ID for voter registration include:\n\n- A current and valid NJ Driver’s License\n- A Non-Driver ID card issued by the NJ Motor Vehicle Commission (MVC)\n- The last 4 digits of your Social Security Number\n\nIf registering online (https://voter.svrs.nj.gov/register) and using your Social Security number, you must also upload a signature or sign on-screen to complete the process.\n\nIf you register by Paper Application (https://www.nj.gov/state/elections/voter-registration.shtml#vrf) for the first time and do not include valid ID information, you may need to provide a copy of a valid photo ID or a document with your name and address to avoid showing ID at the polls.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER IN NEW JERSEY?",
+            "a": "If you don’t have an NJ Driver’s License, a Non-Driver ID, or a Social Security number, you can still register by:\n\n- Checking the box on the paper form that says you do not have any of those IDs\n- Later providing a copy of a current photo ID or a document with your name and address (like a utility bill or bank statement) if asked\n\nFailing to provide ID during registration may result in needing to show ID the first time you vote.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in New Jersey?",
+            "a": "Here is what you need to know to register in New Jersey:\n\nThere are three methods of voter registration in New Jersey: register in-person, register online (https://voter.svrs.nj.gov/register), or mail a printable application (https://www.ncsbe.gov/registering/how-register/complete-your-registration-mail%22%20/t%20%22_blank) to your County Commissioner of Registration or Superintendent of Elections (https://nj.gov/state/elections/county-election-officals.shtml).",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in New Jersey?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in New Jersey?",
+            "a": "New Jersey requires voters to register at least 21 days before the election. Be sure to check the exact date each year.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in New Jersey?",
+            "a": "A New Jersey voter is not required to show identification. However, if you are voting for the first time, you may be asked to show a form of identification when you go to the polls. This can include a driver’s license, passport, student ID from a state-supported college, or other accepted forms.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "I’m originally from another state, can I still vote in my home state while studying in New Jersey?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in New Jersey?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "DO I NEED TO SHOW ID WHEN I VOTE IN NEW JERSEY?",
+            "a": "No, most voters in New Jersey do not need to show ID to vote. However, if you are voting for the first time in a federal election and you registered by mail without submitting your ID, you will need to provide your identification the first time you vote.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO VOTE IN NEW JERSEY?",
+            "a": "If ID is required for you as a first-time voter, you can show:\n\n- A current and valid photo ID (e.g., driver’s license, passport, student or military ID)\n- Or a document with your name and current address, such as:\n- A current utility bill\n- Bank statement\n- Paycheck\n- Government check\n- Government document",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN NEW JERSEY?",
+            "a": "If you are required to show ID and do not have one when you go to vote, you will be allowed to vote using a provisional ballot. You then have until the close of business on the second day after the election to present valid identification to your county election office. At the polling place, you will receive a handout with the contact information for the appropriate county office so you can follow up and ensure your vote is counted.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        }
+    ]
+}

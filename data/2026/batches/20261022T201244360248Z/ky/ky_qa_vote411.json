@@ -1,0 +1,308 @@
+{
+    "state": "ky",
+    "num_questions": 50,
+    "num_answers": 50,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "Does Kentucky allow ballot curing?",
+            "a": "Yes, Kentucky allows voters to fix an issue with their ballot.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "a": "If there is a signature mismatch between your signature of record and your ballot, your county election officials will make a reasonable effort to contact you and provide notice to the voter with a timeframe and instructions on how to cure the signature issue.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "What is the deadline to cure my ballot?",
+            "a": "The deadline to cure (correct) your absentee/mail ballot is by the close of polls (6pm) on Election Day.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Can I track my absentee ballot?",
+            "a": "You can track the status of your absentee/mail ballot using your state’s online tool (https://vrsws.sos.ky.gov/VIC/).",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "What is a ballot drop box?",
+            "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Are drop boxes available in my state?",
+            "a": "Yes, drop boxes are available in Kentucky.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Where can I find ballot drop box locations?",
+            "a": "There is at least one drop-box per county. You can find your drop box location here (https://elect.ky.gov/Voters/Pages/Polling-Locations.aspx) or contact your local Elections Official. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Can I track the ballot after placing in the drop box?",
+            "a": "No, you can not track your ballot after placing in the drop box.\n\n  Find Drop Box Location  (https://elect.ky.gov/Voters/Pages/Polling-Locations.aspx)",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Can I vote before Election Day in Kentucky?",
+            "a": "Yes. Kentucky offers early in-person voting before Election Day.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Who can vote early in Kentucky?",
+            "a": "Kentucky offers two types of early in-person voting: regular (no-excuse) early voting and excused in-person absentee voting.\n\nRegular Early Voting (No-Excuse In-Person Absentee)\n\nAll registered Kentucky voters who have not requested a mail-in absentee ballot may vote early in person without providing a reason.\n\nWhen: The Thursday, Friday, and Saturday before Election Day. Polls must be open at least eight hours each day between 6 a.m. and 8 p.m. Exact hours are set by the county board of elections.\n\nWhere: Your county clerk’s office or another location designated by your county board of elections.\n\nExcused In-Person Absentee Voting\n\nSome registered Kentucky voters may vote earlier if they qualify for an approved excuse and cannot vote during the regular early voting period or on Election Day.\n\nWhen: The six business days before the regular early voting period, during normal business hours.\n\nWhere: Your county clerk’s office or another location designated by your county board of elections. Contact your county board of elections for details.\n\nYou may qualify for excused in-person absentee voting if you:\n\n- Will be out of your county on Election Day and during regular early voting\n- Have surgery (or your spouse has surgery) requiring hospitalization during early voting and on Election Day\n- Temporarily live outside Kentucky but remain eligible to vote in the state\n- Are a uniformed-service voter confined to a military base during early voting and on Election Day\n- Are in the last trimester of pregnancy\n- Are unable to appear at the polls due to age, disability, or illness\n- Are scheduled to work all hours the polls are open, including commute time\n- Are an election officer working during the election cycle\n\n  Find Early Voting Times and Locations  (https://elect.ky.gov/Voters/Pages/Polling-Locations.aspx)",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Who is eligible to vote in Kentucky?",
+            "a": "To register to vote in Kentucky, you must:\n\n- Be a U.S. citizen and a Kentucky resident for at least 28 days before the election\n- Be at least 18 years old by the next General Election\n\n  - Kentucky law allows qualified 17-year-olds to participate in a Primary Election if they will be 18 years old by the General Election\n- Not be convicted of a felony (or, if so, have had your civil rights restored)\n- Not judged mentally incompetent in a court of law\n- Not claiming the right to vote anywhere outside Kentucky",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Can I vote in Kentucky if I have a felony conviction?",
+            "a": "In Kentucky, a felony conviction can take away your right to vote unless your rights have been restored. A misdemeanor conviction does not take away your voting rights. However, you cannot vote if you are incarcerated at the time of the election. If you were convicted of a Kentucky state non-violent felony, your voting rights are automatically restored after you complete your full sentence, including incarceration, parole, and probation. If you were convicted of a violent felony, a federal felony, or a felony in another state, your rights are not automatically restored. You may petition the governor to have your rights restored after completing your sentence and meeting state requirements.\n\n You can check your status here. (https://secure.kentucky.gov/Corrections/VoterEligibility/search)\n\n  Find Out if your are Eligible to Vote  (https://civilrightsrestoration.ky.gov/Pages/qualify.aspx)",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Do I need an ID to register to vote in Kentucky?",
+            "a": "If you register to vote online you may use a current Kentucky driver's license to help you complete the application. No ID is required for in person or mailed applications.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "What if I don’t have an ID?",
+            "a": "The state will make you a free ID card. You get it where you can get a driver’s license, and drive.ky.gov (https://drive.ky.gov/Pages/Find-An-Office.aspx) is where you can find the nearest state office for that.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "When are official election results available in Kentucky?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "The earliest official election results for the state of Kentucky will be posted here (https://vrsws.sos.ky.gov/liveresults/). A record of past election results can be found here (https://elect.ky.gov/results/Pages/default.aspx).\n\n  Official Results  (https://vrsws.sos.ky.gov/liveresults/)",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "What does a poll worker do in Kentucky?",
+            "a": "Poll workers in Kentucky, called precinct election officers, help ensure voting is fair, orderly, and accessible on Election Day. Their duties include:\n\n- Attending required training before the election\n- Arriving early to set up the polling place with election materials and equipment\n- Checking in voters and assisting them as needed\n- Following election laws and procedures at the polling place\n- Protecting voter privacy and election security\n- Closing the polls and returning ballots and materials to the county clerk’s office",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "What qualifications do I need to be a poll worker in Kentucky?",
+            "a": "To serve as a precinct election officer in Kentucky, you must:\n\n- Be a registered voter in Kentucky\n- Be 18 by the next General Election\n- Not be a candidate in the election year\n- Not be the spouse, parent, sibling, or child of a candidate on the ballot in your precinct. You may serve in a different precinct\n- Not have changed your party affiliation after the deadline for the upcoming election\n\nTraining is required before each election. Poll workers must attend training sessions provided by the county to learn election procedures, voting equipment use, and legal requirements.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Are poll workers paid in Kentucky?",
+            "a": "Yes. Precinct election officers are paid for their service. State law provides minimum payments for both training and Election Day work. Some counties may offer additional compensation. Contact your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm) for specific pay rates.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "How do I apply to be a poll worker in Kentucky?",
+            "a": "You can apply by completing the Precinct Election Officer application (https://vrsws.sos.ky.gov/ovrweb/pollworker/) on the Kentucky State Board of Elections website. Your information will be sent to your county clerk, who will contact you about serving.\n\nYou may also contact your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm) directly for information about applications, training, and upcoming elections.\n\n  Become a Poll Worker  (https://www.powerthepolls.org/LWV)",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Does Kentucky offer provisional voting?",
+            "a": "Yes, Kentucky offers provisional voting.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "How do I vote a provisional ballot?",
+            "a": "You can vote on federal offices on a provisional ballot if you live in the precinct and you find yourself under one of the approved circumstances. Those circumstances are:\n\n- Your name does not appear on the precinct roster, and the registration status cannot be determined by the precinct officer.\n- Your name does not appear on the precinct roster, and you have been verified as ineligible to vote.\n- You do not have identification.\n- You are voting as a result of a federal or state court order or any order under state law in effect 10 days prior to Election Day which extends polling hours.\n- You have been challenged by all four precinct election officers.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "When are provisional ballots counted?",
+            "a": "Provisional ballots are counted by 12pm the Friday after the election.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "How can I check the status of my provisional ballot?",
+            "a": "To find out if your vote was counted, please go to the Kentucky State Board of Elections’ Provisional Voter Information page. (https://vrsws.sos.ky.gov/provweb/)",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "What voting assistance is available for voters with disabilities?",
+            "a": "The Help America Vote Act requires that election authorities have voting equipment for voters with disabilities to vote privately and independently, and Kentucky is no exception.\n\nFor more information on the provisions available for disabled voters, please contact your local election authority (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "How do I request accommodation or report accessibility issues?",
+            "a": "If you have any questions about receiving help in voting, please ask the clerk or inspector at the polling place.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Can I vote by mail because of my disability?",
+            "a": "If you are unable to go to the polls due to your age, disability, or illness you may vote by absentee ballot.\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.\n\n  Voting Options for Voters with Disabilities  (https://elect.ky.gov/Voters/Pages/Voters-with-Disabilities.aspx)",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in Kentucky?",
+            "a": "Here is what you need to know to register in Kentucky:\n\nYou can register to vote in Kentucky online (https://vrsws.sos.ky.gov/ovrweb/), by mailing a completed voter registration form (https://elect.ky.gov/Resources/Documents/SBE%2001%20-%20KY%20Voter%20Registration%20Application%20FILLABLE%20406.pdf), or in person (https://elect.ky.gov/About-Us/Pages/County-Clerks.aspx) at your county clerk’s office.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in Kentucky?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in Kentucky?",
+            "a": "The deadline to register to vote in Kentucky is 29 days before Election Day, whether you register online, by mail (postmarked), or in person. Be sure to check the exact date each year.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in Kentucky?",
+            "a": "To vote in Kentucky, you must present a photo ID that shows your name and photograph. Some of the accepted IDs include a Kentucky driver’s license, U.S. passport, military ID, college ID, or a government-issued ID from the state or a local Kentucky agency.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "I’m originally from another state—can I still vote in my home state while studying in Kentucky?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Kentucky?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Does Kentucky require employers to give time off to vote?",
+            "a": "Yes. Kentucky law requires employers to allow employees at least four hours of time off to vote on Election Day, if the employee requests it with advance notice. The employer may choose the hours during which the employee may be absent to vote. Employers are not required to provide paid time off unless company policy states otherwise.\n\n  Learn More  (https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=27563)",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Do I need ID to vote in Kentucky?",
+            "a": "Yes. Kentucky requires voters to present a photo ID when voting in person. You must show ID at your polling place or early voting site before casting a ballot.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "What types of ID can I use to vote in Kentucky?",
+            "a": "You have three ways to meet Kentucky’s voter ID requirement:\n\nOption 1: Show a Photo ID\n\nYou can vote by showing a photo ID that includes your name and is issued by one of the following:\n\n- Kentucky State Government\n- U.S. Federal Government\n- U.S. Military, Merchant Marines, or KY National Guard\n- A U.S. college or university (public or private)\n- A city or county government in Kentucky\n\nThe KY Board of Elections offers a short video (https://youtu.be/jxPf-3AujM0) summarizing accepted Voter ID options.\n\nOption 2: Complete a Voter Affirmation Form\n\nIf you do not have an acceptable photo ID, you may complete a voter affirmation form at the polls explaining why you cannot obtain one. You must also present one of the following:\n\n- Social Security card\n- Any other type of photo ID with your name\n- Kentucky food stamp, EBT, or SNAP card with your name\n\nOption 3: Be known by the Election Officer\n\nIf a precinct election officer personally knows you and can confirm your identity and residence, they may complete a verification form. In that case, you do not need to show ID.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "What if I don’t have an acceptable ID?",
+            "a": "Kentucky offers a free state-issued ID card for voting purposes. You can obtain a free ID at a Driver Licensing Regional Office. To find the nearest office and learn more, visit drive.ky.gov (https://drive.ky.gov).\n\nIf you do not have an acceptable photo ID when you go to vote, you can complete a voter affirmation form at the polling place explaining why you are unable to obtain one. You must also provide an approved supporting document that shows your name, such as a Social Security card, another photo ID with your name, or a Kentucky SNAP, EBT, or food stamp card.\n\nIf a precinct election officer personally knows you and can confirm your identity and residence, they may complete a verification form so you can vote without presenting ID.\n\nDo not leave without voting. Poll workers can help you complete the required steps so you can cast your ballot.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Does absentee voting in Kentucky require ID?",
+            "a": "To request an absentee ballot, most eligible voters must use Kentucky’s online absentee ballot portal. You will need to provide your Social Security number to submit your request.\n\nIf you are voting absentee in-person (https://www.vote411.org/kentucky#absentee-ballot-process), you must present a photo ID that includes your name and is issued by one of the following:\n\n- Kentucky State Government\n- U.S. Federal Government\n- U.S. Military, Merchant Marines, or KY National Guard\n- A U.S. college or university (public or private)\n- A city or county government in Kentucky",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Are student or digital IDs accepted to vote in Kentucky?",
+            "a": "Yes. A valid student photo ID issued by a Kentucky college or university is accepted as identification when voting in person.\n\nKentucky law does not specifically address digital IDs for voting. If you plan to use a digital version of your ID at the polls, contact your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm) before Election Day to confirm whether it will be accepted.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline\n\nContact your state Board of Elections or local Elections Official (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.\n\n  Voter ID Requirements  (https://elect.ky.gov/Voters/Pages/Absentee-Excused-In-Person.aspx)",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "What is the deadline to register to vote in Kentucky?",
+            "a": "- Online registration deadline: 29 days before Election Day\n- Register by mail deadline: Postmarked 29 days before Election Day\n- In-person registration deadline: 29 days before Election Day",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "How can I register to vote in Kentucky?",
+            "a": "You have several options to register to vote or update your voter registration.\n\n- Online: Visit GoVote.Ky.gov (https://vrsws.sos.ky.gov/ovrweb/govoteky) to register to vote or update your current registration!\n- Mail: Download, print, and complete (https://elect.ky.gov/Resources/Documents/SBE%2001%20-%20KY%20Voter%20Registration%20Application%20FILLABLE%20406.pdf) a paper form and mail it to the State Board of Elections or your county clerk.\n- In-Person: obtain a voter registration card at your county clerk’s (https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Felect.ky.gov%2FAbout-Us%2FPages%2FCounty-Clerks.aspx&data=05%7C01%7Cigarcia-hernandez%40lwv.org%7C4612eb5aa41c4aef3bf608da52cabe0b%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C0%7C637913328010586540%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zROCQvIHouL5d%2B0%2F9EVuT7H9jzd89rZkmv5ffXEJNU4%3D&reserved=0) office, complete and return it to your county clerk",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "How can I check my voter registration status?",
+            "a": "You can verify your voter registration status using Kentucky’s voter information tool. (https://vrsws.sos.ky.gov/VIC/)",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Does Kentucky have online voter registration?",
+            "a": "Yes! Use our online registration tool (https://www.vote411.org/register) to complete your application",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Is same-day voter registration available in Kentucky?",
+            "a": "No, Kentucky does not have same-day voter registration.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Can I pre-register to vote?",
+            "a": "Yes, you can pre-register to vote if you’re at least 17 years of age.\n\nTo vote, you must be at least 17 years old by the Primary Election if you’ll be 18 years old by the General Election.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "Who is eligible to register in Kentucky?",
+            "a": "Check if you’re eligible to register here (https://www.vote411.org/kentucky#eligibility-requirements).\n\n  Register to Vote  (https://vrsws.sos.ky.gov/ovrweb/)",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "What types of voting machines does Kentucky use?",
+            "a": "The voting systems used in Kentucky are Optical Scan and DRE.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "What is optical scan voting?",
+            "a": "With optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\n\n- With a pen or pencil, you fill in a little box, circle, or space between two arrows.\n- When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\n- Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        },
+        {
+            "q": "What is Direct Recording Electronic Voting?",
+            "a": "Direct Recording Electronic (DRE) is the newest system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.\n\nThere are many variations of DREs because many companies are inventing new ones, and many cities, counties, and states are trying them out.\n\n- Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.\n- Some of these devices will show all candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure).\n- On other DREs, the screen is set up to show pages. There will probably be one thing on which to vote on each screen or page. For example, on one screen or page, you might vote for the president. Then you might move to the next page to vote for a senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for.\n- Other devices have a keypad, and some have a keyboard, so you can write in the name of someone you want to vote for.\n- You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/kentucky",
+            "t": "2026-10-22T19:13:15+00:00"
+        }
+    ]
+}

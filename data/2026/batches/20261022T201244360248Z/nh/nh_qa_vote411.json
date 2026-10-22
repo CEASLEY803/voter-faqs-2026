@@ -1,0 +1,266 @@
+{
+    "state": "nh",
+    "num_questions": 43,
+    "num_answers": 43,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "What is a ballot drop box?",
+            "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Are drop boxes available in my state?",
+            "a": "New Hampshire allows you to hand-deliver your ballot to your local city or town clerk.\n\nYou can also drop off your ballot at your assigned polling location on Election Day.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Where can I find ballot drop box locations?",
+            "a": "You can look up the address of your clerk here (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.239193539.1709433968.1770145739-1948719580.1677085677).",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Can I track the ballot after placing in the drop box?",
+            "a": "Yes, you can track your ballot by looking up your on the Secretary of State website. (https://app.sos.nh.gov/viphome)",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Can I vote before Election Day in New Hampshire?",
+            "a": "No. New Hampshire does not offer traditional early in-person voting. However, if you qualify, you can vote before Election Day using an absentee ballot (https://www.vote411.org/new-hampshire#absentee-ballot-process), including in-person absentee voting at your local clerk’s office.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Who can vote early in New Hampshire?",
+            "a": "New Hampshire does not offer early in-person voting. However, eligible voters can vote before Election Day using an absentee ballot (https://www.vote411.org/new-hampshire#absentee-ballot-process).\n\nYou may qualify to vote absentee if you cannot appear in person on Election Day due to:\n\n- Absence from your town\n- A physical disability\n- Religious observance\n- Confinement for a misdemeanor or while awaiting trial\n- Work or caregiving responsibilities, including caring for children or adults\n\nAbsentee ballot requests must be submitted in writing with your signature, and you can get an application online (https://www.sos.nh.gov/elections/absentee-ballots), by mail, or from your local clerk’s office (https://absentee.vote411.org/vote/eoddomestic.htm); ballots will only be sent directly to the voter.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "When can I vote early in New Hampshire?",
+            "a": "New Hampshire does not offer early in-person voting. If you qualify for absentee voting (https://www.vote411.org/new-hampshire#absentee-ballot-process), you can request an absentee ballot up to six months before the election you are requesting it for. Deadlines and availability may vary, so check with your local clerk’s office (https://absentee.vote411.org/vote/eoddomestic.htm) for exact timing.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Where can I vote early in New Hampshire?",
+            "a": "If you qualify for absentee voting (https://www.vote411.org/new-hampshire#absentee-ballot-process), you can vote before Election Day at your local city or town clerk’s office (https://absentee.vote411.org/vote/eoddomestic.htm) or by returning your absentee ballot by mail.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Who is eligible to vote in New Hampshire?",
+            "a": "To register and vote in New Hampshire, you must:\n\n- Be a U.S. citizen\n- Be at least 18 years old on or before Election Day\n- Be domiciled in New Hampshire (your primary place of residence)",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Can I vote in New Hampshire if I have a felony conviction?",
+            "a": "In New Hampshire, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "How do I vote in New Hampshire if I don’t have a permanent address?",
+            "a": "You do not need a permanent home to register to vote in New Hampshire. You can describe where you live, even if you are experiencing homelessness, as long as it allows election officials to assign you to the correct voting precinct.\n\nYou can also use a mailing address such as a P.O. box, shelter, service provider, or another location where you can receive mail. To register, you must provide proof that your domicile is in the town or ward where you plan to vote, either with a document or by completing an affidavit. (https://www.sos.nh.gov/elections/register-vote)",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Can students vote in New Hampshire?",
+            "a": "Yes. Students can register and vote in New Hampshire using their school or campus address if they consider it their domicile.\n\nIf you move, such as to a different dorm or off campus, be sure to update your voter registration so you vote in the correct district.\n\nIf you are a student from out of state, you can choose to vote in your home state using an absentee ballot, but you’ll need to follow your home state’s rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Do I need an ID to register to vote in New Hampshire?",
+            "a": "Yes, you need a valid photo ID to register to vote in New Hampshire.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "What types of ID are accepted for registration?",
+            "a": "When registering to vote, you are required to provide proof of identity, age, citizenship, and domicile (where you live).\n\nProof of identity, age, citizenship, and domicile can be shown by providing one or more of the following:\n\n- Current driver's license or non-driver's ID\n- Current passport\n- Current military photo ID\n- Naturalization papers\n- Student or employee ID (if applicable)\n- Birth certificate\n- Rental lease or evidence of a home purchase\n- Vehicle registration, tax bill, or utility bill\n- Proof that you've asked the Post Office to use your street address as your mailing address\n- Any other document that reasonably establishes your identity and local domicile\n\nNote: Affidavits are no longer accepted as proof of identity, age, or citizenship.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "When are official election results available in New Hampshire?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "Official election results will be uploaded on New Hampshire’s Secretary of State website (https://www.sos.nh.gov/elections) as they become available.\n\n  Official Results  (https://www.sos.nh.gov/2024-election-results)",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "What does a poll worker for in New Hampshire?",
+            "a": "Poll workers help elections run smoothly at voting locations. They check in voters, help manage lines, hand out ballots, and answer questions throughout the day. They also help set up before voting begins and close the polling place after polls close.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "What qualifications do I need to be a poll worker in New Hampshire?",
+            "a": "To be a poll worker in New Hampshire, you must:\n\n- Be a registered voter\n- Be a resident of the district where you serve\n- Be at least 18 years old\n\n  - Students who are 17 years of age may be appointed at the central polling place in state elections\n- Complete required training\n\nPoll workers are chosen so both major political parties are fairly represented.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Are poll workers paid in New Hampshire?",
+            "a": "Pay for poll workers may vary by municipality. Please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "How do I apply to be a poll worker in New Hampshire?",
+            "a": "Poll workers are typically appointed by local officials, such as the town or city clerk or political party representatives. Contact your local election office (https://absentee.vote411.org/vote/eoddomestic.htm) or town clerk to learn about opportunities and how to get involved.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Does New Hampshire offer provisional voting?",
+            "a": "No, because there is Election Day registration, there is no provisional ballot process.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "What voting assistance is available for voters with disabilities?",
+            "a": "The Help America Vote Act requires that election authorities have voting equipment for voters with disabilities to vote privately and independently, and New Hampshire is no exception.\n\nFor more information on the provisions available for disabled voters, please contact your local election authority (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "How do I request accommodation or report accessibility issues?",
+            "a": "If you have any questions about receiving help in voting, please ask the clerk or inspector at the polling place.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Can I vote by mail because of my disability?",
+            "a": "Vote-by-mail (absentee voting) is available in New Hampshire you can vote absentee if you have a physical disability that prevents you from voting in person.\n\nIf you have a print disability, you may apply for an Accessible Electronic Absentee Ballot (https://www.sos.nh.gov/elections/voting-disabilities). The Application for an Accessible Electronic Absentee Ballot can be read with NVDA and JAWS screen readers using Adobe Reader; a free download is available here (https://get2.adobe.com/reader/). To fill out the Application, download it and open it in Adobe.\n\nYou can find more about how to vote by mail here. (https://www.vote411.org/new-hampshire#absentee-ballot-process)\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Does New Hampshire require employers to give time off to vote?",
+            "a": "New Hampshire law does not require employers to give time off to vote. Some employers may choose to allow time off, but it may be paid or unpaid. If you cannot vote on Election Day because of work, you may be able to vote using an absentee ballot (https://www.vote411.org/new-hampshire#absentee-ballot-process) instead.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Do I need ID to vote in New Hampshire?",
+            "a": "Yes, a valid photo ID will be required when voting in New Hampshire.\n\nAffidavits are no longer accepted instead of photo ID. If you do not have an approved photo ID, you will not be allowed to vote unless your identity can be confirmed. Please review the list of acceptable IDs to ensure you are prepared to vote.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "What types of ID can I use to vote in-person in New Hampshire?",
+            "a": "You can use a photo ID that shows your name and picture, such as:\n\n- A driver’s license (from any state)\n- A state ID card\n- A U.S. passport\n- A military ID\n- A student ID from an approved New Hampshire school\n\nYour ID should be current or not expired for more than 5 years",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Do I need an ID to vote by mail/absentee in New Hampshire?",
+            "a": "You do not need to show a photo ID when voting by absentee ballot. However, you must provide identifying information on your absentee ballot application and ballot.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "What if I don’t have an acceptable ID?",
+            "a": "If you do not have an ID, you can get a free photo ID for voting from a New Hampshire DMV office with a voucher from your town or city clerk or the Secretary of State. You may leave, get a valid photo ID, and return to vote.\n\nAffidavits will no longer be accepted as a substitute for photo identification when voting. If you do not have an approved photo ID, you will not be allowed to vote unless an election official can confirm your identity. Please review the list of acceptable IDs to ensure you are prepared to vote.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Can I use my student ID or a digital ID to vote in New Hampshire?",
+            "a": "You can use a student ID if it is from an approved New Hampshire school and meets the date requirements.\n\nNew Hampshire Ballot Notice and Cure Process\n\nBallot curing is when a voter corrects an issue with their ballot, so it can be counted.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Does New Hampshire allow ballot curing?",
+            "a": "No, New Hampshire doesn't have an absentee/mail ballot curing process.\n\nWe recommend that you track the status of your ballot using your state’s online tool (https://app.sos.nh.gov/voterinformation) before Election Day to make sure it has been received and accepted.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "How do I cure my affidavit ballot?",
+            "a": "New Hampshire has affidavit ballots, which are used by first-time registrants who don’t show an identification at the polls\n\nIf you voted an affidavit ballot, you must return your copy of the affidavit verification letter and a copy of any required documentation to the Secretary of State in the provided prepaid U.S. Postal Service envelope by 7 days after the election, in order for the ballot to be certified.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "What is the deadline to register to vote in New Hampshire?",
+            "a": "- Online registration deadline: Not available\n- Register by mail deadline: Must be received between 6-13 days before Election Day, depending on the town and the election.\n- In-person registration deadline: Election Day",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "How can I register to vote in New Hampshire?",
+            "a": "Here are your options for registering in New Hampshire:\n\n- Visit your town or city clerk’s office (https://absentee.vote411.org/vote/eoddomestic.htm) in person to register\n- If you’re unable to register in person for an acceptable reason, (https://www.sos.nh.gov/elections/voters/register-vote/absentee) such as having a physical disability, you can register by mail. Contact your clerk’s office (https://absentee.vote411.org/vote/eoddomestic.htm) to get started.\n- Register at the polls on Election Day.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "How can I check my voter registration status?",
+            "a": "You can verify your voter registration status using New Hampshire’s voter information tool. (https://app.sos.nh.gov/viphome)",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Does New Hampshire have online voter registration?",
+            "a": "No, New Hampshire doesn’t have online voter registration.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Is same-day voter registration available in New Hampshire?",
+            "a": "Yes, New Hampshire has same-day voter registration.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Can I pre-register to vote?",
+            "a": "Yes, you can pre-register at age 17 if you will be 18 years old by the next election date.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "Who is eligible to register in New Hampshire?",
+            "a": "Check if you’re eligible to register here (https://www.vote411.org/new-hampshire#eligibility-requirements).",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "What types of voting machines does New Hampshire use?",
+            "a": "The voting system used in New Hampshire are Optical Scan and Paper Ballots.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "What is optical scan voting?",
+            "a": "With optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\n\n- With a pen or pencil, you fill in a little box, circle, or space between two arrows.\n- When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\n- Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "q": "What are paper ballots?",
+            "a": "Paper ballots are one of the oldest ways of voting in America.\n\nWhen you come to the polling place, you will get a paper ballot from the poll worker. You take it to the voting booth, and use a pen or pencil to mark a box next to your candidate and issue choices. You then drop the marked ballot into a sealed ballot box.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        }
+    ]
+}

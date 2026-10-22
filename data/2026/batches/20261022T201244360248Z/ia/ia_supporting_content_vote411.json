@@ -1,0 +1,160 @@
+{
+    "state": "ia",
+    "num_sections": 22,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "section_without_questions",
+            "content": "Absentee voting is available and no excuse is required. County election officials may only send out absentee ballot request forms if requested. You can return your absentee ballot request form through the mail or in person. The last day to vote in-person absentee at your county auditor’s office is Monday, November 2. Mail-in ballots must be received by the close of polls on Election Day in order to be counted. You can sign up to track your absentee ballot (https://sos.iowa.gov/elections/absenteeballotstatus/absentee/search) on your Secretary of State website. Contact your local elections office for more information.\n\nREQUESTING AND RETURNING YOUR ABSENTEE BALLOT:\n\nApplications for absentee ballots can be obtained online (https://absentee.vote411.org/vote/VoterInformation.htm) in a PDF format, or mailed upon request from the Secretary of State. You can also request a ballot by mailing the application to the county auditor/commissioner of elections (https://absentee.vote411.org/vote/eoddomestic.htm) in the county where you are registered.\n\nYou must provide ID information on your absentee ballot request forms. All request forms must include your driver's license/non-driver's ID number or your Voter ID Card's four-digit PIN number. Request forms without these forms of ID will not be accepted.\n\nA written application for a mailed absentee ballot must be received by the voter's County Auditor no later than 5:00 p.m. 15 days before the election. If the request is received so late that it is unlikely the absentee ballot can be returned by mail in time to be considered for counting, the county auditor will enclose a statement to that effect with the absentee ballot.\n\nFor primary and general elections, the ballots are mailed no later than 20 days before election day. For other elections, ballots are mailed to voters as soon as they are ready. The county auditor will include instructions on how to mark the ballot as well as how to return the ballot.\n\nMail ballots must be received by the county auditor's office (https://absentee.vote411.org/vote/eoddomestic.htm) by the time polls close on Election Day (8:00 pm) in order to be counted. Voted absentee ballots cannot be delivered to the polling place on election day.\n\nNOTE: You may designate an individual who lives in your household or a member of your immediate family to return your ballot using one of the above methods. Your ballot must be received by 8:00 PM CT on Election Day. Blind and/or disabled voters may designate a delivery agent to return their voted absentee ballot.\n\nVoting in Person after Requesting an Absentee Ballot\n\nVoters have the option to deliver their absentee ballot to the county auditor's office before the polls close on Election Day, surrender their voted absentee ballot at the polls and vote a regular ballot, or vote a provisional ballot at the polls if they cannot surrender their absentee ballot.\n\nCounty Auditors may use Satellite Absentee Voting Stations to provide absentee voting at places other than the Auditors office. You must mark your ballot at the station and leave it with the officials. All satellite stations must be accessible to people with disabilities. Note: Under a new Iowa law, satellite voting sites may only be set up if enough voters petition for one\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "section_without_questions",
+            "content": "If you receive notice from your county election officials that your absentee/mail ballot has been rejected, you may vote a replacement ballot until the close of polls on Election Day. If you voted a provisional ballot, you may provide evidence showing why you are eligible to vote to your precinct election officials or to your county auditor's office by the deadline listed on your provisional ballot envelope. You can track the status of your ballot using your state’s online tool. (https://sos.iowa.gov/elections/absenteeballotstatus/absentee/search)",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).\n\nFor information on state campaign contributions, please visit state's resource (http://www.iowa.gov/ethics/viewreports/index.htm).",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Races and candidates can be found here. (https://www.vote411.org/ballot)",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Drop Boxes",
+            "kind": "section_without_questions",
+            "content": "A drop box is available at your county auditor's office. You can find the address of your county auditor here (https://sos.iowa.gov/elections/auditors/auditorslist.html).  (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "section_without_questions",
+            "content": "Early voting for the November 3, 2026 General Election begins on October 14th and ends November 2nd.\n\nEarly Voting Starts: 20 days before Election Day\n\nEarly Voting Ends: The day before Election Day\n\nThe early voting period begins 20 days before Election Day. You can vote at your County Auditor's office during business hours Monday-Friday. Additionally, county auditor offices are open the Saturday before Election Day. For more information, contact your County Auditor (https://sos.iowa.gov/elections/auditors/auditorslist.html).\n\nYou will need to fill out the Absentee Ballot Request Form used in Iowa for In-Person Absentee “Early” voting. Note: Using a label printed from the check-in tablet is no longer a valid method of completing the form.\n\nYou are required to show an ID when voting early in person. You can find more information on acceptable forms of ID, here. (https://www.vote411.org/iowa#id-needed-for-voting)",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "The next election date can be found here https://www.vote411.org/iowa.\n\nContact your local Board of Elections (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "Polls are open from 7:00 am to 8:00 pm.",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Eligibility Requirements",
+            "kind": "section_without_questions",
+            "content": "To be eligible to vote, you must be:\n\n- A citizen of the United States\n- A resident of Iowa\n- At least 18 years old on Election Day\n   NOTE: You may vote in a primary election if you are 17 years old as long as you will be 18 years old on or before the corresponding regular election.\n- Not convicted of a felony (and if you have, you must have had your voting rights restored)\n- Not currently been judged by a court as incompetent to vote\n- Not voting in any other place\n\nIncarcerated Voters & Returning Citizens:\n\nIowans with a felony conviction can regain their voting eligibility once they have fulfilled all requirements related to their confinement, parole, probation, or any other form of supervised release. Individuals with any felony conviction, regardless of the specific crime, can apply to the Governor for restoration. Being current on fines, fees, or restitution payments or being enrolled in a payment plan is not a requirement to exercise your right to vote, although it is essential to fulfill these obligations. Pretrial detention and misdemeanors do not restrict your voting rights in Iowa. If you have received a restoration of rights, you must register to vote at your current residential address.\n\nVoters without traditional residence:\n\nA residence for voting purposes is where the voter's home is located. Businesses or any other non-residential property may be used for voter registration purposes if that place is a primary, nighttime residence for the voter. People experiencing homelessness are residents of the place where they usually sleep. They may describe their place of residence on the voter registration form.",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "ID Needed for Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To register to vote you must provide a states driver's license number or your social security number if you have one. There is a box for your to check on the voter registration form if you have neither of those numbers. If you are registering to vote for the first time at the polls on Election Day, or after a recent move, you must prove both who you are and where you live.\n\nYou can use any of these forms of ID as long as they are current, valid and contain an expiration date:\n\n- Iowa drivers license\n- Iowa non-driver ID card\n- Out-of-state driver's license or non-driver ID card\n- US passport\n- US military ID\n- ID card issued by employer\n- Student ID issued by Iowa high school or college\n- Tribal ID\n\nIf your photo ID does not contain your current address, you may use another document to prove where you live. The following are acceptable proof of residence as long as they contain your name and current address and are current within 45 days:\n\n- Residential lease\n- Utility bill (including a cell phone bill)\n- Bank statement\n- Paycheck\n- Government check or other government document\n\nIf you are asked for ID and you don't have any of the documents listed above, you can have another voter who is registered in your precinct who knows you vouch for your ID and residence.\n\nIf you don't have the needed ID and don't have another voter to vouch for you, you may cast a provisional ballot.",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Official Election Results",
+            "kind": "section_without_questions",
+            "content": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and it’s essential that they take the time to make sure every vote is counted.\n\nOfficial election results will be uploaded on Iowa’s Secretary of State website (https://sos.iowa.gov/elections/results/index.html) as they become available.\n\n  Official Results  (https://sos.iowa.gov/elections/results/index.html)",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Poll Worker Information",
+            "kind": "section_without_questions",
+            "content": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker toda (https://powerthepolls.org/lwv )y!\n\nIn order to be a poll worker in Iowa, you must be:\n\n- Registered to vote in Iowa\n- At least 18 years of age\n- Political affiliation required\n- Entitled to compensation\n- A resident of the county\n- Complete required training\n- High school junior and senior students may work if they meet certain statutory requirements\n\nTo sign up, contact your local board of elections (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "You can find your polling place by utilizing your state resource. (https://sos.iowa.gov/elections/voterreg/pollingplace/search.aspx)\n\nIf you have further questions on your polling place location, please contact your county clerk (https://www.overseasvotefoundation.org/vote/election-official-directory). (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "Iowa is a “partially open” primary state. This allows voters to vote in another parties primary. You are asked to choose your party when you register to vote, however, you are able to publicly change your party affiliation in order to vote in your selected parties primary election.\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Provisional Voting",
+            "kind": "section_without_questions",
+            "content": "If your name is not on the list of registered voters, you may register to vote at the polls on Election day and vote a regular ballot. If you do not have the proper forms of ID to register on Election Day, or if someone challenges your right to vote on Election day, you may cast a provisional ballot.\n\nThe envelope has a place for you to explain why you believe that the ballot should count. Before you leave the polls, you will be given a written notice explaining your voting rights and listing the date on which the special ballot board will meet. If your ballot is not counted, you will receive a letter in the mail explaining why it cannot be counted.\n\nProvisional ballots are counted the Thursday after Election Day.",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Provisions for Voters with Disabilities",
+            "kind": "section_without_questions",
+            "content": "If you need help marking your ballot because of a disability or because you can't read English, any person you choose may help you, except your employer, your employer's agent or an officer or agent of your union. If you want help from the precinct workers, one person from each political party will help you. You will need to sign a form indicating that you asked for help. All voting instructions at the polls are printed in large type.\n\nIf you cannot get into the polling place because of a disability, two precinct workers will bring a ballot to your vehicle. They may also help you mark the ballot, but only if you request assistance. You do not have to tell anyone ahead of time that you will need to vote in your car. However, you may want to call ahead or bring someone with you to tell the precinct workers that you need to vote in your car.\n\nEach polling place has a Voter Assist Terminal. Voters here can use features such as touch screens, audio assistance or a sip and puff element to select their candidates.\n\nIf you have questions or concerns about voting accessibility, please contact your county auditor's office (https://absentee.vote411.org/vote/eoddomestic.htm) or your Secretary of State's office (https://absentee.vote411.org/vote/eoddomestic.htm). A voter guide is also available on audio cassette from the Library for the Blind. To request one you can call 515-281-1333 or 1-800-362-2587. Each precinct also provides a braille version of voter instructions and voter rights.\n\nFor more information, you can utilize the Association of People With Disabilities resource. (http://www.aapd.com/what-we-do/voting)",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Time Off To Vote",
+            "kind": "section_without_questions",
+            "content": "If your work schedule doesn't give you 2 consecutive hours off work while the polls are open, you have the right to take up to three hours off from work to vote.\n\nYou must make a written request for time off to vote to your employer before election day. Your employer has the right to specify which hours you get to take off. You cannot be penalized and deductions cannot be made from your regular salary or wages on account of this absence",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (https://sos.iowa.gov/elections/voterreg/regtovote/search.aspx)",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Voter ID Requirements",
+            "kind": "topic_introduction",
+            "content": "Voters are required to show a driver’s license, non-driver’s ID, passport, military ID, veterans ID, or Voter ID Card at the polls before they vote. Voters without the necessary ID will be offered a provisional ballot and can provide ID up until the time of the county canvass of votes (Monday after election day for Primary and General Elections).",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Voter Registration Deadlines",
+            "kind": "section_without_questions",
+            "content": "Online registration deadline: 15 days before Election Day\n\nRegister by mail deadline: Postmarked 15 days before Election Day\n\nIn-person registration deadline: Election Day\n\nNOTE: You may be removed from active voting lists if you miss a general election and do not respond to a confirmation notice or report a change in address. If you remain inactive and do not vote in the next two general elections, your registration may be canceled.\n\nNot registered? Use our online registration tool (https://www.vote411.org/register) to complete your application!",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "topic": "Voting Machines",
+            "kind": "section_without_questions",
+            "content": "The voting systems used in Iowa are optical scan and Hand counted paper ballots.\n\nOptical Scanning: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. In some places, you can check your card or paper right there at the polling place by feeding it into a card-reading machine to make sure you have voted the way you want to. When you are finished filling out all the cards. You may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that counts the votes. When Election Day is over, the computer counts how many votes were cast for each candidate.\n\nPaper Ballots: Paper ballots are one of the oldest ways of voting in America. They are still used on Election Day. Paper ballots are mostly used for absentee ballots. When you come to the polling place, you will get a paper ballot from the poll worker. You take it to the voting booth, and use a pen or pencil to mark a box next to your candidate and issue choices. You then drop the marked ballot into a sealed ballot box. At the end of the day, votes are counted by poll workers reading the ballots.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource (https://www.eac.gov/testing_and_certification/voluntary_voting_system_guidelines.aspx) or Verified Voting. (https://www.verifiedvoting.org/verifier/#year/2016/)",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        }
+    ]
+}
