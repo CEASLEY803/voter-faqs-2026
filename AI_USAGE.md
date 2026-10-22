@@ -30,3 +30,19 @@ Commit author information supplied by the user, verbatim:
 > CEASLEY803 is the github account name, [email removed] is the email
 
 Coding assistance: save the frequent-commit preference, configure Git author information for this repository, and create retrospective local checkpoints for existing setup, baseline recovery, and collection work. Commit timestamps reflect actual creation time. Model information is the same as recorded above.
+
+## October 22, 2026: source-review corrections
+
+User request, verbatim:
+
+> I compared the jsons with the actual website and came across a few things to fix:
+>
+> The script removes paragraph breaks when it shouldn't
+> on voter411, the script is pulling section headers and their descriptions as Q&A when it shouldn't
+>
+> Preserve paragraph breaks and list structure
+> Use actual question headings for FAQ records
+> Keep topic introductions and sections without questions separately, that way the information survives without labeling a category as a question
+> Keep the topic title alongside the supporting content so we know where it belongs
+
+Coding assistance: implement block-aware text rendering and nested list formatting, separate supporting content from question-heading records, add checksum-verified replay of source snapshots, and update code documentation. Validate formatting and extraction boundaries with small HTML fixtures and the saved source pages. Model information is the same as recorded above. The user supplied the source-review findings and extraction requirements.
