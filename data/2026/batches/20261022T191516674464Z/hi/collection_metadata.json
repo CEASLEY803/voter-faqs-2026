@@ -1,0 +1,25 @@
+{
+    "state": "hi",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/hawaii",
+            "final_url": "https://www.vote411.org/hawaii",
+            "collected_at": "2026-10-22T19:13:06+00:00",
+            "sha256": "9d1e23de268a67fe612d16bcb00b4233f7764dab8b71f136a22cf96f0b406830",
+            "snapshot": "data/2026/batches/20261022T191516674464Z/hi/vote411-hi.html"
+        }
+    ],
+    "counts": {
+        "vote411": 0,
+        "supporting_sections": 23
+    },
+    "extraction_version": 3,
+    "reprocessed_from": "data/2026/batches/20261022T191249791410Z/hi",
+    "review_flags": [
+        "No identifiable question headings; supporting content only"
+    ],
+    "faq_file": "hi_qa_vote411.json",
+    "supporting_content_file": "hi_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

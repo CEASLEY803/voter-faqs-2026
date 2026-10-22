@@ -1,0 +1,398 @@
+{
+    "state": "fl",
+    "num_questions": 65,
+    "num_answers": 65,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "In Florida, all registered voters are permitted to vote-by-mail.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "You may request a vote-by-mail ballot in person, by mail, email, fax or by phone from your county’s Supervisor of Elections. (https://www.myfloridaelections.com/find-your-county-s-supervisor-of-elections)\n\nIf you are requesting a vote-by-mail ballot for yourself, you must provide the following information:\n\n- Your name\n- Your address\n- Your date of birth\n- Your signature (written requests only)\n\nIf an immediate family member or legal guardian is requesting a vote-by-mail ballot for you, they must provide the above information about you as well as the following:\n\n- Their name\n- Their address\n- Their driver's license number (if available)\n- Their relationship to you (the voter)\n- Their signature (written requests only)",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "The last day to request a vote-by-mail ballot is 12 days before the election. You may request a vote-by-mail ballot in person, by mail, email, fax or by phone from your county’s Supervisor of Elections. (https://www.myfloridaelections.com/find-your-county-s-supervisor-of-elections)\n\nNote: Voters may pick up a mail ballot in person. If a voter or designee waits until the mandatory Early Voting period or Election Day to pick up a mail ballot in person, the voter must affirm that an emergency exists that keeps them from being able to vote at a polling place by completing an affidavit.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "a": "Your voted ballot must be mailed or delivered in person to your local Supervisor of Elections (https://www.myfloridaelections.com/find-your-county-s-supervisor-of-elections)’ office no later than 7:00 pm on the day of the election.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Ballots are mailed approximately five weeks prior to each election or 7 days after the county election office receives an application.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
+            "a": "All vote-by-mail ballots contain voting instructions, be sure to follow these instructions to ensure your ballot is counted. You must personally vote your own ballot (unless assistance is required due to blindness, disability, or inability to read or write). Each mail ballot packet will contain a ballot, a secrecy sleeve (with instructions), and a pre-addressed voter’s certificate return envelope that must be signed by you.\n\nIf you returned your vote-by-mail ballot but forgot to sign the envelope, or if the signature has been flagged for review, your ballot may not count unless you complete and return the Vote-By-Mail Cure Affidavit form (https://dos.fl.gov/elections/forms-publications/forms/) with a copy of your identification no later than 5 pm two (2) days after the election. Voters with signature issues are notified by mail, email, and telephone based on the information they have provided.\n\nYour voted ballot must be mailed or delivered in person to your local Supervisor of Elections (https://www.myfloridaelections.com/find-your-county-s-supervisor-of-elections)’ office no later than 7:00 pm on the day of the election.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT IN PERSON?",
+            "a": "You can drop off your signed, voted ballot at your local Supervisor of Elections (https://www.myfloridaelections.com/find-your-county-s-supervisor-of-elections)’ office during business hours. You can also bring your voted ballot to any early voting location during early voting hours. Another option is to exchange the voted ballot for an in-person ballot at any early voting location or at your assigned polling location on Election Day.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT AND/OR ABSENTEE APPLICATION?",
+            "a": "You can track the status of your ballot by mail application or ballot online here (https://dos.myflorida.com/elections/for-voters/check-your-voter-status-and-polling-place/vote-by-mail-ballot-information-and-status-lookup/). If you have any issues with your state’s online tracker, please contact your local elections official (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "Bring your absentee ballot and the pre-addressed outer return envelope to your polling place to be voided. If you don’t have your ballot or never received it, you will be able to cast a provisional ballot, and your vote will be counted once the county determines it never received an absentee ballot from you.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Does Florida allow ballot curing?",
+            "a": "Yes, Florida allows voters to fix an issue with their ballot.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "a": "If your signature is missing or does not match the one on record, the Supervisor of Elections will contact you.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "How do I cure my ballot?",
+            "a": "You may need to complete and return a “Vote-by-Mail Ballot Cure” Affidavit (English PDF (https://dos.fl.gov/elections/forms-publications/forms/)/ Spanish PDF (https://dos.fl.gov/media/701778/dsde139_spa.pdf)) along with a copy of your identification to resolve the issue.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "What is the deadline to cure my ballot?",
+            "a": "The deadline to cure (correct) your ballot is 5pm on the 2nd day after the election.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Can I track my absentee ballot?",
+            "a": "You can track the status of your ballot using your county’s online tool (https://dos.fl.gov/elections/for-voters/check-your-voter-status-and-polling-place/vote-by-mail-ballot-information-and-status-lookup/).",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "How do I cure my provisional ballot?",
+            "a": "If you voted a provisional ballot, you have until 5pm on the 2nd day after the election to present a signed affidavit (https://dos.fl.gov/elections/forms-publications/forms/) and identification forms to support your eligibility to vote.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "What is a ballot drop box (Secure Ballot Intake Stations)?",
+            "a": "Secure Ballot Intake Stations are secure, locked structures operated by election officials where voters can deliver their absentee ballot. In Florida, Secure Ballot Intake Stations are available only during Early Voting hours.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Are Secure Ballot Intake Stations available in my state?",
+            "a": "Yes, Secure Ballot Intake Stations are available in Florida.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Where can I find Secure Ballot Intake Station locations?",
+            "a": "Secure Ballot Intake Station locations are available on the Florida Secretary of State (https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/) website.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Can I track the ballot after placing in the Secure Ballot Intake Station?",
+            "a": "Yes, you can track the status of your ballot by finding your county on the Vote-by-Mail Ballot Information and Status Lookup (https://dos.fl.gov/elections/contacts/supervisor-of-elections/) website.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Can I vote before Election Day in Florida?",
+            "a": "Yes. Florida offers early in-person voting, which allows voters to cast their ballot before Election Day.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Who can vote early in Florida?",
+            "a": "Any registered voter in Florida may vote early. You do not need an excuse or special reason to vote early.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "When can I vote early in Florida?",
+            "a": "Early voting in Florida begins at least 10 days before Election Day and ends 3 days before Election Day. Early voting does not take place the day before Election Day. Exact dates and daily hours are set by each county’s Supervisor of Elections. (https://www.myfloridaelections.com/find-your-county-s-supervisor-of-elections)",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Where can I vote early in Florida?",
+            "a": "You can vote early at early voting locations designated by your county’s Supervisor of Elections. All counties offer early voting at their main and branch elections offices and may designate additional early voting sites. Locations and hours vary by county, so check with your local Supervisor of Elections (https://www.myfloridaelections.com/find-your-county-s-supervisor-of-elections) for details.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Who is eligible to vote in Florida?",
+            "a": "You are eligible to vote in Florida if you:\n\n- Are a US citizen\n- Are a Florida resident\n- Are at least 18 years old on Election Day\n\n  - 16-year-olds may preregister\n- Are not currently serving a sentence for a felony conviction that your ineligible to vote\n- Have not been found mentally incapacitated to vote by a court, or have had your voting rights restored",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Can I vote if I have a felony conviction?",
+            "a": "A person who has been convicted of a felony is not eligible to vote in Florida unless they have had their right to vote restored after completing their entire sentence. This includes incarceration, parole and/or probation, and payment of all fines, fees, costs, and restitution. Once their right to vote has been restored, they can register to vote. Note: This does not apply to those convicted of murder or a sexual offense. Pretrial detention and misdemeanors do not restrict your voting rights.\n\nFor assistance reviewing a person's criminal records to determine what steps need to be taken for that person to vote, please call 407-710-5496 or email [email protected] (https://www.vote411.org/cdn-cgi/l/email-protection#a0c3c1cec9d6cfd4c5e0ccd7d6c6cc8ecfd2c7). The LWVFL can refer you to a pro bono lawyer who may be able to help you.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "How do I vote if I don’t have a permanent address?",
+            "a": "You do not need a permanent home to register to vote. If you are experiencing homelessness, you can describe where you live so election officials can assign you the correct voting area. You must also provide a mailing address, such as a P.O. box, shelter, outreach center, or the home of someone who can receive mail for you.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Can students vote in Florida?",
+            "a": "Yes. Students can register and vote in Florida if they meet eligibility requirements. Students may register using their school address or another Florida address they consider their residence. You may only be registered and vote in one place at a time.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Do I need an ID to register to vote in Florida?",
+            "a": "You must provide your current and valid driver's license number (from your state), an ID number or the last 4 digits of your Social Security number to register.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "What types of ID are accepted for registration?",
+            "a": "If you register by mail and you are a first-time voter in the State and you have not been issued a Florida driver's license number, Florida I.D. number, or a Social Security number you are required to provide additional identification. To assure that you will not have problems when you go to vote, you should provide a copy of the required identification at the time you mail your voter registration form. If you are voting an absentee ballot, you must provide the proper identification prior to 7 p.m. Election Day or your absentee ballot will not count. The following forms of identification are acceptable if they contain your name and photograph:\n\n- United States passport\n- Debit of credit card\n- Military identification\n- Student identification\n- Retirement center identification\n- Neighborhood association identification\n- Public assistance Identification\n- Gun License\n\nDo not send original identification documents to the supervisor of elections.\n\nThe following persons are not required to provide the identification required under the previous paragraph:\n\n- Persons 65 years of age or older\n- Persons with a temporary or permanent physical disability\n- Members of the uniformed services on active duty and their spouses and dependents, who, by reason of such active duty, are absent from the county on Election Day\n- Members of the Merchant Marine and their spouses and dependents, who, by reason of service in the Merchant Marine, are absent from the county on Election Day",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "What if I don’t have an ID?",
+            "a": "If you do not have the required ID, you will not be able to submit your registration online. However, you can still use the online system to prefill an application form and then print, sign, and mail/deliver the completed application to your County Supervisor of Elections Office. (https://absentee.vote411.org/vote/eoddomestic.htm)\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "¿Cuándo están disponibles los resultados oficiales de las elecciones en Florida?",
+            "a": "Los resultados oficiales nunca están disponibles el Día de la Elección. Los funcionarios electorales trabajan continuamente para contar una gran cantidad de boletas, y es esencial que se tomen el tiempo necesario para asegurarse de que cada voto sea contado.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "¿Dónde puedo encontrar los resultados oficiales de las elecciones?",
+            "a": "Los resultados oficiales de las elecciones se publicarán en el sitio web del Secretario de Estado de Florida (https://dos.fl.gov/elections/data-statistics/elections-data/) a medida que estén disponibles.\n\n  Official Results  (https://dos.myflorida.com/elections/)",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "What does a poll worker do?",
+            "a": "A poll worker is a trained election worker who helps run polling places on Election Day. Poll workers help open and close the polls, assist voters, check in voters, help maintain order at the polling place, and ensure voting procedures are followed so elections are conducted fairly and securely.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "What qualifications do I need to be a poll worker in Florida?",
+            "a": "In Florida, poll workers must:\n\n- Be a registered voter in the county where they will serve\n- Be able to read and write English\n- Have had their voting rights restored if they were previously convicted of a felony\n- Not be a candidate in a contested election\n- Complete required training\n- Be 18 years old\n\n  - 16- and 17-year-olds who are preregistered to vote may also serve as poll workers if they meet the other requirements",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Are poll workers paid?",
+            "a": "Yes. Poll workers in Florida are paid by their county Supervisor of Elections (https://www.myfloridaelections.com/find-your-county-s-supervisor-of-elections). Pay amounts vary by county and by role.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "How do I apply to be a poll worker in Florida?",
+            "a": "You can apply to be a poll worker by contacting your county Supervisor of Elections (https://www.myfloridaelections.com/find-your-county-s-supervisor-of-elections) or applying through your county’s poll worker recruitment process. Application procedures and deadlines vary by county.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Does Florida offer provisional voting?",
+            "a": "Yes, Florida offers provisional voting.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "How do I vote a provisional ballot?",
+            "a": "You may vote a provisional ballot if you meet specific conditions. Voters receive a provisional ballot if:\n\n- Their registration cannot be verified at the polls.\n- An absentee ballot has been issued, but the voter fails to bring it to the polls.\n- The Voter fails to provide proper ID.\n- The polling hours are extended (these provisional ballots are segregated from all other provisional ballots).",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "How can I make sure my provisional ballot is counted?",
+            "a": "The Provisional Ballot Cure Affidavit must be completed and submitted to the Elections Department along with a copy of your identification by 5 p.m. on the second day after the election.\n\nNote: Voters must cast their provisional ballot in the correct polling place in order for it to be counted. If you are eligible to vote and voted in the proper precinct, your provisional ballot will count as long as your signature on the provisional ballot matches the signature in your registration record.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "When are provisional ballots counted?",
+            "a": "Provisional ballots are counted by noon, 4 days after a General Election and 3 days after a Primary Election.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "What voting assistance is available for voters with disabilities?",
+            "a": "Each registered voter has a right to ask for and receive assistance in voting.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "WHAT IF I NEED A HELPER TO VOTE IN-PERSON?",
+            "a": "You can still choose to receive help at a polling place. You do not have to reveal the nature or extent of your disability. You may choose anyone as an assistant except your employer, an officer of your union, or an agent of either. You can alternatively get the help of two members of the Supervisor of Elections staff. Unless you noted on your voter registration application that you might need help at the polls, you will have to fill out a form affirming you need help at the polls. The clerk can help you fill out the form. In addition, the person you choose to help you will have to fill out a form (unless that person is election staff) saying they will provide help. If you have any questions about receiving help in voting, please ask the clerk or inspector at the polling place.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "WHAT IF I AM PHYSICALLY UNABLE TO MARK MY BALLOT?",
+            "a": "If you are physically unable to mark your ballot or cannot read the ballot, you are eligible for assistance.\n\n- You may choose anyone as an assistant except your employer, an officer of your union, or an agent of either.\n- The assistant must take an oath of assistance administered by an election official.\n- The assistant may read the ballot to you and mark your ballot\n- If you do not choose your own assistant, two election officials (of different political parties in the General Election) may assist you.\n- Poll watchers and inspectors can observe the assistance by election officials.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "WHAT IF I NEED AN INTERPRETER?",
+            "a": "When a voter requires language assistance at an early voting site or at a polling place, the following is available:\n\n- A person of their own choosing may assist\n- Two pollworkers of opposing political party may assist\n- Bilingual pollworker may assist if available in the polling place\n- A Spanish Instructions Notebook is available\n- A toll-free language assistance hotline is available: 833-828-3224",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "WHAT IF I HAVE VISUAL DISABILITIES?",
+            "a": "All Florida counties must provide one direct electronic voting machine (DRE) at each polling place for voters with visual disabilities so that they may cast their ballot without assistance. These machines are equipped with headphones and a keypad.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "WHAT OTHER RESOURCES ARE THERE FOR VOTERS WITH DISABILITIES?",
+            "a": "If you have any issue with voting or registering to vote due to a disability, please contact the Disability Rights Florida Voting Hotline: 877-352-7337.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "How do I request accommodation or report accessibility issues?",
+            "a": "If you have any questions about receiving help in voting, please ask the clerk or inspector at the polling place.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Can I vote by mail because of my disability?",
+            "a": "If you are a voter with a disability, you may vote-by-mail if you have a sickness or physical condition that prevents you from voting in person without needing personal assistance or injuring your health.\n\nFor more information on voting by mail, click here.  (https://www.vote411.org/florida#absentee-ballot-process)\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "WHAT IF I MISSED THE VOTER REGISTRATION DEADLINE AFTER I MOVED?",
+            "a": "Florida Law requires that you vote in the precinct of your residence. If you are already registered to vote in Florida and have moved within the state, you do not need to re-register to vote. However, you must update your voter registration record with your county’s Supervisor of Elections (https://dos.elections.myflorida.com/supervisors/). You must be registered to vote 29 days before an upcoming election. New voters who miss the deadline may still register at any time to vote in the next election.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "WHAT DO I NEED TO REGISTER TO VOTE?",
+            "a": "Here is what you need to know to register in Florida:\n\n- Visit RegisterToVoteFlorida.gov (https://registertovoteflorida.gov/home) to register to vote or to update your registration\n- Valid Identification – visit ID Needed for Voter Registration\n- If you are not a Florida resident and you are registered to vote out of state, contact your home state’s elections office for information on registration and voting",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Does Florida require employers to give time off to vote?",
+            "a": "Florida law does not require employers to provide paid or unpaid time off to vote. Employers are also not allowed to fire, threaten, or punish employees for voting or for trying to vote.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Do I need ID to vote in Florida?",
+            "a": "Yes. When voting early or voting at a polling place, Florida law requires voters to present a current and valid photo ID with signature.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "What types of ID can I use to vote in Florida?",
+            "a": "When voting in person, you must present *both:\n\n- A photo ID with your name and photo and\n- An ID with your signature on it\n\n*Many photo IDs include a signature, so one ID may meet both requirements.\n\nAcceptable forms of ID are:\n\n- Florida driver’s license\n- Florida ID card issued by the Department of Highway Safety and Motor Vehicles\n- US passport\n- Debit or credit card\n- Military ID\n- Student ID\n- Retirement center ID\n- Neighborhood association ID\n- Public assistance ID\n- Veteran health ID card (issued by the US Dept of Veteran Affairs)\n- Concealed carry weapons license\n- An employee ID issued by the federal government, the state, a county, or a city",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "What if I don’t have an acceptable ID?",
+            "a": "If you do not bring a valid ID, you can still vote a provisional ballot. As long as you are eligible and voted in the proper precinct, your provisional ballot will count provided the signature on your provisional ballot matches the signature in your registration record.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Does mail/absentee voting require ID?",
+            "a": "No photo ID is required to vote by mail in Florida. However, vote-by-mail voters must provide identifying information, such as a driver's license number or the last four digits of a Social Security number, when requesting a mail ballot. Signatures are used to verify your identity when your ballot is returned.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "Are student or digital IDs accepted?",
+            "a": "Yes, a student ID can be used as a photo ID for in-person voting in Florida if it includes your name, photo, and signature. If your student ID has a photo but no signature, you can pair it with another ID that has your signature, such as a debit or credit card. Digital or electronic IDs shown on a phone are not accepted.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "WHO IS ELIGIBLE TO REGISTER IN FLORIDA?",
+            "a": "To register in Florida, you must be:\n\n- A U.S. citizen\n- A Florida resident\n- A resident of the county in which you intend to vote\n- At least 18 years old (16- and 17-year-olds may pre-register, but will be ineligible to vote until their 18th birthday)\n- Not adjudicated mentally incapacitated with respect to voting in Florida or any other state, or, if you were adjudicated mentally incapacitated, you have had your rights restored by a court.\n- Not convicted of a felony (and not had your civil rights restored)",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "HOW DO I UPDATE MY REGISTRATION IF I MOVE OR HAVE A NAME CHANGE?",
+            "a": "If you are already registered to vote in Florida and have moved within the state, you do not need to re-register to vote. However, you must update your voter registration record with your county’s Supervisor of Elections. (https://dos.elections.myflorida.com/supervisors/) You can update your registration through one of the following ways: online, (https://registertovoteflorida.gov/) by paper form, by phone, or by email.\n\nFor name and party changes, you must update your information online or by using the paper form. Identification is required and any of the following forms will be accepted by your local Supervisor of Elections:\n\n- Your Florida driver license number\n- Florida identification card number\n- The last 4 digits of your social security number\n\nYou may also update your voter registration when you update your driver's license online. (https://services.flhsmv.gov/VirtualOffice/)",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "I JUST MOVED TO FLORIDA OR MOVED TO A NEW COUNTY IN FLORIDA. HOW DO I REGISTER TO VOTE?",
+            "a": "If you are already registered to vote in Florida and have moved within the state, you do not need to re-register to vote. However, you must update your voter registration record with your county’s Supervisor of Elections. If you are not already registered to vote in Florida, eligible individuals can register to vote at any time. The deadline to register to participate in an upcoming election is 29 days before the election.You can register one of the following ways:\n\n- Online (https://registertovoteflorida.gov/home)\n- Paper form (available at your local Supervisor of Elections (https://www.myfloridaelections.com/find-your-county-s-supervisor-of-elections) office or website)\n- In person at any of the following voter registration agencies\n\n  - Driver License Offices\n  - Public Assistance Offices\n  - Public Libraries\n  - Disabilities Offices\n  - Armed Forces Recruitment Offices\n  - Centers for Independent Living",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "WHERE SHOULD I VOTE IF I DON’T HAVE A RESIDENCE?",
+            "a": "It is not mandatory for citizens to possess a \"permanent home\" for voter registration. A citizen can provide an alternative description of their residence, even if they are experiencing homelessness, as long as it enables the authorities to identify and assign a voting precinct to them. This precinct assignment ensures that the voter receives the appropriate ballot. The mailing address on their registration form can be a P.O. box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for them.\n\nNot registered? Use our online registration tool (https://www.vote411.org/register) to complete your application!",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "What types of voting machines does Florida use?",
+            "a": "The voting systems used in Florida are Optical Scan and DRE.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "What is optical scan voting?",
+            "a": "With optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\n\n- With a pen or pencil, you fill in a little box, circle, or space between two arrows.\n- When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\n- Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "q": "What is Direct Recording Electronic Voting?",
+            "a": "Direct Recording Electronic (DRE) is the newest system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.\n\nThere are many variations of DREs because many companies are inventing new ones, and many cities, counties, and states are trying them out.\n\n- Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.\n- Some of these devices will show all candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure).\n- On other DREs, the screen is set up to show pages. There will probably be one thing on which to vote on each screen or page. For example, on one screen or page, you might vote for the president. Then you might move to the next page to vote for a senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for.\n- Other devices have a keypad, and some have a keyboard, so you can write in the name of someone you want to vote for.\n- You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        }
+    ]
+}

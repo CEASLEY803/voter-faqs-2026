@@ -1,0 +1,386 @@
+{
+    "state": "mn",
+    "num_questions": 63,
+    "num_answers": 63,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "In Minnesota, all voters can apply to vote absentee. You do not need to be registered to vote to request an absentee ballot. A voter registration application will be included in the materials.\n\nYou must show your witness an accepted proof of residence (https://www.sos.state.mn.us/elections-voting/register-to-vote/register-on-election-day/) when registering.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "To apply, you will need an email address and your ID number: a Minnesota driver's license or ID card or last 4 digits of Social Security number.\n\nThere are multiple ways to request an absentee ballot:\n\n- For Federal, State, or County Elections: Apply online (https://mnvotes.sos.mn.gov/abrequest/index) for an absentee ballot\n- For City, Town or School District Elections: Send a completed absentee ballot application (https://www.sos.mn.gov/media/2444/english-regular-absentee-ballot-application.pdf) to your local city, town or school clerk\n- Permanent Absentee Voter List: Update your voter registration (https://mnvotes.sos.mn.gov/voterregistration/index/) to become a permanent absentee voter.\n\nIf you are a participant in Minnesota's Safe at Home Address Confidentiality Program, contact Safe at Home at 1-866-723-3035 to apply for an absentee ballot.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "The last day to request an absentee ballot (https://mnvotes.sos.mn.gov/abrequest/index) is 1 day before the election.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT EVERY YEAR?",
+            "a": "You can either apply each year for an absentee ballot, or you can sign up for the permanent absentee voter list by updating your voter registration. (https://mnvotes.sos.mn.gov/voterregistration/index/)",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "a": "Your voted absentee ballot must be received by Election Day to be counted.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Your absentee ballot will be sent to you at least 46 days before the election. If you apply after this date, your ballot will be sent when the application is received.\n\nThe only exception is town elections held in March: absentee ballots will be sent 30 days before the election.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
+            "a": "1. Read the instructions that come with your ballot carefully.\n2. You will need a witness when you vote and complete your ballot. The witness can be either a US citizen at least 18 years old on election day or a notary.\n3. Return the ballot and forms right away after you finish. Your ballot will not count if it is received after Election Day.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY VOTED ABSENTEE BALLOT?",
+            "a": "You have multiple options to return your ballot: you can mail it, deposit it in a secure drop box, use a package delivery service like Fed Ex or UPS, or return your ballot in person at your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "You can sign up to track your absentee ballot (https://mnvotes.sos.mn.gov/abstatus/index) on your Secretary of State website.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "If you requested an absentee ballot, you have the option to vote in person if you have not returned your absentee ballot. You can go to your early voting location before Election Day or your polling place on Election Day.\n\nYou should tell the election officials that you requested an absentee ballot but want to vote in person instead. The election official will cancel your absentee ballot and allow you to vote in person. You should shred your absentee ballot when you return home; no other voter may use it.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://mnvotes.sos.state.mn.us/ABRegistration/ABRegistrationStep1.aspx)",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Does Minnesota allow ballot curing?",
+            "a": "If there are fewer than five days before Election Day, election officials will try to contact you. In this case, you can vote in person at your local election office or at your polling place on Election Day.\n\nIf you did not fill out the signature envelope correctly, election officials will mail you replacement materials, including an explanation for why your signature envelope was rejected.\n\nMinnesota doesn’t have a ballot curing process for absentee/mail ballots or provisional ballots after Election Day.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Can I track my absentee ballot?",
+            "a": "You can track the status of your absentee/mail ballot using your state’s online tool (https://mnvotes.sos.mn.gov/abstatus/index).",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "What is a ballot drop box?",
+            "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Are drop boxes available in my state?",
+            "a": "Yes, vote-by-mail drop boxes are available in Minnesota.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Where can I find ballot drop box locations?",
+            "a": "Some local election officials are using drop boxes. Staffed drop boxes can be used to drop off a voter's own ballot, as well as up to three other voters' ballots if they bring an ID. Unstaffed drop boxes can only be used to drop off a voter's own ballot. To determine what kind of drop boxes are in a voter's area and where they are located, voters should contact their local election office (https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.sos.state.mn.us%2Felections-voting%2Ffind-county-election-office%2F&data=04%7C01%7C%7C8c24bf25265d4696c0ba08d86fb33a3b%7C90befbfe6dce4edfba8a35fb67131124%7C0%7C1%7C637382162849700111%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=EUCdjpBESpk%2FTQtEVg6F7QzMa1WL4mPv04MAC2Qmfys%3D&reserved=0).",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Can I track the ballot after placing in the drop box?",
+            "a": "Yes, you can track your ballot by looking up your on the Secretary of State website (https://mnvotes.sos.mn.gov/abstatus/index).",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Can I vote before Election Day in Minnesota?",
+            "a": "Yes. Minnesota allows early voting through absentee voting. You can vote before Election Day either by mail or in person at an early voting location.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Who can vote early in Minnesota?",
+            "a": "Any eligible Minnesota voter can vote early. You do not need a reason or excuse to vote before Election Day.\n\nTo vote by mail, you must request an absentee ballot [link to absentee state topic]. You can apply online, by mail, or in person through your local election office. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "When can I vote early in Minnesota?",
+            "a": "Early voting begins 46 days before Election Day in Minnesota. In-person early voting is typically available during regular business hours, with expanded hours in the days leading up to the election. Some local election offices may offer additional days or hours for absentee voting. Contact your local election office (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Where can I vote early in Minnesota?",
+            "a": "You can vote early in person at your county election office, city clerk’s office, or other designated early voting locations. Locations and hours may vary by area, so check with your local election office (https://absentee.vote411.org/vote/eoddomestic.htm) for details.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Who is eligible to vote in Minnesota?",
+            "a": "You can vote in Minnesota if you:\n\n- Are a U.S. citizen\n- Are at least 18 years old by Election Day (you can pre-register at 16 or 17)\n- Have lived in Minnesota for at least 20 days before the election\n- Are not currently incarcerated for a felony conviction\n- Are not under a court order that revokes your right to vote",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Can I vote in Minnesota if I have a felony conviction?",
+            "a": "Your criminal record does not affect your right to vote in Minnesota unless you are currently incarcerated for a felony conviction. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "How do I vote in Minnesota if I don’t have a permanent address?",
+            "a": "You can still register and vote in Minnesota without a permanent address. You can use the place where you usually sleep, such as a shelter, a friend’s home, or an outdoor location, as your address.\n\nIf you do not have documents showing your address, another registered voter from your precinct or a shelter staff member can confirm where you live when you register or vote.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Can students vote in Minnesota?",
+            "a": "Yes. Students can register and vote in Minnesota if they meet eligibility requirements. Students should register at the address they consider their primary home, which can be either their school address or their home address.\n\nIf you are a student from out of state, you can also choose to vote in your home state using an absentee ballot, but you’ll need to follow your home state’s rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN MINNESOTA?",
+            "a": "It depends on how and when you register. If you register online or by mail, you’ll need to provide your Minnesota driver’s license or state ID number, or the last four digits of your Social Security number. If you register in person on Election Day or during early voting, you must provide an accepted form of proof of residence.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN MINNESOTA?",
+            "a": "To register online or by mail, you’ll need either your Minnesota driver’s license or state ID number. If you don’t have one, you can use the last four digits of your Social Security number.\n\nIf you're registering in person on Election Day or during early voting, you have several options:\n\n- A valid Minnesota driver’s license, state ID, or learner’s permit\n- A Tribal ID that includes your name, photo, address, and signature\n- A student photo ID if your college has submitted a student housing list\n- A registered voter from your precinct or a staff person from a residential facility who can confirm your address\n- A Notice of Late Registration sent to you by election officials\n- Proof that you’re already registered in the same precinct under a different name or address\n- A photo ID (which can be expired) plus a bill or document with your name and current address (like a utility bill, bank statement, or lease)\n\nYou only need one of these options to register in person.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER IN MINNESOTA?",
+            "a": "If you register online or by mail and don’t have a Minnesota ID or a Social Security number, you must write “NONE” in the required field of your application. For in-person registration, if you don’t have documents showing your address, a registered voter from your precinct or a staff person from a residential facility can vouch for you by signing an oath at your polling place.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "When are official election results available in Minnesota?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "Official election results will be uploaded on Minnesota’s Secretary of State website (https://www.sos.mn.gov/elections-voting/election-results) as they become available. For more information on how Minnesota is ensuring secure and fair elections, visit the state's resource page (https://www.sos.state.mn.us/elections-voting/secure-and-fair-elections/).\n\n  Official Results  (https://www.sos.state.mn.us/elections-voting/election-results)",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "What does a poll worker do in Minnesota?",
+            "a": "Poll workers, also called election judges in Minnesota, are trained workers who help run elections at polling places.\n\nThey may:\n\n- Set up and close the polling place\n- Check in and register voters\n- Issue and collect ballots\n- Help voters use voting equipment\n- Count ballots and certify results",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "What qualifications do I need to be a poll worker in Minnesota?",
+            "a": "To be a poll worker in Minnesota, you must:\n\n- Be eligible to vote in Minnesota\n- Be able to read, write, and speak English\n- Not be a candidate or closely related to a candidate on the ballot in that precinct\n\nStudents ages 16 and 17 can serve as trainee poll workers with permission and training.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Are poll workers paid in Minnesota?",
+            "a": "Yes. Poll workers and student trainees are paid for their time, including training and Election Day work. Pay rates vary by location and position. For more information, please reach out to your local elections officials. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "How do I apply to be a poll worker in Minnesota?",
+            "a": "To apply, contact your local city or county election office (https://www.sos.mn.gov/elections-voting/get-involved/become-an-election-judge/). You can also complete an election judge interest form (https://www.sos.mn.gov/media/3110/election-judge-interest-form.pdf) and submit it to your county.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Does Minnesota offer provisional voting?",
+            "a": "No, there is no provisional voting in Minnesota. Election Day (same-day) registration is available.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "What voting assistance is available for voters with disabilities?",
+            "a": "The Help America Vote Act requires that election authorities have voting equipment for voters with disabilities to vote privately and independently, and Minnesota is no exception.\n\nAll polling places should be fully accessible with clearly marked accessible doors and parking spaces. If you cannot easily leave your car, you can ask for the ballot to be brought out to you. If you are unable to go to the polling place due to an illness or disability, you can vote by absentee ballot.\n\nIf you have limited vision, you may ask for voter registration and absentee ballot instructions in an alternative format. If you are hearing impaired, every county and most cities will have a TDD device for questions. Materials can be provided in braille, on audio tape, on CD or in large print. To order any brochures or to order a voter registration application and instructions on how to fill it out, contact the secretary of state's elections division (https://www.sos.state.mn.us/elections-voting/election-day-voting/get-help-voting/) at 651-215-1440 or toll free, at 1-877-600-8683. TTY: 1-800-627-3529.\n\nIf you need assistance completing the election materials, you may bring a family member, friend, neighbor or anyone you choose to help you vote. You may NOT bring your employer, your union, or a candidate for office to help you vote.\n\nFor more information on the provisions available for disabled voters, please contact your local election authority (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "How do I request accommodation or report accessibility issues?",
+            "a": "If you have any questions about receiving help in voting, please ask the clerk or inspector at the polling place.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Can I vote by mail because of my disability?",
+            "a": "Vote-by-mail (absentee voting) is available in Minnesota and no excuse is required. You can find more about how to vote by mail here. (https://www.vote411.org/minnesota#absentee-ballot-process)\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in Minnesota?",
+            "a": "Here is what you need to know to register in Minnesota:\n\nThere are three methods of voter registration in Minnesota: register in-person, register online (https://mnvotes.sos.state.mn.us/VoterRegistration/VoterRegistrationMain.aspx), or mail a printable application (https://www.sos.state.mn.us/elections-voting/register-to-vote/register-on-paper/) to your local elections office.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in Minnesota?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in Minnesota?",
+            "a": "In Minnesota, you must register online or by mail at least 21 days before Election Day. You can also register in person on Election Day, though early registration is encouraged.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in Minnesota?",
+            "a": "A Minnesota voter is not required to show identification. However, if you are voting for the first time, you may be asked to show a form of identification when you go to the polls. This can include a driver’s license, passport, student ID from a state-supported college, or other accepted forms.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "I’m originally from another state, can I still vote in my home state while studying in Minnesota?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Minnesota?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Does Minnesota require employers to give time off to vote?",
+            "a": "Yes. Minnesota law requires employers to give employees time off to vote.\n\nEmployees have the right to take time off from work to vote without losing pay, vacation time, or personal leave. You can take the time needed to go to your polling place, vote, and return to work, and your employer cannot penalize you for doing so.\n\nYou can share a letter from the Secretary of State (https://www.sos.mn.gov/media/ttbmgvob/letter-to-employers.pdf) with your employer that explains your right to take time off to vote.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Do I need an ID to vote in Minnesota?",
+            "a": "You only need to show ID if you need to register or update your registration at the polls. If you're already registered and your name and address haven't changed, you do not need to show ID to vote.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "What types of ID can I use to vote in-person in Minnesota?",
+            "a": "If you need to register or update your registration at the polling place, you’ll need to show proof of residence. You can do this with:\n\n- A valid Minnesota driver’s license, state ID, or learner’s permit\n- A Tribal ID with your name, photo, address, and signature\n- A student photo ID if your college provides a housing list to election officials\n- A registered voter or staff person from a residential facility who can vouch for your address\n- A Notice of Late Registration from election officials\n- Proof you’re already registered in the same precinct under a different name or address\n- A photo ID (can be expired) plus a current bill with your name and address (such as a utility bill, lease, or bank statement)",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Does mail/absentee voting require ID?",
+            "a": "Usually, no. If your identity was verified when you registered to vote, you do not need to show ID to vote absentee.\n\nWhen requesting an absentee ballot online, you may be asked to provide your Minnesota driver’s license or state ID number, or the last four digits of your Social Security number.\n\nSome first-time voters or voters registering while voting early (absentee) may need to provide ID or proof of residence.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "What if I don’t have an acceptable ID?",
+            "a": "If you are registered under your current name and address, no ID is required. However, if you need to register at the polls and don’t have an accepted ID or document, you'll have to show proof of residence using an approved method (such as having a registered voter vouch for you) before you can vote.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Can I use my student ID to vote in Minnesota?",
+            "a": "Yes. A student ID can be used as part of proof of residence when registering, often along with a document showing your current address.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "What is the deadline to register to vote in Minnesota?",
+            "a": "- Online registration deadline: 21 days before Election Day\n- Register by mail deadline: Received 21 days before Election Day\n- In-person registration deadline: Election Day",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "How can I register to vote in Minnesota?",
+            "a": "Election Day registration is available in Minnesota. However, it is encouraged that you register before Election Day. Here are your options:\n\n- Register online (https://www.sos.state.mn.us/elections-voting/register-to-vote/register-online/)\n- Register on paper (https://www.sos.state.mn.us/elections-voting/register-to-vote/register-on-paper/)\n- Register on Election Day (https://www.sos.state.mn.us/elections-voting/register-to-vote/register-on-election-day/)",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Does Minnesota have Automatic Voter Registration?",
+            "a": "Yes, Minnesota has automatic voter registration for eligible individuals when they apply for a driver's license, instruction permit, state ID card, or provide citizenship confirmation at the Department of Public Safety or another participating state agency.\n\nExisting registered voters will have their information updated to reflect any changes in address or name provided to the agency, and new or updated registrants will receive a postcard offering the option to decline their new registration or registration change.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "How can I check my voter registration status?",
+            "a": "You can verify your voter registration status using Minnesota’s voter information tool. (https://mnvotes.sos.mn.gov/voterstatuscheck/index)",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Does Minnesota have online voter registration?",
+            "a": "Yes! Use our online registration tool (https://www.vote411.org/register) to complete your application",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Is same-day voter registration available in Minnesota?",
+            "a": "Yes, Minnesota has same-day voter registration.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Can I pre-register to vote?",
+            "a": "Yes, you can pre-register to vote if you are 16 or 17 years old.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Who is eligible to register in Minnesota?",
+            "a": "Check if you’re eligible to register here (https://www.vote411.org/minnesota#eligibility-requirements).",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "What types of voting machines does Minnesota use?",
+            "a": "The voting systems used in Minnesota are Optical Scan, Paper Ballots, and Direct Recording Electronic (DRE).",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "What is optical scan voting?",
+            "a": "With optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\n\n- With a pen or pencil, you fill in a little box, circle, or space between two arrows.\n- When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\n- Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "What are paper ballots?",
+            "a": "Paper ballots are one of the oldest ways of voting in America.\n\nWhen you come to the polling place, you will get a paper ballot from the poll worker. You take it to the voting booth, and use a pen or pencil to mark a box next to your candidate and issue choices. You then drop the marked ballot into a sealed ballot box.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "What is Direct Recording Electronic Voting?",
+            "a": "Direct Recording Electronic (DRE) is the newest system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.\n\nThere are many variations of DREs because many companies are inventing new ones, and many cities, counties, and states are trying them out.\n\n- Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.\n- Some of these devices will show all candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure).\n- On other DREs, the screen is set up to show pages. There will probably be one thing on which to vote on each screen or page. For example, on one screen or page, you might vote for the president. Then you might move to the next page to vote for a senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for.\n- Other devices have a keypad, and some have a keyboard, so you can write in the name of someone you want to vote for.\n- You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        }
+    ]
+}

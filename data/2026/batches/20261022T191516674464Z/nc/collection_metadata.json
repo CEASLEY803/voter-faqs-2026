@@ -1,0 +1,23 @@
+{
+    "state": "nc",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/north-carolina",
+            "final_url": "https://www.vote411.org/north-carolina",
+            "collected_at": "2026-10-22T19:13:32+00:00",
+            "sha256": "8378d19d6f94c19a2033c78d3d381242b8453a6b442e3906597711739ac87d5f",
+            "snapshot": "data/2026/batches/20261022T191516674464Z/nc/vote411-nc.html"
+        }
+    ],
+    "counts": {
+        "vote411": 70,
+        "supporting_sections": 12
+    },
+    "extraction_version": 3,
+    "reprocessed_from": "data/2026/batches/20261022T191249791410Z/nc",
+    "review_flags": [],
+    "faq_file": "nc_qa_vote411.json",
+    "supporting_content_file": "nc_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

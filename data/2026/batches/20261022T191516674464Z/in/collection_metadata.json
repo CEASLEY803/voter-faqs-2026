@@ -1,0 +1,23 @@
+{
+    "state": "in",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/indiana",
+            "final_url": "https://www.vote411.org/indiana",
+            "collected_at": "2026-10-22T19:13:12+00:00",
+            "sha256": "f1c1e6da952ed86324629d5e4618036d5be3caaab91d2f5175f5b22c404ce0d7",
+            "snapshot": "data/2026/batches/20261022T191516674464Z/in/vote411-in.html"
+        }
+    ],
+    "counts": {
+        "vote411": 28,
+        "supporting_sections": 19
+    },
+    "extraction_version": 3,
+    "reprocessed_from": "data/2026/batches/20261022T191249791410Z/in",
+    "review_flags": [],
+    "faq_file": "in_qa_vote411.json",
+    "supporting_content_file": "in_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

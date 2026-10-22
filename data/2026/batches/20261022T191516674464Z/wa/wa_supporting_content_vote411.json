@@ -1,0 +1,160 @@
+{
+    "state": "wa",
+    "num_sections": 22,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "section_without_questions",
+            "content": "Washington state is a vote by mail (https://www.vote411.org/washington#vote-by-mail) state, so all registered voters receive a ballot by mail. Absentee ballots only need to be requested if you will not be at your registered address during the 18 days before an election. If you are away from your registered address before an election, you can contact your county election official to see if they are able to forward your mail ballot to your new, temporary address. Your ballot is mailed to you at least 18 days before each election. Voted ballots must be postmarked or received by Election Day in order to be counted. You can sign up to track your mail ballot (https://voter.votewa.gov/WhereToVote.aspx#/login) on your Secretary of State website. Absentee ballots begin being counted on Election Day. If you have any questions contact your Secretary of State. (https://absentee.vote411.org/vote/eoddomestic.htm)\n\nYou may request an absentee ballot as early as 90 days before an election. No absentee ballots are issued on election day except to a voter who is a resident of a health care facility. The request for an absentee ballot must be made to your county auditor or elections department. You can also fill out an absentee ballot request for here. (https://absentee.vote411.org/vote/VoterInformation.htm)\n\nNOTE: Absentee ballots must be signed and postmarked or delivered to the county election officer on or before election day.\n\nOverseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "section_without_questions",
+            "content": "The deadline to cure (correct) your absentee/mail ballot is before election certification (21 days after Election Day). If your absentee ballot is rejected, your county election officials will attempt to reach out to you with instructions on how to cure (correct) your ballot signature. You can check the status of your ballot using your state’s online tool. (https://voter.votewa.gov/portal2023/login.aspx)\n\nIf you voted a provisional ballot, election officials will research your ballot to ensure voter eligibility before it is counted. Contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm) to check the status of your provisional ballot.",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org/).\n\nFor information on campaign contributions, please go to your state's site (http://www.pdc.wa.gov/default.aspx). (https://www.pdc.wa.gov/)",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Information on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp).",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Drop Boxes",
+            "kind": "section_without_questions",
+            "content": "You can return your ballot at an official drop box (https://www.sos.wa.gov/_assets/elections/drop%20boxes%20and%20voting%20centers%20pdf.pdf). You can lookup drop box locations online (https://voter.votewa.gov/WhereToVote.aspx) or by contacting your county elections office (https://www.sos.wa.gov/elections/auditors/default.aspx). You can also return your ballot at any in-person voting location in your county. Your ballot must be deposited or postmarked by Election Day. If mailed, the USPS recommends that you mail a week before Election Day.",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "section_without_questions",
+            "content": "Early voting for the November 3, 2026 General Election begins on October 16th and ends November 2nd.\n\nEarly Voting Starts: 18 days before Election Day\nEarly Voting Ends: The day before Election Day\n\nNote: Washington conducts elections primarily by mail.\n\nWashington conducts elections primarily by mail. In-person Early Voting in Washington begins 18 days before the election and goes through Election Day.\n\nYour vote-by-mail ballot is mailed to the address where you're registered to vote. Accessible voting is available through your local elections office (https://www.sos.wa.gov/elections/viewauditors.aspx) or voting center (https://www.sos.wa.gov/_assets/elections/voting%20centers%202019%20general%20election.pdf) until Election Day, 8:00 PM.",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "The next election dates can be found here https://www.vote411.org/washington.\n\nContact your local Board of Elections (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "Even though Washington is a vote-by-mail state, you can still receive in-person services. Each county will have a voting center, at which you can register to vote, receive a replacement ballot, use an accessible voting unit, and more. Voting centers are open during normal business hours beginning 18 days before the election and close promptly at 8 p.m. on Election Day.  You can find your voting center here. (http://myvote.wa.gov/)",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Eligibility Requirements",
+            "kind": "section_without_questions",
+            "content": "To be eligible to vote you must be:\n\n- A citizen of the United States;\n- A legal resident of Washington State;\n- At least 18 years old by Election Day;\n- Not disqualified from voting due to a court order\n\nPeople who have felony convictions:\n\nPeople who have received a felony conviction in a Washington state court will have their right to vote automatically restored as long as they are not serving a sentence of total confinement in the jurisdiction of the Department of Corrections.\n\nPeople who have a felony conviction in a federal court or any state court other than Washington will have their right to vote automatically restored as long as the person is no longer incarcerated.\n\nIf you have been convicted of a felony and are sentenced to a term of total confinement under the jurisdiction of the Department of Corrections or are otherwise incarcerated you must register to vote (https://www.VOTE411.org/register) prior to voting.\n\nVoters without traditional residence:\n\nA voter who lacks a traditional residence may use the place he or she currently sleeps at night or spends most of their time. A mailing address could be a General Delivery address or, if permission is granted, the address of a shelter or a friend or a relative. For more information on residency requirements please click here. (https://www.sos.wa.gov/elections/voters/voter-eligibility.aspx)",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "ID Needed for Voter Registration",
+            "kind": "section_without_questions",
+            "content": "ID is necessary to register. If you register by mail and do not have a state driver's license, state ID card, or a Social Security number, you will be required to provide another form of ID when you cast your ballot.\n\nOther forms of ID include:\n\n- Valid photo ID\n- Valid tribal ID of a federally recognized Indian tribe in Washington state\n- Copy of a current utility bill\n- Current bank statement\n- Copy of a current government check\n- Copy of a current paycheck\n- A government document that shows both your name and address\n\nIf you do not provide one of the above items either before or at the time of voting, your ballot will be treated as a provisional ballot.\n\nOnline Voter Registration (https://olvr.votewa.gov/) is available. You will need a current Washington State driver's license, permit, or ID card.\n\nNote: Begining July 15, 2024, Washington's online voter registration system will be expanded to accept Washington state learner’s permits and the last four digits of a voter’s SSN, while also improving accessibility for Washington Tribal ID holders. Under current law, online registration requires the state to retrieve the voter’s signature from the DMV using the ID number, which was not possible for all Tribal IDs. After the change goes into effect, voters may submit an image of their signature to the Secretary of State as part of their online registration process.",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Official Election Results",
+            "kind": "section_without_questions",
+            "content": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and it’s essential that they take the time to make sure every vote is counted.\n\nOfficial election results will be uploaded on Washington’s Department of Elections website (https://www.sos.wa.gov/elections/research/election-results-and-voters-pamphlets.aspx) as they become available.\n\n  Official Results  (https://www.sos.wa.gov/elections/data-research/election-data-and-maps/election-results-and-voters-pamphlets)",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, or living overseas. To get registered and vote, you can utilize Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Poll Worker Information",
+            "kind": "section_without_questions",
+            "content": "Washington has a vote by mail process and does not have traditional polling places that require staffing by poll workers. To find out how you can volunteer on Election Day, contact your local board of elections. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "Even though Washington is a vote-by-mail state, you can still receive in-person services. Each county will have a voting center, at which you can register to vote, receive a replacement ballot, use an accessible voting unit, and more. Voting centers are open during normal business hours beginning 18 days before the election and close promptly at 8 p.m. on Election Day.  You can find your voting center here. (http://MyVote.wa.gov)",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "Washington has a “top two” primary process. Each candidate is allowed to list a party “preference” on the ballot and all candidates are listed on the same ballot. The two candidates who receive the most votes move on to the General Election, regardless of their party.\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Provisional Voting",
+            "kind": "section_without_questions",
+            "content": "A provisional ballot is issued if:\n\n- A voter’s name is not listed as a registered voter,\n- If they cannot sign their name,\n- Or if they do not have proper identification.\n\nThe verification process checks registration, ensures the ballot is not a duplicate, and inspects the signature. Only verified provisional ballots are counted. Washington state offer same-day registration in person, which greatly reduces the need for provisional ballots.\n\nProvisional ballots are counted 14-21 days after the election. You may contact your county elections department (https://absentee.vote411.org/vote/eoddomestic.htm) to confirm that your ballot was counted.",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Provisions for Voters with Disabilities",
+            "kind": "section_without_questions",
+            "content": "If you are unable to cast your ballot due to a disability, you may assign a person of your choice, or two election officials, to enter the voting booth and record the votes your direct.\n\nFederal law requires that every voting center have a voting system that is accessible to all individuals with disabilities. The law requires that the system provide individuals with disabilities the same opportunity to vote privately and independently as other voters. When possible, the county auditor must use voting centers that are accessible to all voters. In instances where a voting center does not meet accessibility standards, additional assistance must be available. The accessibility standards include:\n\n- Written notice to voters assigned to an inaccessible voting center explaining the factors that make the voting center inaccessible. This notice must be provided no later than 30 days prior to an election.\n- Reassignment to an accessible voting center upon advance request from a voter assigned to an inaccessible polling place.\n- A disabled parking space.\n- Signs identifying an accessible route of travel to the voting center if different than the primary route.\n- An unobstructed route of travel to the voting center.\n- Level, firm, stable and slip-resistant surfaces.\n- An unobstructed area for voting.\n- At least one voting booth with a maximum height of 30 inches and a minimum knee clearance of 27 inches.\n- Sufficient lighting along the accessible route of travel and within the voting center.\n\nPlease contact your county elections department to learn about multilingual services that may be available at your voting site. Assistance may be provided by a person of the voter's choice, or by two election officials of opposite political parties.\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (https://voter.votewa.gov/WhereToVote.aspx)",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Vote by Mail",
+            "kind": "section_without_questions",
+            "content": "Washington State votes by mail. Your ballot is mailed to you at least 18 days before each election. In order to receive your ballot your voter registration address must be current. You can update your address online (https://voter.votewa.gov/WhereToVote.aspx).\n\nYour ballot packet will include a ballot, a secrecy envelope and a return envelope. If you need a replacement ballot contact your county election officials. (https://absentee.vote411.org/vote/eoddomestic.htm)\n\nThe ballot must be\n\n- Postmarked no later than Election day; or\n- Returned to a designated ballot drop box by 8pm on Election Day; or\n- Returned in person to your county elections department by 8pm on Election Day\n\nYou can still vote in person on or before Election Day. Each county will have a voting center, which will be open during business hours beginning 18 days before the election and ending at 8pm on Election Day. You can find your voting center here.  (http://MyVote.wa.gov)\n\nYou can sign up to track your mail ballot (https://voter.votewa.gov/WhereToVote.aspx#/login) on your Secretary of State website.\n\nIf you fail to sign the ballot declaration, or the signature on the ballot declaration does not match the signature in your voter registration record, your county elections department will contact you.",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Voter ID Requirements",
+            "kind": "section_without_questions",
+            "content": "ID is needed when you register to vote and ID is only required if you use an audiovisual unit at a voting center.\n\nAcceptable forms of ID for voting include:\n\n- Photo ID, such as a driver's license, state ID card, student ID card, or tribal ID card\n- Voter registration card\n- Utility Bill\n- Bank statement\n- Paycheck\n- Government check\n- Other government document\n\nA voter who does not have ID may vote a provisional ballot.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Voter Registration Deadlines",
+            "kind": "section_without_questions",
+            "content": "The voter registration deadline for the Tuesday, November 3, 2026 General Election is October 26, 2026. Election Day registration is available if you vote in person.\n\nOnline registration deadline: 8 days before Election Day\n\nRegister by mail deadline: Received 8 days before Election Day\n\nIn-person registration deadline: Election Day\n\nNot registered? Use our online registration tool (https://www.vote411.org/register) to complete your application!",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        },
+        {
+            "topic": "Voting Machines",
+            "kind": "section_without_questions",
+            "content": "Washington is a mail in ballot state. The public may observe the processing of mail ballots. You may contact your County Auditor to arrange times to observe. Ballots are tabulated on optical scan and digital scan tabulating equipment. The equipment must be able to determine the ballot format for every ballot. Bar codes on each ballot allow the tabulation equipment to immediately determine the ballot format of that ballot, which allows the equipment to correctly read the ballot.",
+            "s": "https://www.vote411.org/washington",
+            "t": "2026-10-22T19:14:06+00:00"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "state": "nc",
+    "num_sections": 12,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "topic_introduction",
+            "content": "Vote-by-mail (absentee voting) is available in North Carolina and no excuse is required.  The last day to request an absentee ballot (https://votebymail.ncsbe.gov/app/home) is two weeks before Election Day by 5pm.\n\nYour ballot must be received by 7:30pm on Election Day to be counted. Absentee voting deadlines are different for military and overseas voters. You can sign up to track your absentee ballot (https://vt.ncsbe.gov/RegLkup/) on your State Board of Elections website.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "topic_introduction",
+            "content": "Ballot curing is when a voter corrects an issue with their ballot, so it can be counted.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).\n\nFor information on state campaign contributions, please visit your state's resource. (https://www.ncsbe.gov/Campaign-Finance)",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Information on local, state and federal candidates and ballot measures may be available here. (https://www.vote411.org/vote411.org/ballot)",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "topic_introduction",
+            "content": "Early voting for the November 3, 2026 General Election begins on October 15th and ends October 31st.\n\nEarly Voting Starts: Third Thursday before election, approximately 17 days before Election Day. This may vary by county. Contact your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm) for more details.\nEarly Voting Ends: At 3:00 pm the Saturday before Election Day",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "The next election date can be found here (https://www.ncsbe.gov/voting/upcoming-election).\n\nContact your local Board of Elections (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "On Election Day, polling places will be open from 6:30 am to 7:30 pm.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://voterhelpdesk.usvotefoundation.org/en/support/home)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://voterhelpdesk.usvotefoundation.org/en/support/home)\n\nNote: Military and overseas voters casting ballots under special provisions for these voters are required to submit a photocopy of their ID or an ID Exception Form when returning their ballot, even if they are using the overseas online portal.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "topic": "Poll Worker Information",
+            "kind": "topic_introduction",
+            "content": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker toda (https://powerthepolls.org/lwv)y!",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "You can find your polling place by utilizing your state resource. (https://vt.ncsbe.gov/PPLkup/) If you have further questions on your polling place location, please use the County Board of Elections Search. (https://vt.ncsbe.gov/BOEInfo/)",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "North Carolina is a “partially closed” primary state. Each party has the ability to choose whether to allow unaffiliated voters or voters not registered with their party to participate in their primary. This year, unaffiliated voters may choose the ballot of any party that has a primary. This decision is made before the election cycle begins.\n\nIn a primary election if a candidate does not with 30% of the votes there will be a primary runoff election scheduled for a few weeks after the primary election date. The runoff election will have the top two candidates with the most votes to ensure that one of them receives the majority of the voters.\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://vt.ncsbe.gov/BOEInfo/).",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (https://vt.ncsbe.gov/RegLkup/)",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        }
+    ]
+}

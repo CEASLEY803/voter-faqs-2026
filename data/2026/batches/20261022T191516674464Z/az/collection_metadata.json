@@ -1,0 +1,23 @@
+{
+    "state": "az",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/arizona",
+            "final_url": "https://www.vote411.org/arizona",
+            "collected_at": "2026-10-22T19:12:55+00:00",
+            "sha256": "6371971864eed43ce059248db6e44f1e05542526446be32e87fa443bc0599a4e",
+            "snapshot": "data/2026/batches/20261022T191516674464Z/az/vote411-az.html"
+        }
+    ],
+    "counts": {
+        "vote411": 68,
+        "supporting_sections": 11
+    },
+    "extraction_version": 3,
+    "reprocessed_from": "data/2026/batches/20261022T191249791410Z/az",
+    "review_flags": [],
+    "faq_file": "az_qa_vote411.json",
+    "supporting_content_file": "az_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

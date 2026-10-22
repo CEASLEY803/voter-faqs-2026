@@ -1,0 +1,23 @@
+{
+    "state": "ar",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/arkansas",
+            "final_url": "https://www.vote411.org/arkansas",
+            "collected_at": "2026-10-22T19:12:53+00:00",
+            "sha256": "d55932599d2959e4a4cbfdc1f36be2866456cc0df07efca7f399914e041d5e29",
+            "snapshot": "data/2026/batches/20261022T191516674464Z/ar/vote411-ar.html"
+        }
+    ],
+    "counts": {
+        "vote411": 33,
+        "supporting_sections": 16
+    },
+    "extraction_version": 3,
+    "reprocessed_from": "data/2026/batches/20261022T191249791410Z/ar",
+    "review_flags": [],
+    "faq_file": "ar_qa_vote411.json",
+    "supporting_content_file": "ar_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

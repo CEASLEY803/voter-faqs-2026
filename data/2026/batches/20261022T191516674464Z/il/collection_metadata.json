@@ -1,0 +1,23 @@
+{
+    "state": "il",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/illinois",
+            "final_url": "https://www.vote411.org/illinois",
+            "collected_at": "2026-10-22T19:13:10+00:00",
+            "sha256": "e948d86154335651193cd17c10f2753c557ffcbff769792b958e81ec77599be1",
+            "snapshot": "data/2026/batches/20261022T191516674464Z/il/vote411-il.html"
+        }
+    ],
+    "counts": {
+        "vote411": 63,
+        "supporting_sections": 12
+    },
+    "extraction_version": 3,
+    "reprocessed_from": "data/2026/batches/20261022T191249791410Z/il",
+    "review_flags": [],
+    "faq_file": "il_qa_vote411.json",
+    "supporting_content_file": "il_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

@@ -1,0 +1,164 @@
+{
+    "state": "id",
+    "num_questions": 26,
+    "num_answers": 26,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "In Idaho, all voters can apply to vote absentee.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "You can apply online (https://elections.sos.idaho.gov/ElectionLink/ElectionLink/BeginAbsenteeRequest.aspx) or submit an absentee ballot request form (https://sos.idaho.gov/elections/forms/absentee_ballot_request.pdf) to your County Clerk 11 days before the election.\n\nThe application must give your name, address, and mailing address to which the ballot will be forwarded. The mail-in application must be signed personally by you and be received by the County Clerk (https://absentee.vote411.org/vote/eoddomestic.htm) no later than 11 days before the election.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "You must request an absentee ballot at least 11 days before Election Day. If completing a paper request form, it must be received by your County Clerk’s office by 5pm that day.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT EACH YEAR?",
+            "a": "Yes, you must complete a new absentee ballot request form each calendar year. You have the option to select all the elections in that year on your request form.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING A VOTED ABSENTEE BALLOT?",
+            "a": "Your voted ballot must be received by your County Clerk by 8pm on Election Day for your vote to be counted.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS AVAILABLE TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Election officials start mailing out ballots to those who have requested them 45 days before the election.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "HOW DO I VOTE AN ABSENTEE BALLOT?",
+            "a": "When you have received your absentee ballot:\n\n- You will receive instructions, a secrecy sleeve, and a return envelope with the ballot.\n- Follow the instructions carefully. Mark your ballot using a blue or black ink pen and fill in the box or oval completely.\n- Pay attention to ballot instructions and vote only for the appropriate number of candidates in each race.\n- Remember to sign the outside of the return envelope. All signatures will be verified by elections staff.\n- Add the required postage to the return envelope if mailing.\n\nReturn your voted ballot by mail, to a secure ballot drop box, or to your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm) by 8pm on Election Day for your vote to be counted.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY VOTED ABSENTEE BALLOT?",
+            "a": "Return your voted ballot by mail, to a secure ballot drop box, or to your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm) by 8pm on Election Day for your vote to be counted.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "You can track your absentee ballot (https://voteidaho.gov/casting-your-ballot/#absentee-voting) status on the Secretary of State's website.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "If you requested an absentee ballot but want to vote in person, you must surrender your absentee ballots before receiving a regular ballot. Do not mail a ballot and vote in person. For specifics, you can find your local county clerk's contact info here. (https://absentee.vote411.org/vote/eoddomestic.htm)\n\nIn-person voting at the absentee elector's polling place ends at 5pm on the Friday before the election.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://idahovotes.gov/absentee-voter-information/)",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "WHO CAN REGISTER TO VOTE IN IDAHO?",
+            "a": "To register to vote in Idaho, you must:\n\n- Be a US citizen\n- Be 18 years or older\n- Be a resident of Idaho for at least 30 days before the election\n- Not currently serving a felony sentence (you must have completed all terms of your sentence before registering)",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "WHO CAN VOTE IN IDAHO?",
+            "a": "You can vote in Idaho if:\n\n- You are registered to vote\n- You meet the eligibility requirements (U.S. citizen, 18+, Idaho resident for 30+ days, not currently disenfranchised due to a felony sentence)",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
+            "a": "In Idaho, you are not eligible to vote until after you finish all parts of your sentence, including any probation, parole, or supervised release. At that time, you can register to vote. Pretrial detention and misdemeanor convictions do not restrict your voting rights.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "a": "If you’re an Idaho voter without a permanent home or currently experiencing homelessness, you can still register to vote. Use a location where you usually stay or return to. This could be a shelter you visit, or a specific spot like a park or street corner.\n\nIf you don’t get mail at that location, you can also list a separate mailing address. This can be a P.O. box, a shelter, an advocacy group, an outreach center, or even the home of someone willing to accept mail for you. Just make sure to include the full mailing address (number, street, city, state, and zip code) on your registration form.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN IDAHO?",
+            "a": "Yes. To register in person, you’ll need to show a current photo ID and proof of residence.\n\nIf you’re registering online (https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ApplicationInstructions.aspx), you’ll need a current Idaho driver’s license or state ID card to verify your identity. If you’re registering by mail, you’ll need to include documents that prove both your identity and residence.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN IDAHO?",
+            "a": "For photo ID, you can use any of the following:\n\n- Idaho Driver’s License\n- Idaho State Identification Card\n- US Passport or Federal ID\n- Tribal ID Card\n- Concealed Weapons License issued by a county sheriff in Idaho\n\nFor proof of residence, you can use any of these (if your photo ID doesn’t already have your current address):\n\n- A photo ID with your current address\n- Proof of insurance\n- Mortgage, lease, or rental agreement\n- Property tax bill or assessment\n- Utility bill (excluding cell phone bills)\n- Bank or credit card statement\n- Paystub or paycheck\n- Intake document from a care facility\n- Enrollment letter from an Idaho high school or university\n- Letter from a social service agency",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER?",
+            "a": "You may be eligible for a free Idaho ID card for voting, just visit your local county DMV office to request one. Learn more here. (https://itd.idaho.gov/wp-content/uploads/2023/09/DMV_info_Free_ID_for_Voting.pdf)\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in Idaho?",
+            "a": "Here is what you need to know to register in Idaho:\n\nThere are three methods of voter registration in Idaho: register in-person, register online (https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ApplicationInstructions.aspx), or mail a printable application (https://sos.idaho.gov/elections/forms/voter_registration.pdf) to your local county clerk.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in Idaho?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in Idaho?",
+            "a": "Idaho requires voters to register at least 25 days before the election. Be sure to check the exact date each year.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in Idaho?",
+            "a": "You must present a photo ID when voting in person in Idaho. This can include a driver’s license, passport, student ID from a state-supported college, or other accepted forms.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "I’m originally from another state, can I still vote in my home state while studying in Idaho?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Idaho?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO VOTE IN IDAHO?",
+            "a": "You can use any of the following photo IDs:\n\n- Idaho driver’s license or state ID card\n- US passport or federal photo ID\n- Tribal identification card\n- Concealed weapons license issued by a county sheriff in Idaho",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
+            "a": "If you don’t have one of the accepted photo IDs, you can still vote by signing a Personal Identification Affidavit at your polling place. On the affidavit, you will provide your name and address and swear to your identity under penalty of perjury. Once signed, you will be given a ballot and allowed to vote like any other voter.\n\nIf you’d like to get a free Idaho ID for voting, visit your local county DMV office. Learn more Learn more here. (https://itd.idaho.gov/wp-content/uploads/2023/09/DMV_info_Free_ID_for_Voting.pdf)\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2026-10-22T19:13:09+00:00"
+        }
+    ]
+}

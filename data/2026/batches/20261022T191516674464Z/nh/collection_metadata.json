@@ -1,0 +1,23 @@
+{
+    "state": "nh",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/new-hampshire",
+            "final_url": "https://www.vote411.org/new-hampshire",
+            "collected_at": "2026-10-22T19:13:37+00:00",
+            "sha256": "68e92604977977dcba8ac4858f742fe018c896c010a9d506a99d8664ecc0fb8d",
+            "snapshot": "data/2026/batches/20261022T191516674464Z/nh/vote411-nh.html"
+        }
+    ],
+    "counts": {
+        "vote411": 43,
+        "supporting_sections": 10
+    },
+    "extraction_version": 3,
+    "reprocessed_from": "data/2026/batches/20261022T191249791410Z/nh",
+    "review_flags": [],
+    "faq_file": "nh_qa_vote411.json",
+    "supporting_content_file": "nh_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

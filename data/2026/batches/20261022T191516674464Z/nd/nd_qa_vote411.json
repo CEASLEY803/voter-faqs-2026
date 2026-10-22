@@ -1,0 +1,128 @@
+{
+    "state": "nd",
+    "num_questions": 20,
+    "num_answers": 20,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "Who is eligible to vote absentee?",
+            "a": "Any North Dakota voter can vote absentee.",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "You can fill out the absentee ballot application online (https://absentee.vote411.org/vote/VoterInformation.htm), print, sign and submit it to your county auditor, or you can print the application form (https://www.nd.gov/eforms/Doc/sfn51468.pdf), complete, sign, and submit it.\n\nSome counties are designated by their Board of County Commissioners as vote by mail counties. If a county is not a vote by mail county, it is an absentee county. The only difference between vote by mail counties and absentee counties is how the voter receives their application for a ballot.\n\n- In vote by mail counties, the county auditor mails an absentee ballot application to all eligible voters.\n- In absentee counties, voters must request the application for an absentee ballot from their county auditor.\n\nYou are never mailed a ballot without first requesting one. Make sure you have valid North Dakota ID information (https://www.vote411.org/north-dakota%23id-needed-for-voting) to apply for an absentee ballot.",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "The deadline to request an absentee ballot is 1 day before Election Day.",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING MY COMPLETED ABSENTEE BALLOT?",
+            "a": "Voted absentee ballots must be received by the close of polls on Election Day to be counted. You can mail it, drop it off in person to your county auditor, or drop it off in your county’s secure ballot drop box by the close of polls on Election Day.",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT EACH YEAR?",
+            "a": "Yes, you must request an absentee ballot each calendar year. You can indicate on your absentee ballot application which elections within the calendar year for which you’d like an absentee ballot mailed to you.",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "WHEN ARE MAIL BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Absentee ballots are available by the 40th day before the election. You may live in a county using mail ballot elections (at least one polling place must be open on Election Day). In these counties, a mail ballot application is required to be sent to every active voter between the 50th and 40th day before the election.",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
+            "a": "After you receive your absentee ballot, you can:\n\n1. Vote your ballot with a blue or black pen.\n2. Place your ballot in the provided ballot secrecy envelope.\n3. Put your secrecy envelope inside the return envelope and seal it.\n4. Sign and date the back of the return envelope.\n5. Return your ballot by mail using the proper amount of postage or in-person to your county auditor or in your county’s secure ballot drop box.\n\nWhen your county auditor receives your completed absentee ballot, they will review your signature on the return envelope to verify that it matches the signature on the absentee ballot application you submitted. When verified, your voter record is updated to indicate that you have returned a ballot.",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT?",
+            "a": "You can return your completed absentee ballot by mail, in-person to your county auditor, or drop it off in your county’s secure ballot dropbox.\n\n- By Mail: Ballots must be received by the close of polls on Election Day. Postage will be paid by the voter.\n- In Person: You may hand-deliver your absentee ballot to the county auditor or appropriate election official by the close of polls on Election Day. Look up the address for your county courthouse (https://absentee.vote411.org/vote/eoddomestic.htm).\n- Ballot Drop Box: Secure absentee ballot drop boxes are provided in each county for voters who wish to deliver their absentee ballot directly to the county. Ballots must be placed in the drop box by the close of polls on Election Day. Check for your county’s drop box by entering your address in the state’s Polling Place Locator (https://vip.sos.nd.gov/wheretovote.aspx).",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "HOW CAN I TRACK MY ABSENTEE BALLOT?",
+            "a": "You can sign up to track your absentee ballot on the Secretary of State’s website (https://vip.sos.nd.gov/AbsenteeTracker.aspx).",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "As long as you haven’t submitted your absentee ballot, you can vote in person using a regular ballot.",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request a mail ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "WHO CAN REGISTER TO VOTE IN NORTH DAKOTA?",
+            "a": "North Dakota does not require voter registration, but you need a valid form of identification that can be used for voting. Make sure you have proper identification (https://www.sos.nd.gov/elections/voter/voting-north-dakota/forms-voter-id) with you before you go to the polls to vote.",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "WHO CAN VOTE IN NORTH DAKOTA?",
+            "a": "To be eligible to vote in North Dakota, you must be:\n\n- A US citizen\n- At least 18 years old on Election Day\n- A legal North Dakota resident\n- A resident in the precinct for 30 days preceding the election",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "CAN I VOTE IN NORTH DAKOTA IF I HAVE A FELONY CONVICTION?",
+            "a": "In North Dakota, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, your voting rights are immediately restored upon release. Pretrial detention, misdemeanors, probation, or parole do not restrict your voting rights.",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "CAN I REGISTER AND VOTE IN NORTH DAKOTA IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "a": "North Dakota does not require voter registration, but you must provide identification with your name, date of birth, and a North Dakota residential address at the polls. If you do not have a traditional address, you can still vote by using identification or documents that show where you currently stay. This can include a letter from the person you’re staying with, a shelter or relief agency certification, or an official document that lists your temporary residence. If your ID does not show your current address, you can bring supplemental documents to the polls. You must also provide a mailing address if it is different from your residential address. This can be a P.O. box, shelter, advocacy organization, outreach center, or the home of someone willing to accept mail for you. Learn more here. (https://vip.sos.nd.gov/pdfs/portals/Homeless%20Flyer.pdf)",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "DO I NEED TO SHOW ID WHEN I VOTE IN NORTH DAKOTA?",
+            "a": "Yes. North Dakota does not require voter registration, but you must present a valid ID to vote. Acceptable IDs must include your name, current North Dakota residential address, and date of birth.",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO VOTE IN NORTH DAKOTA?",
+            "a": "Acceptable forms of ID are:\n\n- ND driver's license\n- ND non-driver's ID card\n- Tribal government-issued ID card\n- Long-term care ID certificate\n\nTo vote absentee, acceptable forms of ID are:\n\n- Any form of ID listed above\n- Passport or Military ID - Only for ND residents living outside the US who do not possess one of the other forms of ID\n- Attester—An applicant without an acceptable form of ID may use an attester. The attester must provide his or her name, ND driver's license, non-driver's ID card, or tribal ID number and sign the absentee/mail ballot application form to attest to the applicant's ND residency and voting eligibility.",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "HOW DO I UPDATE MY ID?",
+            "a": "If you have moved or changed your name since your ID was issued, you may need to update it before Election Day. The North Dakota Department of Transportation lets you update your address and schedule appointments online (https://apps.nd.gov/dot/dlts/dlos/addressWelcome.htm) to obtain new IDs.",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "CAN I USE MY STUDENT ID TO VOTE?",
+            "a": "No, a student ID is not a form of valid voter ID.",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN NORTH DAKOTA?",
+            "a": "If you don't have an acceptable form of ID, find out how to get a North Dakota ID card (https://www.dot.nd.gov/driver/driver-education/driver-license-requirements) from your local driver’s license office. If you don’t have an acceptable ID when you go to vote in North Dakota, you can still vote by casting a set-aside ballot. This means your ballot will be securely held until you provide valid identification. You must present your ID to the proper election official before the county canvassing board meets, usually within 13 days after the election. Once you do, your ballot will be counted and included in the official results.\n\nLearn more about North Dakota’s voter ID requirements (https://vip.sos.nd.gov/IDRequirements.aspx).\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/north-dakota",
+            "t": "2026-10-22T19:13:34+00:00"
+        }
+    ]
+}
