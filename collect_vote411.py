@@ -3,11 +3,12 @@
 import argparse
 from datetime import datetime, timezone
 import json
+from pathlib import Path
 import time
 
 import requests
 
-from collect_sc import ROOT, fetch_page, parse_vote411, validate_dataset, validate_records
+from collect_sc import EXTRACTION_VERSION, ROOT, fetch_page, parse_vote411, replay_page, validate_dataset, validate_records
 
 
 STATE_SLUGS = {
@@ -27,7 +28,7 @@ STATE_SLUGS = {
 }
 
 
-def collect_state(state, contributor, batch_dir=None):
+def collect_state(state, contributor, batch_dir=None, original_run=None):
     """Keep one state's source snapshot and validated outputs in a separate run."""
     slug = STATE_SLUGS[state]
     url = f"https://www.vote411.org/{slug}"
@@ -37,7 +38,13 @@ def collect_state(state, contributor, batch_dir=None):
     else:
         run_dir = batch_dir / state
     run_dir.mkdir(parents=True, exist_ok=False)
-    page, source_metadata = fetch_page(url, run_dir / f"vote411-{state}.html")
+    if original_run is None:
+        page, source_metadata = fetch_page(url, run_dir / f"vote411-{state}.html")
+    else:
+        saved_source = json.loads((original_run / "source_metadata.json").read_text(encoding="utf-8"))
+        if saved_source["requested_url"] != url:
+            raise ValueError(f"Saved source URL does not match {state}.")
+        page, source_metadata = replay_page(saved_source, original_run, run_dir)
     (run_dir / "source_metadata.json").write_text(
         json.dumps(source_metadata, indent=4) + "\n", encoding="utf-8")
     questions, supporting = parse_vote411(page, source_metadata)
@@ -48,7 +55,9 @@ def collect_state(state, contributor, batch_dir=None):
         "contributor": contributor,
         "questions": questions,
     }
-    validate_dataset(dataset)
+    if not questions and not supporting:
+        raise ValueError("No FAQ or supporting content was extracted.")
+    validate_dataset(dataset, allow_empty=bool(supporting))
     validate_records(supporting, ("topic", "kind", "content", "s", "t"))
     faq_filename = f"{state}_qa_vote411.json"
     supporting_filename = f"{state}_supporting_content_vote411.json"
@@ -58,7 +67,9 @@ def collect_state(state, contributor, batch_dir=None):
         "coverage": "Vote411 only; state election commission not yet collected in this run",
         "sources": [source_metadata],
         "counts": {"vote411": len(questions), "supporting_sections": len(supporting)},
-        "extraction_version": 2,
+        "extraction_version": EXTRACTION_VERSION,
+        "reprocessed_from": original_run.relative_to(ROOT).as_posix() if original_run else None,
+        "review_flags": ["No identifiable question headings; supporting content only"] if not questions else [],
         "faq_file": faq_filename,
         "supporting_content_file": supporting_filename,
         "review_status": "Pending human review of source fidelity and completeness",
@@ -81,6 +92,7 @@ def main():
     accepted_states = list(STATE_SLUGS) + list(STATE_SLUGS.values())
     parser.add_argument("states", nargs="*", help="State codes or full URL slugs")
     parser.add_argument("--all", action="store_true", help="Collect all 50 US states")
+    parser.add_argument("--from-batch", type=Path, help="Reprocess saved batch sources without downloading")
     parser.add_argument("--contributor", default="Cole Easley")
     arguments = parser.parse_args()
     if arguments.all and arguments.states:
@@ -102,10 +114,11 @@ def main():
     manifest_path = batch_dir / "batch_manifest.json"
     manifest_path.write_text(json.dumps(manifest, indent=4) + "\n", encoding="utf-8")
     for index, state in enumerate(states):
-        if index:
+        if index and not arguments.from_batch:
             time.sleep(1)
         try:
-            run_dir = collect_state(state, arguments.contributor, batch_dir)
+            original_run = (ROOT / arguments.from_batch / state).resolve() if arguments.from_batch else None
+            run_dir = collect_state(state, arguments.contributor, batch_dir, original_run)
             metadata = json.loads((run_dir / "collection_metadata.json").read_text(encoding="utf-8"))
             manifest["results"][state] = {
                 "status": "success", "directory": run_dir.relative_to(ROOT).as_posix(),
