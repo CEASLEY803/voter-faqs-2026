@@ -1,0 +1,90 @@
+{
+    "state": "sc",
+    "num_sections": 12,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "section_without_questions",
+            "content": "Absentee voting by mail is available if you meet any of the criteria below. The deadline to return your absentee ballot application is at 5:00 p.m. on the 11th day prior to the election. Voted ballots must be received by 7pm on Election Day in order to be counted. You can track your absentee ballot here. (https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=AbsenteeInfo)\n\n- Persons who will be absent from their county of residence during early voting hours for the duration of the early voting period, and during the hours the polls are open on election day.\n- Persons with employment obligations which prevent them from voting during early voting hours for the duration of the early voting period, and during the hours the polls are open on election day.\n- Persons attending a sick or physically disabled person which prevents them from voting during early voting hours for the duration of the early voting period, and during the hours the polls are open on election day.\n- Persons confined to a jail or pretrial facility pending disposition of arrest or trial which prevents them from voting during early voting hours for the duration of the early voting period, and during the hours the polls are open on election day.\n- Persons with physical disabilities.\n- Persons sixty-five years of age or older.\n- Members of the Armed Forces and Merchant Marines of the United States, their spouses, and dependents residing with them (Learn more about procedures related to Military and Overseas Citizens) (https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fscvotes.gov%2Fmilitary-overseas-citizens&data=05%7C01%7Cigarcia-hernandez%40lwv.org%7C98de7a8bfa7440f3d4b208da4253be1e%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C0%7C637895224692916747%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=1O3K8KSn0HrrbGvf817FVOQbOMOLFf8RgJQadfqKo5k%3D&reserved=0).\n- Persons admitted to a hospital as an emergency patient on the day of the election or within a four-day period before the election (see additional details below).\n\nCall, visit or send your request by U.S. mail to your county voter registration office (https://scvotes.gov/contact/county-voter-registration-election-offices/).\n\n- You must provide your name, date of birth and last four digits of your Social Security Number.\n- You will be mailed an application.\n- See the details on the absentee process at the South Carolina Election Commission's Absentee Voting page https://www.scvotes.gov/absentee-voting (https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.scvotes.gov%2Fabsentee-voting&data=05%7C01%7Cigarcia-hernandez%40lwv.org%7C98de7a8bfa7440f3d4b208da4253be1e%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C0%7C637895224692916747%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Killu3rqB1ue9kk%2FMe08wqBO2Tn%2FQXpDQ5Yodxap%2BS4%3D&reserved=0) (including how Immediate Family Members and Authorized Representatives can request a voter's application.)\n\nTo check the status of your absentee ballot, please use your state's tool. (https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=AbsenteeInfo)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T14:22:49+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "topic_introduction",
+            "content": "Ballot curing occurs when a voter corrects an issue with their ballot so it can be counted.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T14:22:49+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).\n\nFor information on state campaign contributions, please visit your state's resource (http://ethics.sc.gov/).",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T14:22:49+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Information on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp).",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T14:22:49+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "topic_introduction",
+            "content": "Early voting for the November 3, 2026 General Election begins on October 19th and ends October 31st.\n\nEarly Voting Starts: 15 days before Election Day\nEarly Voting Ends: The Saturday before Election Day",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T14:22:49+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "The next election dates can be found here https://www.vote411.org/south-carolina.\n\nContact your local Board of Elections (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T14:22:49+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "The polls will be open from 7:00 am to 7:00 pm.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T14:22:49+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T14:22:49+00:00"
+        },
+        {
+            "topic": "Poll Worker Information",
+            "kind": "topic_introduction",
+            "content": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker toda (https://powerthepolls.org/lwv)y!",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T14:22:49+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "You can find your polling place by utilizing your state resource (https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=VoterInfo).\n\nIf you have further questions on your polling place location, please contact your county clerk (https://www.overseasvotefoundation.org/vote/election-official-directory). (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T14:22:49+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "South Carolina is an “open primary” state. You can choose the party’s ballot you wish to vote. This decision does not register you with that party and it is a private decision.\n\nIn a primary election if a candidate does not with the majority of the votes (50%+1) there will be a primary runoff election scheduled for a few weeks after the primary election date. The runoff election will have the top two candidates with the most votes to ensure that one of them receives the majority of the voters.\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T14:22:49+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (https://vrems.scvotes.sc.gov/Voter/Login?PageMode=VoterInformation)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T14:22:49+00:00"
+        }
+    ]
+}
