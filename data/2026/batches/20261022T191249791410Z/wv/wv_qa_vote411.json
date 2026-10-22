@@ -1,0 +1,86 @@
+{
+    "state": "wv",
+    "num_questions": 13,
+    "num_answers": 13,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "You may submit an absentee ballot application if you meet any of the following criteria:\n\n- Attending school\n- Illness, injury or other medical reason\n- Traveling outside the county for business or personal reasons\n- Incarcerated or serving home confinement for misdemeanor, and legally registered to vote\n- Work hours and distance from county seat\n- Work assignment requires living temporarily outside the county (4 years or less)\n- Service as election or appointed or federal official requires living temporarily outside country\n- If the early voting, or Election Day polling locations are inaccessible\n- If you are attending college or another place of education or training\n\nTo download the absentee ballot application, use your state's resource. (https://sites.omniballot.us/54/absentee/app/home)",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "HOW DO I VOTE ABSENTEE?",
+            "a": "There are a few absentee ballot options in West Virginia for those who meet the criteria:\n\n1. Absentee Ballot: Complete and submit an absentee ballot application. Download it from your state's resource. (https://sites.omniballot.us/54/absentee/app/home)\n2. Emergency Absentee Voting: If you're in a hospital or other health care facility on Election Day or are a poll worker appointed to a precinct other than your own after Early Voting you can apply for emergency absentee voting (https://sos.wv.gov/FormSearch/Elections/Voter/Application%20for%20Voting%20an%20Emergency%20Absent%20Voter&apos;s%20Ballot.pdf). Some counties allow for emergency absentee voting in other situations, so be sure to check with your County Clerk for more information.\n3. Permanent Absentee Voting: If you are a participant in the West Virginia Secretary of State's Address Confidentiality Program or you have a permanent, physical disability that prevents you from going to a polling place, you can apply for permanent absentee voting. (https://sos.wv.gov/FormSearch/Elections/Voter/Special%20Absentee%20List%20Form.pdf)\n4. Electronic Absentee for Voters with Certain Physical Disabilities: Voters with physical disabilities that prevent them from voting in person and from voting paper ballots without assistance may request to receive and return their ballots electronically. For more information, review the state’s Electronic Absentee Informational Flye (https://sos.wv.gov/elections/Documents/EAV%20Fact%20Sheet.pdf)r.\n5. In-Person Voting After Requesting Absentee: If you requested an absentee ballot but didn’t use it, you can vote in person by surrendering the unvoted ballot at the polling place. If you don’t surrender it, you’ll have to vote provisionally.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR REQUESTING AN ABSENTEE BALLOT?",
+            "a": "The last day to request an absentee ballot  (https://sites.omniballot.us/54/absentee/app/home)is 6 days before the election.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT APPLICATION?",
+            "a": "You can return your absentee ballot request form through the mail, in person, or scanned as an attachment to an email. Just be sure to include your proof of ID no matter how you return the request form.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
+            "a": "Yes, you must apply separately for each election. The application period begins not earlier than January 1 of an election year or 84 days preceding the election, whichever is earlier.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "a": "You can deliver your voted ballot by mail or in person:\n\n1) Mailed ballots must be postmarked by Election Day and received no later than 5 days after Election Day to be counted.\n\n2) Hand-delivered ballots must be received no later than the day before Election Day.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Election officials start mailing out absentee ballots 6 weeks before the election.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "You can sign up to track your absentee ballot (https://services.sos.wv.gov/Elections/Voter/AbsenteeBallotTracking) on your Secretary of State website.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "If you requested an absentee ballot but end up voting in person, you must surrender their absentee ballots before receiving a regular ballot; otherwise, you must vote by a provisional ballot. Do not mail a ballot and vote in person. For more information, you can find your local county clerk contact info here. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://sites.omniballot.us/54/absentee/app/home)",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "DO I NEED TO SHOW ID WHEN I VOTE IN WEST VIRGINIA?",
+            "a": "Yes. All voters in West Virginia must present a valid, unexpired form of photo ID when voting in person during early voting or on Election Day.\n\nExceptions:\n\n- This rule does not apply to absentee-by-mail voters\n- Voters who meet certain criteria (listed under exceptions below) may vote without showing ID.\n- First-time voters who registered by mail and did not submit ID must show one of the specific forms of ID listed for first-time voters.\n- If you are 65 or older, an expired ID is acceptable as long as it was not expired on your 65th birthday.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO VOTE IN WEST VIRGINIA?",
+            "a": "The following forms of ID are acceptable at the polling place:\n\n- WV driver’s license or state-issued ID\n- Driver’s license from another state\n- US passport or passport card\n- Employee ID with photo issued by local, state, or federal government\n- Student ID with photo from a WV institution of higher education or a WV high school\n- US military ID with photo\n- Voter registration card with photo issued by a WV county clerk or the WV Secretary of State\n- An ID issued by the DMV without a photo for voters who swear and affirm that they belong to recognized religious communities that prohibit them from being photographed\n\nAdditional ID rules for first-time voters (voting for the first time in WV or a county):\n\nIf you didn’t show ID when registering, you must show a document with your name and current residential address the first time you vote. This applies whether you vote in person or by mail:\n\nAccepted forms include:\n\n- Valid photo ID\n- Utility bill\n- Bank statement\n- Government check\n- Paycheck\n- Any other official government document",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN WEST VIRGINIA?",
+            "a": "If you don't have an acceptable ID, you have three options:\n\n1. Bring someone with you: An adult who has known you for at least 6 months can confirm your identity if they:\n2. Show a valid photo ID with their name and address\n3. Sign a sworn statement at the polling place\n4. Be recognized by a poll worker: If a poll worker has known you for at least 6 months, you don’t need to show ID or provide a signed statement.\n5. Live in a licensed state care facility that is your polling place: Residents voting at their care facility do not need to show ID.\n\nIf none of the above apply you can still vote using a provisional ballot. To have your vote counted, show your ID at your County Clerk’s Office (https://absentee.vote411.org/vote/eoddomestic.htm) before canvass (within a few days after the election).\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        }
+    ]
+}

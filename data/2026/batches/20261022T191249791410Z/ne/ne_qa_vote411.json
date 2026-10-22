@@ -1,0 +1,14 @@
+{
+    "state": "ne",
+    "num_questions": 1,
+    "num_answers": 1,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "Do I need an ID to register to vote in Nebraska?",
+            "a": "Some registration methods in Nebraska may ask for additional information to help election officials verify your registration.\n\nOnline (https://www.nebraska.gov/apps-sos-voter-registration/): You will be asked to enter your Nebraska driver’s license or state ID number. If you do not have one, you can register using a paper form instead.\n\nIn person (https://absentee.vote411.org/vote/eoddomestic.htm): You can register at your county election office. You do not need to bring an ID or other documents to register in person. If you do not have a Nebraska driver’s license or state ID, you may provide the last four digits of your Social Security number instead.\n\nBy mail (https://sos.nebraska.gov/voter-forms): If you are registering to vote in Nebraska for the first time by mail, including a copy of a photo ID or a document showing your name and current address dated within the last 60 days can help avoid delays. Examples include a utility bill, bank statement, government check, paycheck, or other government document.",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        }
+    ]
+}

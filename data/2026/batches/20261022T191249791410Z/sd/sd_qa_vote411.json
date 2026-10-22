@@ -1,0 +1,20 @@
+{
+    "state": "sd",
+    "num_questions": 2,
+    "num_answers": 2,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "What do I need to register to vote in South Dakota?",
+            "a": "You will be asked to provide documentary proof of US citizenship when you register to vote in South Dakota.\n\nAcceptable documents include:\n\n- A South Dakota driver's license or non-driver ID issued after July 1, 2025\n- A driver's license or ID from another state that shows citizenship was verified\n- A tribal identification card\n\nOR a copy of one of the following:\n\n- Birth certificate\n- US passport\n- Consular Report of Birth Abroad\n- Certificate of naturalization\n- Other documents allowed under federal guidelines\n\nIf you do not provide proof of citizenship when you register, you may be registered as a federal-only voter, which means you can vote in federal races (like President and Congress), but not in state or local races.",
+            "s": "https://www.vote411.org/south-dakota",
+            "t": "2026-10-22T19:13:55+00:00"
+        },
+        {
+            "q": "How do I register to vote?",
+            "a": "South Dakota requires a paper registration form with your original signature.\n\n- Fill out the voter registration form (https://sdsos.gov/elections-voting/voting/assets/FINAL-VoterRegistrationForm_Part1.pdf)\n- Sign it\n- Submit it to your County Auditor (https://absentee.vote411.org/vote/eoddomestic.htm)\n\nYour form must be received at least 15 days before an election to vote in that election. You cannot submit your registration by fax or email.",
+            "s": "https://www.vote411.org/south-dakota",
+            "t": "2026-10-22T19:13:55+00:00"
+        }
+    ]
+}

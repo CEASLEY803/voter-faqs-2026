@@ -1,0 +1,80 @@
+{
+    "state": "in",
+    "num_questions": 12,
+    "num_answers": 12,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "If you wish to have your absentee ballot sent to you by mail, you must meet at least one of the qualifying excuses on Election Day:\n\n- Have a specific, reasonable expectation that you will be absent from your county of residence on Election Day during the entire 12 hours that the polls are open (6:00 am to 6:00 pm)\n- Be an election official\n- Be confined on Election Day due to illness or injury during the entire 12 hours that the polls are open or caring for a confined person at a private residence.\n- Be a voter with disabilities that believes their polling place is not accessible to them\n- Be 65 years of age or older\n- Be a caretaker of an individual(s) confined to a private residence due to illness or injury and prevented from voting during the entire 12 hours that the polls are open\n- Be scheduled to work for the entire 12 hours that the poll is open\n- Are prevented from voting due to observing a religious discipline or holiday during the entire 12 hours that the polls are open\n- Be participating in the address confidentiality program\n- Be a member of the military or public safety officer\n- Be considered a \"serious sex offender\"\n- Are prevented from voting due to not having transportation to the polls\n- A voter who is physically unable to complete the ballot and sign the affidavit on their own",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "You have a few ways to request an absentee ballot:\n\n- Online (https://indianavoters.in.gov/MVPHome/PrintDocuments): Log in and select “ABS Mail” “ABS Mail (Por Correo)”\n- By mail or hand-delivery: Find the address for your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm) here and mail it or hand-deliver your application during their office hours.\n- By email: Print, sign, and scan or photograph your absentee ballot application and, if applicable, a copy of your ID card and send it to your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm) or the Indiana Election Division at [email protected]. (https://www.vote411.org/cdn-cgi/l/email-protection#ee8b828b8d9a8781809dae878b8dc08780c0898198)\n\nIf you are a confined voter or a voter caring for a confined individual, there are other deadlines and requirements that apply. (http://www.in.gov/sos/elections/2402.htm)\n\nA first-time voter in Indiana who registered to vote by mail and did not provide proof of residency either with their voter registration application or absentee ballot application will be asked to provide the documentation before 6pm on Election Day.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "WHAT ARE THE ID REQUIREMENTS TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "When requesting your absentee ballot, you will need to provide a copy of a government-issued photo ID, like your driver’s license, BMV ID card, or your passport, OR one or more of the following numbers on your application:\n\n- Indiana Driver’s License Number\n- Indiana Identification Card Number\n- Unique Voter Identification Number\n- Last Four Digits of Social Security Number\n\nIt is recommended that you provide more than one ID number on your application since at least one will need to match your voter’s registration record or match against the number maintained by the Indiana Bureau of Motor Vehicles or US Social Security Administration.\n\nIf you fail to provide a copy of your ID or one of the ID numbers listed above, your absentee ballot may be delayed. You will receive notice from your county election administrator if your application is rejected.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR REQUESTING AN ABSENTEE BALLOT?",
+            "a": "The last day to request an absentee ballot (https://absentee.vote411.org/vote/VoterInformation.htm) is 12 days before the election.\n\nThe county or the state must have your application in their possession by the deadline. Any application received after this deadline – even if it’s postmarked before the deadline – cannot be processed.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
+            "a": "Yes, you must submit a separate application for each election.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "a": "Voted ballots must be received by 6 pm (close of polls) on Election Day.\n\nCounty election officials must receive your absentee ballot by 6pm on Election Day. If it’s postmarked by the deadline, but physically received after the deadline, your ballot won't be processed by the Election Board.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "HOW DO I VOTE IN-PERSON ABSENTEE?",
+            "a": "State law requires counties to offer in-person absentee voting for 28 days leading up to the election, ending at noon the day before Election Day. All Indiana counties must also provide in-person absentee voting on the two Saturdays before the election.\n\nPlease click here (https://indianavoters.com/) to view your county’s absentee-in-person or Early Voting dates, times, and locations.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Absentee ballots are mailed out starting 45 days before the election.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY VOTED ABSENTEE BALLOT?",
+            "a": "You can return your voted absentee ballot to the Election Board by mail in the postage-paid envelope,\n\nYou can also hand deliver your ballot to your local elections office, (https://absentee.vote411.org/vote/eoddomestic.htm) an Early Voting location, or at your polling site before 6pm on Election Day.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "You can sign up to track your absentee ballot (https://indianavoters.in.gov/) on your Secretary of State website.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "You have a few options for voting in person if you requested an absentee ballot. You can choose one of the following:\n\n- A voter may surrender their absentee ballot to the Inspector at the polling site, who can then issue a regular ballot.\n- On Election Day, a voter who requested an absentee ballot but never received it in the mail may complete the PRE-5 affidavit at their polling location and vote a regular ballot.\n- A voter who had their absentee ballot rejected by county officials may appear before the county election board not later than 5pm on Election Day to request an ABS-21 form and then go to their polling place to vote a regular ballot.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "state": "il",
+    "num_sections": 15,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "topic_introduction",
+            "content": "Vote-by-mail (absentee voting) is available in Illinois and no excuse is required. The last day to request an absentee ballot (https://absentee.vote411.org/vote/VoterInformation.htm) by mail is 5 days before the election. You can return your absentee ballot request form through the mail, or in person.\n\nVoted ballots must be postmarked by Election Day and received within two weeks in order to be counted. Absentee ballots begin being counted on Election Day. Contact your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "topic_introduction",
+            "content": "Ballot curing is when a voter corrects an issue with their ballot, so it can be counted.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org). For state-specific information, click here (https://www.elections.il.gov/CampaignDisclosure/ReportsFiled.aspx?MID=8h2fcJIESoQ%3d&T=637914987745273219).",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Information on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp).",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "topic_introduction",
+            "content": "Early Voting Starts: 40 days before Election Day\n\nEarly Voting Ends: The day before Election Day",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "The next election date can be found here https://www.vote411.org/illinois.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "The polls are open from 6:00 am to 7:00 pm.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "topic": "Eligibility Requirements",
+            "kind": "section_without_questions",
+            "content": "WHO CAN REGISTER TO VOTE IN ILLINOIS?\n\nTo register to vote in Illinois, you must:\n\n- Be a US citizen\n- Be at least 18 years old by the next Consolidated or General Election (you may register and vote in a Primary at age 17 if you’ll be 18 by the General Election)\n- Have lived in your precinct for at least 30 days before Election Day\n\nWHO CAN VOTE IN ILLINOIS?\n\nYou can vote in Illinois if you:\n\n- Are a registered voter\n- Meet the eligibility requirements (see above)\n- Are not currently incarcerated for a felony or misdemeanor conviction\n\nCAN I VOTE IF I HAVE A FELONY CONVICTION?\n\nIn Illinois, you only lose your right to vote if you are currently incarcerated for a misdemeanor or felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.\n\nCAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?\n\nYes. Illinois allows individuals without a permanent or fixed home address to register and vote. On the voter registration form, you can draw a map to indicate where you stay. Include details like cross streets, landmarks, or nearby names.\n\nIf you don’t receive mail at your residence location, you must also provide a separate mailing address. This can be a P.O. box, shelter, advocacy group, outreach center, or someone who will accept mail for you.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://voterhelpdesk.usvotefoundation.org/en/support/home)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://voterhelpdesk.usvotefoundation.org/en/support/home)",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "You can find your polling place by utilizing your state  (https://ova.elections.il.gov/PollingPlaceLookup.aspx)resource. (https://ova.elections.il.gov/PollingPlaceLookup.aspx)\n\nIf you have further questions on your polling place location, please contact your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm). (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "Illinois is a “partially open” primary state. This allows voters to cross party lines, however, they must first publicly declare their ballot choice. Ballot selection may also be regarded as a form of registration with the selected party.\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "topic": "Student Voting Process",
+            "kind": "section_without_questions",
+            "content": "What do I need to register to vote in Illinois?\n\nHere is what you need to know to register in Illinois:\n\nThere are three methods of voter registration in Illinois: register in-person, register online (https://ova.elections.il.gov/), or mail a printable application (https://bit.ly/IL-Mail-In-PDF) to the Illinois Secretary of State.\n\nCan I register to vote using my college address in Illinois?\n\nYes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.\n\nWhat’s the deadline to register to vote in Illinois?\n\nThe deadline to register to vote in Illinois depends on how you register. Online registration closes 16 days before Election Day, and registration by mail must be postmarked 28 days before. Be sure to check the exact date each year. You can also register in person up to and including on Election Day.\n\nIf you register by mail, you’ll need to vote in person the first time unless you’re disabled, in the military, or provided proper ID when registering.\n\nWhat form of ID do I need to vote in Illinois?\n\nAn Illinois voter is not required to show identification. However, if you are voting for the first time, you may be asked to show a form of identification when you go to the polls. This can include a driver’s license, passport, student ID from a state-supported college, or other accepted forms.\n\nI’m originally from another state, can I still vote in my home state while studying in Illinois?\n\nYes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).\n\nDoes registering to vote affect my financial aid, parents’ taxes, and/or tuition in Illinois?\n\nRegistering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (https://ova.elections.il.gov/RegistrationLookup.aspx)",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "topic": "Vote by Mail",
+            "kind": "section_without_questions",
+            "content": "If you are a registered voter in Illinois, you may apply to be added to a permanent vote-by-mail list. If your application for permanent vote-by-mail status is accepted you will:\n\n- Receive an official vote by mail ballot for all subsequent elections\n- Remain on the permanent vote by mail list until you provide a written request to be removed or if there are any changes to your voter registration status\n\nThe permanent vote-by-mail application will be available online closer to the next election here (https://www.elections.il.gov/ElectionOperations/VotingByMailAgreement.aspx?T=637878613169921791).",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "topic": "Voter ID Requirements",
+            "kind": "section_without_questions",
+            "content": "DO I NEED TO SHOW ID WHEN I VOTE IN ILLINOIS?\n\nIn most cases, no, identification is not required to vote at the polls in Illinois as long as your registration is accurate and up to date. Instead, your signature is verified against the one on file from when you registered. If they do not match, you may be asked to show ID.\n\nHowever, if:\n\n- You registered by mail and did not include ID with your registration,\n- Or you are registering to vote during early voting or on Election Day (grace period registration), you will need to show ID to vote.\n\nWHAT TYPES OF ID CAN I USE IF ASKED TO SHOW ONE?\nAcceptable forms of ID include:\n\n- A current and valid photo ID\n- A utility bill\n- A bank statement\n- A government check\n- A paycheck\n- A lease or housing contract\n- A student ID along with mail addressed to your current residence\n- Any government document showing your name and current address\n\nAll IDs must show your name and address.\n\n WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?\n\nIf you are asked to show ID (for example, because you registered by mail without providing ID) and cannot provide it, you will be asked to vote using a Provisional Ballot. Your eligibility will be verified later by the election authority.\n\n Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        }
+    ]
+}

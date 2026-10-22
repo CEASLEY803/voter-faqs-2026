@@ -1,0 +1,76 @@
+{
+    "state": "nh",
+    "num_sections": 10,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "section_without_questions",
+            "content": "Absentee ballots are available from your local official (https://absentee.vote411.org/vote/eoddomestic.htm) approximately 30 days before an election. A person may vote by absentee ballot if:\n\n- They will be absent from the city/town in which they are qualified to vote on the day of an election\n- You are physically disabled and unable to vote in person\n- You are a member (or a spouse or a dependent of a member) of the uniformed services who will be absent on election day\n- Your observance of a religious commitment prevents you from voting in person\n- You are unable to appear at any time during the polling hours at your polling place because of a work obligation that requires you to remain physically at work or be in transit to or from work from the time the polls open until after the polls close. Work can include unpaid care of children or infirm adults.\n\nTo request an absentee ballot, you may download the application (https://absentee.vote411.org/vote/VoterInformation.htm). (http://file:///C:/Users/hshea/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/Absentee%20Ballot%20App%202019-final%20(1).pdf) You can also submit a request in writing. You must include all the information that is on the application. Don't forget your name, voting address, mailing address and your signature. You can return your absentee ballot request form through the mail or in person. The deadline to request an absentee ballot by mail is noon the day before the election. The deadline for in-person requests is 5:00 p.m. that same day. Completed absentee ballots must be returned to your local clerk by 5:00 p.m. on Election Day if mailed, or in person by 5:00 p.m. the day before. You can sign up to track your absentee ballot (https://www.sos.nh.gov/elections/voters/absentee-ballots/absentee-ballot-status) on your State website. Absentee ballots begin being counted on Election Day. If you have any questions please contact your local official (https://absentee.vote411.org/vote/eoddomestic.htm).\n\nThose who requested an absentee ballot but end up voting in person: Do not mail a ballot and vote in person. For specifics, you can find your local local official contact info here (https://absentee.vote411.org/vote/eoddomestic.htm).\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "section_without_questions",
+            "content": "New Hampshire does not have an absentee/mail ballot curing process. We recommend that you track the status of your ballot using your state’s online tool (https://app.sos.nh.gov/voterinformation) before Election Day to make sure it has been received and accepted.\n\nIf you voted an affidavit ballot, you will be required to return your copy of the affidavit verification letter and a copy of any required documentation to the Secretary of State in the provided prepaid U.S. Postal Service envelope by 7 days after the election, in order for the ballot to be certified.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).\n\nFor information on state campaign contributions, please visit your state's resource. (http://cfs.sos.nh.gov/)",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "To see a list of available races, visit the race index. (https://www.vote411.org/ballot)",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "The next election dates can be found here https://www.vote411.org/new-hampshire.\n\nContact your local Town or City Clerk (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "The polling place hours of operation vary in New Hampshire. In general, polling places open between 6:00 am and 11:00 am and close at 7:00 pm. Contact your local election officials (https://www.overseasvotefoundation.org/vote/election-official-directory)  (https://absentee.vote411.org/vote/eoddomestic.htm)for hours in your community.",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "You can find your polling place by utilizing your state resource. (https://app.sos.nh.gov/viphome)\n\nIf you have further questions on your polling place location, please contact your local official (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "New Hampshire has a hybrid primary system. If you are registered with a particular party, you must vote in that party's primary. However, if you are unaffiliated with any political party, you can declare affiliation with a party at the polls in order to vote in that party’s primary.\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (https://app.sos.nh.gov/viphome)",
+            "s": "https://www.vote411.org/new-hampshire",
+            "t": "2026-10-22T19:13:37+00:00"
+        }
+    ]
+}

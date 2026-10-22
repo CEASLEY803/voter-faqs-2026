@@ -1,0 +1,62 @@
+{
+    "state": "la",
+    "num_questions": 9,
+    "num_answers": 9,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "You must have a reason to vote absentee (vote by mail), unless you are a military or overseas citizen. There are 12 reasons to vote by mail:\n\n- Senior citizen 65 years of age or older\n- A home or a nursing home or veterans' home resident and you have been previously approved for the Disability program, or you are disabled, home bound or a nursing or veterans' home resident and you are submitting current proof of disability with your application. For more information on the Disability Program, click here. (http://www.sos.la.gov/ElectionsAndVoting/Pages/DisabledElderlyCitizens.aspx)\n- A student, instructor, or professor (or spouse or dependents of the following,) in an institution of higher learning located outside the parish.\n- A minister, priest, rabbi, or clergy (or spouse or dependents of the following,) assigned to a religious post outside the parish.\n- A person who is or who expects to be temporarily outside the territorial limits of the state or absent from the parish during early voting and on Election Day.\n- A person who has moved after the registration books closed (30 days prior to an election) to another parish and the new residence is more than 100 miles from the parish of former residence.\n- A sequestered jury member.\n- A person who expects to be hospitalized on Election Day and did not have such knowledge until after early voting week passed.\n- A person who expects to be hospitalized on Election Day and who was hospitalized during early voting.\n- A person who was hospitalized and released prior to an election but who is either hospitalized or restricted to bed during early voting and on Election Day.\n- A person who by virtue of employment or occupation expects to be out of their precinct during early voting and on Election Day.\n- You are involuntarily confined in an institution for mental treatment outside your parish of registration and you are not interdicted and not judicially declared incompetent.\n- You are incarcerated or expect to be incarcerated in an institution inside or outside your parish of registration and you are not under an order of imprisonment for conviction of a felony\n\nTo request a normal absentee ballot by mail, you must complete and return a request for absentee ballot (https://voterportal.sos.la.gov/) indicating the reason you are not able to vote in person absentee or in person on Election Day.\n\nVoters with disabilities, senior citizens and nursing or veteran home residents can apply to the state’s absentee ballot programa here (https://www.sos.la.gov/ElectionsAndVoting/Pages/DisabledElderlyCitizens.aspx).",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR REQUESTING AN ABSENTEE BALLOT?",
+            "a": "- Military, Overseas, or Hospitalized Voters: By 4:30pm CST on the day before Election Day\n- All Others: By 4:30pm CST on the 4th day before Election Day",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT APPLICATION?",
+            "a": "You can return your absentee ballot request form through mail, in person at your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm), or online (https://voterportal.sos.la.gov/).",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
+            "a": "Yes, you must apply separately for each election. You can request an absentee ballot as early as 60 days prior to the election.\n\nVoters with disabilities and voters 65 years old or older may apply to the state’s automatic absentee ballot programs (https://www.sos.la.gov/ElectionsAndVoting/Pages/DisabledElderlyCitizens.aspx).",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR RETURNING A VOTED ABSENTEE BALLOT?",
+            "a": "- Military, Overseas, or Hospitalized Voters: By 8pm CST on Election Day\n- All Others: By 4:30pm CST on the day before Election Day",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Election officials start mailing out absentee ballots 45 days before the election.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "You can sign up to track your absentee ballot (https://voterportal.sos.la.gov/) on your Secretary of State website.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "Those who requested an absentee ballot but end up voting in person may only do so by a provisional ballot. Do not mail a ballot and vote in person. For more information, you can find your local county clerk contact info here (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        }
+    ]
+}

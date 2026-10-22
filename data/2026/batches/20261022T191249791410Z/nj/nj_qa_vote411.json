@@ -1,0 +1,74 @@
+{
+    "state": "nj",
+    "num_questions": 11,
+    "num_answers": 11,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "In New Jersey, all registered voters can apply to vote absentee.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "You may apply for a vote by mail ballot by completing an vote by mail ballot application (https://absentee.vote411.org/vote/VoterInformation.htm) and mailing it to your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm). The application must be received by the County Clerk at least 7 days before the election.\n\nYou can also apply in person to the county clerk until 3 pm the day before Election Day.\n\nThe County Clerk cannot accept faxed copies of a vote by mail ballot application unless you are a Military or Overseas voter, since an original signature is required.\n\nTo become a Permanent Mail-in Ballot Voter: simply check the appropriate box on the Absentee Ballot Application (https://www.state.nj.us/state/elections/assets/pdf/forms-vote-by-mail/vote-by-mail-english.pdf) indicating that you wish to receive your ballot by mail in all future elections.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "You may apply for a mail-in ballot by mail up to 7 days prior to the election, or you can apply in person to the County Clerk until 3pm the day before Election Day.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
+            "a": "You must request an absentee ballot for each election unless you check the “ALL FUTURE ELECTIONS” box on the Absentee Ballot Application (https://www.state.nj.us/state/elections/assets/pdf/forms-vote-by-mail/vote-by-mail-english.pdf) indicating that you wish to receive your ballot by mail in all future elections.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "a": "Voted ballots must be postmarked on or before 8pm on Election Day or delivered in person or in a secure ballot drop box by 8pm on Election Day.\n\nA mail-in ballot without a postmark will still be counted if it is delivered by the U.S. Postal Service within 48 hours after polls close and meets all other election rules.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Election officials begin mailing out vote-by-mail ballots starting 45 days before each election.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
+            "a": "Vote your ballot then fill in and sign the certificate attached to the inner envelope. Place the ballot into the certificate envelope, then place the certificate envelope into the mailing envelope.\n\nVoters do not need to provide a copy of their ID in order to cast a vote-by-mail ballot except under certain circumstances for first time voters. These voters will receive a notice with their vote-by-mail ballot.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT?",
+            "a": "You can return your ballot by mail, in person to your County Board of Elections, or in a secure ballot drop box.\n\nThe deadline for delivering your ballot in person or in the secure drop box is by 8pm on Election Day.\n\nIf you return your ballot by mail, it must be postmarked no later than 8pm on Election Day and received by your County Board of Elections by 6 days after Election Day.\n\nNote: A mail-in ballot without a postmark will still be counted if it is delivered by the U.S. Postal Service within 48 hours after polls close and meets all other election rules.\n\nYour Vote-By-Mail ballot CANNOT be returned to your In-Person Early Voting Poll Location or your Election Day Poll Location.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "You can track your ballot (https://www.nj.gov/state/elections/vote-track-my-ballot.shtml) on the Department of State’s website.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "If you requested a Mail-In Ballot but wish to vote at the polls on Election Day you may request an Opt-Out Form from your county clerk. (https://absentee.vote411.org/vote/eoddomestic.htm) If mail-in ballots have already been mailed for the election, you will not be able to vote on a machine at the polls.",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)",
+            "s": "https://www.vote411.org/new-jersey",
+            "t": "2026-10-22T19:13:38+00:00"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "state": "la",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/louisiana",
+            "final_url": "https://www.vote411.org/louisiana",
+            "collected_at": "2026-10-22T19:13:16+00:00",
+            "sha256": "8a5673e8445b15c490ccba7d0997c76d7ce1f265f19666bc1f14a1aa3bb997d8",
+            "snapshot": "data/2026/batches/20261022T191249791410Z/la/vote411-la.html"
+        }
+    ],
+    "counts": {
+        "vote411": 9,
+        "supporting_sections": 22
+    },
+    "extraction_version": 2,
+    "faq_file": "la_qa_vote411.json",
+    "supporting_content_file": "la_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

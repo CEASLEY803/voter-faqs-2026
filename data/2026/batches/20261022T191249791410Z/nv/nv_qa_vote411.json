@@ -1,0 +1,356 @@
+{
+    "state": "nv",
+    "num_questions": 58,
+    "num_answers": 58,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE BY MAIL?",
+            "a": "In Nevada, all active registered voters will be mailed a vote-by-mail ballot as long as they are registered no later than 14 days before Election Day.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "HOW CAN I RETURN MY BALLOT BY MAIL?",
+            "a": "Voted ballots sent through the mail must be:\n\n(1) Mailed in the postage-paid return envelope provided specifically for you, showing your name and address, and you must also sign the outside of that envelope before mailing it;\n\n(2) Postmarked on or before Election Day; and\n\n(3) Received by the Election Department by 5 pm on the fourth day after Election Day if postmarked, or by 5 pm on the third day after Election Day if not postmarked.\n\nDo not put your ballot in another voter’s return envelope.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO SUBMIT MY MAIL BALLOT?",
+            "a": "Your mail ballot must be postmarked by Election Day and received by 5 p.m. on the fourth day after Election Day. If your ballot is not postmarked, it must be received by 5 p.m. on the third day after Election Day. Ballots can also be hand-delivered in person by 7 p.m. on Election Day.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "CAN I VOTE IN PERSON EVEN IF I HAVE RECEIVED A VOTE-BY-MAIL BALLOT?",
+            "a": "As long as you haven’t returned your voted ballot, you can vote in person. In order to vote in person, you must surrender your vote-by-mail ballot or sign a form affirming that you have not voted your ballot and will not attempt to vote twice. You may also \"opt-out\" of receiving future ballots by mail by submitting the appropriate form.\n\nYou have two options for voting in person:\n\nEarly Voting: Early voting begins 17 days before the election and ends 4 days before the election. Days and hours of operation vary by county. A list of early voting polling places by county can be found here (https://www.nvsos.gov/sos/elections/voters/early-voting-information). In order to avoid lines on Election Day, all voters who wish to vote in person are encouraged to vote early.\n\nElection Day: Polling locations open at 7am on Election Day and remain open until 7pm. As long as you are in line by 7pm, you will be allowed to vote. A list of Election Day polling places by county can be found here (https://www.nvsos.gov/sos/elections/election-information).\n\nWHEN ARE BALLOTS MAILED TO ACTIVE REGISTERED VOTERS?\n\nBallots are mailed starting no later than 20 days before Election Day for in-state voters and no later than 40-45 days before Election Day for out-of-state voters. If you don’t receive your mail ballot packet by the start of early voting, immediately contact your local election office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "HOW CAN I CHECK IF I AM AN INACTIVE VOTER?",
+            "a": "You can check your voter registration status on the secretary of state’s website (https://registertovote.nv.gov/).",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "HOW CAN I TRACK MY MAILED BALLOT?",
+            "a": "You can sign up to track your mail ballot using your secretary of state’s resource (https://www.nvsos.gov/votersearch/). If you have any issues with your state’s online tracker, please contact your local election office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "HOW DO I OPT-OUT OF GETTING A MAIL BALLOT?",
+            "a": "To opt-out, you must submit a written or online request to not receive a mail ballot by 60 days before Election Day. You can opt-out online (https://www.nvsos.gov/votersearch/) or by mail. To opt-out by mail, you can print, complete, and mail a Mail Ballot Preference Form (https://www.nvsos.gov/sos/home/showpublisheddocument/13305/638478223678570000).",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN EMERGENCY ABSENTEE BALLOT?",
+            "a": "Nevada has an emergency absentee voting program. An absentee ballot can be brought to you at a hospital or other medical facility in certain emergency circumstances. Requests for an emergency absentee ballot must be made in writing and submitted any time before 5:00 p.m. on the day of the election.\n\nSuch requests must be due to an illness or disability resulting in confinement to a medical facility, including nursing homes, sudden hospitalization, serious illness, or being called away from home after the deadline for requesting a standard absentee ballot. Please contact your local election office (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "I’M VOTING FOR THE FIRST TIME BY MAIL. WHAT SHOULD I KNOW?",
+            "a": "If you are a first time voter, you may be required to present ID for voting if: (a) The data you provided on your voter registration application didn’t match the data on file at the Department of Motor Vehicles or Social Security Administration; and (b) You didn’t respond to the letter that was sent to you notifying you of the discrepancy.\n\nYour county clerk will notify you if you are required to provide a copy of your identification with your mail ballot. To fulfill this requirement, you must submit both identity and residency identification with your mail ballot.\n\n\"Official Identification\" means a government-issued, or otherwise official, article or combination of articles, which establishes both the identity and residence.\n\nForms of ID may include:\n\n- A current and valid Nevada driver's license\n- A current and valid identification card issued by the Department of Motor Vehicles\n- A current and valid identification card issued by a branch of the Armed Forces of the United States\n- A current and valid identification card issued by a sheriff of a Nevada county to an employee as a condition of employment by certain business enterprises\n- A current and valid identification card issued by an agency of the State of Nevada or political subdivision thereof or the United States, including, without limitation, a public school, college or university\n- Current and valid student identification card from an accredited private school, college or university\n- Current and valid United States passport\n- Current and valid insurance plan identification card which the county clerk determines, in his or her discretion, to be a reliable indication of the true name and identity of the person\n- Current and valid tribal identification card\n\nProof of residency may include:\n\n- Any form of ID set forth above\n- Current and valid utility bill, including, without limitation, a bill for electricity, gas, oil, water, sewer, septic, telephone, cellular telephone or cable television\n- Current and valid bank or credit union statement\n- Current and valid paycheck\n- Current and valid income tax return\n- Current and valid statement concerning mortgage, rental or lease of a residence\n- Current and valid motor vehicle registration\n- Current and valid document issued by a governmental agency\n- Current and valid property tax statement\n- Any other official article which the county clerk determines, in his or her discretion, to be a reliable indication of the true residential address of the person\n\nIf you have questions on this process, please contact your local election office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR CURING MY MAIL BALLOT SIGNATURE IF THERE’S AN ISSUE?",
+            "a": "If a question arises about your signature on the outside of your mail ballot return envelope or if you did not put your signature on the outside of that envelope, the Election Department will notify you using the contact information in your voter registration. You will have until 5pm on the sixth day after Election Day to provide a signature confirmation or an actual signature, as applicable.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "HOW DO I RECEIVE A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation (https://www.overseasvotefoundation.org/vote/home.htm).\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Does Nevada allow ballot curing?",
+            "a": "Yes, Nevada allows voters to fix an issue with their ballot.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "a": "The county clerk’s office will contact you via letter, phone, or email if any errors are found.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "How do I cure my ballot?",
+            "a": "The notice from your county clerk’s office will include the necessary information and instructions to correct (cure) your ballot on time.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "What is the deadline to cure my ballot?",
+            "a": "The deadline to cure (correct) your absentee/mail ballot is by 5pm on the 6th day after the election.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Can I track the status of my ballot online after curing it?",
+            "a": "You can track your ballot through your state’s online tool. (https://nevada.ballottrax.net/voter/)",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "What is a ballot drop box?",
+            "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Are drop boxes available in my state?",
+            "a": "Yes, vote-by-mail drop boxes are available in Nevada.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Where can I find ballot drop box locations?",
+            "a": "Ballot drop-off locations are available here.  (https://www.nvsos.gov/elections/election-information/2026-election-information)",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Can I track the ballot after placing in the drop box?",
+            "a": "Yes, you can track your ballot by looking up your on the Secretary of State website. (https://nevada.ballottrax.net/voter/)",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Can I vote before Election Day in Nevada?",
+            "a": "Yes. Nevada offers early in-person voting, and all active registered voters are also mailed a ballot. You can choose to vote early in person, vote by mail, or vote on Election Day.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Who can vote early in Nevada?",
+            "a": "Any registered voter can vote early at an early voting location in their county. You do not need to apply to vote early.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "When can I vote early in Nevada?",
+            "a": "Early voting in Nevada typically begins 17 days before Election Day and ends 4 days before Election Day. Be sure to check the exact dates for your election.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Where can I vote early in Nevada?",
+            "a": "You can vote at any early voting location in your county. Hours and locations vary, so be sure to check your county’s (https://absentee.vote411.org/vote/eoddomestic.htm) schedule before you go.\n\nAll active registered voters in Nevada are mailed a ballot. If you prefer, you can complete and return your mail ballot instead of voting early in person.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Who is eligible to vote in Nevada?",
+            "a": "To register and vote in Nevada, you must:\n\n- Be a U.S. citizen\n- Be at least 18 years old on or before Election Day (you can preregister at 17)\n- Be a resident of Nevada and your county for at least 30 days before the election\n- Not be currently serving a term of imprisonment for a felony conviction\n- Not have been declared mentally incompetent by a court",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Can I vote in Nevada if I have a felony conviction?",
+            "a": "In Nevada, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "How do I vote in Nevada if I don’t have a permanent address?",
+            "a": "You can still register to vote in Nevada. A description must be provided if you reside at a location that has not been assigned a street address. This can be a description of a street corner, park, shelter, or any other place where you usually stay. The mailing address on your registration form can be a PO box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for you.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Can students vote in Nevada?",
+            "a": "Yes. Students can register and vote in Nevada using their school or campus address if they consider it their residence.\n\nIf you move, such as to a different dorm or off campus, be sure to update your voter registration so you vote in the correct district.\n\nIf you are a student from out of state, you can also choose to vote in your home state using an absentee ballot, but you’ll need to follow your home state’s rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Do I need an ID to register to vote in Nevada?",
+            "a": "Yes, you need a valid photo ID to register to vote in Nevada. If you do not have one when you register, you must show it at your polling place on Election Day.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "What types of ID are accepted for registration?",
+            "a": "The ID should prove where you live, verify your identity, and include a photo.\n\n- For online registration (https://www.nvsos.gov/SOSVoterServices/start.aspx), you will need a DMV-issued Driver's License or ID.\n- If you're using a paper registration form, (https://www.nvsos.gov/sosvoterregform/) you'll need to provide either a valid NV Driver’s License or ID Card number or the last 4 digits of your Social Security Number. If you don't have any of these, your County Election Department will contact you after receiving your application.\n\nIf you wish to register on the same day as the election, you will need to have a valid Nevada driver’s license or ID card, and you must vote in person at a polling location. Tribal ID cards may also work if they meet specific requirements (https://www.nvsos.gov/sos/elections/election-information/same-day-registration). Other forms of identification, like military IDs or passports, cannot be used for same-day registration.\n\nIf your current photo ID doesn't have your current address, bring a copy of a current utility bill, bank statement, government check, or another government document showing your name and current address.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "What if I don’t have an ID?",
+            "a": "If you do not have the above ID when you register, you will need to provide it before you vote either in person or by mail.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "When are official election results available in Nevada?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "Official election results will be uploaded on the Nevada Secretary of State’s website (https://www.nvsos.gov/sos/elections/election-information/precinct-level-results) as they become available.\n\n  Official Results  (https://www.nvsos.gov/sos/elections/election-information/precinct-level-results)",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "What does a poll worker do in Nevada?",
+            "a": "Poll workers in Nevada help run elections at voting locations. They assist with setting up and closing the polling place, checking in voters, issuing ballots, answering questions, and making sure the voting process runs smoothly and securely.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "What qualifications do I need to be a poll worker in Nevada?",
+            "a": "To be a poll worker in Nevada, you must:\n\n- Be registered to vote in Nevada\n- Be at least 18 years old, or at least 16 years old and enrolled in high school\n- Not be a candidate for nomination or election, or closely related to a candidate\n- Not be a candidate for nomination or election, or closely related to a candidate",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Are poll workers paid in Nevada?",
+            "a": "Yes, poll workers in Nevada are compensated for their time. Pay varies by county and position. Some counties may also offer mileage or expense reimbursement. Contact your county election office (https://absentee.vote411.org/vote/eoddomestic.htm) for specific pay rates.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "How do I apply to be a poll worker in Nevada?",
+            "a": "You can apply to be a poll worker by contacting your county election office (https://absentee.vote411.org/vote/eoddomestic.htm) or visiting your county’s election website (https://www.nvsos.gov/elections/poll-workers). Each county manages its own poll worker recruitment and application process.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Does Nevada offer provisional voting?",
+            "a": "Yes, Nevada offers provisional voting.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Can I vote a provisional ballot?",
+            "a": "You are eligible to vote a provisional ballot if:\n\n- You claim to be an eligible voter, but your name does not appear on the list of registered voters, and the voter registrar cannot determine your registration.\n- You have applied for a ballot by mail but have not returned it or canceled it.\n- You vote during extended polling hours ordered by a state or federal court.\n- You do not present any acceptable form of identification.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "How can I check the status of my provisional ballot?",
+            "a": "If you voted a provisional ballot, you can check its status (https://www.nvsos.gov/sos/elections/voters/provisional-voting) using the special affirmation number given to you at your polling place. You can call (877) 766-8683 or use the Provisional Ballot Status link to find your affirmation number. You can start checking your Provisional Ballot Status on the 8th day following the election, and it remains available for 30 days.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "What voting assistance is available for voters with disabilities?",
+            "a": "The Help America Vote Act requires that election authorities have voting equipment for voters with disabilities to vote privately and independently, and Nevada is no exception.\n\nNevada's Effective Absentee System for Elections, or EASE (https://www.nvsos.gov/ease/easepages/overview.aspx), is available to Nevada residents with disabilities. EASE is an online tool that combines voter registration, electronic ballot delivery, and marking.\n\nYou can also contact your local election official for more information or assistance.\n\nYou have the right to bring an interpreter with you to the polls or to get language assistance from anyone you choose, including a poll worker, as long as the person is not your employer, an agent of your employer, or an officer or agent of your labor union.\n\nFor more information on the provisions available for disabled voters, please contact your local election authority (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "How do I request accommodation or report accessibility issues?",
+            "a": "If you have any questions about receiving help in voting, please ask the clerk or inspector at the polling place.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Can I vote by mail because of my disability?",
+            "a": "Vote-by-mail (absentee voting) is available in Nevada and no excuse is required. You can find more about how to vote by mail here. (https://www.vote411.org/nevada#absentee-ballot-process)\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Does Nevada require employers to give time off to vote?",
+            "a": "Yes. Nevada law requires employers to provide paid time off to vote if an employee does not have sufficient time outside of working hours to vote.\n\nEmployees can receive:\n\n- Up to 1 hour if the polling place is within 2 miles\n- Up to 2 hours if it is 2–10 miles away\n- Up to 3 hours if it is more than 10 miles away\n\nEmployees must request time off before Election Day, and employers may specify the hours the employee can be absent.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Do I need ID to vote in Nevada?",
+            "a": "Nevada does not require most voters to show ID when voting in person because you must verify your identity when you register to vote.\n\nIf you are a first-time voter, and did not provide an acceptable form of ID with your registration from, you may be asked to show ID at the polls",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "What types of ID can I use to vote in-person in Nevada?",
+            "a": "If you are asked to show ID, you can use a document that includes your name and address, such as a current:\n\n- Nevada driver’s license or state ID\n- U.S. passport\n- Military ID\n- Tribal ID\n- Government-issued ID\n\nIf your ID does not have your current address, you also need to provide a document showing your name and current address to prove your residency. You can use:\n\n- A utility bill, bank statement, paycheck, or other government document with your name and address",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Do I need ID to vote by mail/absentee in Nevada?",
+            "a": "Most voters do not need to provide ID when voting by mail. Your signature is used to verify your identity.\n\nIf you are a first-time voter who registered by mail and did not provide ID when registering, you may need to include a copy of an acceptable ID (https://www.nvsos.gov/sos/elections/voters/mail-ballot-voting) with your ballot.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "What if I don’t have an acceptable ID?",
+            "a": "If you are voting in person and cannot provide ID when requested, you may be able to vote using a provisional ballot [link to provisional voting state topic]. Your election officials will provide instructions on what steps are needed for your ballot to be counted.\n\nIf you are voting by mail, your signature will typically be used to verify your identity. If there is an issue with your signature, you will be contacted and given an opportunity to correct it.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Are student or digital IDs accepted?",
+            "a": "Because Nevada does not generally require ID to vote in person, student or digital IDs are not typically needed.\n\nIf ID is requested, it must show your name and address. Some student or digital IDs may not meet these requirements, so it’s best to use a government-issued ID or another accepted document if available.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "What is the deadline to register to vote in Nevada?",
+            "a": "- Online registration deadline: 5 days before Election Day\n- Register by mail deadline: Postmarked 28 days before Election Day\n- In-person registration deadline: Election Day\n\nDeadlines for special elections may be different. Please contact your local elections official for these deadlines.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "How can I check my voter registration status?",
+            "a": "You can verify your voter registration status using Nevada’s voter information tool. (https://www.nvsos.gov/votersearch/)",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Does Nevada have online voter registration?",
+            "a": "Yes! Use our online registration tool (https://www.vote411.org/register) to complete your application.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Is same-day voter registration available in Nevada?",
+            "a": "Yes, you can register in person on Election Day. If you would like to register to vote on the same day as the election, you must have a valid Nevada driver’s license or ID card. There are no exceptions to this requirement.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Can I pre-register to vote?",
+            "a": "Yes, you can pre-register at 17 years old.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "Who is eligible to register in Nevada?",
+            "a": "Check if you’re eligible to register here (https://www.vote411.org/nevada#eligibility-requirements).",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "How do I update my voter registration?",
+            "a": "If you moved within the state of Nevada, changed your name, or want to switch your political party affiliation, you will need to fill out a new form to update your voter registration. To do this, go to RegisterToVote.NV.gov (http://registertovote.nv.gov/).\n\nIf you moved to another state and need to cancel your Nevada voter registration, you can do so using the state’s online cancellation tool (https://www.nvsos.gov/SOSVoterServices/cancel/CancelStep0.aspx).",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        },
+        {
+            "q": "What types of voting machines does Nevada use?",
+            "a": "The voting system used in Nevada is Direct Recording Electronic (DRE).\n\nWhat is Direct Recording Electronic Voting?\n\nDirect Recording Electronic (DRE) is the newest system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.\n\nThere are many variations of DREs because many companies are inventing new ones, and many cities, counties, and states are trying them out.\n\n- Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.\n- Some of these devices will show all candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure).\n- On other DREs, the screen is set up to show pages. There will probably be one thing on which to vote on each screen or page. For example, on one screen or page, you might vote for the president. Then you might move to the next page to vote for a senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for.\n- Other devices have a keypad, and some have a keyboard, so you can write in the name of someone you want to vote for.\n- You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2026-10-22T19:13:42+00:00"
+        }
+    ]
+}

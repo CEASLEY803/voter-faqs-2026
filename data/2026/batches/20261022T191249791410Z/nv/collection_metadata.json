@@ -1,0 +1,21 @@
+{
+    "state": "nv",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/nevada",
+            "final_url": "https://www.vote411.org/nevada",
+            "collected_at": "2026-10-22T19:13:42+00:00",
+            "sha256": "f708260dbcad59edacf1f51c4655c87ab8d69235113bef058453d8c452682f08",
+            "snapshot": "data/2026/batches/20261022T191249791410Z/nv/vote411-nv.html"
+        }
+    ],
+    "counts": {
+        "vote411": 58,
+        "supporting_sections": 12
+    },
+    "extraction_version": 2,
+    "faq_file": "nv_qa_vote411.json",
+    "supporting_content_file": "nv_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

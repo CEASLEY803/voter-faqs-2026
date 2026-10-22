@@ -1,0 +1,314 @@
+{
+    "state": "ca",
+    "num_questions": 51,
+    "num_answers": 51,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE BY MAIL?",
+            "a": "In California, all active registered voters will be mailed a vote-by-mail ballot.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "WHEN ARE BALLOTS MAILED TO ACTIVE REGISTERED VOTERS?",
+            "a": "Ballots are mailed 29 days before an election.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY MAIL BALLOT?",
+            "a": "After you’ve marked your ballot, insert your ballot in the envelope provided. Make sure to sign the envelope by the red “X,” print your address, and date the back of the return envelope. Your signature must match the signature on your voter registration card.\n\nIf you are unable to sign your name on the return envelope, make an X or distinguishing mark by the red “X” on the return envelope, or have someone print your name on the return envelope and sign as a witness.\n\nWatch How to Return Your Completed Vote-by-Mail Ballot (https://www.youtube.com/watch?v=hFH3YZrhBag&feature=youtu.be).",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "HOW CAN I RETURN MY MAIL BALLOT?",
+            "a": "You can return your vote-by-mail ballot by mail or in person.\n\nBy Mail: If you wish to use the mailed ballot instead of voting in person, fill it out and mail it back early, so that it is postmarked no later than Election Day. You do not need a stamp to mail back your ballot in the return envelope provided.\n\nIn Person: You may drop off your ballot at any voting location in your county. Your county will also open secure ballot drop-off locations starting about a month before Election Day. Ballots returned at a secure ballot drop box must be deposited by 8pm on Election Day.\n\nTo vote in person on Election Day, the polls are open from 7 am to 8 pm. You may also be able to vote in person before Election Day. Learn more about early voting options using the state’s resource page (https://caearlyvoting.sos.ca.gov/).",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO SUBMIT MY MAIL BALLOT?",
+            "a": "Your vote-by-mail ballot must be postmarked by Election Day or dropped off in person at any polling place or a ballot drop-box by polls close on Election Day.\n\nAnyone may return your ballot for you, as long as they don’t get paid on a per ballot basis. In order for your ballot to be counted, you must fill out the authorization section found on the outside of your ballot envelope.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED BALLOT?",
+            "a": "You can track the status of your vote-by-mail ballot by visiting the My Voter Status website (https://voterstatus.sos.ca.gov/) or the Where’s My Ballot website (https://california.ballottrax.net/voter/).",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO UPDATE MY MAILING ADDRESS TO RECEIVE A VOTE-BY-MAIL BALLOT?",
+            "a": "The deadline to update your address is 15 days before Election Day.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "HOW DO I GET A REPLACEMENT VOTE-BY-MAIL BALLOT?",
+            "a": "If you don’t receive your ballot in the mail, you’ve lost or destroyed your original ballot, or you’re unable to vote in person at the polls, you may apply for a replacement ballot using this form (https://www.sos.ca.gov/elections/voter-registration/vote-mail%23replacement) or by contacting your County Elections Office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "HOW DO I SUBMIT A LATE VOTE-BY-MAIL REQUEST?",
+            "a": "If you would like to request a vote-by-mail ballot after 7 days before the election, you will need to apply in person at your county elections office.  (https://absentee.vote411.org/vote/eoddomestic.htm)Your county elections office may allow you to apply over the phone; please call them to see if your office allows telephone applications.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "CAN I VOTE IN PERSON EVEN IF I HAVE RECEIVED A VOTE-BY-MAIL BALLOT?",
+            "a": "Yes! Even if you receive your vote-by-mail ballot, you can still vote at a polling place on Election Day as long as you haven’t returned your vote-by-mail ballot yet. Bring your unused vote-by-mail ballot to your local polling place anytime between 7:00 am and 8:00 pm on Election Day and give it to a poll worker, who will exchange it for a polling place ballot you can use instead.\n\nIf you do not bring your vote-by-mail ballot with you, you will not lose your opportunity to vote at a polling place on Election Day. If the poll worker is able to verify that you have not returned your voted ballot, then you will be given a regular ballot. If not, a poll worker will provide you with a provisional ballot, which will be counted after your county elections official has confirmed you are registered to vote in that county and did not vote more than once in that election.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "HOW DO I RECEIVE A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "a": "Overseas citizens and US military personnel need to be registered as a military or overseas voter by completing the California Online Voter Registration (COVR) application (https://registertovote.ca.gov/). For more information, please visit the Overseas Vote Foundations’ website (https://www.overseasvotefoundation.org/overseas-voter-services).\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Does California allow ballot curing?",
+            "a": "Yes, California allows voters to fix an issue with their ballot.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "a": "Election officials will contact you by mail, phone, or email at least eight days before certification if there are issues with your ballot, including details and instructions for corrections.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What is the deadline to cure my ballot?",
+            "a": "The deadline to cure your ballot for a missing or mismatched signature is by 5pm two days before your county certifies the election, which is held no sooner than 28 days after the election.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Can I track my absentee ballot?",
+            "a": "You can check your ballot status using your state’s online tool (https://california.ballottrax.net/voter/).",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What is a ballot drop box?",
+            "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Are drop boxes available in my state?",
+            "a": "Yes, ballot drop boxes are available in California.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Where can I find ballot drop box locations?",
+            "a": "Ballot drop box locations are available on the California Secretary of State (https://caearlyvoting.sos.ca.gov/) website.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Can I track the ballot after placing in the drop box?",
+            "a": "Yes, you can track the status of your ballot by signing up to receive notifications through the “Where’s My Ballot” (https://www.sos.ca.gov/elections/ballot-status/wheres-my-ballot) website.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Can I vote before Election Day in California?",
+            "a": "Yes. California offers early voting. Any registered voter may vote before Election Day.\n\nNote: California conducts elections primarily by mail. County elections officials mail ballots to all active registered voters about a month before the election.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "When does early voting begin and end in California?",
+            "a": "Early voting generally begins 29 days before Election Day and ends the day before Election Day. Dates and hours may vary by county. Contact your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm) for details.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Where can I vote early in California?",
+            "a": "You can vote early by:\n\n- Visiting your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm)\n- Going to an early voting location offered by your county\n- Voting by mail\n\nIn-person early voting locations and hours vary by county. To find a location near you, visit CAEarlyVoting.sos.ca.gov (https://caearlyvoting.sos.ca.gov/) or contact your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Can I vote early by mail?",
+            "a": "Yes. County elections officials mail ballots to all active registered voters about a month before the election. Voting by mail is a form of early voting in California. You can return your ballot by mail or drop it off at an official ballot drop box or voting location (https://caearlyvoting.sos.ca.gov/) before Election Day.\n\nAll valid vote-by-mail ballots are counted in every election in California, regardless of the outcome or closeness of any race.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "WHO CAN REGISTER TO VOTE IN CALIFORNIA?",
+            "a": "You can register to vote in California if you:\n\n- Are a US citizen and a resident of California\n- Are at least 18 years old on Election Day\n- Are not currently serving a state or federal prison sentence for a felony\n- Have not been found mentally incompetent to vote by a court\n\nIf you’re 16 or 17 and meet the other requirements, you can pre-register now and you’ll be automatically registered when you turn 18.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "WHO CAN VOTE IN CALIFORNIA?",
+            "a": "You can vote in California if you are registered to vote and meet the qualifications listed above. You can vote in all statewide and local elections once you're registered.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
+            "a": "In California, if you were convicted of a felony and served time in prison, you can register to vote as soon as you’re released, even if you’re on parole or probation. Learn more. (https://www.sos.ca.gov/elections/voting-rights-restored)",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "a": "In California, every eligible voter, including those experiencing homelessness, has the right to vote. You can register using the address where you spend most of your time, such as a shelter, or by describing your location with nearby cross streets or landmarks. You also need a place where you can receive mail. This helps election officials assign you to the correct voting area and send you the right election materials.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Do I need an ID to register to vote in California?",
+            "a": "No, you are not required to show physical ID to register in California, but you will be asked to provide identifying information on your voter registration application.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What types of ID are accepted for registration?",
+            "a": "When registering to vote, you’ll be asked to provide:\n\n- Your California driver's license number or\n- Your California identification card number or\n- The last four digits of your Social Security number",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What if I don’t have an ID?",
+            "a": "If you don’t have a California driver's license, ID card, or Social Security number, you can leave that space blank on your voter registration form. Your county elections official will assign you a number to use as your voter ID.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "When are official election results available in California?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "Official election results will be uploaded to the California Secretary of State's website (https://www.sos.ca.gov/elections) as they become available.\n\n  Official Results  (https://www.sos.ca.gov/elections/)",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What does a poll worker do?",
+            "a": "A poll worker is a trained election worker who helps voters and supports voting at polling places or vote centers. Poll workers help set up and close voting locations, check in voters, provide voting instructions, assist voters who need help, and help make sure ballots and voting equipment are handled properly so elections run smoothly and securely.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What qualifications do I need to be a poll worker in California?",
+            "a": "To serve as poll worker in California you must be:\n\n- Be a US citizen or legal permanent resident\n- Be at least 18 years of age\n- Be a resident of the precinct\n- Complete required training\n- High school students who are 16 years or older may work if they are in good standing with a GPA of 2.5 and above\n\nCounties train poll workers before each election so they know how to perform their duties and follow the rules for their voting location. Training formats vary by county, but all poll workers must complete required training before working on Election Day.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Are poll workers paid in California?",
+            "a": "Yes. Poll workers are compensated and can earn extra money for serving on Election Day. Pay varies by county (https://www.sos.ca.gov/elections/poll-worker-information) and position.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "How do I apply to be a poll worker in California?",
+            "a": "To apply, visit the statewide poll worker application site at pollworker.sos.ca.gov and complete the application. If you want to work in a specific county or outside the county where you live, contact that county’s elections office (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) directly.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Does California offer provisional voting?",
+            "a": "Yes, California offers provisional voting.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "How do I vote a provisional ballot?",
+            "a": "You may be asked to vote a provisional ballot if you meet specific criteria, including:\n\n- You believe you are registered to vote even though your name is not on the official voter registration list at the polling place.\n- You signed up to vote by mail but want to vote at your polling place or vote center and you didn't receive or you didn't bring your vote by mail ballot with you, and the election official is unable to verify that you have not returned your vote-by-mail ballot.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "How can I make sure my provisional ballot is counted?",
+            "a": "If you are asked to vote a provisional ballot, it will be counted after election officials confirm you are registered to vote and haven't already voted in that election.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "How can I check the status of my provisional ballot?",
+            "a": "For more information about provisional voting, and information on how to track your provisional ballot, please visit your Secretary of State's website. (https://www.sos.ca.gov/elections/voting-resources/provisional-voting)",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What voting assistance is available for voters with disabilities?",
+            "a": "There are many ways voters with disabilities can cast their ballot.\n\nRemote Accessible Vote-by-Mail\n\nThis allows voters to mark their selections on their ballot by using their own compatible technology to vote independently from their own home. For more information on how to use this option, click here.  (https://www.sos.ca.gov/elections/voting-resources/remote-accessible-vote-mail)\n\nCurbside Voting\n\nThis allows you to park as close as possible to the voting area. Election officials will bring you any voting materials you need to cast your ballot, either on the curb or in your car. Be sure to check if curbside voting is available at your polling or vote center by contacting you county elections office.  (https://absentee.vote411.org/vote/eoddomestic.htm)\n\nAccessible Voting Machines\n\nContact your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm) for details around accessible voting machines in your area.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "How do I request accommodation or report accessibility issues?",
+            "a": "If you have any questions about receiving help in voting, please ask the clerk or inspector at the polling place.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Can I vote by mail because of my disability?",
+            "a": "All voters can cast their ballot from home. For more information on voting by mail, click here.  (https://www.vote411.org/california#vote-by-mail)\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Does California require employers to give time off to vote?",
+            "a": "Yes. California law requires employers to give employees time off to vote if they do not have enough nonworking time while polls are open (Polls are open from 7:00 a.m. to 8:00 p.m). You can take time off at the beginning or end of your work shift, unless you arrange something else with your employer. Up to two hours of voting time off must be paid.\n\nIf you know you will need time off to vote, you must notify your employer at least two working days before the election.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "DO I NEED TO SHOW ID WHEN I VOTE IN CALIFORNIA?",
+            "a": "Most California voters do not need to show ID to vote. However, if you are a first-time voter in a federal election and you did not provide ID information (like a driver's license or Social Security number) when you registered, you may be required to show ID:\n\n- If voting in person, you may be asked to show ID at your polling place.\n- If voting by mail, you may need to send a photocopy of acceptable ID to your county elections official before your vote can be counted.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO VOTE IN CALIFORNIA?",
+            "a": "Acceptable forms of identification include:\n\n- A copy of a recent utility bill\n- The county Voter Information Guide sent to you\n- A document from a government agency\n- A copy of your passport\n- A driver license\n- A California identification card\n- A student ID card\n\nFor a full list or help, visit the Secretary of State’s website (https://www.sos.ca.gov/elections/where-and-how), call (800) 345-VOTE (8683), or contact your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
+            "a": "If you're voting for the first time in a federal election and didn’t provide ID when you registered, you may be asked to show identification before your vote can be counted.\n\n- Voting in person without ID? You can still cast a provisional ballot. Election officials will verify your identity by comparing the signature on your provisional ballot envelope to the one on your voter registration form. If the signatures match, your ballot will be counted.\n- Voting by mail? You must submit a copy of an acceptable ID to your county elections office before your ballot can be counted. If they don’t receive it in time, your ballot envelope won’t be opened or counted.\n\nThis process applies only to first-time voters in a federal election.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What types of voting machines does California use?",
+            "a": "The types of voting equipment used in California are optical scans and ballot marking devices (BMDs).",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What is optical scan voting?",
+            "a": "With optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\n\n- With a pen or pencil, you fill in a little box, circle, or space between two arrows.\n- When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\n- Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What are Ballot Marking Devices (BMDs)?",
+            "a": "With these systems, the voter is presented with an electronic ballot and the voter makes their choices electronically. This produces a human-readable paper ballot.\n\nSome BMDs mark pre-printed ballots, while others print summaries of voter selections, often with those selections encoded in barcodes or QR codes.\n\nThen, voters either cast their ballots on a separate hand-fed optical scanner or place them in a ballot box to be counted centrally.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        }
+    ]
+}

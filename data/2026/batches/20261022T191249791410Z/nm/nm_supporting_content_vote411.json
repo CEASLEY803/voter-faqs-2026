@@ -1,0 +1,111 @@
+{
+    "state": "nm",
+    "num_sections": 15,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "topic_introduction",
+            "content": "Vote-by-mail (absentee voting) is available in New Mexico and no excuse is required. The last day to request an absentee ballot is 14 days before the election. You can return your absentee ballot request form through mail, in person at your local elections office, or online (https://portal1.sos.nm.gov/OVR/(S(hksacpezpoy4dqi20wc2n5cb))/WebPages/AbsenteeApplication.aspx).\n\nVoted ballots must be received by 7pm on Election Day to be counted. You can sign up to track your absentee ballot (https://app.enhancedvoting.com/login/Voter/Account/Login2?returnUrl=%2Flogin%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcore.voter.frontend%26scope%3Dopenid%2520profile%2520offline_access%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fapp.enhancedvoting.com%252Fvoter%252Fapi%252Fauth%252Fcallback%26acr_values%3Dusertype%253AVoter%2520voterLoginMode%253Alight%2520shortName%253Anewmexico%26code_challenge%3D1jXZUvJ0F68q920zDiLoCnYO4oHWv8ogEtwRCETxi4g%26code_challenge_method%3DS256) on your Secretary of State website. Absentee ballots begin being counted on Election Day.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "topic_introduction",
+            "content": "Ballot curing is when a voter corrects an issue with their ballot, so it can be counted.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Information on local, state and federal candidates and ballot measures is available here. (https://www.vote411.org/ballot)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "topic_introduction",
+            "content": "Early voting for the November 3, 2026 General Election begins on October 6th and ends on October 31st.\n\nEarly Voting Starts: 28 days before Election Day\nEarly Voting Ends: The Saturday before Election Day",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "The next election date can be found here https://www.vote411.org/new-mexico.\n\nContact your local Board of Elections (https://absentee.vote411.org/vote/eoddomestic.htm) for information about local elections.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "Polls will be open from 7:00 am to 7:00 pm.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Poll Worker Information",
+            "kind": "topic_introduction",
+            "content": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker toda (https://powerthepolls.org/lwv)y!",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "You can find your polling place by utilizing your state resource. (https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx) If you have any questions, please contact your county clerk (https://www.overseasvotefoundation.org/vote/election-official-directory). (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "topic_introduction",
+            "content": "New Mexico is a “semi-open” state.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Ranked Choice Voting",
+            "kind": "section_without_questions",
+            "content": "Ranked choice voting may be available in your area, contact your local elections officials (https://absentee.vote411.org/vote/eoddomestic.htm) for more information. Voters in Santa Fe (http://votedifferentsantafe.com/) and Las Cruces began using Ranked Choice Voting in 2018 and 2019 respectively.\n\nRanked Choice Voting allows voters to rank candidates in their order of preference. Voters do not need to rank candidates if they do not want to and may vote for just one candidate. For more information on how Ranked Choice Voting works in your area, please contact your local elections officials.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Student Voting Process",
+            "kind": "section_without_questions",
+            "content": "What do I need to register to vote in New Mexico?\n\nHere is what you need to know to register in New Mexico:\n\nThere are three methods of voter registration in New Mexico: register in-person, register online (https://portal.sos.state.nm.us/OVR/WebPages/InstructionsStep1.aspx), or mail a printable application (https://www.sos.nm.gov/voting-and-elections/voter-information-portal-nmvote-org/voter-registration-information/) to your local county clerk’s office.\n\nCan I register to vote using my college address in New Mexico?\n\nYes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.\n\nWhat’s the deadline to register to vote in New Mexico?\n\nNew Mexico requires voters to register online or by mail at least 28 days before the election. You can also register in person up to and including Election Day. Be sure to check the exact date each year.\n\nWhat form of ID do I need to vote in New Mexico?\n\nA New Mexico voter is not required to show identification. However, if you are voting for the first time, you may be asked to show a form of identification when you go to the polls. This can include a driver’s license, passport, student ID from a state-supported college, or other accepted forms.\n\nI’m originally from another state, can I still vote in my home state while studying in New Mexico?\n\nYes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).\n\nDoes registering to vote affect my financial aid, parents’ taxes, and/or tuition in New Mexico?\n\nRegistering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Voter ID Requirements",
+            "kind": "section_without_questions",
+            "content": "DO I NEED TO SHOW ID WHEN I VOTE IN NEW MEXICO?\n\nMost voters do not need to show ID when voting in statewide elections in New Mexico. The exception is if you are voting for the first time after registering by mail and did not include ID with your registration form. In that case, you’ll need to show ID when voting in person or absentee. Some cities, like Rio Rancho, may require ID for municipal elections due to local ordinances. Please contact your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.\n\nWHAT TYPES OF ID CAN I USE TO VOTE IN NEW MEXICO?\n\nA physical form of identification is only required for first-time New Mexico voters who registered by mail and did not include identification with their voter registration application form. You can use one of the following forms of ID:\n\n- A current and valid photo ID\n- A current utility bill\n- A bank statement\n- A government check\n- A paycheck\n- A student ID\n- An ID issued by an Indian nation, tribe, or pueblo that shows your name and current address\n- Verbal or written statement by you (the voter) with your name, year of birth and registered address\n\nWHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN NEW MEXICO?\n\nIf you’re not required to show ID, you’ll just need to provide your name, year of birth, and registered address verbally or in writing. If you are required to show ID and don’t have it, you may need to vote on a provisional ballot or provide ID later for your vote to count. Please contact your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        }
+    ]
+}

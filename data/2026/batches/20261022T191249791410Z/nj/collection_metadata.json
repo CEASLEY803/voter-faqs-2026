@@ -1,0 +1,21 @@
+{
+    "state": "nj",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/new-jersey",
+            "final_url": "https://www.vote411.org/new-jersey",
+            "collected_at": "2026-10-22T19:13:38+00:00",
+            "sha256": "dcd619de628d75efeb530094f2b93772c0d3408f84df55fefaeec4a12c793bf0",
+            "snapshot": "data/2026/batches/20261022T191249791410Z/nj/vote411-nj.html"
+        }
+    ],
+    "counts": {
+        "vote411": 11,
+        "supporting_sections": 23
+    },
+    "extraction_version": 2,
+    "faq_file": "nj_qa_vote411.json",
+    "supporting_content_file": "nj_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}
