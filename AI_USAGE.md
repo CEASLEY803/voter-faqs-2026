@@ -54,3 +54,11 @@ User request, verbatim:
 > Everything looks correct from that extraction, i think we can try running it against maybe Georgia and Ohio next
 
 Coding assistance: add a small state-selectable Vote411 runner that reuses the corrected SC parser, text renderer, and validators. Run it for Georgia and Ohio, retain source snapshots and supporting-content sidecars, and check extraction completeness against saved page structure. These runs cover Vote411 only. The user approved the corrected SC extraction; Georgia and Ohio require their own human source review. Model information is the same as recorded above.
+
+## October 22, 2026: all-state Vote411 batch
+
+User request, verbatim:
+
+> ok not touching them, vote 411 seems flawless. id like to try it on all 50 now
+
+Coding assistance: expand the explicit state-to-URL mapping to 50 states, implement sequential batch collection with per-state error isolation and a manifest, run the collector, and validate extracted records against saved HTML. Preserve the corrected parser and original text capitalization. Source review of pilot output does not establish all-state extraction completeness; automated checks and any exceptions are recorded separately. Model information is the same as recorded above.
