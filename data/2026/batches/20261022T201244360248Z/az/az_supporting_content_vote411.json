@@ -1,0 +1,83 @@
+{
+    "state": "az",
+    "num_sections": 11,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "topic_introduction",
+            "content": "Vote-by-mail (absentee voting) is available in Arizona and no excuse is required. The last day to request a mail in ballot is 11 days before the election. You can return your absentee ballot request form through mail, in person at your local elections office, or online (https://absentee.vote411.org/vote/VoterInformation.htm).\n\nVoted ballots must be received by 7pm on Election Day to be counted. For more information, please contact your Secretary of State (https://absentee.vote411.org/vote/eoddomestic.htm). You can sign up to track your ballot by mail (https://my.arizona.vote/PortalList.aspx) on your Secretary of State’s website.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "topic_introduction",
+            "content": "Ballot curing is when a voter corrects an issue with their ballot, so it can be counted.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org/).\n\nFor information on state campaign contributions, please visit your state's resource. (https://azsos.gov/elections/campaign-finance-reporting)",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Information on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp).",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "topic_introduction",
+            "content": "Early voting for the November 3, 2026 General Election begins on October 7th and ends October 30th.\n\nEarly Voting Starts: 27 days before Election Day\n\nEarly Voting Ends: The Friday before Election Day",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "Your next election date can be found here. (https://www.vote411.org/arizona)",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "Polling place hours are from 6:00 am to 7:00 pm.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "Register, check your registration status, and access voting materials through the  (https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmy.arizona.vote%2FUOCAVA2%2Fdefault.aspx%3Futm_source%3Dchatgpt.com&data=05%7C02%7CVOTE411help%40lwv.org%7C02e00b2cd6f44500858f08df1e397e79%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C1%7C639262904460271963%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=OsK4PHjuOAdTorIjaXQtHHQpR5cNemWRcNDqV4h810w%3D&reserved=0)Arizona UOCAVA Portal (https://app.enhancedvoting.com/ebd/voter/arizona). Go to Federal Voting Assistance Program — Arizona (https://www.fvap.gov/arizona) for more information.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "You can confirm your voting location by selecting from the following local resources: Arizona State Poll Locator Tool. (https://my.arizona.vote/WhereToVote.aspx?s=address)",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "In Arizona, if you are registered with a particular party, you may only vote in that party's primary. If you are unaffiliated with any political party, you may request a ballot to vote in either the Republican or Democratic primary.\n\nNote: The provision for an open primary does not apply to the Presidential Preference Election. Only voters of a participating party may vote on that party's ballot. Independent (unaffiliated) voters may change their voter registration to a designated party by the registration deadline. After the election, voters may change their registration back to unaffiliated.\n\nFor more information about how to participate in the partisan primaries as an unaffiliated (also known as Independent or No-party) voter, please follow the link below:\n\nhttps://www.azcleanelections.gov/how-to-vote/no-party (https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.azcleanelections.gov%2Fhow-to-vote%2Fno-party&data=05%7C01%7Cigarcia-hernandez%40lwv.org%7Cd6d04fbd07ef411ed79008da5b5c20a6%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C1%7C637922748502556970%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=BGkhwh6CwrZn0DpXuqrVe7%2BzbiV2aJqsR1%2BDxENC64M%3D&reserved=0).\n\nhttps://azsos.gov/votebymail (https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fazsos.gov%2Fvotebymail&data=05%7C01%7Cigarcia-hernandez%40lwv.org%7Cd6d04fbd07ef411ed79008da5b5c20a6%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C1%7C637922748502556970%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=RpMWuizhlrizp01H3ygDcwEWu5690pDHPaNBd7hxZas%3D&reserved=0)",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (https://my.arizona.vote/)",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        }
+    ]
+}

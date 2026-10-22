@@ -1,0 +1,336 @@
+{
+    "status": "passed",
+    "all_50_states_present": true,
+    "checks": [
+        "record format and counts",
+        "snapshot hashes",
+        "state and source identity",
+        "source timestamps",
+        "source-body word and punctuation token conservation"
+    ],
+    "limitations": "Token counts do not verify text order, answer boundaries, browser appearance, or factual accuracy. Human source review remains required.",
+    "states": {
+        "ak": {
+            "status": "passed",
+            "faq_records": 38,
+            "supporting_sections": 17,
+            "review_flags": []
+        },
+        "al": {
+            "status": "passed",
+            "faq_records": 20,
+            "supporting_sections": 16,
+            "review_flags": []
+        },
+        "ar": {
+            "status": "passed",
+            "faq_records": 33,
+            "supporting_sections": 16,
+            "review_flags": []
+        },
+        "az": {
+            "status": "passed",
+            "faq_records": 68,
+            "supporting_sections": 11,
+            "review_flags": []
+        },
+        "ca": {
+            "status": "passed",
+            "faq_records": 63,
+            "supporting_sections": 13,
+            "review_flags": []
+        },
+        "co": {
+            "status": "passed",
+            "faq_records": 19,
+            "supporting_sections": 19,
+            "review_flags": []
+        },
+        "ct": {
+            "status": "passed",
+            "faq_records": 41,
+            "supporting_sections": 16,
+            "review_flags": []
+        },
+        "de": {
+            "status": "passed",
+            "faq_records": 9,
+            "supporting_sections": 18,
+            "review_flags": []
+        },
+        "fl": {
+            "status": "passed",
+            "faq_records": 65,
+            "supporting_sections": 14,
+            "review_flags": []
+        },
+        "ga": {
+            "status": "passed",
+            "faq_records": 60,
+            "supporting_sections": 11,
+            "review_flags": []
+        },
+        "hi": {
+            "status": "passed",
+            "faq_records": 0,
+            "supporting_sections": 23,
+            "review_flags": [
+                "No identifiable question headings; supporting content only"
+            ]
+        },
+        "ia": {
+            "status": "passed",
+            "faq_records": 2,
+            "supporting_sections": 22,
+            "review_flags": []
+        },
+        "id": {
+            "status": "passed",
+            "faq_records": 26,
+            "supporting_sections": 20,
+            "review_flags": []
+        },
+        "il": {
+            "status": "passed",
+            "faq_records": 63,
+            "supporting_sections": 12,
+            "review_flags": []
+        },
+        "in": {
+            "status": "passed",
+            "faq_records": 28,
+            "supporting_sections": 19,
+            "review_flags": []
+        },
+        "ks": {
+            "status": "passed",
+            "faq_records": 26,
+            "supporting_sections": 19,
+            "review_flags": []
+        },
+        "ky": {
+            "status": "passed",
+            "faq_records": 50,
+            "supporting_sections": 12,
+            "review_flags": []
+        },
+        "la": {
+            "status": "passed",
+            "faq_records": 25,
+            "supporting_sections": 18,
+            "review_flags": []
+        },
+        "ma": {
+            "status": "passed",
+            "faq_records": 0,
+            "supporting_sections": 22,
+            "review_flags": [
+                "No identifiable question headings; supporting content only"
+            ]
+        },
+        "md": {
+            "status": "passed",
+            "faq_records": 0,
+            "supporting_sections": 22,
+            "review_flags": [
+                "No identifiable question headings; supporting content only"
+            ]
+        },
+        "me": {
+            "status": "passed",
+            "faq_records": 67,
+            "supporting_sections": 12,
+            "review_flags": []
+        },
+        "mi": {
+            "status": "passed",
+            "faq_records": 54,
+            "supporting_sections": 11,
+            "review_flags": []
+        },
+        "mn": {
+            "status": "passed",
+            "faq_records": 63,
+            "supporting_sections": 12,
+            "review_flags": []
+        },
+        "mo": {
+            "status": "passed",
+            "faq_records": 0,
+            "supporting_sections": 22,
+            "review_flags": [
+                "No identifiable question headings; supporting content only"
+            ]
+        },
+        "ms": {
+            "status": "passed",
+            "faq_records": 2,
+            "supporting_sections": 22,
+            "review_flags": []
+        },
+        "mt": {
+            "status": "passed",
+            "faq_records": 29,
+            "supporting_sections": 20,
+            "review_flags": []
+        },
+        "nc": {
+            "status": "passed",
+            "faq_records": 70,
+            "supporting_sections": 12,
+            "review_flags": []
+        },
+        "nd": {
+            "status": "passed",
+            "faq_records": 20,
+            "supporting_sections": 20,
+            "review_flags": []
+        },
+        "ne": {
+            "status": "passed",
+            "faq_records": 1,
+            "supporting_sections": 21,
+            "review_flags": []
+        },
+        "nh": {
+            "status": "passed",
+            "faq_records": 43,
+            "supporting_sections": 10,
+            "review_flags": []
+        },
+        "nj": {
+            "status": "passed",
+            "faq_records": 27,
+            "supporting_sections": 19,
+            "review_flags": []
+        },
+        "nm": {
+            "status": "passed",
+            "faq_records": 63,
+            "supporting_sections": 13,
+            "review_flags": []
+        },
+        "nv": {
+            "status": "passed",
+            "faq_records": 60,
+            "supporting_sections": 12,
+            "review_flags": []
+        },
+        "ny": {
+            "status": "passed",
+            "faq_records": 65,
+            "supporting_sections": 15,
+            "review_flags": []
+        },
+        "oh": {
+            "status": "passed",
+            "faq_records": 62,
+            "supporting_sections": 12,
+            "review_flags": []
+        },
+        "ok": {
+            "status": "passed",
+            "faq_records": 0,
+            "supporting_sections": 22,
+            "review_flags": [
+                "No identifiable question headings; supporting content only"
+            ]
+        },
+        "or": {
+            "status": "passed",
+            "faq_records": 0,
+            "supporting_sections": 22,
+            "review_flags": [
+                "No identifiable question headings; supporting content only"
+            ]
+        },
+        "pa": {
+            "status": "passed",
+            "faq_records": 46,
+            "supporting_sections": 12,
+            "review_flags": []
+        },
+        "ri": {
+            "status": "passed",
+            "faq_records": 0,
+            "supporting_sections": 22,
+            "review_flags": [
+                "No identifiable question headings; supporting content only"
+            ]
+        },
+        "sc": {
+            "status": "passed",
+            "faq_records": 47,
+            "supporting_sections": 12,
+            "review_flags": []
+        },
+        "sd": {
+            "status": "passed",
+            "faq_records": 2,
+            "supporting_sections": 21,
+            "review_flags": []
+        },
+        "tn": {
+            "status": "passed",
+            "faq_records": 0,
+            "supporting_sections": 22,
+            "review_flags": [
+                "No identifiable question headings; supporting content only"
+            ]
+        },
+        "tx": {
+            "status": "passed",
+            "faq_records": 62,
+            "supporting_sections": 17,
+            "review_flags": []
+        },
+        "ut": {
+            "status": "passed",
+            "faq_records": 0,
+            "supporting_sections": 24,
+            "review_flags": [
+                "No identifiable question headings; supporting content only"
+            ]
+        },
+        "va": {
+            "status": "passed",
+            "faq_records": 64,
+            "supporting_sections": 17,
+            "review_flags": []
+        },
+        "vt": {
+            "status": "passed",
+            "faq_records": 29,
+            "supporting_sections": 19,
+            "review_flags": []
+        },
+        "wa": {
+            "status": "passed",
+            "faq_records": 0,
+            "supporting_sections": 22,
+            "review_flags": [
+                "No identifiable question headings; supporting content only"
+            ]
+        },
+        "wi": {
+            "status": "passed",
+            "faq_records": 57,
+            "supporting_sections": 14,
+            "review_flags": []
+        },
+        "wv": {
+            "status": "passed",
+            "faq_records": 26,
+            "supporting_sections": 19,
+            "review_flags": []
+        },
+        "wy": {
+            "status": "passed",
+            "faq_records": 0,
+            "supporting_sections": 22,
+            "review_flags": [
+                "No identifiable question headings; supporting content only"
+            ]
+        }
+    }
+}

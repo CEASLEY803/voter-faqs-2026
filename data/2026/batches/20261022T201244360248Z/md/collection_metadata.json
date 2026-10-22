@@ -1,0 +1,25 @@
+{
+    "state": "md",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/maryland",
+            "final_url": "https://www.vote411.org/maryland",
+            "collected_at": "2026-10-22T19:13:20+00:00",
+            "sha256": "ed383288c365802e6b373c6ce240b1a3253fb39ffe09c417872ba8cca1d1bbd3",
+            "snapshot": "data/2026/batches/20261022T201244360248Z/md/vote411-md.html"
+        }
+    ],
+    "counts": {
+        "vote411": 0,
+        "supporting_sections": 22
+    },
+    "extraction_version": 4,
+    "reprocessed_from": "data/2026/batches/20261022T191516674464Z/md",
+    "review_flags": [
+        "No identifiable question headings; supporting content only"
+    ],
+    "faq_file": "md_qa_vote411.json",
+    "supporting_content_file": "md_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

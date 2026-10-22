@@ -1,0 +1,118 @@
+{
+    "state": "ar",
+    "num_sections": 16,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "topic_introduction",
+            "content": "Arkansas voters can only apply to vote absentee if they meet certain criteria. If you meet the criteria, you can ask your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm) to mail you an absentee ballot application, or you can complete the application form (https://absentee.vote411.org/vote/VoterInformation.htm). The last day to request your ballot varies, as does the deadline to return the voted ballot. More information on the absentee ballot process below.",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2026-10-22T19:12:53+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "section_without_questions",
+            "content": "The deadline to cure (correct) your absentee/mail ballot is noon of the first Monday following the election. In certain cases, a voter is allowed to bring their verification of registration, documents needed, or an identification card to the county clerk to verify. If you voted a provisional ballot due to a failure to verify registration, you may present an acceptable form of ID to the County Clerk or the County Election Commission by noon of the first Monday following the election for your ballot to be counted. Check the status of your ballot using your state’s online resource (https://www.voterview.ar-nova.org/voterview).",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2026-10-22T19:12:53+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org). or check  your state website (https://www.ark.org/sso/index.php?template=sos).",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2026-10-22T19:12:53+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Information on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp).",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2026-10-22T19:12:53+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "section_without_questions",
+            "content": "Early voting for the November 3, 2026 General Election begins on October 19th and ends November 2nd.\n\nEarly Voting Starts: 15 days before Election Day for Preferential Primaries and General Elections; 7 days before Election Day for all other elections.\n\nEarly Voting Ends: The day before Election Day\n\nEarly voting dates depend on the type of election, ranging from 7-15 days before the election. Early voting will take place at the county clerk's office. Some counties have other early voting locations around the county.\n\nPreferential Primary and General Elections:\n\nEarly voting begins 15 days before the election and is available from 8am - 6pm Monday to Friday, and 10am-4pm on Saturday. Early voting ends at 5pm on the Monday before the election. Hours may vary at the non-county clerk office locations, contact your county clerk for more information.\n\nAll other elections (runoff, school, etc.):\n\nEarly voting begins 7 days before the election, and is available during normal business hours at your county clerk's office.\n\nFor more information check your state's resource. (https://www.washingtoncountyar.gov/government/departments-a-e/election-commission/early-vote-sites-for-the-march-5-2024-preferential-primary-nonpartisan-judicial-general-election-annual-school-election-and-special-elections)",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2026-10-22T19:12:53+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "Your next election date can be found here https://www.vote411.org/arkansas\n\nContact your local Board of Elections  (https://www.sos.arkansas.gov/elections/voter-information)for more information.",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2026-10-22T19:12:53+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "The polls will be open from 7:30 am to 7:30 pm.",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2026-10-22T19:12:53+00:00"
+        },
+        {
+            "topic": "Official Election Results",
+            "kind": "section_without_questions",
+            "content": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and it’s essential that they take the time to make sure every vote is counted.\n\nOfficial election results will be uploaded on Arkansas’ Secretary of State website (https://www.sos.arkansas.gov/elections/research/election-results) as they become available.\n\n  Official Results  (https://www.sos.arkansas.gov/elections/research/election-results)",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2026-10-22T19:12:53+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory (https://absentee.vote411.org/vote/eoddomestic.htm) or contact the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2026-10-22T19:12:53+00:00"
+        },
+        {
+            "topic": "Poll Worker Information",
+            "kind": "section_without_questions",
+            "content": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker toda (https://powerthepolls.org/lwv )y!\n\nIn order to be a poll worker in Arkansas, you must:\n\n- Be a qualified elector in Arkansas\n- Be able to read and write English\n- Be a resident of the precinct in which you serve\n- Not have been found or plead guilty to the violation of any election law in Arkansas\n- Not be a paid employee of any political party\n- Not be a paid employee of any person running for any office on the county's ballot\n- Not be a candidate for any office to be filled at an election while serving as a poll worker\n- Not be related or married to any candidate running for office in the current election\n- Complete the training\n\nTo sign up, contact your local board of elections. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2026-10-22T19:12:53+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "You can confirm your voting location here (https://www.voterview.ar-nova.org/).",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2026-10-22T19:12:53+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "Arkansas is an “open primary” state. You can choose the party’s ballot you wish to vote. This decision does not register you with that party and it is a private decision.\n\nIn a primary election if a candidate does not with the majority of the votes (50%+1) there will be a primary runoff election scheduled for a few weeks after the primary election date. The runoff election will have the top two candidates with the most votes to ensure that one of them receives the majority of the voters.\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2026-10-22T19:12:53+00:00"
+        },
+        {
+            "topic": "Provisional Voting",
+            "kind": "section_without_questions",
+            "content": "There are several reason you may be asked to vote a provisional ballot, including:\n\n- You name not on the registration list\n- You are unable to provide acceptable photo ID (to verify your voter registration)\n- You are not able to show acceptable ID for mail-in registrants when registering to vote\n- The voter registration list shows you requested an absentee ballot or voted during early voting\n- Your vote is challenged by a registered poll watcher (you must be informed of the challenge and the challenger must complete a Challenged Ballot Form)\n\nAfter you vote your provisional ballot, the poll worker will give you written instructions on how to determine whether the provisional vote was counted, and if not, why it was not counted. Provisional ballots are counted between 2-15 days after the election.",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2026-10-22T19:12:53+00:00"
+        },
+        {
+            "topic": "Time Off To Vote",
+            "kind": "section_without_questions",
+            "content": "Employer shall schedule sufficient time on election days so that employees may vote. This time varies by location.",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2026-10-22T19:12:53+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (https://www.voterview.ar-nova.org/)",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2026-10-22T19:12:53+00:00"
+        },
+        {
+            "topic": "Voter Registration Deadlines",
+            "kind": "section_without_questions",
+            "content": "Online registration deadline: Not available\n\nRegister by mail deadline: Postmarked 30 days before Election Day\n\nIn-person registration deadline: 30 days before Election Day\n\nNot registered? Use our online registration tool (https://www.vote411.org/register) to complete your application!",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2026-10-22T19:12:53+00:00"
+        }
+    ]
+}

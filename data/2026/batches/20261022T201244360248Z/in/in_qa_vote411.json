@@ -1,0 +1,176 @@
+{
+    "state": "in",
+    "num_questions": 28,
+    "num_answers": 28,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "If you wish to have your absentee ballot sent to you by mail, you must meet at least one of the qualifying excuses on Election Day:\n\n- Have a specific, reasonable expectation that you will be absent from your county of residence on Election Day during the entire 12 hours that the polls are open (6:00 am to 6:00 pm)\n- Be an election official\n- Be confined on Election Day due to illness or injury during the entire 12 hours that the polls are open or caring for a confined person at a private residence.\n- Be a voter with disabilities that believes their polling place is not accessible to them\n- Be 65 years of age or older\n- Be a caretaker of an individual(s) confined to a private residence due to illness or injury and prevented from voting during the entire 12 hours that the polls are open\n- Be scheduled to work for the entire 12 hours that the poll is open\n- Are prevented from voting due to observing a religious discipline or holiday during the entire 12 hours that the polls are open\n- Be participating in the address confidentiality program\n- Be a member of the military or public safety officer\n- Be considered a \"serious sex offender\"\n- Are prevented from voting due to not having transportation to the polls\n- A voter who is physically unable to complete the ballot and sign the affidavit on their own",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "You have a few ways to request an absentee ballot:\n\n- Online (https://indianavoters.in.gov/MVPHome/PrintDocuments): Log in and select “ABS Mail” “ABS Mail (Por Correo)”\n- By mail or hand-delivery: Find the address for your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm) here and mail it or hand-deliver your application during their office hours.\n- By email: Print, sign, and scan or photograph your absentee ballot application and, if applicable, a copy of your ID card and send it to your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm) or the Indiana Election Division at [email protected]. (https://www.vote411.org/cdn-cgi/l/email-protection#ee8b828b8d9a8781809dae878b8dc08780c0898198)\n\nIf you are a confined voter or a voter caring for a confined individual, there are other deadlines and requirements that apply. (http://www.in.gov/sos/elections/2402.htm)\n\nA first-time voter in Indiana who registered to vote by mail and did not provide proof of residency either with their voter registration application or absentee ballot application will be asked to provide the documentation before 6pm on Election Day.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "WHAT ARE THE ID REQUIREMENTS TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "When requesting your absentee ballot, you will need to provide a copy of a government-issued photo ID, like your driver’s license, BMV ID card, or your passport, OR one or more of the following numbers on your application:\n\n- Indiana Driver’s License Number\n- Indiana Identification Card Number\n- Unique Voter Identification Number\n- Last Four Digits of Social Security Number\n\nIt is recommended that you provide more than one ID number on your application since at least one will need to match your voter’s registration record or match against the number maintained by the Indiana Bureau of Motor Vehicles or US Social Security Administration.\n\nIf you fail to provide a copy of your ID or one of the ID numbers listed above, your absentee ballot may be delayed. You will receive notice from your county election administrator if your application is rejected.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR REQUESTING AN ABSENTEE BALLOT?",
+            "a": "The last day to request an absentee ballot (https://absentee.vote411.org/vote/VoterInformation.htm) is 12 days before the election.\n\nThe county or the state must have your application in their possession by the deadline. Any application received after this deadline – even if it’s postmarked before the deadline – cannot be processed.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
+            "a": "Yes, you must submit a separate application for each election.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "a": "Voted ballots must be received by 6 pm (close of polls) on Election Day.\n\nCounty election officials must receive your absentee ballot by 6pm on Election Day. If it’s postmarked by the deadline, but physically received after the deadline, your ballot won't be processed by the Election Board.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "HOW DO I VOTE IN-PERSON ABSENTEE?",
+            "a": "State law requires counties to offer in-person absentee voting for 28 days leading up to the election, ending at noon the day before Election Day. All Indiana counties must also provide in-person absentee voting on the two Saturdays before the election.\n\nPlease click here (https://indianavoters.com/) to view your county’s absentee-in-person or Early Voting dates, times, and locations.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Absentee ballots are mailed out starting 45 days before the election.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY VOTED ABSENTEE BALLOT?",
+            "a": "You can return your voted absentee ballot to the Election Board by mail in the postage-paid envelope,\n\nYou can also hand deliver your ballot to your local elections office, (https://absentee.vote411.org/vote/eoddomestic.htm) an Early Voting location, or at your polling site before 6pm on Election Day.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "You can sign up to track your absentee ballot (https://indianavoters.in.gov/) on your Secretary of State website.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "You have a few options for voting in person if you requested an absentee ballot. You can choose one of the following:\n\n- A voter may surrender their absentee ballot to the Inspector at the polling site, who can then issue a regular ballot.\n- On Election Day, a voter who requested an absentee ballot but never received it in the mail may complete the PRE-5 affidavit at their polling location and vote a regular ballot.\n- A voter who had their absentee ballot rejected by county officials may appear before the county election board not later than 5pm on Election Day to request an ABS-21 form and then go to their polling place to vote a regular ballot.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "WHO CAN REGISTER TO VOTE IN INDIANA?",
+            "a": "You can register to vote in Indiana if:\n\n- You are a US citizen and a resident of Indiana\n- You will be at least 18 years old by the next general or municipal election\n- You have lived in your voting precinct for at least 30 days before the election\n- You are not currently in prison after being convicted of a crime",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "WHO CAN VOTE IN INDIANA?",
+            "a": "To can vote in Indiana if:\n\n- You are registered to vote\n- You are both a US citizen and a resident of Indiana\n- You will be at least 18 years of age on or before Election Day\n- You are not currently in prison after being convicted of a crime\n- You have lived in the precinct where you vote for at least 30 days prior to the election",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
+            "a": "In Indiana, you only lose your right to vote if you are currently incarcerated for a misdemeanor or felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "a": "Yes. Voters in Indiana without a traditional address, such as those experiencing homelessness or living in motor homes, can still register and vote. When registering:\n\n- You must provide a location where you usually sleep in the county.\n- If that location doesn’t have a street address, you can describe it or draw a map and attach it to your voter registration form.\n- You must also provide a mailing address in the same county so election officials can send you important information. (A P.O. Box is acceptable for this purpose but cannot be used as your residence address.)\n\nYour county will review your application and send a registration card or notice to your mailing address.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN INDIANA?",
+            "a": "It depends on how you register:\n\n- If you register online (https://indianavoters.in.gov/), you must provide a valid Indiana driver’s license or state-issued ID number.\n- If you register by mail or in person, you are not required to show ID when registering. However, if you are registering for the first time by mail, you may later be asked to provide a document that shows your name and current address.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN INDIANA?",
+            "a": "When registering online, you’ll need one of the following:\n\n- A valid Indiana driver’s license number\n- A valid Indiana state ID number\n\nIf you’re later required to provide additional documentation (for example, as a first-time voter who registered by mail), you can use:\n\n- An Indiana driver’s license or state ID with your current name and address\n- A current utility bill, bank statement, paycheck, government check, or government document showing your name and current address",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER?",
+            "a": "You can still register to vote in Indiana without showing ID if registering by mail or in person.\n\nIf registering online, you’ll need to provide your Indiana driver’s license or state ID number. Without it, the online system won’t allow you to register.\n\nIf you're a first-time voter who registered by mail and don’t have the required documentation when voting, you may be asked to vote with a provisional ballot and return with the required documents or information to have your vote counted.\n\nIf you don’t have an ID that meets Indiana’s voting requirements, you can get a free state ID card for voting purposes. To get this free ID at any Bureau of Motor Vehicles (BMV) branch, you’ll need to bring certain documents. For details on what to bring, visit the BMV website (https://www.in.gov/bmv/).\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in Indiana?",
+            "a": "Here is what you need to know to register in Indiana:\n\nThere are three methods of voter registration in Indiana: register in-person, register online (http://www.indianavoters.com/), or mail a printable application (https://forms.in.gov/Download.aspx?id=9341) to your local county registration office.\n\nTo register, you must be a U.S. citizen, a resident of Indiana, and at least 18 years old on or before Election Day. You will also need to provide your Indiana driver’s license or state ID number. If you do not have one, you can provide the last four digits of your Social Security number.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in Indiana?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in Indiana?",
+            "a": "Indiana requires voters to register at least 29 days before the election. Be sure to check the exact date each year.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in Indiana?",
+            "a": "You must present a photo ID when voting in person in Indiana. The ID must:\n\n- Show your photo\n- Show your name (reasonably matching your voter registration)\n- Have an expiration date and be current or expired after the last general election\n- Be issued by the State of Indiana or the U.S. government\n\nAccepted IDs include:\n\n- Indiana driver’s license\n- Indiana state ID\n- US passport\n- Military ID\n\nStudent IDs are not accepted.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "I’m originally from another state. Can I still vote in my home state while studying in Indiana?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Indiana?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "DO I NEED TO SHOW ID WHEN I VOTE IN INDIANA?",
+            "a": "Yes. Indiana law requires voters to show a government-issued photo ID when voting in person on Election Day. However, there are exceptions for some voters who are confined or voting absentee by mail.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO VOTE IN INDIANA?",
+            "a": "To be accepted for voting, your ID must meet all of the following criteria:\n\n1. Display your photo\n2. Show a name that matches your voter registration record\n3. Include an expiration date that is current or expired after the most recent general election\n4. Be issued by the US government or the State of Indiana\n\nMost voters use one of the following:\n\n- Indiana driver's license\n- Indiana state-issued photo ID\n- U.S. Passport\n- Military ID\n- ID issued by the U.S. Department of Veterans Affairs\n- Indiana National Guard ID\n- A tribal ID from a federally recognized Native American tribe (no expiration date required)\n\nStudent IDs are not accepted.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
+            "a": "You can still vote using a provisional ballot. After that, you must visit your county election board by noon 10 days after the election to present an acceptable photo ID or claim a legal exemption. If you don’t complete this step, your provisional ballot will not be counted.\n\nIf you don’t have an ID that meets these requirements, you can get a free Indiana state ID card for voting at any BMV branch. Learn more here. (https://in.gov/bmv)\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        }
+    ]
+}

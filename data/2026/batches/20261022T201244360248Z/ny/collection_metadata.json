@@ -1,0 +1,23 @@
+{
+    "state": "ny",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/new-york",
+            "final_url": "https://www.vote411.org/new-york",
+            "collected_at": "2026-10-22T19:13:43+00:00",
+            "sha256": "bb34f71f63aa731878bb2891a0114ab0f6573c7b630931da3e1859e5f4c416af",
+            "snapshot": "data/2026/batches/20261022T201244360248Z/ny/vote411-ny.html"
+        }
+    ],
+    "counts": {
+        "vote411": 65,
+        "supporting_sections": 15
+    },
+    "extraction_version": 4,
+    "reprocessed_from": "data/2026/batches/20261022T191516674464Z/ny",
+    "review_flags": [],
+    "faq_file": "ny_qa_vote411.json",
+    "supporting_content_file": "ny_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

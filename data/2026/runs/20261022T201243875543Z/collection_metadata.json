@@ -1,0 +1,27 @@
+{
+  "sources": [
+    {
+      "requested_url": "https://scvotes.gov/voters/voter-faq/",
+      "final_url": "https://scvotes.gov/voters/voter-faq/",
+      "collected_at": "2026-10-22T14:22:48+00:00",
+      "sha256": "1727570dedfcf7fbab4735921241bdcea1383b7d6af33a0f26780ad1b97d8760",
+      "snapshot": "data/2026/runs/20261022T201243875543Z/scvotes.html"
+    },
+    {
+      "requested_url": "https://www.vote411.org/south-carolina",
+      "final_url": "https://www.vote411.org/south-carolina",
+      "collected_at": "2026-10-22T14:22:49+00:00",
+      "sha256": "de8435f33e2666e8e91d1e5385e4291d16a9fb5ae6ae9df5e24b0f5ee23ba946",
+      "snapshot": "data/2026/runs/20261022T201243875543Z/vote411-sc.html"
+    }
+  ],
+  "counts": {
+    "scvotes": 32,
+    "vote411": 47,
+    "supporting_sections": 12
+  },
+  "extraction_version": 4,
+  "reprocessed_from": "data\\2026\\runs\\20261022T180404078079Z",
+  "review_status": "Pending human review of source fidelity and completeness",
+  "supporting_content_file": "sc_supporting_content.json"
+}

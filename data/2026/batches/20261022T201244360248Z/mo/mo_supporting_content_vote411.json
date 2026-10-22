@@ -1,0 +1,160 @@
+{
+    "state": "mo",
+    "num_sections": 22,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "section_without_questions",
+            "content": "Absentee voting begins six weeks before an election for registered voters. You may vote by absentee ballot if you fulfill one of the following criteria:\n\n- Incapacity or confinement due to illness or physical disability.\n- Expect to be absent on Election Day\n- Election workers, first responders, healthcare workers and members of law enforcement\n- Prevented by religious beliefs from going to the polls on election day\n- Incarcerated but haven't lost right to vote\n- Active-duty military personnel and close family members living with them.\n- Missouri citizens living outside the U.S\n\nYou can request absentee ballots (https://absentee.vote411.org/vote/VoterInformation.htm) from your local election authority (https://absentee.vote411.org/vote/eoddomestic.htm) in person or by mail or fax. Mailed in or faxed absentee ballot requests should be submitted to the appropriate local election authority (https://absentee.vote411.org/vote/eoddomestic.htm). Relatives within the second degree (parents and children,) may complete an absentee ballot application, in person, on behalf of the voter who wishes to vote absentee. Do not send absentee ballot applications to the secretary of state's office. They must be sent to the local election authority to be valid.\n\nMail-in or faxed absentee ballot requests must be received by the election authority no later than the 5:00 pm on the second Wednesday before any election. If you have registered to vote by mail and are voting absentee the first time you vote, you are required to provide a copy of your ID with your absentee ballot request unless you provided a copy with your voter registration application. Examples of acceptable ID are:\n\n- Valid Missouri driver's license\n- Valid Missouri non-driver's license\n- Valid U.S. passport\n- Valid military ID\n\nThis identification requirement, as well as the notary requirement for absentee ballots, does not apply to overseas voters, those on active military duty or members of their immediate family living with them or voters who are permanently disabled and their caregivers.\n\nVoted absentee ballots must be received at the election authority’s office by 7:00 PM on Election Day. May be returned by mailing service, in person or close relative, curbside service available at all voting authorities.\n\nFor more information, or to request an absentee ballot, click here. (https://www.sos.mo.gov/elections/goVoteMissouri/howtovote#Absentee)\n\nThose who requested an absentee ballot but end up voting in person, should contact their local election authority (https://absentee.vote411.org/vote/eoddomestic.htm) for further instructions.\n\nOverseas citizens and U.S. military personnel can register to vote and request an absentee ballot at the Overseas Vote Foundation (https://www.overseasvotefoundation.org/vote/home.htm).\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "section_without_questions",
+            "content": "Missouri does not have a ballot curing process for absentee/mail ballots. If you voted a provisional ballot because you did not bring an acceptable ID, your ballot will be counted if you return to your polling place with an acceptable ID by polls close on Election Day or if your local election officials determine your signature matches the one on your voter registration record.",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).\n\nFor information on state campaign contributions, please visit your state's resource (http://www.mec.mo.gov/).",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Information on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp).",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Drop Boxes",
+            "kind": "section_without_questions",
+            "content": "No drop boxes are available. You can hand-deliver your absentee ballot to your local election authority. You can look up the address of your local election authority here. (https://absentee.vote411.org/vote/eoddomestic.htm)\n\nMail-in ballots may be received by the local voting authority’s office by 7:00 pm on Election Day. Mail-in ballots may be returned by mailing service, in person, or a close relative. Curbside service is available.\n\nSuppose the voter requested an absentee ballot but never received or lost it. In that case, they may file a lost ballot claim at their polling location, a central polling location, or the voting authority’s office and vote a regular ballot.\n\nIf the voter has their ballot and hasn’t returned it and wishes to vote a regular ballot, they may go to their regular polling location, a central polling location, or the voting authority’s office and spoil the absentee ballot and vote a regular ballot.",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "section_without_questions",
+            "content": "Early voting for the November 3, 2026 General Election begins on October 20th and ends November 2nd.\n\nNo Excuse Absentee Voting (Early Voting) Starts: 14 days before Election Day\n\nNo Excuse Absentee Voting (Early Voting) Ends: The day before Election Day\n\nDuring the two weeks before an election, you may vote a no-excuse absentee ballot in person at a location designated by your local election authority. When voting an absentee ballot in person, you must show an acceptable form of photo ID (https://www.sos.mo.gov/CMSImages/ElectionGoVoteMissouri/AcceptableFormsVoterID.pdf).\n\nPlease check out Absentee Voting (https://www.vote411.org/missouri#absentee-ballot-process) to see how to vote before Election Day.",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "The next election date can be found here https://www.vote411.org/missouri.\n\nContact your local Board of Elections (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "The polls will be open from 6:00 am to 7:00 pm.",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Eligibility Requirements",
+            "kind": "section_without_questions",
+            "content": "To be eligible to vote you must be:\n\n- 17.5 years old and 18 years old by Election Day\n- A U.S. citizen\n- A Missouri resident and must be registered to vote in the jurisdiction of the person's domicile prior to the election registration deadline.\n- Not confined under a sentence of imprisonment\n- Not on probation or parole after the conviction of a felony\n- Not convicted of a felony or misdemeanor connected with voting or the right of suffrage\n\nIf a voter moves within a voting jurisdiction or county they may go to the polling location for their current address, a central polling location, or the voting jurisdiction’s office, change their address, and vote. Since they are updating their registration, they will only need the ID required for registration—their voter card, recent utility bill, recent paycheck, a photo ID from a college, or another photo ID that may be expired.\n\nIf a voter moves into a new voter jurisdiction, they must update their address and vote at the voting jurisdiction’s office.\n\nOFF PAPERS, YOU CAN VOTE - Incarcerated Voters & Returning Citizens:\n\nIn Missouri, you lose your voting rights while you are incarcerated for a misdemeanor conviction or until you complete your felony sentence (including incarceration, probation, and parole). Individuals who have been convicted of an election offense, whether a felony or misdemeanor, are not allowed to vote unless pardoned by the Governor. Pretrial detention and misdemeanors that didn’t involve voting do not restrict your voting rights.\n\nVoters without traditional residence:\n\nIt is not mandatory for citizens to possess a \"permanent home\" for voter registration. A citizen can provide an alternative description of their residence, even if they are experiencing homelessness, as long as it enables the authorities to identify and assign a voting precinct to them. This precinct assignment ensures that the voter receives the appropriate ballot. The mailing address on their registration form can be a PO box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for them.",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "ID Needed for Voter Registration",
+            "kind": "section_without_questions",
+            "content": "When registering in person, you are required to present a form of personal ID.\n\nAccepted forms or ID are:\n\n- ID issued by the Federal Government, state of Missouri or a local election authority (For example: Missouri driver's license, US Passport, etc.)\n- ID issued by a Missouri institution (public or private) of higher education, including a university, college, vocational and technical schools\n- A copy of a current utility bill, bank statement, paycheck, government check or other government document that contains your name and address\n- Driver's license or state ID card issued by another state\n\nIf you do not have any of these accepted forms of ID, you may still cast a ballot if two supervising election judges, one from each major political party, attest they know you.",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Official Election Results",
+            "kind": "section_without_questions",
+            "content": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and it’s essential that they take the time to make sure every vote is counted.\n\nOfficial election results will be uploaded on Missouri’s Secretary of State website (https://www.sos.mo.gov/elections/s_default) as they become available.\n\n  Official Results  (https://www.sos.mo.gov/elections/s_default)",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Poll Worker Information",
+            "kind": "section_without_questions",
+            "content": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker toda (https://powerthepolls.org/lwv )y!\n\nIn order to be a poll worker in Missouri, you must:\n\n- Be registered to vote in Missouri\n- Be at least 18 years old\n- Political affiliation preferred\n- Be a resident of the jurisdiction\n- Complete required training\n- Be entitled to compensation\n- Students 15-17 years old must have full time attendance in a Missouri school\n\nTo sign up fill out his form or  check with your local county board  (https://absentee.vote411.org/vote/eoddomestic.htm) .",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "You can find your polling place by utilizing your state resource (http://www.sos.mo.gov/elections/pollingplacelookup/).\n\nIf you have further questions on your polling place location, please contact your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "Missouri is an “open primary” state. This means that you can vote for either party. This decision does not register you with that party, and it is a private decision. You may vote in only one party’s primary per election.\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Provisional Voting",
+            "kind": "section_without_questions",
+            "content": "If you don’t bring a government-issued photo ID to your polling place on Election Day, you can request a blue provisional ballot. Your vote won’t count unless you come back to your polling place that day with an acceptable ID or if your signature matches the one on your voter registration record.\n\nIf your name does not appear on the poll book and you are eligible to vote at that precinct, you may also receive a provisional ballot. Every effort will be made to determine your eligibility and your correct polling place so you can cast a regular ballot.\n\nProvisional Ballots are counted two weeks after the election. For more information, go to LWVMO.org. (https://nam10.safelinks.protection.outlook.com/?url=http%3A%2F%2Flwvmo.org%2F%3Ffbclid%3DIwAR28s9cHZEfcnc4W94_9AjmqjkmltrYGEiOKAgSQoEasX-FAREU_GCuMgvY&data=05%7C01%7CMBrown%40lwv.org%7Cff8e566a3a9447908ec908daac67be02%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C0%7C638011858832113288%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=nRY3BGW7sdgdr%2B6prlRkYf90pPJN238s1D7Sz0RTgIo%3D&reserved=0)",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Provisions for Voters with Disabilities",
+            "kind": "section_without_questions",
+            "content": "There are multiple options available for voters who require accessible methods to cast their votes. It is up to the voter to decide which method is best suited for them. Election officials cannot make this decision for you, and your ballot will remain anonymous no matter which method you choose.\n\nAbsentee voting by mail is an option available to Missouri voters who are unable to vote in person due to illness or disability. If you qualify, you can request an absentee ballot application that doesn’t require notarization. The deadline for submitting the application is 5 p.m. on the 2nd Wednesday prior to the election.\n\nIf you have a permanent disability, you can request to be included in a list of voters who automatically receive an absentee ballot application before each election. You can contact your local election officials to learn more about this option.\n\nAccessible voting machines are available to accommodate voters with different needs, including those with print disabilities. If you require an accessible voting machine, inform the election officials as soon as you arrive at the polling place to allow them time to set it up for you. The accessible voting machine offers multiple features to cater to different needs.\n\nIf you are blind, you can choose to have the ballot read out loud to you through a human-sounding voice using a set of headphones available at the polling station. If you prefer, you can bring your own headset.\n\nIf you have limited vision, you can elect to view the ballot in larger print without the need for a magnifier.\n\nIf you have a learning disability or an intellectual disability, accessible voting machines offer features that may help you.\n\nIf you have limited use of your hands, the voting machine has easy-to-use knobs and buttons.\n\nIf you require assistance in marking your ballot, you can bring someone of your choice who is at least 18 years old to help you in the voting booth. If you don't have anyone available, two election officials (one Democrat and one Republican) can assist you.\n\nCurbside voting is an option for voters who are unable to enter the polling location due to health limitations. Election officials can bring the ballot to your car in a clearly marked driving lane/parking spot. If you are in the City of St. Louis, you can use a doorbell to alert officials that you need curbside voting. In St. Louis County, you can follow a sign to request your ballot or ask someone to alert a poll worker.\n\nAll polling locations are required to have wheelchair-accessible voting booths.\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Time Off To Vote",
+            "kind": "section_without_questions",
+            "content": "Employers must grant employees up to three hours paid leave to vote, unless polls are open three consecutive hours before or after regular working shift. Employees must request this time prior to Election Day, and the employer may specify when during the working day employees may take time off.",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (http://www.sos.mo.gov/elections/voterlookup/)",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Voter ID Requirements",
+            "kind": "section_without_questions",
+            "content": "All Missouri voters must show acceptable identification and sign the poll book to obtain their ballot. Acceptable forms of ID include:\n\n- A nonexpired Missouri driver or non-driver license;\n- A nonexpired [or unexpiring] military ID, including a veteran’s ID card;\n- A nonexpired United States passport; or\n- Another photo ID issued by the United States or the state of Missouri which is either not expired or expired after the date of the most recent general election.*\n\n*If the driver or non-driver license has expired after the most recent general election, it is an acceptable form of voter ID.\n\nIf you do not have an acceptable photo ID, you may be eligible for a free MO nondriver license for voting purposes. The Missouri Department of Revenue may provide 1 free nondriver license to all Missourians. For more information call 573-526-VOTE or visit https://dor.mo.gov/. You can also request help from the Secretary of State through this form (https://s1.sos.mo.gov/voteridhelp).\n\nIf you do not possess any of these forms of identification, but are a registered voter, you may cast a provisional ballot.\n\nYour provisional ballot will count if: (1) you return to your polling place on Election Day with a photo ID; or (2) the signature on your provisional ballot envelope is determined by a bipartisan team at your local election authority to match the signature on in your voter registration record.\n\nIf you cast a provisional ballot, you will receive a stub from your provisional ballot envelope with instructions on how to verify that your provisional ballot is counted. Samples of Acceptable Forms of ID (https://www.sos.mo.gov/CMSImages/ElectionGoVoteMissouri/AcceptableFormsVoterID.pdf)\n\nClick here  (https://drive.google.com/file/d/1u5pizG4u0-THQNtz731OcHKUeES9jAxK/view)for more information.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Voter Registration Deadlines",
+            "kind": "section_without_questions",
+            "content": "Online registration deadline: Fourth Wednesday prior to Election Day (usually 27 days before).\n\nRegister by mail deadline: Postmarked by the fourth Wednesday prior to Election Day (usually 27 days before).\n\nIn-person registration deadline: Fourth Wednesday prior to Election Day (usually 27 days before).\n\nNot registered? Use our registration tool (https://www.vote411.org/register#.UFdk4FHh-So) to fill out your application!",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        },
+        {
+            "topic": "Voting Machines",
+            "kind": "section_without_questions",
+            "content": "A new election law (HB1878) requires that local election authorities be able to count and audit paper ballots. Local election authorities will not be able to use direct-recording electronic vote-counting machines after Jan. 1, 2024.\n\nThe voting systems (https://www.sos.mo.gov/elections/qualsystems) used in Missouri are optical scan and punch card.\n\nOptical Scan: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.\n\nPunchcards: With a punchcard system, when you sign in at the polling place, the poll workers will give you one or more cards. These cards are usually about 8 inches by 3 inches, with small rectangles that can be punched out. You take your cards to a small private table. You'll see a booklet mounted on a frame. The frame will have a place for you to slide your first card in. Make sure that it's in all the way and lined up correctly. If you're not sure, ask one of the poll workers to make sure you've got it right. The table also has a little device (often a metal stylus or stick) that you use to punch holes next to the name of the person or ballot measure you want to vote for. Give it a firm punch, so it pushes out that little cardboard rectangle or chad. You may have to look at the booklet carefully so that you punch the right hole lined up with the person you want to vote for. Often there is a little arrow that helps you find the right hole. Some punchcards have the names of the candidates written right on the cards. You may need to vote on more than one card. Look it over carefully, so you put the right card in the right slot. Some punch card systems use both sides of the card, so look on the back of each card too. Check to see that all the holes are punched all the way through and there are no little pieces of cardboard (chad) hanging from your card. When you are done, pick up all your cards. There may be an envelope to put your cards in. Take your cards over to the ballot box and put the cards into the box.\n\nYou can learn more about voting systems by checking out the  Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/testing_and_certification/voluntary_voting_system_guidelines.aspx)",
+            "s": "https://www.vote411.org/missouri",
+            "t": "2026-10-22T19:13:27+00:00"
+        }
+    ]
+}

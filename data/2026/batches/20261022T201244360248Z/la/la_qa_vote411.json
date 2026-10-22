@@ -1,0 +1,158 @@
+{
+    "state": "la",
+    "num_questions": 25,
+    "num_answers": 25,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "You must have a reason to vote absentee (vote by mail), unless you are a military or overseas citizen. There are 12 reasons to vote by mail:\n\n- Senior citizen 65 years of age or older\n- A home or a nursing home or veterans' home resident and you have been previously approved for the Disability program, or you are disabled, home bound or a nursing or veterans' home resident and you are submitting current proof of disability with your application. For more information on the Disability Program, click here. (http://www.sos.la.gov/ElectionsAndVoting/Pages/DisabledElderlyCitizens.aspx)\n- A student, instructor, or professor (or spouse or dependents of the following,) in an institution of higher learning located outside the parish.\n- A minister, priest, rabbi, or clergy (or spouse or dependents of the following,) assigned to a religious post outside the parish.\n- A person who is or who expects to be temporarily outside the territorial limits of the state or absent from the parish during early voting and on Election Day.\n- A person who has moved after the registration books closed (30 days prior to an election) to another parish and the new residence is more than 100 miles from the parish of former residence.\n- A sequestered jury member.\n- A person who expects to be hospitalized on Election Day and did not have such knowledge until after early voting week passed.\n- A person who expects to be hospitalized on Election Day and who was hospitalized during early voting.\n- A person who was hospitalized and released prior to an election but who is either hospitalized or restricted to bed during early voting and on Election Day.\n- A person who by virtue of employment or occupation expects to be out of their precinct during early voting and on Election Day.\n- You are involuntarily confined in an institution for mental treatment outside your parish of registration and you are not interdicted and not judicially declared incompetent.\n- You are incarcerated or expect to be incarcerated in an institution inside or outside your parish of registration and you are not under an order of imprisonment for conviction of a felony\n\nTo request a normal absentee ballot by mail, you must complete and return a request for absentee ballot (https://voterportal.sos.la.gov/) indicating the reason you are not able to vote in person absentee or in person on Election Day.\n\nVoters with disabilities, senior citizens and nursing or veteran home residents can apply to the state’s absentee ballot programa here (https://www.sos.la.gov/ElectionsAndVoting/Pages/DisabledElderlyCitizens.aspx).",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR REQUESTING AN ABSENTEE BALLOT?",
+            "a": "- Military, Overseas, or Hospitalized Voters: By 4:30pm CST on the day before Election Day\n- All Others: By 4:30pm CST on the 4th day before Election Day",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT APPLICATION?",
+            "a": "You can return your absentee ballot request form through mail, in person at your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm), or online (https://voterportal.sos.la.gov/).",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
+            "a": "Yes, you must apply separately for each election. You can request an absentee ballot as early as 60 days prior to the election.\n\nVoters with disabilities and voters 65 years old or older may apply to the state’s automatic absentee ballot programs (https://www.sos.la.gov/ElectionsAndVoting/Pages/DisabledElderlyCitizens.aspx).",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR RETURNING A VOTED ABSENTEE BALLOT?",
+            "a": "- Military, Overseas, or Hospitalized Voters: By 8pm CST on Election Day\n- All Others: By 4:30pm CST on the day before Election Day",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Election officials start mailing out absentee ballots 45 days before the election.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "You can sign up to track your absentee ballot (https://voterportal.sos.la.gov/) on your Secretary of State website.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "Those who requested an absentee ballot but end up voting in person may only do so by a provisional ballot. Do not mail a ballot and vote in person. For more information, you can find your local county clerk contact info here (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHO CAN REGISTER TO VOTE IN LOUISIANA?",
+            "a": "To register to vote in Louisiana, you must:\n\n- be a US citizen\n- be at least 17 years old (or 16 if registering in person at the Registrar of Voters Office or Louisiana Office of Motor Vehicles)\n- be 18 years old to vote\n- reside in Louisiana and the parish where you’re registering\n- not be under an order of imprisonment for a felony conviction, or if you are:\n- not have been incarcerated in the last five years, and\n- not be imprisoned for election fraud or another election-related offense\n- not be under a judgment of full interdiction for mental incompetence or partial interdiction with suspension of voting rights\n\nYou must register at least:\n\n- 20 days before an election if registering online using the GeauxVote system with a Louisiana driver’s license or special ID card\n- 30 days before an election if registering by mail or in person",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHO CAN VOTE IN LOUISIANA?",
+            "a": "You can vote in Louisiana if you:\n\n- are registered to vote\n- 20 days before an election if registering online using the GeauxVote system with a Louisiana driver’s license or special ID card\n- 30 days before an election if registering by mail or in person\n- are at least 18 years old on or before Election Day\n- meet all other eligibility requirements, including residency and not being disqualified due to a felony conviction or court order",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
+            "a": "In Louisiana, you lose your right to vote if you are convicted of a felony or an election offense. You regain your eligibility upon the completion of your sentence (including parole or probation) or five years after your release from prison, whichever is sooner. Individuals convicted of an election offense will have their rights restored upon completing their sentence, including parole and probation.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "a": "Yes. If you don’t have a traditional or fixed home in Louisiana, you can still register to vote. You’ll need to describe where you stay by drawing a map in the box provided on the voter registration form.\n\n- Show nearby streets and mark an “X” where you usually stay.\n- You can also include dots for nearby places like schools, churches, stores, or landmarks and write their names.\n- You cannot use a P.O. Box as your residence address.\n\nIf you don’t get mail at your residence location, you must also provide a mailing address—this can be a P.O. Box, shelter, or other place where you can receive mail.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN LOUISIANA?",
+            "a": "- Yes, if registering online: (https://voterportal.sos.la.gov/VoterRegistration/Eligibility?isUpdate=False) You must provide a Louisiana driver’s license or Louisiana special ID card.\n- No, if registering by mail or in person: But you must provide other identifying information, such as:\n- The last four digits of your Social Security number (if issued), or\n- Additional documents if neither a Louisiana ID nor SSN is available and you are registering for the first time.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN LOUISIANA?",
+            "a": "Online registration (https://voterportal.sos.la.gov/VoterRegistration/Eligibility?isUpdate=False):\n\n- A valid Louisiana driver’s license or Louisiana special ID card with an audit code. The audit code is a four-digit number labeled AUDIT on the front of the license.\n\nBy mail or in person:\n\n- Last four digits of your Social Security number (if you have one).\n- If you don’t have a Louisiana ID or SSN and are registering by mail for the first time, include a copy of:\n- A current and valid photo ID, or\n- A current utility bill, bank statement, government check, paycheck, or other government document with your name and address.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER?",
+            "a": "If you don’t have a Louisiana driver’s license or Louisiana special ID:\n\n- You can still register using the last four digits of your Social Security number\n- Providing your full Social Security number is optional but preferred, it helps process your registration faster and more accurately\n- If you're registering for the first time and don’t provide a Louisiana ID or SSN, and you're mailing your form, you should also include a document that proves your identity and address, such as:\n- A copy of a valid photo ID\n- A current utility bill, bank statement, government check, paycheck, or another government document with your name and address",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in Louisiana?",
+            "a": "Here is what you need to know to register in Louisiana:\n\nThere are three methods of voter registration in Louisiana: register in-person, register online (http://www.sos.la.gov/ElectionsAndVoting/Pages/OnlineVoterRegistration.aspx), or mail a printable application (https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/ApplicationToRegisterToVote.pdf) to your local registrar of voters' office.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in Louisiana?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in Louisiana?",
+            "a": "In Louisiana, you must register at least 20 days before the election if registering online, or 30 days before if registering by mail or in person. Be sure to check the exact dates each year, as they may vary slightly.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in Louisiana?",
+            "a": "You must present a photo ID when voting in person in Louisiana. This can include a driver’s license, passport, student ID from a state-supported college, or other accepted forms.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "I’m originally from another state, can I still vote in my home state while studying in Louisiana?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Louisiana?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "DO I NEED TO SHOW ID WHEN I VOTE IN LOUISIANA?",
+            "a": "Yes. When you go vote in Louisiana, you must provide a photo identification and state your name and address to the poll worker.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO VOTE IN LOUISIANA?",
+            "a": "Acceptable photo IDs include:\n\n- A Louisiana driver's license\n- A Louisiana special ID card (you can get one for free at the Office of Motor Vehicles by showing your voter information card).\n- A Louisiana Wallet digital driver's license\n- U.S. military ID that has your name and photo\n- Any other generally recognized picture ID card that contains your name and signature",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
+            "a": "You can still vote by completing a Voter Identification Affidavit at the polls. However, your vote may be challenged under state law, so it’s recommended to bring an acceptable ID if you can.\n\nYou can also get a free Louisiana special ID at the Office of Motor Vehicles if you bring your voter information card.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        }
+    ]
+}
