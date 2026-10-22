@@ -1,0 +1,97 @@
+{
+    "state": "nm",
+    "num_sections": 13,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "topic_introduction",
+            "content": "Vote-by-mail (absentee voting) is available in New Mexico and no excuse is required. The last day to request an absentee ballot is 14 days before the election. You can return your absentee ballot request form through mail, in person at your local elections office, or online (https://portal1.sos.nm.gov/OVR/(S(hksacpezpoy4dqi20wc2n5cb))/WebPages/AbsenteeApplication.aspx).\n\nVoted ballots must be received by 7pm on Election Day to be counted. You can sign up to track your absentee ballot (https://app.enhancedvoting.com/login/Voter/Account/Login2?returnUrl=%2Flogin%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcore.voter.frontend%26scope%3Dopenid%2520profile%2520offline_access%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fapp.enhancedvoting.com%252Fvoter%252Fapi%252Fauth%252Fcallback%26acr_values%3Dusertype%253AVoter%2520voterLoginMode%253Alight%2520shortName%253Anewmexico%26code_challenge%3D1jXZUvJ0F68q920zDiLoCnYO4oHWv8ogEtwRCETxi4g%26code_challenge_method%3DS256) on your Secretary of State website. Absentee ballots begin being counted on Election Day.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "topic_introduction",
+            "content": "Ballot curing is when a voter corrects an issue with their ballot, so it can be counted.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Information on local, state and federal candidates and ballot measures is available here. (https://www.vote411.org/ballot)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "topic_introduction",
+            "content": "Early voting for the November 3, 2026 General Election begins on October 6th and ends on October 31st.\n\nEarly Voting Starts: 28 days before Election Day\nEarly Voting Ends: The Saturday before Election Day",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "The next election date can be found here https://www.vote411.org/new-mexico.\n\nContact your local Board of Elections (https://absentee.vote411.org/vote/eoddomestic.htm) for information about local elections.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "Polls will be open from 7:00 am to 7:00 pm.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Poll Worker Information",
+            "kind": "topic_introduction",
+            "content": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker toda (https://powerthepolls.org/lwv)y!",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "You can find your polling place by utilizing your state resource. (https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx) If you have any questions, please contact your county clerk (https://www.overseasvotefoundation.org/vote/election-official-directory). (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "topic_introduction",
+            "content": "New Mexico is a “semi-open” state.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Ranked Choice Voting",
+            "kind": "section_without_questions",
+            "content": "Ranked choice voting may be available in your area, contact your local elections officials (https://absentee.vote411.org/vote/eoddomestic.htm) for more information. Voters in Santa Fe (http://votedifferentsantafe.com/) and Las Cruces began using Ranked Choice Voting in 2018 and 2019 respectively.\n\nRanked Choice Voting allows voters to rank candidates in their order of preference. Voters do not need to rank candidates if they do not want to and may vote for just one candidate. For more information on how Ranked Choice Voting works in your area, please contact your local elections officials.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        }
+    ]
+}

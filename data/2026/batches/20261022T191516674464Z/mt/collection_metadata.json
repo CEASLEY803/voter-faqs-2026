@@ -1,0 +1,23 @@
+{
+    "state": "mt",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/montana",
+            "final_url": "https://www.vote411.org/montana",
+            "collected_at": "2026-10-22T19:13:30+00:00",
+            "sha256": "e2b00b2b663e1ab790c626da30cd9380306def2d8747d0918272854b041f1969",
+            "snapshot": "data/2026/batches/20261022T191516674464Z/mt/vote411-mt.html"
+        }
+    ],
+    "counts": {
+        "vote411": 29,
+        "supporting_sections": 20
+    },
+    "extraction_version": 3,
+    "reprocessed_from": "data/2026/batches/20261022T191249791410Z/mt",
+    "review_flags": [],
+    "faq_file": "mt_qa_vote411.json",
+    "supporting_content_file": "mt_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

@@ -1,0 +1,160 @@
+{
+    "state": "or",
+    "num_sections": 22,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "section_without_questions",
+            "content": "All voters receive their ballots through the vote by mail process. Ballots will be mailed 14 to 18 days before an election. Voted ballots must be received or mailed with a valid post mark by 8 p.m. on Election Day. You can sign up to track your mail ballot (https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do) on your Secretary of State website. Ballots begin being counted on Election Day.\n\nOregon conducts voting by mail only. You have the choice of mailing your ballot or returning it to any county election office or any designated drop site.\n\nIf it is determined by the county elections official that a person does not receive daily mail service from USPS, the ballot is mailed 18 to 20 days before the election. Out of state voters that are not long term absentee voters have their ballots mailed no sooner than the 29th day before the election. Long term and military absentee ballots (including all out of country ballots) are mailed 45 days before the election.\n\nYou may apply (http://sos.oregon.gov/elections/Documents/SEL111.pdf) for absentee voter status if you live out of state or if you know that you will be absent for the election (i.e., you will be out of town prior to the election and are putting your mail on hold.) Absentee ballots are available 45 days before the election. To apply for absentee voter status: obtain an absentee ballot request form from your  (https://absentee.vote411.org/vote/eoddomestic.htm)county elections office (https://www.overseasvotefoundation.org/vote/election-official-directory) or , fill out the form, and return it to your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm) in person, via US mail or fax.\n\nIf you prefer, your absentee ballot request can remain valid for all future elections until you notify your county elections official (https://absentee.vote411.org/vote/eoddomestic.htm) otherwise or you move out of the county. Please specify this preference on the request form.\n\nTo be a long term absentee voter, you must be a resident of Oregon who is absent from your place of residence. Possible long term absentee voters could include a person temporarily living outside of the territorial limits of the United States and the District of Columbia or a spouse of a long term absentee voter.\n\nOverseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation (https://www.overseasvotefoundation.org/vote/home.htm).",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "section_without_questions",
+            "content": "The deadline to cure (correct) your absentee/mail ballot is by the 21st day after the election. If your ballot is challenged due to failure to sign the return envelope or a nonmatching signature, the county clerk will mail you a notice that describes the error and instructions for correcting the issue. Track the status of your mail ballot using your state’s online tool (https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do). If you voted a provisional ballot, you have until the 21st day after the election to present evidence to support your eligibility to vote. You can call 1-866-ORE-VOTES or the county elections office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.100555614.1738686567.1667225752-333203938.1648128739) in which you voted to find out if your ballot was counted.",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).\n\nFor information on state campaign contributions, please visit your state's resource (http://sos.oregon.gov/elections/Pages/orestar.aspx).",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Information on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp).",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Drop Boxes",
+            "kind": "section_without_questions",
+            "content": "Registered voters receive a ballot two to three weeks before an election, giving time to research issues or candidates. Voters also receive an official ballot to complete and insert into the security envelope which is placed in the ballot return envelope and signed by the voter. The ballot return envelope can be stamped and mailed or dropped off at any official drop box (https://sos.oregon.gov/voting/Pages/drop-box-locator.aspx) across the state. Ballots must be received or mailed with a valid post mark by 8 p.m. on Election Day. The Drop Box Locator will be updated 20 days before the next statewide election. For more information about local elections, including drop box locations for your county, contact your County Elections Official. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "section_without_questions",
+            "content": "Early Voting Starts: Drop sites for mailed ballots may open as soon as 18 days before Election Day\nEarly Voting Ends: The day before Election Day\n\nNote: Oregon conducts elections by mail.",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "The next election dates can be found here https://www.vote411.org/oregon.\n\nContact your local Board of Elections (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "You can still vote in person in Oregon. Each County Elections Office (https://absentee.vote411.org/vote/eoddomestic.htm) provides privacy booths for voters who want to vote in person or voters who need assistance.\n\nAll ballots must be either postmarked or returned to a County Elections Office or designated drop site (http://www.sos.state.or.us/dropbox/#) by 8pm on Election Day.",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Eligibility Requirements",
+            "kind": "section_without_questions",
+            "content": "To be eligible to vote you must be:\n\n- A resident of Oregon\n- A US citizen (or will become one by Election Day)\n- At least 16 years of age (If you are 16 years of age, you will not receive a ballot until an election occurs on or after your 18th birthday.)\n\nIncarcerated Voters & Returning Citizens:\n\nIn Oregon, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.\n\nVoters without traditional residence:\n\nOregon votes by mail. Voters must provide a residence address on the voter registration form, but this address may be any location in the county that describes their physical location. This could be a shelter, park, motor home, or another identifiable place. The county clerk's office can be the mailing address of a person experiencing homelessness or residing where mail service is unavailable. Voters can pick up their ballot at the county elections office.",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "ID Needed for Voter Registration",
+            "kind": "section_without_questions",
+            "content": "You must provide acceptable ID information to register to vote.\n\nTo register to vote, complete the voter registration form (https://secure.sos.state.or.us/orestar/vr/register.do?lang=eng&source=SOS) online, print it out, and sign it. You can fill out the form online, but you will still need to print, sign, and mail it in. (Please use black ink.) Mail the form to your county elections official or drop it off in person.\n\nNote: Beginning in January 2024, individuals who register to vote online will have the option to submit an image of their signature electronically.\n\nIf you have a current, valid Oregon driver's license or ID, you must provide that number on your voter registration form. If you do not have either of these items, you must provide the last four digits of your Social Security number on your voter registration form. If you do not have any of these items, you must affirm this on the voter registration form and provide a copy of one of the following with your voter registration form:\n\n- Valid photo identification\n- A paycheck stub\n- A utility bill\n- A bank statement\n- A government document\n- Proof of eligibility under the uniformed and overseas citizens absentee voting act (UOCAVA) or the voting accessibility for the elderly and handicapped act (VAEH)\n\nYour county elections office will mail you a card to let you know that your registration was received. If you are registering in Oregon for the first time, your completed voter registration form must be postmarked 21 days before the election in order to vote in that election. If you are unable to sign your name because of a disability, you should complete the \"signature stamp attestation\" form, which is available at your local county elections office. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Official Election Results",
+            "kind": "section_without_questions",
+            "content": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and it’s essential that they take the time to make sure every vote is counted.\n\nOfficial election results will be uploaded on Oregon’s Secretary of State website (https://sos.oregon.gov/elections/Pages/electionhistory.aspx) as they become available.\n\n  Official Results  (https://sos.oregon.gov/elections/Pages/electionhistory.aspx)",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Poll Worker Information",
+            "kind": "section_without_questions",
+            "content": "Oregon has a vote by mail process and does not have traditional polling places that require staffing by poll workers. To find out how you can volunteer on Election Day, contact your local board of elections (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "Oregon is a vote by mail state. You can find your ballot drop box location by utilizing  Oregon State's ballot drop off directory (http://www.sos.state.or.us/dropbox/#).\n\nNote: The state’s drop box locator is not available until 20 days before the election. County elections offices often have information earlier than that.\n\nIf you have further questions on your polling place location, please contact your County Elections Office. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "Oregon is a “closed primary” state. In order to vote in the primary election, voters must be registered with a political party. Unaffiliated or independent voters are not able to participate in the primary.\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Provisional Voting",
+            "kind": "section_without_questions",
+            "content": "If there is a question about your eligibility as a voter or if you need to vote at a county elections office in a county other than the one in which you live, you will be issued a provisional ballot.\n\nIn order to get a provisional ballot, you need to fill out a provisional ballot request form (http://sos.oregon.gov/elections/Documents/SEL113.pdf) at the county elections office (https://absentee.vote411.org/vote/eoddomestic.htm). Provisional ballots are counted 14 days after Election Day. Your provisional ballot will not be counted until it is determined that you are eligible to vote.\n\nAfter you have voted the ballot, you can call 1-866-ORE-VOTES or the county elections office in which you voted to find out if your ballot was counted. If it is determined that you are ineligible to vote in this election, the completed provisional ballot request form will serve as your voter registration for future elections.",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Provisions for Voters with Disabilities",
+            "kind": "section_without_questions",
+            "content": "If you are an Oregon voter with a disability, you can receive assistance to register to vote, vote your ballot, or return your ballot by contacting your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm) office or by calling 1-866-ORE-VOTE (1-866-673-8683). You can also request assistance from a caretaker, care provider or someone else you personally choose.\n\nFor more information on Oregon's resources for voters with disabilities please utilize your state's resource (http://sos.oregon.gov/voting/Pages/disabilities.aspx) or the Disability Rights Oregon (https://www.droregon.org/voting-rights).",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Time Off To Vote",
+            "kind": "section_without_questions",
+            "content": "Time off to vote is subject to the employer, there is no requirement for employers to grant time off to vote for employees.",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration\n\n  click here!  (https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do?lang=eng&source=SOS)",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Vote by Mail",
+            "kind": "section_without_questions",
+            "content": "Oregon has a vote by mail process. Instead of using traditional polling places where voters go to cast ballots on Election Day, a ballot is mailed to each registered voter. The ballot is then voted and returned to the county election office (https://www.overseasvotefoundation.org/vote/election-official-directory) to be counted.\n\nBallots will be mailed any time between 14 to 18 days before the election. After it is voted, the ballot may be mailed or hand-delivered to the county election office. In order to be counted, A ballot is valid if received or postmarked by 8:00 pm on election day.\n\nYou can sign up to track your mail ballot (https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do) on your Secretary of State website.\n\nIf you are a registered voter, your ballot will be automatically sent to you. You can call 1-866-ORE-VOTE (1-866-673-8683) or contact your county election office  (https://absentee.vote411.org/vote/eoddomestic.htm)to make sure your vote was received.You will need to sign the return envelope of your ballot. Your signature will be matched with your voter registration card to verify your identity.\n\nList of drop-boxes. (http://www.sos.state.or.us/dropbox/#)",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Voter ID Requirements",
+            "kind": "section_without_questions",
+            "content": "Instead of using traditional polling places where voters go to cast ballots on Election Day, a ballot is mailed to each registered voter. You will need to sign the return envelope of your ballot. Your signature will be matched with your voter registration card to verify your identity.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        },
+        {
+            "topic": "Voter Registration Deadlines",
+            "kind": "section_without_questions",
+            "content": "Online registration deadline: 21 days before Election Day\n\nRegister by mail deadline: Postmarked 21 days before Election Day\n\nIn-person registration deadline: 21 days before Election Day\n\nNot registered? Use our registration tool (https://www.vote411.org/register#.UFdk4FHh-So) to fill out your application!",
+            "s": "https://www.vote411.org/oregon",
+            "t": "2026-10-22T19:13:48+00:00"
+        }
+    ]
+}

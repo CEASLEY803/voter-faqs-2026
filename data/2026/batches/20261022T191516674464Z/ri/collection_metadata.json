@@ -1,0 +1,25 @@
+{
+    "state": "ri",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/rhode-island",
+            "final_url": "https://www.vote411.org/rhode-island",
+            "collected_at": "2026-10-22T19:13:52+00:00",
+            "sha256": "054bdbfc27a5dd5bbdfbfe655b5243c64553363b07a08c31b88cc0f29d51e363",
+            "snapshot": "data/2026/batches/20261022T191516674464Z/ri/vote411-ri.html"
+        }
+    ],
+    "counts": {
+        "vote411": 0,
+        "supporting_sections": 22
+    },
+    "extraction_version": 3,
+    "reprocessed_from": "data/2026/batches/20261022T191249791410Z/ri",
+    "review_flags": [
+        "No identifiable question headings; supporting content only"
+    ],
+    "faq_file": "ri_qa_vote411.json",
+    "supporting_content_file": "ri_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

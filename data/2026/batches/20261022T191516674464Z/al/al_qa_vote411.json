@@ -1,0 +1,128 @@
+{
+    "state": "al",
+    "num_questions": 20,
+    "num_answers": 20,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "What is a ballot drop box?",
+            "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "Are drop boxes available in my state?",
+            "a": "No, ballot drop boxes are not available in Alabama. You may hand-deliver your ballot to the Absentee Election Manager’s office in your county. You can look up the address of your county Absentee Election Manager office here (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "Do I need an ID to register to vote in Alabama?",
+            "a": "The ID you need to complete your registration varies depending on how you complete the registration process, either by mail or online.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "What types of ID are accepted for registration?",
+            "a": "To register to vote by mail (https://www.sos.alabama.gov/sites/default/files/voter-pdfs/nvra-2.pdf) you must provide one of the following:\n\n- Alabama driver’s license\n- Alabama non-driver’s ID number\n- Social Security number\n\nTo register to vote online (https://www.alabamainteractive.org/sos/voter_registration/instructions.action) you need one of the following:\n\n- Alabama driver’s license\n- Alabama non-driver’s ID\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "When are official election results available in Alabama?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "Official results will be released on the Alabama Secretary of State's website (https://www.sos.alabama.gov/alabama-votes) as they become available.\n\n  Official Results  (https://www2.alabamavotes.gov/electionnight/statewideresultsbycontest.aspx?ecode=1001000)",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "Does Alabama offer provisional voting?",
+            "a": "Yes, Alabama offers provisional voting.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "How do I vote a provisional ballot?",
+            "a": "You will vote by provisional ballot if you meet certain criteria. That criteria is:\n\n- Your name is not on the poll list\n- You were issued an absentee ballot\n- You are voting during a court ordered poll extension\n- You are challenged by an inspector\n- You do not have appropriate voter ID\n- You are ineligible for the primary runoff election",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "How can I make sure my provisional ballot is counted?",
+            "a": "You will be given a receipt with information on how to verify the status of your provisional ballot. If you have any questions, please contact your local elections office. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "What voting assistance is available for voters with disabilities?",
+            "a": "You have several accessible voting options.\n\nHandicap-accessible voting machines are at every polling site in Alabama and are available whenever polls are open.\n\nIf you are disabled or over the age of 70 you may move to the front of the line at the polling place, just ask a poll worker to move you.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "How do I request accommodation or report accessibility issues?",
+            "a": "You may request assistance at the polling place from anyone except your employer, an agent of your employer, or an officer or agent of your union. If you need help, you may ask a poll worker to assist you.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "Can I vote by mail because of my disability?",
+            "a": "Absentee voting starts 55 days before the election. Each county has at least one handicap accessible voting machine to assist voters with disabilities with absentee voting.\n\nIf you meet the criteria (https://www.vote411.org/alabama#absentee-ballot-process) to receive an absentee ballot by mail you may vote from home. If you are permanently disabled you may vote absentee on an on-going basis. You must apply (https://www.sos.alabama.gov/sites/default/files/DCAVA%20App%20Fillable.pdf) to receive an absentee ballot for all county, state and federal elections, and have the application signed and notarized by your primary physician. There is a separate application (https://www.sos.alabama.gov/sites/default/files/DCAVA%20Muni%20App%20Fillable.pdf) for municipal elections. The application is good for all elections during the calendar year, or if the cycle spans multiple years the application is good for the entire election cycle.\n\nYou must apply for an absentee ballot annually if you wish to receive a ballot.\n\nVoters who need assistance in completing or returning their absentee ballot due to blindness, disability, or inability to read or write may select any person to assist them, except their employer, an agent of their employer, or an officer or agent of their union.\n\n For more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in Alabama?",
+            "a": "Here’s what you need to know to register in Alabama or update your voter registration information:\n\nYou may submit an application online (https://www.alabamainteractive.org/sos/voter_registration/), download and mail (https://www.sos.alabama.gov/sites/default/files/voter-pdfs/nvra-2.pdf) a completed registration form, or request (https://www.sos.alabama.gov/contact/online_voter_form_request) that a form be sent to your address.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in Alabama?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you can vote in the correct district.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in Alabama?",
+            "a": "The deadline to register to vote in Alabama, whether online, by mail (postmarked), or in person, is 15 days before Election Day. Be sure to check the exact date each year.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in Alabama?",
+            "a": "You must present a photo ID when voting in person in Alabama. Accepted IDs include an Alabama driver’s license (physical or digital), U.S. passport, military or tribal ID, a student or employee ID from an Alabama college or university, or a government-issued ID from any state or the federal government. If you don’t have a valid photo ID, you may still vote if two poll workers confirm your identity. Free Alabama photo voter IDs are available through the Secretary of State or your county’s Board of Registrars (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "I’m originally from another state. Can I still vote in my home state while studying in Alabama?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Alabama?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "What types of voting machines does Alabama use?",
+            "a": "The voting system used in Alabama is Optical Scan.\n\nWhat is optical scan voting?\n\nWith optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\n\n- With a pen or pencil, you fill in a little box, circle, or space between two arrows.\n- When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\n- Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        }
+    ]
+}

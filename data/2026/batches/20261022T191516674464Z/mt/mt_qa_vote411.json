@@ -1,0 +1,182 @@
+{
+    "state": "mt",
+    "num_questions": 29,
+    "num_answers": 29,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "In Montana, all registered voters are eligible to vote absentee.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "You can download the form online (https://absentee.vote411.org/vote/VoterInformation.htm), pick up an application at your local election office or the secretary of state’s office, or call either election office and ask to have an application mailed to you.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "The deadline to request an absentee ballot (https://absentee.vote411.org/vote/VoterInformation.htm) is the day before the election by noon. You can drop off your application in-person or mail it to the county election office with enough time before the election for processing and mailing the ballot to you.\n\nA physical signature and your date of birth are required on the absentee application. If you plan to send the application to your local election office electronically, you should complete & print the online application, sign, scan, and email it attached as a PDF.\n\nOnce you have submitted your application, your absentee ballot will be mailed to you, or if closer to the election, given to you unless you indicate on the application that you have designated someone to pick it up for you",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Absentee ballots for federal and state elections are mailed to eligible voters starting 25 days before Election Day.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
+            "a": "After marking your absentee ballot, return it in the envelope provided. Be sure to sign the affirmation and provide your birth year on the return envelope before sending it back or dropping it off. Carefully read the instructions included with the packet.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT IN PERSON?",
+            "a": "Once you have marked your ballot, you can return it to your county election office  (https://absentee.vote411.org/vote/eoddomestic.htm)before the polls close on Election Day in the secrecy envelope provided.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY ABSENTEE BALLOT?",
+            "a": "You can track your absentee ballot (https://prodvoterportal.mt.gov/WhereToVote.aspx) on the Secretary of State website.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED A BALLOT BY MAIL BUT WANT TO VOTE IN PERSON?",
+            "a": "Most counties allow you to vote in person even if you requested an absentee ballot as long as you don’t submit your absentee ballot. Do not mail a ballot and vote in person. Please reach out to your local election office (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request a mail ballot from the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/overseas-voter-services)\n\nRequest Your Ballot Button (https://absentee.vote411.org/vote/VoterInformation.htm?_ga=2.14087934.891015667.1714358523-1475019010.1654737627)\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "WHO CAN REGISTER TO VOTE IN MONTANA?",
+            "a": "To register to vote in Montana, you must:\n\n- Be a US citizen\n- Be at least 18 years old on or before Election Day\n- Have been a resident of Montana for at least 30 days before the election\n- Provide a verifiable residential address or geographic information\n- Not be convicted of a felony, serving a sentence in a penal institution\n- Not be judged in a court of law to be of unsound mind",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "WHO CAN VOTE IN MONTANA?",
+            "a": "You can vote in Montana if you:\n\n- Are a registered voter\n- Are a US citizen\n- Are at least 18 years old on or before the next election\n- Have lived in Montana for at least 30 days\n- Are not currently serving a felony conviction in a penal institution\n- Have not been found by a court to be of unsound mind",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "CAN I VOTE IN MONTANA IF I HAVE A FELONY CONVICTION?",
+            "a": "Yes, you can vote in Montana if you have a felony conviction, as long as you are not currently serving your sentence in a penal institution. Once released from incarceration, your right to vote is restored, even if you're on parole or probation. Pretrial detention, misdemeanors, probation, or parole do not restrict your voting rights.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "CAN I REGISTER AND VOTE IN MONTANA IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "a": "Yes, you can register and vote in Montana without a traditional address. Citizens don't need a \"permanent home\" for voter registration. They can provide an alternative description of their residence, even if they are experiencing homelessness, as long as it enables the authorities to identify and assign them a voting precinct. This precinct assignment ensures that the voter receives the appropriate ballot. The mailing address on their registration form can be a P.O. box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for them.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN MONTANA?",
+            "a": "Yes, you are required to provide identification when registering to vote in Montana. Your application must include one of the following: a Montana driver’s license number, a state ID number, or the last four digits of your Social Security Number. If you don’t have any of those, you must provide an acceptable form of ID.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN MONTANA?",
+            "a": "You can register to vote in Montana using:\n\n- A Montana driver’s license or state ID card\n- The last four digits of your Social Security Number\n\nIf you don’t have either of those, you may use:\n\n- A military ID, tribal photo ID, U.S. passport, or Montana concealed carry permit\n- Any other photo ID (e.g. a school ID) along with a document that shows your name and current address, such as a utility bill, bank statement, paycheck, or government document",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER IN MONTANA?",
+            "a": "If you don’t have a Montana driver’s license or Social Security Number, you can still register using alternative forms of identification. You must provide either:\n\n- A valid photo ID (e.g. school ID, tribal ID)\n\nand\n\n- A document that includes your name and current address (e.g. utility bill, government check, bank statement)\n\nIf you fail to provide any acceptable ID, your registration will be considered incomplete, and you may need to present valid ID before voting.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in Montana?",
+            "a": "Here is what you need to know to register in Montana:\n\nThere are two methods of voter registration in Montana: register in-person or mail a printable application (https://sosmt.gov/elections/forms/#37-46-wpfd-for-montana-voters) to your county election office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in Montana?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in Montana?",
+            "a": "Montana requires voters to register at least 30 days before the election if registering by mail. Online registration is not available, but you can register in person up to and including Election Day. Be sure to check the exact deadline each year.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in Montana?",
+            "a": "You must present a photo ID when voting in person in Montana. This can include a driver’s license, passport, student ID from a state-supported college, or other accepted forms.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "I’m originally from another state, can I still vote in my home state while studying in Montana?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Montana?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "DO I NEED TO SHOW ID WHEN I VOTE IN MONTANA?",
+            "a": "Yes. Montana requires you to show a valid photo ID when voting in person. Election workers will ask for a physical copy of your ID that is current, valid, and readable.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO VOTE IN MONTANA?",
+            "a": "You can use any one of the following valid photo IDs:\n\n- Montana Driver’s License or REAL ID\n- Montana State ID Card\n- Military ID\n- Tribal Photo ID\n- US Passport\n- Montana Concealed Carry Permit\n- Montana University System or NAIA Photo ID\n\nIf you don’t have one of the IDs above, you may also:\n\n- Bring a photo ID (any kind) plus one of the following documents that shows your name and current address:\n- Utility bill\n- Bank statement\n- Paycheck or government check\n- Government document",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN MONTANA?",
+            "a": "If you do not have an acceptable form of ID, you should contact your county election official (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430) to learn about provisional voting options. You may still be able to vote, but you'll need to verify your identity later for your ballot to count. If you’re having trouble obtaining ID, you can also contact the Secretary of State’s office at [email protected] (https://www.vote411.org/cdn-cgi/l/email-protection#fb8894889e979e988f92949588bb968fd59c948d) for assistance.\n\n Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "HOW CAN I CHECK MY REGISTRATION STATUS?",
+            "a": "You can verify your voter registration status using Montana’s voter information tool (https://prodvoterportal.mt.gov/WhereToVote.aspx).",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "WHO IS ELIGIBLE TO REGISTER IN MONTANA?",
+            "a": "To register to vote in Montana, you must be:\n\n- At least 18 years old on or before Election Day\n- A U.S. citizen\n- A resident of Montana and of the county in which you intend to vote for at least 30 days (you must provide an address to prove you live in the county)\n- Not convicted of a felony, serving a sentence in a penal institution\n- Not judged in a court of law to be of unsound mind",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "HOW DO I UPDATE MY VOTER REGISTRATION?",
+            "a": "To update your voter registration information, including a name change, address change, or signature update, complete a voter registration application (https://www.vote411.org/register) and return it to your county election office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "WHAT ADDRESS SHOULD I REGISTER AT IF I DON’T HAVE A RESIDENCE?",
+            "a": "It is not mandatory for you to have a \"permanent home\" for voter registration. You can provide an alternative description of your residence, even if you are experiencing homelessness, as long as it enables the authorities to identify and assign a voting precinct to you. The mailing address on your registration form can be a PO box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for you.\n\nNot registered? Use our online registration tool (https://www.vote411.org/register) to complete your application!",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        }
+    ]
+}

@@ -1,0 +1,459 @@
+{
+    "requested_states": [
+        "ak",
+        "al",
+        "ar",
+        "az",
+        "ca",
+        "co",
+        "ct",
+        "de",
+        "fl",
+        "ga",
+        "hi",
+        "ia",
+        "id",
+        "il",
+        "in",
+        "ks",
+        "ky",
+        "la",
+        "ma",
+        "md",
+        "me",
+        "mi",
+        "mn",
+        "mo",
+        "ms",
+        "mt",
+        "nc",
+        "nd",
+        "ne",
+        "nh",
+        "nj",
+        "nm",
+        "nv",
+        "ny",
+        "oh",
+        "ok",
+        "or",
+        "pa",
+        "ri",
+        "sc",
+        "sd",
+        "tn",
+        "tx",
+        "ut",
+        "va",
+        "vt",
+        "wa",
+        "wi",
+        "wv",
+        "wy"
+    ],
+    "coverage": "Vote411 only",
+    "status": "completed",
+    "results": {
+        "ak": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/ak",
+            "counts": {
+                "vote411": 38,
+                "supporting_sections": 17
+            }
+        },
+        "al": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/al",
+            "counts": {
+                "vote411": 20,
+                "supporting_sections": 16
+            }
+        },
+        "ar": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/ar",
+            "counts": {
+                "vote411": 33,
+                "supporting_sections": 16
+            }
+        },
+        "az": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/az",
+            "counts": {
+                "vote411": 68,
+                "supporting_sections": 11
+            }
+        },
+        "ca": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/ca",
+            "counts": {
+                "vote411": 63,
+                "supporting_sections": 13
+            }
+        },
+        "co": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/co",
+            "counts": {
+                "vote411": 19,
+                "supporting_sections": 19
+            }
+        },
+        "ct": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/ct",
+            "counts": {
+                "vote411": 41,
+                "supporting_sections": 16
+            }
+        },
+        "de": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/de",
+            "counts": {
+                "vote411": 9,
+                "supporting_sections": 18
+            }
+        },
+        "fl": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/fl",
+            "counts": {
+                "vote411": 65,
+                "supporting_sections": 14
+            }
+        },
+        "ga": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/ga",
+            "counts": {
+                "vote411": 60,
+                "supporting_sections": 11
+            }
+        },
+        "hi": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/hi",
+            "counts": {
+                "vote411": 0,
+                "supporting_sections": 23
+            }
+        },
+        "ia": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/ia",
+            "counts": {
+                "vote411": 2,
+                "supporting_sections": 22
+            }
+        },
+        "id": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/id",
+            "counts": {
+                "vote411": 26,
+                "supporting_sections": 20
+            }
+        },
+        "il": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/il",
+            "counts": {
+                "vote411": 63,
+                "supporting_sections": 12
+            }
+        },
+        "in": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/in",
+            "counts": {
+                "vote411": 28,
+                "supporting_sections": 19
+            }
+        },
+        "ks": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/ks",
+            "counts": {
+                "vote411": 26,
+                "supporting_sections": 19
+            }
+        },
+        "ky": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/ky",
+            "counts": {
+                "vote411": 50,
+                "supporting_sections": 12
+            }
+        },
+        "la": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/la",
+            "counts": {
+                "vote411": 25,
+                "supporting_sections": 18
+            }
+        },
+        "ma": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/ma",
+            "counts": {
+                "vote411": 0,
+                "supporting_sections": 22
+            }
+        },
+        "md": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/md",
+            "counts": {
+                "vote411": 0,
+                "supporting_sections": 22
+            }
+        },
+        "me": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/me",
+            "counts": {
+                "vote411": 67,
+                "supporting_sections": 12
+            }
+        },
+        "mi": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/mi",
+            "counts": {
+                "vote411": 54,
+                "supporting_sections": 11
+            }
+        },
+        "mn": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/mn",
+            "counts": {
+                "vote411": 63,
+                "supporting_sections": 12
+            }
+        },
+        "mo": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/mo",
+            "counts": {
+                "vote411": 0,
+                "supporting_sections": 22
+            }
+        },
+        "ms": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/ms",
+            "counts": {
+                "vote411": 2,
+                "supporting_sections": 22
+            }
+        },
+        "mt": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/mt",
+            "counts": {
+                "vote411": 29,
+                "supporting_sections": 20
+            }
+        },
+        "nc": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/nc",
+            "counts": {
+                "vote411": 70,
+                "supporting_sections": 12
+            }
+        },
+        "nd": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/nd",
+            "counts": {
+                "vote411": 20,
+                "supporting_sections": 20
+            }
+        },
+        "ne": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/ne",
+            "counts": {
+                "vote411": 1,
+                "supporting_sections": 21
+            }
+        },
+        "nh": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/nh",
+            "counts": {
+                "vote411": 43,
+                "supporting_sections": 10
+            }
+        },
+        "nj": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/nj",
+            "counts": {
+                "vote411": 27,
+                "supporting_sections": 19
+            }
+        },
+        "nm": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/nm",
+            "counts": {
+                "vote411": 63,
+                "supporting_sections": 13
+            }
+        },
+        "nv": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/nv",
+            "counts": {
+                "vote411": 60,
+                "supporting_sections": 12
+            }
+        },
+        "ny": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/ny",
+            "counts": {
+                "vote411": 65,
+                "supporting_sections": 15
+            }
+        },
+        "oh": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/oh",
+            "counts": {
+                "vote411": 62,
+                "supporting_sections": 12
+            }
+        },
+        "ok": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/ok",
+            "counts": {
+                "vote411": 0,
+                "supporting_sections": 22
+            }
+        },
+        "or": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/or",
+            "counts": {
+                "vote411": 0,
+                "supporting_sections": 22
+            }
+        },
+        "pa": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/pa",
+            "counts": {
+                "vote411": 46,
+                "supporting_sections": 12
+            }
+        },
+        "ri": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/ri",
+            "counts": {
+                "vote411": 0,
+                "supporting_sections": 22
+            }
+        },
+        "sc": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/sc",
+            "counts": {
+                "vote411": 47,
+                "supporting_sections": 12
+            }
+        },
+        "sd": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/sd",
+            "counts": {
+                "vote411": 2,
+                "supporting_sections": 21
+            }
+        },
+        "tn": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/tn",
+            "counts": {
+                "vote411": 0,
+                "supporting_sections": 22
+            }
+        },
+        "tx": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/tx",
+            "counts": {
+                "vote411": 62,
+                "supporting_sections": 17
+            }
+        },
+        "ut": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/ut",
+            "counts": {
+                "vote411": 0,
+                "supporting_sections": 24
+            }
+        },
+        "va": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/va",
+            "counts": {
+                "vote411": 64,
+                "supporting_sections": 17
+            }
+        },
+        "vt": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/vt",
+            "counts": {
+                "vote411": 29,
+                "supporting_sections": 19
+            }
+        },
+        "wa": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/wa",
+            "counts": {
+                "vote411": 0,
+                "supporting_sections": 22
+            }
+        },
+        "wi": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/wi",
+            "counts": {
+                "vote411": 57,
+                "supporting_sections": 14
+            }
+        },
+        "wv": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/wv",
+            "counts": {
+                "vote411": 26,
+                "supporting_sections": 19
+            }
+        },
+        "wy": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191516674464Z/wy",
+            "counts": {
+                "vote411": 0,
+                "supporting_sections": 22
+            }
+        }
+    },
+    "completed_at": "2026-10-22T19:15:21+00:00"
+}

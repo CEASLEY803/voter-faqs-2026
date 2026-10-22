@@ -1,0 +1,410 @@
+{
+    "state": "me",
+    "num_questions": 67,
+    "num_answers": 67,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "In Maine, all registered voters can apply to vote absentee.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "WHAT ARE THE TYPES OF ABSENTEE VOTING IN MAINE?",
+            "a": "1. By mail\n2. Early voting in-person\n3. Electronic Accessible Absentee Ballot\n4. Special Circumstances Absentee Voting\n5. Uniformed Service or Overseas Voters",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "You can request an absentee ballot beginning 2 months before a Primary Election and 3 months before all other elections. There are several methods to request your absentee ballot:\n\n1. Online\n2. In person\n3. By mail\n4. By phone\n5. Enroll in the Ongoing Absentee Ballot Program",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "The Thursday before election day at 5:00pm. After this deadline, you may request an absentee ballot by completing and signing a Special Circumstances Absentee Ballot Application (if you meet one of the four requirements).",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "WHAT IS SPECIAL CIRCUMSTANCES ABSENTEE VOTING?",
+            "a": "There is a deadline to request your absentee ballot, which is the Thursday before Election Day. After the normal deadline, you will need to provide an excuse. That can include one of these four reasons:\n\n- Unexpected absence from the municipality during the entire time the polls are open on Election Day; or\n- Physical disability; or\n- Incapacity or illness that has resulted in the voter being unable to leave home or a treatment facility; or\n- Inability to travel to the polls if the voter is a coastal island ward or precinct resident.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "WHAT IS THE ELECTRONIC ACCESSIBLE ABSENTEE BALLOT?",
+            "a": "This is a method of voting for individuals with print disabilities to ensure they can vote absentee privately and independently, as required under federal law. If you are a person with a print disability that wishes to cast their absentee ballot in this method, view the Secretary of State’s website (https://www.maine.gov/sos/elections-voting/accessible-voting) for more information.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "WHAT IS THE ONGOING ABSENTEE BALLOT VOTER STATUS?",
+            "a": "A registered voter that enrolls in the program can automatically receive their absentee ballot in the mail. This program is available to all registered Maine voters. To enroll in the program, complete this form (https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/3%20Ongoing%20AbsenteeStatusApp%20fillable%20pdf%20FINAL.pdf) and return to your town clerk.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
+            "a": "Yes, you must request an absentee ballot for each election. The only exception is for those enrolled in the Ongoing Absentee Ballot Status Program.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Ballots are provided to town clerks 30 days prior to Election Day. Clerks begin mailing them out soon after to those who requested an absentee ballot.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT?",
+            "a": "You can mail your ballot to your town clerk, drop it in a secure ballot drop box, or deliver it in person to your town clerk. If you are returning the ballot by mail, be sure to allow at least 7 days for delivery. Please contact your local elections office  (https://absentee.vote411.org/vote/eoddomestic.htm)for additional information. Due to possible USPS mailing delays, we highly encourage voters to return their absentee ballot in-person or via a drop box.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "Yes. You can track your absentee ballot on the Secretary of State's website (https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/ballot_status.pl).",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "If you want to vote in person, do not mail or return your voted absentee ballot. Absentee ballots are processed in batches throughout the day, and the list of those newly received absentee ballots is shared with each polling place for each batch. If you submitted your voted absentee ballot, you will not be able to vote in person. If you vote in person before your absentee ballot arrives that day, your absentee ballot will be rejected.\n\n  Request your Ballot  (http://www.maine.gov/cgi-bin/online/AbsenteeBallot/index.pl)",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "What is ballot curing?",
+            "a": "Ballot curing is when a voter corrects an issue with their ballot, so it can be counted.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Does Maine allow ballot curing?",
+            "a": "Yes, Maine allows voters to fix an issue with their ballot.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "a": "If there is a mismatching or missing signature, notice and instructions on how to cure will be provided within one business day using a phone number or email address provided on the absentee ballot application.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "What is the deadline to cure my ballot?",
+            "a": "The deadline to cure (correct) your absentee/mail ballots is the close of polls (8pm) on Election Day.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Can I track my absentee ballot?",
+            "a": "You can check the status of your mail/absentee ballot using your state’s online tool. (https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/ballot_status.pl)",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Does Maine allow ballot curing?",
+            "a": "Yes, Maine allows voters to fix an issue with their ballot.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "a": "If there is a mismatching or missing signature, notice and instructions on how to cure will be provided within one business day using a phone number or email address provided on the absentee ballot application.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "What is the deadline to cure my ballot?",
+            "a": "The deadline to cure (correct) your absentee/mail ballots is the close of polls (8pm) on Election Day.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Can I track my absentee ballot?",
+            "a": "You can check the status of your mail/absentee ballot using your state’s online tool. (https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/ballot_status.pl)",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Can I vote before Election Day in Maine?",
+            "a": "Yes. Maine allows in-person absentee voting (early voting) before Election Day.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Who can vote early in Maine?",
+            "a": "Any registered voter in Maine may vote absentee in person. You do not need an excuse to vote absentee.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "When can I vote early in Maine?",
+            "a": "In-person absentee voting begins 30 days before Election Day. It is available until the Thursday before Election Day, though hours vary by municipality. Contact your municipal clerk (https://absentee.vote411.org/vote/eoddomestic.htm) for exact dates and times.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Where can I vote early in Maine?",
+            "a": "You may vote early at your municipal clerk’s office (https://absentee.vote411.org/vote/eoddomestic.htm). Some municipalities may offer additional hours or locations.\n\nContact your municipal clerk (https://absentee.vote411.org/vote/eoddomestic.htm) to confirm availability, hours, and location details.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "WHO CAN REGISTER TO VOTE IN MAINE?",
+            "a": "To register to vote in Maine, you must:\n\n- Be a US citizen\n- Be at least 16 years old (you must be at least 18 to vote in a general election; 17-year-olds may vote in primaries if they will be 18 by the general election)\n- Have established a voting residence in a Maine municipality",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "WHO CAN VOTE IN MAINE?",
+            "a": "You can vote in Maine if:\n\n- You are a registered voter\n- You are at least 18 years old on or before Election Day\n- 17-year-olds may vote in primary elections as long as they will be 18 by the time of the general election\n- You have established a voting residence in Maine\n- Voters like students, military members, overseas citizens, incarcerated individuals, and those without traditional housing can vote in Maine if they meet residency requirements.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
+            "a": "Yes. In Maine, having a felony conviction does not affect your right to vote. Even if you’re currently incarcerated, you can vote as long as you register using the address where you lived before being incarcerated.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "a": "Yes. If you are experiencing homelessness or living in a shelter, you can register to vote in the Maine municipality where you currently reside, even if your address is non-traditional, like a park bench or another physical location. You can give a physical description of where you live, under oath, to the municipal clerk (https://absentee.vote411.org/vote/eoddomestic.htm) instead of showing typical residency documents. A mailing address is not required.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN MAINE?",
+            "a": "Yes, if you're registering to vote for the first time in Maine, you must show proof of identity and residence.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN MAINE?",
+            "a": "You can use any of the following to prove your identity and residence:\n\nTo register online (https://registertovote.sos.maine.gov/OnlineVoterRegistration/Registration):\n\nYou must have a Maine driver’s license or state ID and your name, date of birth, and address must match the BMV records.\n\nTo register in person or by mail:\n\n- A government-issued photo ID like a Maine driver’s license, state ID, U.S. passport, military ID, or tribal ID\n- A government ID document/credential without photo (i.e. certified birth certificate or signed Social Security card)\n- An official document showing your name and Maine address, such as:\n- Utility bill\n- Bank statement\n- Paycheck\n- Government check\n- Document proving eligibility for public benefits\n- A student photo ID from a state-approved public or private school or institute of higher education in Maine\n- Your Maine driver’s license number or the last four digits of your Social Security Number (if verifiable)",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER?",
+            "a": "If you don’t have the standard documents, you can still register by:\n\n- Providing a sworn written statement (under oath) describing your place of residence\n- Submitting any other documents that help prove your identity and/or residency\n- If you’re homeless or displaced, you do not need a mailing address, and you can describe your residence (like a park or shelter) under oath to the municipal clerk\n\nIf you're trying to register online but don’t have a Maine driver’s license or state ID, you won’t be able to use the online registration system. Instead, you must register using a paper form and provide identity/residency documentation as described above.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "When are official election results available in Maine?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "Official election results will be uploaded on Maine’s Secretary of State website (https://www.maine.gov/sos/cec/elec/results/index.html) as they become available.\n\n  Official Results  (https://www.maine.gov/sos/cec/elec/results/index.html)",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "What does a poll worker do in Maine?",
+            "a": "Poll workers in Maine help ensure elections run smoothly, securely, and fairly. Duties may include:\n\n- Setting up and closing the polling place\n- Checking in voters and verifying eligibility\n- Monitoring the voting machines or ballot box\n- Helping tally results",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "What qualifications do I need to be a poll worker in Maine?",
+            "a": "To serve as a poll worker in Maine, you must generally:\n\n- Be registered to vote in Maine\n- Be at least 16 years old\n- Be a resident of the municipality or county where you will be serving\n- Not be a candidate or a member of a candidate’s immediate family\n- Attend all training required by the municipal clerk",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Are poll workers paid in Maine?",
+            "a": "Poll workers in Maine may be paid for their service, depending on the municipality. Compensation rates are set locally and can vary based on location and the length of the workday. Contact your local elections official (https://absentee.vote411.org/vote/eoddomestic.htm) to learn more.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "How do I apply to be a poll worker in Maine?",
+            "a": "To sign up to serve as an election worker in Maine, please contact your town office/city hall (https://absentee.vote411.org/vote/eoddomestic.htm) and speak with the municipal clerk.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Does Maine offer provisional voting?",
+            "a": "Yes, Maine offers provisional voting called a “challenged ballot.\"",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "How do I vote a provisional ballot?",
+            "a": "If your eligibility to vote is questioned on Election Day, you are allowed to cast a challenged (provisional) ballot. A challenged ballot must be counted the same as a regular ballot. The validity of a challenged ballot need not be determined unless it affects the results of an election.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "WHAT VOTING ASSISTANCE IS AVAILABLE TO VOTERS WITH DISABILITIES?",
+            "a": "Voters may ask for help at all steps of the voting process under the Americans with Disabilities Act (ADA). This includes help requesting, obtaining, marking, reading, and returning their ballot.\n\nThe Help America Vote Act (HAVA) requires that all polling places for federal elections have a machine for voters with disabilities to vote privately and independently mark their ballots. The State of Maine requires this machine for all state elections. This machine in Maine is called the, “Accessible Voting System.”",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "HOW DOES THE ACCESSIBLE VOTING SYSTEM (AVS) WORK?",
+            "a": "The AVS is a ballot marking device. A voter will mark their ballot using the touch screen or braille keypad. The voter may change the size and color of the font and listen to the ballot through headphones, changing the volume. The voter will then print their ballot and place it in the tabulator, like all other voters using paper ballots. The AVS is not connected to the internet.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "HOW DO I ASK TO USE THE ACCESSIBLE VOTING SYSTEM?",
+            "a": "At the check-in table in the polling place, say to the poll worker, “I would like to use the Accessible Voting System.” The poll worker will escort you to the machine and make it ready for use. If the AVS is not set up, not working, or not available, please call the League of Women Voters of Maine Election Hotline at 207-558-3333.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ACCOMMODATION OR REPORT ACCESSIBILITY ISSUES?",
+            "a": "If you have any questions about receiving help in voting, please ask the clerk or warden at the polling place.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "CAN I VOTE BY MAIL BECAUSE OF MY DISABILITY?",
+            "a": "Yes. All registered voters can apply to vote absentee.\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "How does Ranked Choice Voting work?",
+            "a": "- Voters rank candidates in the order of their preference: first choice, second choice, third choice, and so on.\n- When all the ballots are counted, if one candidate gets more than 50% of the first choice votes, they win.\n- If no candidate receives more than 50% of first choice votes, the candidate with fewest votes is considered defeated.\n- Voters who ranked the defeated candidate as their first choice have their votes counted for their second choice.\n- This is repeated until only two candidates remain. The one with the most votes wins.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in Maine?",
+            "a": "Here is what you need to know to register in Maine:\n\nThere are three methods of voter registration in Maine: register in-person, register online (https://registertovote.sos.maine.gov/), or email a printable application (https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Voter%20Registration%20Application.pdf) to the Maine Secretary of State.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in Maine?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in Maine?",
+            "a": "Maine requires voters to register at least 21 days before the election. Be sure to check the exact date each year.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in Maine?",
+            "a": "A Maine voter is not required to show identification. However, if you are voting for the first time, you may be asked to show a form of identification when you go to the polls. This can include a driver’s license, passport, student ID from a state-supported college, or other accepted forms.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "I’m originally from another state, can I still vote in my home state while studying in Maine?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Maine?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Does Maine require employers to give time off to vote?",
+            "a": "No. Maine law does not require employers to provide time off to vote.\n\nPolls in Maine are open for extended hours on Election Day and no-excuse absentee voting (https://www.vote411.org/maine#absentee-ballot-process) is available before Election Day. If you need time off to vote, check with your employer about their policies.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "DO I NEED TO SHOW ID WHEN I VOTE IN MAINE?",
+            "a": "No. If you are already registered to vote in Maine, you do not need to show ID to receive your ballot and vote. However, if you are registering to vote on Election Day, you must provide proof of identity and proof of residency.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE IN MAINE?",
+            "a": "If you are already registered to vote, you do not need to show ID to vote. If you are registering to vote on Election Day, you must provide proof of identity and proof of residency. Acceptable forms include:\n\nA government-issued photo ID, such as:\n\n- Maine driver’s license\n- State ID card\n- Valid U.S. passport\n- Military ID\n- Student ID\n- Tribal ID\n\nA government-issued document without a photo, such as:\n\n- Certified birth certificate\n- Signed Social Security card\n- A document showing your name and current address, such as:\n\n  - Utility bill\n  - Bank statement\n  - Government check\n  - Paycheck\n  - Documentation showing eligibility for public benefits\n\nA verified unique identifier, such as:\n\n- Maine driver’s license number\n- Last four digits of your Social Security number",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
+            "a": "If you are already registered to vote, you do not need ID to vote.\n\nIf you are registering on Election Day and do not have acceptable identification, you can still vote using a provisional ballot. You may be asked to provide identification after the election to confirm your registration.\n\nIf you believe you are eligible to vote and are denied a provisional ballot, call the League of Women Voters of Maine Election Hotline immediately at 207-558-3333 for assistance.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "What is the deadline to register to vote in Maine?",
+            "a": "- Online registration deadline: 21 days before Election Day\n- Register by mail deadline: Received 21 days before Election Day\n- In-person registration deadline: Election Day",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "How can I register to vote in Maine?",
+            "a": "You have several options to register to vote or update your voter registration.\n\n- Online: Register to vote or update your current registration online (https://registertovote.sos.maine.gov/OnlineVoterRegistration/Registration)!\n- Mail: Download, print, and complete (https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Voter%20Registration%20Card-Fillable.pdf) a paper form and mail it to the state elections office.\n- In-Person: Register in person at your state or local election office (https://absentee.vote411.org/vote/eoddomestic.htm) or at your state motor vehicles office.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "How can I check my voter registration status?",
+            "a": "You can verify your voter registration status using Maine’s voter information tool. (https://www.maine.gov/portal/government/edemocracy/voter_lookup.php)",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Does Maine have online voter registration?",
+            "a": "Yes! Use our online registration tool (https://www.vote411.org/register) to complete your application",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Is same-day voter registration available in Maine?",
+            "a": "Yes, Maine has same-day voter registration.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Can I pre-register to vote?",
+            "a": "Yes, you can pre-register to vote if you are 16 or 17 years old.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Who is eligible to register in Maine?",
+            "a": "Check if you’re eligible to register here (https://www.vote411.org/maine#eligibility-requirements).",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "WHAT TYPE OF VOTING MACHINES DOES MAINE USE?",
+            "a": "Maine uses the DS-200 tabulator to scan and tabulate the votes from paper ballots. The DS-200 does not have the capability to connect to the internet. It is certified by the Election Assistance Commission (EAC).",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "HOW DOES MAINE COUNT THE BALLOTS?",
+            "a": "When the polls close, the election warden produces the tabulated count of votes from the machines. This must be done in the presence of a poll worker who is a member of a different political party. In other words, when the vote totals are printed, announced, and checked, it is done by one Democrat and one Republican.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Do all municipalities use the machines?",
+            "a": "No. Some municipalities hand count ballots.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        }
+    ]
+}

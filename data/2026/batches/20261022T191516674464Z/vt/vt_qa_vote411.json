@@ -1,0 +1,182 @@
+{
+    "state": "vt",
+    "num_questions": 29,
+    "num_answers": 29,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "In Vermont, all voters can apply to vote absentee.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "WILL MY BALLOT AUTOMATICALLY BE MAILED TO ME?",
+            "a": "No. Ballots will be mailed to all registered Vermont voters upon request for most elections, such as the Annual Town Meeting, Presidential Primary, and Statewide Primary.\n\nBallots are automatically mailed out to all registered voters for General Elections only, which are held every November of even numbered years. This was a change in Vermont election law that passed in 2021.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "You can request an absentee ballot through phone, fax, email, mail, in person or online. (https://mvp.vermont.gov/)",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "The last day to request an absentee ballot is 1 day before the election. All requests must be submitted by the day before the election before the Town Clerk’s office closes for the day.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT EACH YEAR?",
+            "a": "Yes, the absentee ballot request form is good only for that calendar year. Per state law, the clerk is unable to keep an absentee list from year to year. Each year a new request must be made for any or all elections for that current calendar year.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING A VOTED ABSENTEE BALLOT?",
+            "a": "Your voted ballot must be received by your town clerk by the close of the polls on Election Day.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS AVAILABLE TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Absentee ballots for a presidential primary (March), a state primary (August), or general (November) elections are available 45 days prior to the election.\n\nIf your city or town is having a special election in August or November, the absentee ballots may not be ready until somewhere between 20 to 30 days prior to the election.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "HOW CAN I VOTE AN ABSENTEE BALLOT?",
+            "a": "There are several ways for you to vote an absentee ballot in Vermont:\n\n- Vote at Home on Election Day. If you are sick or disabled a ballot can be delivered to your home on election day. You must request an absentee ballot before 5pm on the day before the election. On election day, two justices of the peace will deliver a ballot to you and then will bring the ballot back to the polling place so it can be counted.\n- Vote by Mail. You can request that the town clerk mail you an early voter absentee ballot. Once voted, you can return the ballot to the clerk in the envelope included with the ballot. The clerk must receive the ballot by the close of the polls on Election Day to be counted. You can request a ballot at any time before an election and clerks will mail absentee ballots within the 45 days before the election.\n- Hand Delivered Ballots. You can pick up a ballot at the town clerk's office at any time beginning 45 days before the general or primary election, and hand-deliver the voted ballot in a sealed envelope to the clerk on or before Election Day. The ballot can be returned to the clerk or delivered to the polling place by the voter or any person the voter authorizes to return the ballot for them. However, you can only pick up your own ballot from the clerk's office.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY VOTED ABSENTEE BALLOT?",
+            "a": "You have multiple options to return your ballot: you can mail it, deposit it in a secure drop box if offered in your area, or return your ballot in person at your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "You can sign up to track your advance ballot (http://vote.vermont.gov/) on your Secretary of State website.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "If you requested an absentee ballot but want to vote in person, you must surrender your absentee ballots before receiving a regular ballot or sign an affidavit that you haven’t already voted. Do not mail a ballot and vote in person. For specifics, find your local county clerk contact info here (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "WHO CAN REGISTER TO VOTE IN VERMONT?",
+            "a": "You can register to vote in Vermont if you meet the following requirements:\n\n- You are a US citizen\n- You are a resident of Vermont t in the town where your residential address is, or be a military or overseas voter whose last US residence was in Vermont\n- You are at least 18 years old (17-year-olds may pre-register and vote in an immediately preceding primary election if turning 18 before a general election)\n\nYou may register to vote at any time, including on Election Day. Registration is available:\n\n- Online (https://vote.vermont.gov/public/dashboard)\n- By mail - Download and print a blank Voter Registration Application here. (https://outside.vermont.gov/dept/sos/Elections_Division/voters/vermont_voter_registration_form.pdf)\n- In person at your town or city clerk’s office during business hours or at your polling place on Election Day\n- At the same time as applying for or renewing a motor vehicle driver's license or nondriver identification card",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "WHO CAN VOTE IN VERMONT?",
+            "a": "To vote in Vermont, you must:\n\n- Be a US citizen\n- Be a Vermont resident\n- Be at least 18 years old\n- Take the Voter's Oath (formerly called the Freeman's Oath)\n- Be registered to vote\n\n  - There is no deadline to register; you can register and vote on the same day. Voter registration applications must be submitted to the presiding officer at the polling location.\n\nYouth Vote\n\nA bill passed by the Vermont Legislature lowers the voting age to 16 for Brattleboro's local elections. This means that every resident of Brattleboro, VT, who will be 16 years of age or older on Election Day is eligible to register and vote in local elections. You must be 18 by Election Day to vote in state or federal elections.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "CAN I VOTE IN VERMONT IF I AM ATTENDING SCHOOL OUT OF STATE?",
+            "a": "Yes. Attending school outside Vermont doesn’t affect your voting residence. You don’t gain or lose residency just because you’re a student somewhere else.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "CAN I VOTE IN VERMONT IF I HAVE A FELONY CONVICTION?",
+            "a": "In Vermont, those with criminal records never lose the right to vote. If you are incarcerated, regardless of the offense, you are able to vote. You should register to vote in the town or city where you resided before incarceration.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "CAN I REGISTER AND VOTE IN VERMONT IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "a": "Yes. If you do not have a traditional residential address, you can still register and vote in Vermont. You’ll need to provide a location description of where you typically stay or reside (such as a shelter, park, or intersection), and identify the town or city in Vermont where you consider yourself a resident.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN VERMONT?",
+            "a": "Yes, if you are registering for the first time by mail or online (https://vote.vermont.gov/public/dashboard), you must include a photocopy of an acceptable form of ID.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN VERMONT?",
+            "a": "If you register online (https://vote.vermont.gov/public/dashboard) or by mail for the first time in Vermont, you must include a photocopy of an acceptable ID with your application. Acceptable ID includes:\n\n- A valid photo ID (like a Vermont driver’s license or a U.S. passport)\n- A current utility bill\n- A current bank statement\n- Another government document that includes your name and residential address\n\nIn addition, you must provide either your Vermont driver’s license number, your Personal ID number, or the last four digits of your Social Security Number on the application.\n\nIf you register in person at your town or city clerk’s office, you are not required to show ID. However, you still must provide your driver’s license number, your Personal ID number, or the last four digits of your Social Security Number on the registration application.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER IN VERMONT?",
+            "a": "If you’re registering online or by mail and do not include a photocopy of an acceptable ID, your registration will not be complete and may be delayed or rejected. To avoid problems, either:\n\n- Include one of the acceptable ID documents listed above, or\n- Register in person at your local town clerk’s office. Photo ID is not required, but your identifying information will still be verified.\n\nVoters can call or text 866-432-8683 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in Vermont?",
+            "a": "Here is what you need to know to register in Vermont:\n\nThere are three methods of voter registration in Vermont: register in-person, register online (https://vote.vermont.gov/public/dashboard), or mail a printable application (https://outside.vermont.gov/dept/sos/Elections%20Division/voters/voterapplication.pdf) to your Town Clerk (https://sos.vermont.gov/elections/town-clerks/).",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in Vermont?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in Vermont?",
+            "a": "Vermont does not have a voter registration deadline. You can register to vote at any time, even on Election Day. However, if you register online, it’s recommended to do so by the Friday before Election Day to ensure your name appears on the voter rolls on Election Day.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in Vermont?",
+            "a": "Voters in Vermont are not required to show identification to vote. However, first-time voters who registered by mail may be asked to present a form of ID at the polls, such as a driver’s license, passport, student ID from a state-supported college, or other accepted types.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "I’m originally from another state, can I still vote in my home state while studying in Vermont?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Vermont?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "DO I NEED TO SHOW ID WHEN I VOTE IN VERMONT?",
+            "a": "Most Vermont voters do not need to show ID when voting. However, if you are a first-time voter who registered by mail or online, you must show identification the first time you vote.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO VOTE IN VERMONT?",
+            "a": "If you’re a first-time voter who registered by mail or online and did not provide verification when you registered, you can show any one of the following forms of identification at the polls:\n\n- A valid photo ID (like a driver’s license or passport)\n- A current utility bill\n- A current bank statement\n- A government document that includes your name and residential address\n\nThese documents can be physical copies or originals, as long as they clearly show your name and address.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN VERMONT?",
+            "a": "If you’re a first-time voter who registered by mail or online and did not provide verification when you registered, and you don’t have acceptable ID when you go to vote, you can still vote, but you may be asked to use a provisional ballot. Election officials will verify your eligibility before your vote is counted.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        }
+    ]
+}

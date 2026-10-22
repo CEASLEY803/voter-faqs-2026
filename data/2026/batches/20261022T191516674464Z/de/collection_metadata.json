@@ -1,0 +1,23 @@
+{
+    "state": "de",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/delaware",
+            "final_url": "https://www.vote411.org/delaware",
+            "collected_at": "2026-10-22T19:13:01+00:00",
+            "sha256": "2e6d0d1b21bac4d121cd04620a8d681dfe4af205146b83ad86186702567299ea",
+            "snapshot": "data/2026/batches/20261022T191516674464Z/de/vote411-de.html"
+        }
+    ],
+    "counts": {
+        "vote411": 9,
+        "supporting_sections": 18
+    },
+    "extraction_version": 3,
+    "reprocessed_from": "data/2026/batches/20261022T191249791410Z/de",
+    "review_flags": [],
+    "faq_file": "de_qa_vote411.json",
+    "supporting_content_file": "de_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}
