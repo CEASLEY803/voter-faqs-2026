@@ -1,0 +1,73 @@
+{
+  "sources": [
+    {
+      "requested_url": "https://scvotes.gov/voters/voter-faq/",
+      "final_url": "https://scvotes.gov/voters/voter-faq/",
+      "collected_at": "2026-10-22T14:22:48+00:00",
+      "sha256": "1727570dedfcf7fbab4735921241bdcea1383b7d6af33a0f26780ad1b97d8760",
+      "snapshot": "data/2026/runs/20261022T142248245757Z/scvotes.html"
+    },
+    {
+      "requested_url": "https://www.vote411.org/south-carolina",
+      "final_url": "https://www.vote411.org/south-carolina",
+      "collected_at": "2026-10-22T14:22:49+00:00",
+      "sha256": "de8435f33e2666e8e91d1e5385e4291d16a9fb5ae6ae9df5e24b0f5ee23ba946",
+      "snapshot": "data/2026/runs/20261022T142248245757Z/vote411-sc.html"
+    }
+  ],
+  "counts": {
+    "scvotes": 32,
+    "vote411": 58
+  },
+  "review_status": "Pending human review of source fidelity and completeness",
+  "review_items": [
+    {
+      "question": "Absentee Ballot Process",
+      "reason": "Published topic title used as q"
+    },
+    {
+      "question": "Ballot Notice and Cure Process",
+      "reason": "Introductory text preserved under published topic title"
+    },
+    {
+      "question": "Campaign Finance Information",
+      "reason": "Published topic title used as q"
+    },
+    {
+      "question": "Candidate and Ballot Measure Information",
+      "reason": "Published topic title used as q"
+    },
+    {
+      "question": "Early Voting",
+      "reason": "Introductory text preserved under published topic title"
+    },
+    {
+      "question": "Election Dates",
+      "reason": "Published topic title used as q"
+    },
+    {
+      "question": "Election Day Voting Hours",
+      "reason": "Published topic title used as q"
+    },
+    {
+      "question": "Overseas and Military Voters",
+      "reason": "Published topic title used as q"
+    },
+    {
+      "question": "Poll Worker Information",
+      "reason": "Introductory text preserved under published topic title"
+    },
+    {
+      "question": "Polling Place Locations",
+      "reason": "Published topic title used as q"
+    },
+    {
+      "question": "Primary Election Process",
+      "reason": "Published topic title used as q"
+    },
+    {
+      "question": "Verify Voter Registration",
+      "reason": "Published topic title used as q"
+    }
+  ]
+}
