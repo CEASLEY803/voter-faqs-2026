@@ -2,6 +2,7 @@
 
 import argparse
 from collections import Counter
+from copy import deepcopy
 import hashlib
 import json
 from pathlib import Path
@@ -9,12 +10,23 @@ import re
 
 from bs4 import BeautifulSoup
 
-from collect_sc import ROOT, source_text, validate_dataset, validate_records
+from collect_sc import ROOT, source_text, validate_dataset, validate_records, vote411_blocks
 from collect_vote411 import STATE_SLUGS
 
 
 def text_tokens(text):
     return Counter(re.findall(r"\w+|[^\w\s]", text))
+
+
+def reference_body_text(body, url, extraction_version):
+    """Exclude intentionally omitted question destinations from the reference."""
+    copied = deepcopy(body)
+    if extraction_version >= 4:
+        for is_question, element in vote411_blocks(copied):
+            if is_question:
+                for link in element.find_all("a"):
+                    link.unwrap()
+    return source_text([copied], url)
 
 
 def check_state(directory, state):
@@ -41,7 +53,7 @@ def check_state(directory, state):
             raise ValueError("Record source or timestamp does not match snapshot metadata")
     soup = BeautifulSoup(raw.decode("utf-8-sig"), "html.parser")
     bodies = soup.select(".tabs-right > .tab .tab-body")
-    original_text = " ".join(source_text([body], source["final_url"]) for body in bodies)
+    original_text = " ".join(reference_body_text(body, source["final_url"], metadata["extraction_version"]) for body in bodies)
     extracted_text = " ".join(entry["q"] + " " + entry["a"] for entry in dataset["questions"])
     extracted_text += " " + " ".join(entry["content"] for entry in supporting["sections"])
     if text_tokens(original_text) != text_tokens(extracted_text):

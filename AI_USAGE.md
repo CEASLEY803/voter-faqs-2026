@@ -64,3 +64,17 @@ User request, verbatim:
 Coding assistance: expand the explicit state-to-URL mapping to 50 states, implement sequential batch collection with per-state error isolation and a manifest, run the collector, and validate extracted records against saved HTML. Preserve the corrected parser and original text capitalization. Source review of pilot output does not establish all-state extraction completeness; automated checks and any exceptions are recorded separately. Model information is the same as recorded above.
 
 The first attempt exposed statement headings, bold paragraph question labels, and pages with no recognized question headings (30 initial successes and 20 validation failures). Coding changes added deterministic question-label detection based on published heading/leading-bold formatting and final question marks. Sources with no identifiable questions retain supporting content with explicit review flags. All 50 saved pages were reprocessed into a separate version-3 batch; initial snapshots and outputs remain intact. Added a reusable integrity and text-token-conservation validator. New question boundaries require human review even for previously reviewed pilot states. No research interpretation was generated.
+
+## October 22, 2026: code review and approved fixes
+
+Review request, verbatim:
+
+> i want to stop here and do a code review, once that's done im going to push the commits
+
+Fix request, verbatim:
+
+> Extract question wording without appending navigation or self-link destinations but preserve useful answer links. We can preserve paragraphs across nested contianers
+>
+> And definitely add the MIT license
+
+Coding assistance: inspect collection and validation code, reproduce appended SC navigation URLs and lost nested-container paragraph boundaries, then implement separate question link handling and explicit container boundaries. Add the root MIT license with the student's copyright notice, preserve upstream licensing, and reprocess saved sources into version-4 outputs. Update validation for intentionally omitted question destinations and verify answer-link retention, formatting, source hashes, and original collection times. Model information is the same as recorded above. No push was performed.
