@@ -1,0 +1,21 @@
+{
+    "state": "wv",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/west-virginia",
+            "final_url": "https://www.vote411.org/west-virginia",
+            "collected_at": "2026-10-22T19:14:09+00:00",
+            "sha256": "01c7353e030f0a45c93ccce6a99e504cd6a0800951ae8a59f02e210af330df60",
+            "snapshot": "data/2026/batches/20261022T191249791410Z/wv/vote411-wv.html"
+        }
+    ],
+    "counts": {
+        "vote411": 13,
+        "supporting_sections": 22
+    },
+    "extraction_version": 2,
+    "faq_file": "wv_qa_vote411.json",
+    "supporting_content_file": "wv_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

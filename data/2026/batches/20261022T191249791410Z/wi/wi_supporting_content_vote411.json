@@ -1,0 +1,111 @@
+{
+    "state": "wi",
+    "num_sections": 15,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "topic_introduction",
+            "content": "Any registered voter in Wisconsin can request an absentee ballot. No excuse is required to vote absentee. You can request an absentee ballot online (https://myvote.wi.gov/en-us/Vote-Absentee-By-Mail), by mail, or in person at your local elections office. The last day to request an absentee ballot is 5 days before the election.\n\nVoted absentee ballots must be received by 8pm on Election Day in order to be counted. If you’re mailing your voted absentee ballot, please mail it at least a week in advance for it to arrive by Election Day. You will need an adult to witness your absentee ballot envelope in order to have your ballot counted.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "topic_introduction",
+            "content": "Ballot curing is when a voter corrects an issue with their ballot, so it can be counted.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).\n\nFor information on state campaign contributions, please visit your state's resource (http://cfis.wi.gov/).",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Information on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp).",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "topic_introduction",
+            "content": "Early voting for the November 3, 2026 General Election begins on October 20th and ends November 1st.\n\nIn-Person Absentee (Early Voting) Starts: 14 days before Election Day\nIn-Person Absentee (Early Voting) Ends: the Sunday before Election Day",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "The next election dates can be found here https://www.vote411.org/wisconsin.\n\nContact your local Municipal Clerk (https://absentee.vote411.org/vote/eoddomestic.htm) for information about local elections.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "The polls will be open 7:00 am to 8:00 pm.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://voterhelpdesk.usvotefoundation.org/en/support/home)\n\nIf you have additional questions about elections and voting overseas you can use our state-specific elections official directory or contact the Overseas Vote Foundation. (https://voterhelpdesk.usvotefoundation.org/en/support/home)",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "topic": "Poll Worker Information",
+            "kind": "topic_introduction",
+            "content": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker today! (https://www.powerthepolls.org/lwv)",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "You can find your polling place by utilizing your state resource (https://myvote.wi.gov/).\n\nIf you have further questions on your polling place location, please contact your municipal clerk. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "Wisconsin is an \"open primary\" state. You may only vote for candidates within one political party. Your choice of party is a private decision and does not register you with that party. If there are any nonpartisan contests on your ballot, you may vote in them. Read and follow the instructions on your ballot.\n\nHow to vote your ballot so that it will be counted:\n\n1. Select one party under Party Preference\n\n2. Find that party’s section on the ballot\n\n3. Vote for individual candidates in that party\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://myvote.wi.gov/en-us/).",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "topic": "Provisions for Voters with Disabilities",
+            "kind": "section_without_questions",
+            "content": "Wisconsin ensures that voting is accessible for individuals with disabilities, including non-visual accessibility for the blind and visually impaired, in a manner that provides equal access and participation (including privacy and independence).\n\nAny voter who needs help at the polls has a right to assistance. By law, a polling place must be accessible to a person with disabilities. It is a good idea to check the accessibility of the polling place ahead of time. You may find the building not accessible or have trouble getting to the polling location inside the building. If so, you may request that a poll worker bring a ballot to the building entrance or bring a friend along to assist you. If your polling place is not accessible, notify your city, town or village clerk's office and the Wisconsin Elections Commission.\n\nVoting on Election Day\n\nKnow Your Rights Voters with disabilities should know their rights. A voter with a disability cannot be turned away from the polls because a poll worker thinks they are not ‘qualified’ to vote. Disability or medical diagnosis does not take away the right to vote. Only the courts can take away that right.\n\nTo ensure that our voting process is accessible to all, disabled voters have the right to request accommodations.\n\n These are some of the most widely used accommodations:\n\nCurbside voting is required by state statute for any voter who cannot enter the polling place due to disability. Contact your clerk in advance to ask how to access curbside voting.\n\nIf a voter needs help marking the ballot, they may have a person of their choice assist them. That person does not need to be qualified to vote. The voter may bring someone with them or request assistance from a poll worker. The assistor cannot be the voter’s employer or union representative.\n\nIf a voter inside the polling location cannot sign the poll list due to a physical disability, they should inform a poll worker. The poll worker will write “Exempt by order of inspectors'' in the signature space on the poll list.\n\nAll polling places must have accessible voting equipment set up and turned on. This equipment allows voters to independently and privately mark the ballot. It should be set up to allow voters who use a wheelchair to reach the controls and have an audio ballot marking option for voters with a visual disability. Any voter may use this equipment.\n\nThe poll worker may ask voters to speak their name and address. If a voter is unable to state their name and address, Wisconsin law allows voters to have poll workers or assistor of their choosing state their name and address on their behalf prior to receiving a ballot. Voters can also provide their information in writing to poll workers or assistors.\n\n Other reasonable accommodations can be requested. Speak to the chief inspector at your polling place.\n\nAbsentee Voting\n\nIf you need help returning your ballot because you have a disability, your rights are protected by the Voting Rights Act. You must be permitted to receive assistance from someone of your choice, other than your employer or agent of that employer or officer or agent of your union.\n\nThe person returning your ballot may also be the person who assists you with completing your ballot and/or who acts as your witness.\n\nIt is up to you, the voter, to determine if you need assistance mailing or delivering your ballot because of disability. Election officials cannot inquire about your disability status beyond the questions described below. No additional steps may be taken to verify your disability or right to assistance.\n\nClerks may not create additional requirements or require documentation from voters with disabilities who need ballot return assistance.\n\nYou may check with your Municipal Clerk to determine where your assistor should deliver your ballot. Find contact information for your Clerk on My Vote Wisconsin: https://myvote.wi.gov/en-us/MyMunicipal-Clerk",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "topic": "Student Voting Process",
+            "kind": "section_without_questions",
+            "content": "What do I need to register to vote in Wisconsin?\n\nHere is what you need to know to register in Wisconsin:\n\nThere are three methods of voter registration in Wisconsin: register in-person, register online (https://myvote.wi.gov/en-us/Register-To-Vote), or mail a printable application (https://elections.wi.gov/wec-form/voter-registration-application) to your municipal clerk.\n\nCan I register to vote using my college address in Wisconsin?\n\nYes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.\n\nWhat’s the deadline to register to vote in Wisconsin?\n\nWisconsin requires voters to register online or by mail at least 20 days before the election. You can also register in person up to and including Election Day. Be sure to check the exact date each year.\n\nWhat form of ID do I need to vote in Wisconsin?\n\nYou must present a photo ID when voting in person in Wisconsin. This can include a driver’s license, passport, student ID from a state-supported college, or other accepted forms.\n\nI’m originally from another state, can I still vote in my home state while studying in Wisconsin?\n\nYes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).\n\nDoes registering to vote affect my financial aid, parents’ taxes, and/or tuition in Wisconsin?\n\nRegistering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (https://myvote.wi.gov/en-US/VoterRegistration)",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "topic": "Voting Machines",
+            "kind": "section_without_questions",
+            "content": "Voting Machines\n\nIn Wisconsin, voters may see up to three different types of voting machines used at their polling place - tabulators, ballot marking devices, and electronic poll books.\n\nTabulators - Tabulators are used in every Wisconsin municipality with a population of over 7,500. These machines read the paper ballots inserted into them and electronically tabulate or count and add up the votes for each candidate and contest on the ballot. Numerous studies have found that tabulators are more accurate and much quicker than hand counting by humans. Learn more about the tabulators used in Wisconsin. (https://elections.wi.gov/approved-voting-equipment)\n\nBallot Marking Devices - Ballot marking devices (sometimes also called accessible voting equipment) are required by law to be available at every polling place in Wisconsin. This equipment provides assistance to voters to help them mark their selections on their ballot. This equipment often includes a touchscreen or keypad to help voters navigate making their selections. Many voters with disabilities rely on ballot marking devices to vote privately and independently. After using a ballot marking device, voters are able to review their selections on a paper ballot or paper record before having their ballot read by the tabulator. Learn more about the ballot marking devices used in Wisconsin. (https://elections.wi.gov/accessible-voting-equipment)\n\nElectronic Poll Books - In Wisconsin electronic poll books are also known as “Badger Books”. The Badger Book is an electronic version of the paper poll book and serves the same functions as the paper poll book. It is used to check in voters, process Election Day Registrations, and record absentee voting participation. Learn more about Badger Books (https://elections.wi.gov/elections/badger-books).\n\nTesting of Voting Machines: It is important to know that all voting equipment in Wisconsin is required to be tested before each election. Additionally, after every November election, election officials conduct post-election equipment audits to ensure the accuracy of the voting equipment.\n\nThe Paper Record: Every ballot cast in Wisconsin has a paper record. The paper record ensures that election officials can manually compare the paper ballots with the electronic tallies in case of doubts or discrepancies. It’s a safeguard against any potential errors, tampering, or inconsistencies.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/certified-voting-systems)",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        }
+    ]
+}

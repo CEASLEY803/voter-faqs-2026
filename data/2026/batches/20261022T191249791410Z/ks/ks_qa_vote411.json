@@ -1,0 +1,74 @@
+{
+    "state": "ks",
+    "num_questions": 11,
+    "num_answers": 11,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE AN ADVANCE BALLOT?",
+            "a": "In Kansas, all registered voters can apply to vote an advance ballot.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ADVANCE BALLOT?",
+            "a": "You can vote an advance ballot in person or request one be mailed to you.\n\nRequest By Mail: You must complete an application for an advance ballot (https://sos.ks.gov/forms/elections/AV1.pdf) and include your driver’s license number or a copy of your photo identification. You can return the application to your county election office (https://absentee.vote411.org/vote/eoddomestic.htm) by mail, email, or by fax.\n\nIn-Person Advance Voting: You can vote an advance ballot in person at your county election office or a satellite voting location beginning up to 20 days before an election. In-person advance voting ends at noon the day before Election Day. Verify the dates and locations for advance voting with your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm). You must show a valid photo ID. If you do not provide an acceptable photo ID, or if your ID cannot be verified, you may be issued a provisional ballot.\n\nPermanent Advance Voting Status: A person with a permanent illness or disability may submit an application (https://sos.ks.gov/forms/Elections/AV2.pdf) to their county election office for permanent advance voting status. Once a voter obtains permanent status, the county election office automatically sends the voter an advance ballot every election without the voter having to renew the application each time.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ADVANCE BALLOT?",
+            "a": "The last day to request an advance ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)is 7 days before the election. You can return your advance ballot request form through the mail or in person.\n\nAll ballots must be received at the county election office by 7:00 p.m. on Election Day.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ADVANCE BALLOT FOR EACH ELECTION?",
+            "a": "Yes, you must apply for an absentee ballot (advance ballot) for each election. If you have a permanent illness or disability, you may submit an application (https://sos.ks.gov/forms/Elections/AV2.pdf) for permanent advance voting status.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ADVANCE BALLOT?",
+            "a": "All ballots must be received at the county election office by 7:00 p.m. on Election Day. You can sign up to track your advance ballot (https://myvoteinfo.voteks.org/voterview) on your Secretary of State website.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "WHEN ARE ADVANCE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Ballots are mailed to voters starting 20 days before the election until the 4 days before the election. Make sure you apply for an advance ballot before the deadline to receive your ballot in the mail.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY ADVANCE BALLOT?",
+            "a": "To vote by mail, follow these instructions:\n\n- Complete the application for an advance ballot (https://absentee.vote411.org/vote/VoterInformation.htm)\n- Provide either your driver's license number on the ballot application or a copy of your photo ID document with your application\n- Return the application to your county election office  (https://absentee.vote411.org/vote/eoddomestic.htm)before the registration deadline for the next election\n- The ballot will be mailed to you. Vote your ballot. Remember to sign the outside of the ballot envelope. Return your ballot to your county election office\n- All ballots must be received at the county election office by 7:00 p.m. on Election Day.\n- You may request assistance in applying for and casting an advance voting ballot",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY VOTED ADVANCE BALLOT?",
+            "a": "You have a few ways to return your advance ballot:\n\n- By mail: All ballots must be received at the county election office by 7:00 p.m. on Election Day.\n- In Person: Drop off your ballot during voting hours at your Advance Voting Location or Election Day Voting Site. Election workers will direct you to the ballot bag or box inside the voting site.\n- Secure Ballot Drop Box: Available in some counties beginning 20 days before an election. Drop boxes close at 7pm on Election Day.\n\nNote: In Kansas, delivering more than 10 advance mail ballots for others is a crime. Anyone carrying a voter’s ballot must complete an affidavit on the envelope, and violating this law can result in a felony.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ADVANCE BALLOT?",
+            "a": "You can sign up to track your advance ballot (https://myvoteinfo.voteks.org/voterview) on your Secretary of State website.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ADVANCE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "Those who requested an advance ballot but end up voting in person will be given a provisional ballot to ensure they only vote once. If you have any questions, you can find your local county clerk contact info here. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ADVANCE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an advance ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        }
+    ]
+}

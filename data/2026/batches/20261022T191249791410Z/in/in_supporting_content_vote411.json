@@ -1,0 +1,167 @@
+{
+    "state": "in",
+    "num_sections": 23,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "topic_introduction",
+            "content": "Absentee voting in Indiana is limited to those with certain eligibility requirements. The last day to request an absentee ballot (https://absentee.vote411.org/vote/VoterInformation.htm) is 12 days before the election. You can return your absentee ballot request form through the mail, in person at your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm), or online (https://indianavoters.in.gov/MVPHome/PrintDocuments).\n\nVoted ballots must be received by 6 pm (close of polls) on Election Day to be counted. You can sign up to track your absentee ballot (https://indianavoters.in.gov/) on your Secretary of State website.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "section_without_questions",
+            "content": "The deadline to cure (correct) your absentee/mail ballot is by noon 8 days after Election Day. Your county election board will notify you if there is a missing signature or a signature mismatch with your ballot and include instructions on how to file an affidavit to correct the issue.\n\nIf you cast a provisional ballot due to not having the proper photo ID, you may appear before the county clerk before noon, 10 days after the election with your valid photo ID and fill out a form to correct the issue.\n\nYou can check the status of your absentee/mail or provisional ballot by going to your state’s online tool (https://indianavoters.in.gov/) and clicking on the “visit my voter portal” button.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).\n\nFor information on state campaign contributions, please visit your state's resource (http://www.in.gov/sos/elections/2394.htm).",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Information on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp).",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Drop Boxes",
+            "kind": "section_without_questions",
+            "content": "No drop boxes available.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "section_without_questions",
+            "content": "Early voting for the November 3, 2026 General Election begins on October 6th and ends November 2nd.\n\nEarly Voting Starts: 28 days before Election Day\n\nEarly Voting Ends: Noon the day before Election Day\n\nIn-person absentee voting can be done at your board of elections (https://absentee.vote411.org/vote/eoddomestic.htm) beginning 28 days before Election Day and no later than 12:00 pm on the day before Election Day. Each county has its own schedule, so be sure to check what the dates and times are in your area.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "The next election date can be found here https://www.vote411.org/indiana.\n\nFor more information about your local elections please contact your local Board of Elections (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "Polling places are open from 6:00 am to 6:00 pm on Election Day.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Eligibility Requirements",
+            "kind": "section_without_questions",
+            "content": "WHO CAN REGISTER TO VOTE IN INDIANA?\n\nYou can register to vote in Indiana if:\n\n- You are a US citizen and a resident of Indiana\n- You will be at least 18 years old by the next general or municipal election\n- You have lived in your voting precinct for at least 30 days before the election\n- You are not currently in prison after being convicted of a crime\n\n WHO CAN VOTE IN INDIANA?\n\nTo can vote in Indiana if:\n\n- You are registered to vote\n- You are both a US citizen and a resident of Indiana\n- You will be at least 18 years of age on or before Election Day\n- You are not currently in prison after being convicted of a crime\n- You have lived in the precinct where you vote for at least 30 days prior to the election\n\nCAN I VOTE IF I HAVE A FELONY CONVICTION?\n\nIn Indiana, you only lose your right to vote if you are currently incarcerated for a misdemeanor or felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.\n\nCAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?\n\nYes. Voters in Indiana without a traditional address, such as those experiencing homelessness or living in motor homes, can still register and vote. When registering:\n\n- You must provide a location where you usually sleep in the county.\n- If that location doesn’t have a street address, you can describe it or draw a map and attach it to your voter registration form.\n- You must also provide a mailing address in the same county so election officials can send you important information. (A P.O. Box is acceptable for this purpose but cannot be used as your residence address.)\n\nYour county will review your application and send a registration card or notice to your mailing address.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "ID Needed for Voter Registration",
+            "kind": "section_without_questions",
+            "content": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN INDIANA?\n\nIt depends on how you register:\n\n- If you register online (https://indianavoters.in.gov/), you must provide a valid Indiana driver’s license or state-issued ID number.\n- If you register by mail or in person, you are not required to show ID when registering. However, if you are registering for the first time by mail, you may later be asked to provide a document that shows your name and current address.\n\nWHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN INDIANA?\n\nWhen registering online, you’ll need one of the following:\n\n- A valid Indiana driver’s license number\n- A valid Indiana state ID number\n\nIf you’re later required to provide additional documentation (for example, as a first-time voter who registered by mail), you can use:\n\n- An Indiana driver’s license or state ID with your current name and address\n- A current utility bill, bank statement, paycheck, government check, or government document showing your name and current address\n\nWHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER?\n\nYou can still register to vote in Indiana without showing ID if registering by mail or in person.\n\nIf registering online, you’ll need to provide your Indiana driver’s license or state ID number. Without it, the online system won’t allow you to register.\n\nIf you're a first-time voter who registered by mail and don’t have the required documentation when voting, you may be asked to vote with a provisional ballot and return with the required documents or information to have your vote counted.\n\nIf you don’t have an ID that meets Indiana’s voting requirements, you can get a free state ID card for voting purposes. To get this free ID at any Bureau of Motor Vehicles (BMV) branch, you’ll need to bring certain documents. For details on what to bring, visit the BMV website (https://www.in.gov/bmv/).\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Official Election Results",
+            "kind": "section_without_questions",
+            "content": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and it’s essential that they take the time to make sure every vote is counted.\n\nOfficial election results will be uploaded on Indiana’s Secretary of State website (https://www.in.gov/sos/elections/2400.htm) as they become available.\n\n  Official Results  (https://www.in.gov/sos/elections/2400.htm)",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Poll Worker Information",
+            "kind": "section_without_questions",
+            "content": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker toda (https://powerthepolls.org/lwv )y!\n\nIn order to be a poll worker in Indiana, you must:\n\n- Be registered to vote in Indiana\n- Be at least 18 years of age (or 16/17 if participating in Election Day Live)\n- Be entitled to compensation\n- Be a resident of the precinct for the 30 days prior to the election\n- Complete required training\n\nTo sign up, contact your local board of elections (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "If you have further questions on your polling place location, please contact your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "Indiana is a “partially open” primary state. This allows voters to cross party lines, however, they must first publicly declare their ballot choice. Ballot selection may also be regarded as a form of registration with the selected party.\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Provisional Voting",
+            "kind": "section_without_questions",
+            "content": "If you believe you are registered to vote in a precinct, but your name does not appear on the poll list, or if you have been challenged as not qualified to vote in your precinct, you will cast a provisional ballot.\n\nA provisional ballot allows you to vote on Election Day, however, your provisional ballot will be kept separate from the other ballots cast in that precinct. After Election Day, the county election board will decide if you were qualified to vote in that precinct, and if your ballot should be counted. You will be able to contact your county election board (https://absentee.vote411.org/vote/eoddomestic.htm) to find out if your ballot was counted, and if not, why not.\n\nProvisional ballots are counted 10 days after the election.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Provisions for Voters with Disabilities",
+            "kind": "section_without_questions",
+            "content": "The polling place for each precinct must meet accessibility standards under federal law.\n\nThe polling place must have facilities accessible to elderly voters and voters with disabilities so that these voters have the same opportunity for access, participation, privacy, and independence available to all voters. This includes:\n\n- Parking spaces marked and available for voters with disabilities with blue signage\n- An accessible path to the facility that an individual travels to reach the polls\n- Accessible entrances to the facility\n- The paths of travel within the facility to the space where the voting systems are located\n- The space in the facility where the voting systems are located\n\nIf you believe that the polling place for your precinct does not comply with accessibility requirements, contact your county election board  (https://absentee.vote411.org/vote/eoddomestic.htm)as soon as possible to inform them about this problem. It may be possible for the board to make temporary or permanent changes to the polling place to make it more accessible for all voters.\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Student Voting Process",
+            "kind": "section_without_questions",
+            "content": "What do I need to register to vote in Indiana?\n\nHere is what you need to know to register in Indiana:\n\nThere are three methods of voter registration in Indiana: register in-person, register online (http://www.indianavoters.com/), or mail a printable application (https://forms.in.gov/Download.aspx?id=9341) to your local county registration office.\n\nTo register, you must be a U.S. citizen, a resident of Indiana, and at least 18 years old on or before Election Day. You will also need to provide your Indiana driver’s license or state ID number. If you do not have one, you can provide the last four digits of your Social Security number.\n\nCan I register to vote using my college address in Indiana?\n\nYes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.\n\nWhat’s the deadline to register to vote in Indiana?\n\nIndiana requires voters to register at least 29 days before the election. Be sure to check the exact date each year.\n\nWhat form of ID do I need to vote in Indiana?\n\nYou must present a photo ID when voting in person in Indiana. The ID must:\n\n- Show your photo\n- Show your name (reasonably matching your voter registration)\n- Have an expiration date and be current or expired after the last general election\n- Be issued by the State of Indiana or the U.S. government\n\nAccepted IDs include:\n\n- Indiana driver’s license\n- Indiana state ID\n- US passport\n- Military ID\n\nStudent IDs are not accepted.\n\nI’m originally from another state. Can I still vote in my home state while studying in Indiana?\n\nYes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).\n\nDoes registering to vote affect my financial aid, parents’ taxes, and/or tuition in Indiana?\n\nRegistering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Time Off To Vote",
+            "kind": "section_without_questions",
+            "content": "Time off to vote is subject to the employer, there is no requirement for employers to grant time off to vote for employees.",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (https://indianavoters.in.gov/)",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Voter ID Requirements",
+            "kind": "section_without_questions",
+            "content": "DO I NEED TO SHOW ID WHEN I VOTE IN INDIANA?\n\nYes. Indiana law requires voters to show a government-issued photo ID when voting in person on Election Day. However, there are exceptions for some voters who are confined or voting absentee by mail.\n\nWHAT TYPES OF ID CAN I USE TO VOTE IN INDIANA?\n\nTo be accepted for voting, your ID must meet all of the following criteria:\n\n1. Display your photo\n2. Show a name that matches your voter registration record\n3. Include an expiration date that is current or expired after the most recent general election\n4. Be issued by the US government or the State of Indiana\n\nMost voters use one of the following:\n\n- Indiana driver's license\n- Indiana state-issued photo ID\n- U.S. Passport\n- Military ID\n- ID issued by the U.S. Department of Veterans Affairs\n- Indiana National Guard ID\n- A tribal ID from a federally recognized Native American tribe (no expiration date required)\n\nStudent IDs are not accepted.\n\nWHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?\n\nYou can still vote using a provisional ballot. After that, you must visit your county election board by noon 10 days after the election to present an acceptable photo ID or claim a legal exemption. If you don’t complete this step, your provisional ballot will not be counted.\n\nIf you don’t have an ID that meets these requirements, you can get a free Indiana state ID card for voting at any BMV branch. Learn more here. (https://in.gov/bmv)\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Voter Registration Deadlines",
+            "kind": "section_without_questions",
+            "content": "Online registration deadline: 29 days before Election Day\n\nRegister by mail deadline: Postmarked 29 days before Election Day\n\nIn-person registration deadline: 29 days before Election Day\n\nNot registered? Use our online registration tool (https://www.vote411.org/register) to complete your application!",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        },
+        {
+            "topic": "Voting Machines",
+            "kind": "section_without_questions",
+            "content": "The voting machine systems used in Indiana are optical scan and DRE.\n\nOptical Scan: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.\n\nDirect Recording Electronic (DRE): This is the newest kind of system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.\n\nThere are many variations of DREs because lots of companies are inventing new ones, and many cities, counties and states are trying them out. Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.\n\nSome of these devices will show all of the candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure). On other DREs, the screen is set up to show pages. On each screen or page, there will probably be one thing to vote on. For example, on one screen or page, you might vote for president. Then you might move to the next page to vote for senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for. Other devices have a key pad. Some have a keyboard, so you can write in the name of someone you want to vote for.\n\nYou let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource (https://www.eac.gov/testing_and_certification/voluntary_voting_system_guidelines.aspx) or through Verified Voting (https://www.verifiedvoting.org/verifier/#year/2016/).",
+            "s": "https://www.vote411.org/indiana",
+            "t": "2026-10-22T19:13:12+00:00"
+        }
+    ]
+}

@@ -1,0 +1,284 @@
+{
+    "state": "sc",
+    "num_questions": 46,
+    "num_answers": 46,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "Does South Carolina allow ballot curing?",
+            "a": "South Carolina does not have an absentee/mail ballot curing process. We recommend that you track the status of your ballot using your state’s online tool (https://vrems.scvotes.sc.gov/Voter/Login?PageMode=AbsenteeInfo) to make sure it has been received and accepted.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "How do I cure my provisional ballot?",
+            "a": "If you cast a provisional ballot due to not having the proper photo ID, you must appear before the county with your valid photo ID and fill out a form to correct the issue prior to certification of the election.\n\nProvisional Ballots are counted before the Friday after a General Election or the Thursday after a Primary or Runoff Election.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Can I check the status of my provisional ballot?",
+            "a": "You can check the status of your provisional ballot online (https://vrems.scvotes.sc.gov/Voter/Login).",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "What is a ballot drop box?",
+            "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Are drop boxes available in my state?",
+            "a": "No, drop boxes are not available in South Carolina.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Where can I find ballot drop box locations?",
+            "a": "While there are no official drop boxes, you can vote and return the ballot to your county voter registration office (https://www.scvotes.gov/how-register-absentee-voting) either by mail or personal delivery.\n\nPlace the ballot in the \"ballot here-in\" envelope and place the \"ballot here-in\" envelope in the return envelope.\n\nBe sure to sign the voter's oath and have your signature witnessed. Anyone can witness your signature. A notary is not necessary.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Can I vote before Election Day in South Carolina?",
+            "a": "Yes. In South Carolina, you can vote before Election Day by voting early in person during the early voting period or by voting by mail with an absentee ballot if you qualify.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Do I have to apply to vote early in South Carolina?",
+            "a": "If you plan to vote early in person, no application is required. If you qualify to vote by absentee ballot, you must submit an absentee ballot application. To learn more about absentee voting in South Carolina, click here. (https://www.vote411.org/south-carolina#absentee-ballot-process)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Where can I vote early in person in South Carolina?",
+            "a": "You can vote early in person at an early voting center (https://scvotes.gov/voters/early-voting/) in your county during the early voting period. Contact your county voter registration office (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "How can I receive an early ballot in the mail?",
+            "a": "Voters who qualify for absentee voting may request an absentee ballot by submitting an absentee ballot application to their county voter registration and elections office. To learn more about absentee voting in South Carolina, click here. (https://www.vote411.org/south-carolina#absentee-ballot-process)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Do I need an ID to vote early in South Carolina?",
+            "a": "Yes. If you vote early in person, you must show an acceptable photo ID. If you vote by absentee ballot, you must provide your driver's license number, state-issued ID number, or the last four digits of your Social Security number when applying for your ballot. Read more about voter ID requirements in South Carolina here. (https://www.vote411.org/south-carolina#voter-id-requirements)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Who is eligible to vote in South Carolina?",
+            "a": "To be eligible to vote in South Carolina you must be:\n\n- A United States citizen\n- At least 18 years old on or before the election\n- A resident of South Carolina\n- Not under a court order declaring you mentally incompetent\n- Not confined in any public prison resulting from a conviction of a crime",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Can I vote in South Carolina if I have a felony conviction?",
+            "a": "People who are incarcerated after a criminal conviction in South Carolina cannot vote. If you were convicted of a misdemeanor, you can register to vote as soon as you are released. If you were convicted of a felony or an election offense, you must complete your entire sentence, including incarceration, probation, and parole, before you can register to vote. People who are being held before trial retain their voting rights.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "How do I vote in South Carolina if I don’t have a permanent address?",
+            "a": "If you do not have a street address or a permanent residence, use the map provided on your voter registration form to show where you live or spend most of your time, with landmarks and road names. If you do not receive mail at your residential address, the mailing address on their registration form can be a P.O. box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for you.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Can students vote in South Carolina?",
+            "a": "Yes. Students may register and vote in South Carolina if they meet the state's voter eligibility requirements. Students can register using either their school address or their home address, but they may only be registered and vote in one location.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Do I need an ID to register to vote in South Carolina?",
+            "a": "If you are registering for the first time by mail, you must attach a copy of a document to the application.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "What types of ID are accepted for registration?",
+            "a": "You must provide a copy of either:\n\n- A current valid photo ID\n- Current utility bill\n- Current bank statement\n- Current paycheck\n- Other government document that shows your name and address in the county where you wish to vote.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "What if I don’t have an ID?",
+            "a": "If you do not provide this identification information by mail, you will be required to provide it when you vote.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "When are official election results available in South Carolina?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "Official election results will be uploaded to South Carolina’s Election Commission website (https://www.scvotes.gov/election-results) as they become available.\n\n  Official Results  (https://scvotes.gov/elections-statistics/election-results/)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "What does a poll worker do in South Carolina?",
+            "a": "Poll workers, called poll managers in South Carolina, help run polling places by checking in voters, issuing ballots, assisting voters, operating voting equipment, and helping open and close polling locations.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "What qualifications do I need to be a poll worker in South Carolina?",
+            "a": "- Poll Managers (except Poll Manager Assistants) must be registered to vote in South Carolina\n- Any 16 or 17-year-old can apply to be a Poll Manager Assistant\n- Clerks must be a registered voter in the county in which they are serving or an adjoining county\n- Poll Managers may not be a candidate or the spouse, parent, child, brother, or sister of a candidate at any polling place where the candidate’s name appears on the ballot",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Are poll workers paid in South Carolina?",
+            "a": "Yes. Poll managers are paid for their service. Pay varies by county and position. Check with your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "How do I apply to be a poll worker in South Carolina?",
+            "a": "You can apply by filling out an application form online (https://scvotes.gov/apply-to-be-a-poll-manager/) or contacting your county elections office. (https://scvotes.gov/contact/county-voter-registration-election-offices/)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Does South Carolina offer provisional voting?",
+            "a": "Yes, South Carolina offers provisional voting if you meet specific conditions.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "How do I vote a provisional ballot?",
+            "a": "You can cast a provisional ballot if:\n\n- A poll manager or any voter has reason to believe that you might be ineligible to vote.\n- Your name does not appear on the voter registration rolls.\n- You do not have your proper photo ID.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "How do I cure my provisional ballot?",
+            "a": "You will be given written instructions on the time and place of the provisional ballot hearings and, if the voter registration office can determine you were registered, the provisional ballot will be counted.\n\nProvisional ballots are counted before the Friday after a General Election or the Thursday after a Primary or Runoff Election.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "How do I check the status of my provisional ballot?",
+            "a": "You can check the status of your provisional ballot online (https://vrems.scvotes.sc.gov/Voter/Login).",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "What voting assistance is available for voters with disabilities?",
+            "a": "The Help America Vote Act requires that election authorities have voting equipment for voters with disabilities to vote privately and independently, and South Carolina is no exception.\n\nAssistance in marking a ballot is allowed only if you are blind, illiterate or physically handicapped.\n\nIf you are entitled to receive assistance you may choose anyone to assist except your employer, an agent of your employer, or an officer or agent of your union.\n\nIf you, because of physical handicap or age (65 or older,) cannot enter the polling place in which you are registered to vote, or are unable to stand in line to vote, you may vote outside that polling place in the closest available parking area utilizing the vehicle in which you have driven or have been driven to the polls.\n\nEach precinct offers an accessible voting machine featuring an audio ballot, headphones and braille.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "How do I request accommodation or report accessibility issues?",
+            "a": "If you have any questions about receiving help in voting, please ask the clerk or inspector at the polling place.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Can I vote by mail because of my disability?",
+            "a": "Vote-by-mail (absentee voting) is available in South Carolina if you sick or physically disabled. You can find more about how to vote by mail here. (https://www.vote411.org/south-carolina#absentee-ballot-process)\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Does South Carolina require employers to give time off to vote?",
+            "a": "No. South Carolina law does not require employers to provide time off to vote. If you have questions about your work schedule, talk to your employer and explore your voting options ahead of Election Day.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Do I need ID to vote in South Carolina?",
+            "a": "Yes. South Carolina voters must provide photo identification when voting in person. Voters casting an absentee ballot must provide identifying information when applying for and returning their ballot.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "What types of photo ID can I use to vote in-person in South Carolina?",
+            "a": "When voting in person, you will be asked to show one of the following current and valid Photo IDs:\n\n- SC Driver's License\n- Includes standard license and REAL ID\n- SC Department of Motor Vehicles ID Card\n- Includes standard ID card and REAL ID\n- Includes SC Concealed Weapons Permit\n- SC Voter Registration Card with Photo\n- Federal Military ID\n- Includes all Department of Defense Photo IDs and Veterans Affairs Benefits Card\n- US Passport\n- Includes US Passport ID Card",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "What types of ID can I use to vote absentee in South Carolina?",
+            "a": "When applying for an absentee ballot, you must provide your South Carolina driver's license number, state-issued ID number, or the last four digits of your Social Security number.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "What if I don’t have an acceptable ID?",
+            "a": "If you do not have one of the above photo IDs, you can get one for free by:\n\n- Registered voters can get a voter registration card with a photo from their county voter registration and elections office by providing their date of birth and the last four digits of their Social Security number.\n- Get a DMV ID card at a local DMV office. To see what documentation is required click here. (https://www.scvotes.org/node/235)\n\nIf you do not have a photo ID on Election Day you may be able to vote a provisional ballot after showing your non-photo voter registration card. You must have a reasonable impediment to obtaining a photo ID in order to vote the provisional ballot. Reasonable impediments include:\n\n- Religious objection to being photographed\n- Disability or illness\n- Work schedule\n- Lack of transportation\n- Lack of birth certificate\n- Family responsibilities\n- Any other obstacle you find reasonable\n\nTo vote under the reasonable impediment exception:\n\n- Present your current, non-photo registration card at the polling place\n- Sign an affidavit stating why you cannot obtain a photo ID\n- Cast a provisional ballot that will be counted unless the county election commission has reason to believe your affidavit is false.\n\nIf you do not have a photo ID and do not have a reasonable impediment to obtaining one, or you forgot to bring it with you to the polls, you may still vote a provisional ballot. However, for your vote to be counted you must provide one of the photo IDs to the county election commission prior to certification of the election (usually the Thursday or Friday after the election).",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Can I use my student ID to vote in South Carolina?",
+            "a": "No. Student IDs are not accepted as voter identification in South Carolina.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "What is the deadline to register to vote in South Carolina?",
+            "a": "- Online registration deadline: 30 days before Election Day\n- Register by mail deadline: Postmarked 30 days before Election Day\n- In-person registration deadline: 30 days before Election Day",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "How can I register to vote in South Carolina?",
+            "a": "- Register online: (https://www.vote411.org/register) Requires a SC Driver’s License or DMV ID. If you have moved, you must first update your residence address with the DMV (https://dmv.sc.gov/Driver-Services/Drivers-License/Address-or-Name-Change).\n- By mail: (https://scvotes.gov/wp-content/uploads/2023/08/SEC-FRM-1301-202305-VR-by-Mail-web-1.pdf) Download the form, complete it, and return it to your county board of voter registration by mail, fax, or email.\n- In person at your county voter registration office (https://scvotes.gov/contact/county-voter-registration-election-offices/).",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "How can I check my voter registration status?",
+            "a": "You can verify your voter registration status using South Carolina’s voter information tool. (https://vrems.scvotes.sc.gov/Voter/Login?PageMode=VoterInformation)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Does South Carolina have online voter registration?",
+            "a": "Yes! Use our online registration tool (https://www.vote411.org/register) to complete your application",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Is same-day voter registration available in South Carolina?",
+            "a": "No, South Carolina does not have same-day voter registration.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Can I pre-register to vote?",
+            "a": "Yes, you can pre-register at age 17 if you’ll be 18 years old by Election Day.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "Who is eligible to register in South Carolina?",
+            "a": "Check if you’re eligible to register here (https://www.vote411.org/south-carolina#eligibility-requirements).",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        },
+        {
+            "q": "What types of voting machines does South Carolina use?",
+            "a": "The voting system used in South Carolina is Paper-Based Voting System.\n\nWhat is Paper-Based Voting System?\n\nAfter signing in at your polling place, voters are given a blank ballot card to insert into the voting machine. Voters then make their selections by touching the screen on the voting machine. After completing the last page, hit the \"next\" button on the machine to review your selections. You can change a selection at this time, or move forward with the process by clicking \"next.\"\n\nOnce you are done making your selections, print your ballot by pressing the PRINT CARD icon found at the bottom of the voting machine screen. Review the printed ballot card - if you need to make a change to the card you can contact a poll manager to ask for a replacement. When you're ready to cast your ballot, take the ballot card to the scanner and insert it face down on the green arrow. The scanner counts your vote and places the paper ballot into a locked ballot box.\n\nFor more information, please contact the South Carolina Election Commission (https://scvotes.gov/voters/how-to-vote/).\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2026-10-22T19:13:53+00:00"
+        }
+    ]
+}

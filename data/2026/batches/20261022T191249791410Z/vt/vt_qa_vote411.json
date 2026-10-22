@@ -1,0 +1,80 @@
+{
+    "state": "vt",
+    "num_questions": 12,
+    "num_answers": 12,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "In Vermont, all voters can apply to vote absentee.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "WILL MY BALLOT AUTOMATICALLY BE MAILED TO ME?",
+            "a": "No. Ballots will be mailed to all registered Vermont voters upon request for most elections, such as the Annual Town Meeting, Presidential Primary, and Statewide Primary.\n\nBallots are automatically mailed out to all registered voters for General Elections only, which are held every November of even numbered years. This was a change in Vermont election law that passed in 2021.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "You can request an absentee ballot through phone, fax, email, mail, in person or online. (https://mvp.vermont.gov/)",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "The last day to request an absentee ballot is 1 day before the election. All requests must be submitted by the day before the election before the Town Clerk’s office closes for the day.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT EACH YEAR?",
+            "a": "Yes, the absentee ballot request form is good only for that calendar year. Per state law, the clerk is unable to keep an absentee list from year to year. Each year a new request must be made for any or all elections for that current calendar year.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING A VOTED ABSENTEE BALLOT?",
+            "a": "Your voted ballot must be received by your town clerk by the close of the polls on Election Day.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS AVAILABLE TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Absentee ballots for a presidential primary (March), a state primary (August), or general (November) elections are available 45 days prior to the election.\n\nIf your city or town is having a special election in August or November, the absentee ballots may not be ready until somewhere between 20 to 30 days prior to the election.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "HOW CAN I VOTE AN ABSENTEE BALLOT?",
+            "a": "There are several ways for you to vote an absentee ballot in Vermont:\n\n- Vote at Home on Election Day. If you are sick or disabled a ballot can be delivered to your home on election day. You must request an absentee ballot before 5pm on the day before the election. On election day, two justices of the peace will deliver a ballot to you and then will bring the ballot back to the polling place so it can be counted.\n- Vote by Mail. You can request that the town clerk mail you an early voter absentee ballot. Once voted, you can return the ballot to the clerk in the envelope included with the ballot. The clerk must receive the ballot by the close of the polls on Election Day to be counted. You can request a ballot at any time before an election and clerks will mail absentee ballots within the 45 days before the election.\n- Hand Delivered Ballots. You can pick up a ballot at the town clerk's office at any time beginning 45 days before the general or primary election, and hand-deliver the voted ballot in a sealed envelope to the clerk on or before Election Day. The ballot can be returned to the clerk or delivered to the polling place by the voter or any person the voter authorizes to return the ballot for them. However, you can only pick up your own ballot from the clerk's office.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY VOTED ABSENTEE BALLOT?",
+            "a": "You have multiple options to return your ballot: you can mail it, deposit it in a secure drop box if offered in your area, or return your ballot in person at your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "You can sign up to track your advance ballot (http://vote.vermont.gov/) on your Secretary of State website.",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "If you requested an absentee ballot but want to vote in person, you must surrender your absentee ballots before receiving a regular ballot or sign an affidavit that you haven’t already voted. Do not mail a ballot and vote in person. For specifics, find your local county clerk contact info here (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)",
+            "s": "https://www.vote411.org/vermont",
+            "t": "2026-10-22T19:14:04+00:00"
+        }
+    ]
+}

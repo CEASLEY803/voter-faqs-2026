@@ -1,0 +1,62 @@
+{
+    "state": "mt",
+    "num_questions": 9,
+    "num_answers": 9,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "In Montana, all registered voters are eligible to vote absentee.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "You can download the form online (https://absentee.vote411.org/vote/VoterInformation.htm), pick up an application at your local election office or the secretary of state’s office, or call either election office and ask to have an application mailed to you.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "The deadline to request an absentee ballot (https://absentee.vote411.org/vote/VoterInformation.htm) is the day before the election by noon. You can drop off your application in-person or mail it to the county election office with enough time before the election for processing and mailing the ballot to you.\n\nA physical signature and your date of birth are required on the absentee application. If you plan to send the application to your local election office electronically, you should complete & print the online application, sign, scan, and email it attached as a PDF.\n\nOnce you have submitted your application, your absentee ballot will be mailed to you, or if closer to the election, given to you unless you indicate on the application that you have designated someone to pick it up for you",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Absentee ballots for federal and state elections are mailed to eligible voters starting 25 days before Election Day.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
+            "a": "After marking your absentee ballot, return it in the envelope provided. Be sure to sign the affirmation and provide your birth year on the return envelope before sending it back or dropping it off. Carefully read the instructions included with the packet.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT IN PERSON?",
+            "a": "Once you have marked your ballot, you can return it to your county election office  (https://absentee.vote411.org/vote/eoddomestic.htm)before the polls close on Election Day in the secrecy envelope provided.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY ABSENTEE BALLOT?",
+            "a": "You can track your absentee ballot (https://prodvoterportal.mt.gov/WhereToVote.aspx) on the Secretary of State website.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED A BALLOT BY MAIL BUT WANT TO VOTE IN PERSON?",
+            "a": "Most counties allow you to vote in person even if you requested an absentee ballot as long as you don’t submit your absentee ballot. Do not mail a ballot and vote in person. Please reach out to your local election office (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request a mail ballot from the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/overseas-voter-services)\n\nRequest Your Ballot Button (https://absentee.vote411.org/vote/VoterInformation.htm?_ga=2.14087934.891015667.1714358523-1475019010.1654737627)\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/montana",
+            "t": "2026-10-22T19:13:30+00:00"
+        }
+    ]
+}

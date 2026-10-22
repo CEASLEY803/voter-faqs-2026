@@ -1,0 +1,320 @@
+{
+    "state": "wi",
+    "num_questions": 52,
+    "num_answers": 52,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO CAN REQUEST AN ABSENTEE BALLOT?",
+            "a": "Any registered Wisconsin voter is eligible to request an absentee ballot.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "You can request an absentee ballot online, by mail, or in person.\n\n- Online. You may request an absentee ballot online by visiting myvote.wi.gov (http://www.myvote.wi.gov/) and clicking “Vote Absentee By Mail.” This request must be made no later than 5pm on the Thursday before the election.\n- By Mail. Download the application (http://elections.wi.gov/publications/brochures/absentee-voting), complete the form, and mail it to your municipal clerk's office. The application must be received no later than 5pm on the Thursday before the election.\n- In Person. You may vote early in person – at the clerk’s office or another site designated by the clerk. Dates and hours for early voting may vary, though it can begin no earlier than 14 days before the election and end no later than the Sunday before the election. Please contact your municipal clerk (https://absentee.vote411.org/vote/eoddomestic.htm) for absentee voting hours.\n\nIf you have not previously provided a copy of your photo ID, your photo ID must accompany your application. Military and permanent overseas voters do not need to provide a photo ID with their request.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT BY MAIL?",
+            "a": "The last day to request an absentee ballot is 5 days before the election.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT BY MAIL?",
+            "a": "Your marked absentee ballot must be delivered no later than 8pm on Election Day. The US Postal Service recommends you mail your absentee ballot one week before Election Day to ensure it arrives in time. You may also hand-deliver your absentee ballot to your polling place or clerk’s office by 8pm on Election Day.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Absentee ballots are mailed 3 weeks before local (spring) elections and 47 days before national (fall) elections.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY MAIL BALLOT?",
+            "a": "Before you begin, line up a witness who can verify that you filled out your own ballot. Choose an adult US citizen who is not a candidate in the upcoming election.\n\nNext, fill out your ballot carefully with a blue or black pen. Once your ballot is complete, place it in the certified envelope. Then seal, sign, and date the certificate envelope, and make sure your witness adds their address and signature.\n\nIf you make a mistake or change your mind about a selection, contact your municipal clerk's office (https://absentee.vote411.org/vote/eoddomestic.htm) for help.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT?",
+            "a": "You can return your absentee ballot by mail or in-person at your municipal clerk’s office or polling site. It must be received by 8pm on Election Day. Here are more details:\n\n- Mail it back using the pre-addressed, postage paid envelope included with your ballot packet. USPS recommends mailing your ballot back at least 7 days before Election Day. Once your ballot is in the mail, you may not vote in person at the polls.\n- Go to your clerk's office to drop off your ballot or vote in-person absentee. Your clerk might require an appointment or offer other in-person absentee voting locations, like your local library.\n- Take it to your assigned polling place or absentee counting location on Election Day.\n- Designate another person to deliver it for you. If it is too close to the election to mail your completed ballot, and you are not able to deliver your ballot because of a disability, you have the right to have someone else deliver your completed ballot.\n\nAny voter who requires assistance with mailing or delivering their absentee ballot to the municipal clerk, or with any other part of the voting process, because of a disability must be permitted to receive such assistance. Voters are entitled to receive assistance from a person of the voter’s choice, other than the voter’s employer or agent of that employer or officer or agent of the voter’s union.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "HOW CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "You can sign up to track your absentee ballot on the My Vote Wisconsin website (https://myvote.wi.gov/en-us/My-Voter-Info).",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "Voters who requested an absentee ballot, but decide they want to vote in person may do so. Do not mail a ballot and vote in person. Registered voters may still vote early at their municipal clerk’s office OR in person at the polls on Election Day. Do not give your unused ballot to someone else.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "HOW DO I SIGN UP TO RECEIVE PERMANENT ABSENTEE BALLOT?",
+            "a": "Voters who are indefinitely confined, meaning they have a difficult time getting to the polls due to age, illness, infirmity, or disability, may request that a ballot be automatically sent to them for each election. Indefinitely confined voters do not need to provide a photo ID with their absentee ballot request. Voters on the permanent absentee ballot list must vote in each election or they will be dropped from the absentee ballot rolls.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "WHAT IF I AM IN THE HOSPITAL?",
+            "a": "Each hospitalized voter can request a ballot (in writing), and the voter may appoint an agent to pick up the ballot from the hospitalized voter’s clerk’s office.If you know you will be in the hospital, request a regular absentee ballot in advance.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request a mail ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (http://www.myvote.wi.gov)",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "Does Wisconsin allow ballot curing?",
+            "a": "No, Wisconsin does not have an absentee/mail ballot curing process.\n\nWe recommend that you track the status of your ballot using your state’s online tool (https://myvote.wi.gov/en-us/Track-My-Ballot) before Election Day to make sure it has been received and accepted.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "Can I cure my provisional ballot?",
+            "a": "If you voted a provisional ballot, your vote will not be counted unless you provide the required information to the poll workers or to the municipal clerk by 8pm on Election Day.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "What is a ballot drop box?",
+            "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "Are drop boxes available in my state?",
+            "a": "Municipal clerks can choose to provide secure drop boxes for returning absentee ballots. Please get in touch with your municipal clerk (https://myvote.wi.gov/en-us/My-Municipal-Clerk) to find out more about their availability in your area.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "Can I track my ballot?",
+            "a": "Yes! You can track the status of your ballot on the My Vote Wisconsin website (https://myvote.wi.gov/en-us/Track-My-Ballot).",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "Can I vote before Election Day in Wisconsin?",
+            "a": "Yes. In Wisconsin, you can vote before Election Day by absentee ballot, either by mail or in person at your municipal clerk's office or another designated location.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "Do I have to apply to vote early in Wisconsin?",
+            "a": "Yes. To vote before Election Day in Wisconsin, you must request an absentee ballot, whether you vote by mail or in person. No excuse is required. Learn more about requesting your absentee ballot here. (https://www.vote411.org/wisconsin#absentee-ballot-process)",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "Where can I vote early in person in Wisconsin?",
+            "a": "Your in-person absentee voting locations are based on where you live and what your municipal clerk’s office offers. You can search for your in-person absentee options here (https://myvote.wi.gov/en-us/Vote-Absentee-In-Person).",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "How can I receive an early ballot in the mail?",
+            "a": "Any registered voter in Wisconsin can vote by mail by requesting an absentee ballot. No excuse is required. Learn more about requesting your absentee ballot here. (https://www.vote411.org/wisconsin#absentee-ballot-process)",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "Do I need an ID to vote early in Wisconsin?",
+            "a": "Yes. Wisconsin requires voters to provide an acceptable photo ID when requesting an absentee ballot. If you vote in person through in-person absentee voting, you must also show an acceptable photo ID before receiving your ballot. Read more about voter ID requirements in Wisconsin here. (https://www.vote411.org/wisconsin#voter-id-requirements)",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "WHO CAN REGISTER TO VOTE IN WISCONSIN?",
+            "a": "- You are a US citizen\n- You will be at least 18 years old by Election Day\n- You have lived in Wisconsin for at least 28 consecutive days before the election\n- You are not currently serving any part of a felony sentence (this includes probation, parole, or supervision)\n- You have not been judged by a court as incapable of understanding the act of voting\n- You have not placed or participated in any bet or wager on the outcome of the election",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "WHO CAN VOTE IN WISCONSIN?",
+            "a": "To vote in Wisconsin, you must:\n\n- Be registered to vote (you can also register on Election Day)\n- Be a US citizen\n- Be at least 18 years old on or before Election Day\n- Be a Wisconsin resident for at least 28 days prior to the election\n- Not be currently serving a felony sentence\n- Have not placed a bet or wager on the outcome of the election\n- Have not been adjudicated incompetent to vote (only a judge can make such a ruling)",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "CAN I VOTE IN WISCONSIN IF I HAVE A FELONY CONVICTION?",
+            "a": "In Wisconsin, you cannot vote if you have been convicted of a felony and are currently serving any part of your sentence (including extended supervision, probation, or parole). After completing your sentence and no longer being supervised by the Department of Corrections, your voting rights are restored, and you must re-register to vote. If you are in jail serving a misdemeanor sentence or awaiting trial, you are still eligible to vote, typically through an absentee ballot.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "CAN I REGISTER AND VOTE IN WISCONSIN IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "a": "When registering to vote, individuals experiencing homelessness in Wisconsin can use a letter from a shelter or another organization that serves unhoused individuals as proof of residence. For more information and a sample letter from the Wisconsin Elections Commission regarding voting for unhoused persons, click here (https://elections.wi.gov/resources/quick-reference-topics/enabling-qualified-homeless-individuals-vote).",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN WISCONSIN?",
+            "a": "Yes. When registering to vote in Wisconsin, you must provide proof of residence that shows your name and current address. This applies whether you register online, by mail, in-person before the election, or on Election Day.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN WISCONSIN?",
+            "a": "Acceptable documents must include your complete name, current residential address (including a numbered street address), and the name of a municipality. Examples include:\n\n- Current and valid Wisconsin driver's license or ID card\n- Official identification or license issued by a Wisconsin governmental body\n- Employer-issued ID card with a photo\n- Real estate tax bill or receipt for the current or previous year\n- Residential lease effective on the day of registration (not for first-time voters registering by mail)\n- University, college, or technical institute fee statement from the last 9 months with a student ID\n- Utility bill (gas, electric, or telephone) received within the past 90 days\n- Bank or credit card statement\n- Paycheck or paystub\n- Document issued by a unit of government\n- Intake document from a residential care facility like a nursing home or assisted living\n- Letter on social service agency letterhead identifying a homeless voter and describing their residence for voting purposes\n\nFor more examples of acceptable proof of residence, visit this link. (https://myvote.wi.gov/DesktopModules/GabMyVoteModules/api/document/getproofofresidencedoc)",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "HOW DO I PRESENT MY PROOF OF RESIDENCE DOCUMENT?",
+            "a": "It can be a hard copy, paper document, or electronic document on your smartphone, tablet, or computer.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER IN WISCONSIN?",
+            "a": "Your registration just won’t be finalized until you provide an acceptable document. You can bring your proof of residence to your clerk’s office before the registration deadline, or simply bring it with you when you register and vote on Election Day. If you’re not sure whether your document will qualify, please contact your local elections official. (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430)\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "When are official election results available in Wisconsin?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "Find election results on Wisconsin’s Elections Commission website. (https://elections.wi.gov/elections/election-results)",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "About Election Results in Wisconsin",
+            "a": "Wisconsin uses technology, highly-trained people, and practical safeguards to protect local election integrity (https://elections.wi.gov/elections/election-security-integrity) and ensure that every valid ballot that is cast is counted accurately — including absentee ballots.\n\nOfficial election results are certified by county boards of canvassers, comprised of the county clerk and two members of the public from opposite political parties.\n\n  Official Results  (https://elections.wi.gov/elections/election-results)",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "What does a poll worker do in Wisconsin?",
+            "a": "Poll workers help run elections by checking in voters, helping people register to vote, monitoring voting equipment, issuing ballots, and assisting voters throughout the voting process.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "What qualifications do I need to be a poll worker in Wisconsin?",
+            "a": "To serve as a poll worker in Wisconsin, you must:\n\n- Be at least 18 years old\n- Live in your election district for at least 28 days before the election\n- Complete required training\n\nWisconsin also allows students to serve as poll workers if they:\n\n- Are at least 16 years old\n- Are enrolled in high school\n- Have a GPA of at least 3.0\n- Have written permission from a parent or guardian and their school principal",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "Are poll workers paid in Wisconsin?",
+            "a": "Yes. Payment amounts vary by county and may depend on the position. Contact your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "How do I apply to be a poll worker in Wisconsin?",
+            "a": "You can apply online (https://myvote.wi.gov/en-us/Become-PollWorker) or contact your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm) for information on becoming a poll worker.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "Does Wisconsin offer provisional voting?",
+            "a": "Yes, Wisconsin offers provisional voting if you meet specific conditions.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "How do I vote a provisional ballot?",
+            "a": "You may vote a provisional ballot if:\n\n- You are eligible to vote and have a current and valid Wisconsin driver's license or identification card, but you are unable or unwilling to list the number when you register.\n- You are a registered voter, and you are unable or unwilling to provide proof of identification.\n\nProvisional ballots are not issued if you went to the wrong polling place or if you attempted to register in person at the polling place but didn’t provide proof of residence.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "How do I cure my provisional ballot?",
+            "a": "Your provisional ballot will not be counted unless you provide the required information to the poll worker by 8pm on Election Day or to the municipal clerk by 4pm on the Friday following the election.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "Does Wisconsin require employers to give time off to vote?",
+            "a": "Yes. Wisconsin employers must provide eligible employees up to three consecutive hours off work to vote on Election Day if the employee requests the time off before Election Day. Employers may decide when the time off is taken, and the leave may be unpaid.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "DO I NEED TO SHOW ID WHEN I VOTE IN WISCONSIN?",
+            "a": "Yes. Wisconsin law requires all voters to present a photo ID for their vote to count. Your photo ID does not need to include your current address, but it must show your name and photo, and (in most cases) be unexpired. Poll workers will verify that the ID matches your name and image and that the ID is valid.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO VOTE IN WISCONSIN?",
+            "a": "You can use any of the following forms of photo ID to vote in Wisconsin:\n\n- Wisconsin driver's license*\n- Wisconsin Department of Transportation-issued ID card*\n- US passport*\n- Military ID card*\n- Certificate of naturalization issued within the last 2 years\n- Unexpired Wisconsin driver's license or state ID receipt\n- Tribal ID card issued by a federally recognized Native American tribe in Wisconsin (can be expired)\n- Veterans Affairs ID card (unexpired)\n- University or college photo ID issued by a Wisconsin school (must show your name, photo, signature, issuance date, and expiration date within 2 years). If expired, it must be shown with proof of current enrollment.\n\n*Driver's licenses, state IDs, and passports must be unexpired or expired after the most recent general election.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN WISCONSIN?",
+            "a": "If you don’t have an acceptable photo ID on Election Day, you can still vote by casting a provisional ballot. For your vote to count, you must bring an acceptable photo ID to your municipal clerk’s office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430) by 4 pm on the Friday after the election.\n\nFree photo ID cards available: If you need a photo ID card in order to vote, the DMV can help you get a free ID card. For more information on the process, please contact the DMV (https://elections.wi.gov/node/1917).\n\nIf you wish to obtain an ID for voting purposes, but have spiritual beliefs which prevent you from being photographed, you can receive a State ID card without a photo at any DMV office.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "What is the deadline to register to vote in Wisconsin?",
+            "a": "- Online registration deadline: 20 days before Election Day\n- Register by mail deadline: Postmarked 20 days before Election Day\n- In-person registration deadline: Election Day",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "How can I register to vote in Wisconsin?",
+            "a": "- Register online (https://www.vote411.org/register)\n- By mail (https://elections.wi.gov/sites/default/files/legacy/2020-06/El-131%2520Voter%2520Registration%2520App_Fillable-%2520%2528REV%25202020-06%2529_0.pdf)\n- In person at the municipal clerk’s office: You can register at your municipal clerk’s office until the Friday before the election at 5pm or close of business, whichever is later.\n- In person on Election Day: You can register at the polls on Election Day.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "How can I check my voter registration status?",
+            "a": "You can verify your voter registration status using Wisconsin’s voter information tool. (https://myvote.wi.gov/My-Voter-Info)",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "Does Wisconsin have online voter registration?",
+            "a": "Yes! Use our online registration tool (https://www.vote411.org/register) to complete your application",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "Is same-day voter registration available in Wisconsin?",
+            "a": "Yes, Wisconsin has same-day voter registration.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "Can I pre-register to vote?",
+            "a": "Yes, you can pre-register to vote in Wisconsin if you will 18 years old on or before the next election.",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        },
+        {
+            "q": "Who is eligible to register in Wisconsin?",
+            "a": "Check if you’re eligible to register here (https://www.vote411.org/wisconsin#eligibility-requirements).",
+            "s": "https://www.vote411.org/wisconsin",
+            "t": "2026-10-22T19:14:07+00:00"
+        }
+    ]
+}

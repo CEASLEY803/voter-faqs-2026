@@ -1,0 +1,419 @@
+{
+    "requested_states": [
+        "ak",
+        "al",
+        "ar",
+        "az",
+        "ca",
+        "co",
+        "ct",
+        "de",
+        "fl",
+        "ga",
+        "hi",
+        "ia",
+        "id",
+        "il",
+        "in",
+        "ks",
+        "ky",
+        "la",
+        "ma",
+        "md",
+        "me",
+        "mi",
+        "mn",
+        "mo",
+        "ms",
+        "mt",
+        "nc",
+        "nd",
+        "ne",
+        "nh",
+        "nj",
+        "nm",
+        "nv",
+        "ny",
+        "oh",
+        "ok",
+        "or",
+        "pa",
+        "ri",
+        "sc",
+        "sd",
+        "tn",
+        "tx",
+        "ut",
+        "va",
+        "vt",
+        "wa",
+        "wi",
+        "wv",
+        "wy"
+    ],
+    "coverage": "Vote411 only",
+    "status": "completed_with_failures",
+    "results": {
+        "ak": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/ak",
+            "counts": {
+                "vote411": 28,
+                "supporting_sections": 19
+            }
+        },
+        "al": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/al",
+            "counts": {
+                "vote411": 20,
+                "supporting_sections": 16
+            }
+        },
+        "ar": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Entry 14 has an empty a.",
+            "directory": "data/2026/batches/20261022T191249791410Z/ar"
+        },
+        "az": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Entry 36 has an empty a.",
+            "directory": "data/2026/batches/20261022T191249791410Z/az"
+        },
+        "ca": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/ca",
+            "counts": {
+                "vote411": 51,
+                "supporting_sections": 14
+            }
+        },
+        "co": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/co",
+            "counts": {
+                "vote411": 14,
+                "supporting_sections": 20
+            }
+        },
+        "ct": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/ct",
+            "counts": {
+                "vote411": 28,
+                "supporting_sections": 19
+            }
+        },
+        "de": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Entry 6 has an empty a.",
+            "directory": "data/2026/batches/20261022T191249791410Z/de"
+        },
+        "fl": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/fl",
+            "counts": {
+                "vote411": 59,
+                "supporting_sections": 14
+            }
+        },
+        "ga": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/ga",
+            "counts": {
+                "vote411": 60,
+                "supporting_sections": 11
+            }
+        },
+        "hi": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Empty dataset or incorrect counts.",
+            "directory": "data/2026/batches/20261022T191249791410Z/hi"
+        },
+        "ia": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Empty dataset or incorrect counts.",
+            "directory": "data/2026/batches/20261022T191249791410Z/ia"
+        },
+        "id": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/id",
+            "counts": {
+                "vote411": 11,
+                "supporting_sections": 23
+            }
+        },
+        "il": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/il",
+            "counts": {
+                "vote411": 50,
+                "supporting_sections": 15
+            }
+        },
+        "in": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/in",
+            "counts": {
+                "vote411": 12,
+                "supporting_sections": 23
+            }
+        },
+        "ks": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/ks",
+            "counts": {
+                "vote411": 11,
+                "supporting_sections": 22
+            }
+        },
+        "ky": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Entry 14 has an empty a.",
+            "directory": "data/2026/batches/20261022T191249791410Z/ky"
+        },
+        "la": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/la",
+            "counts": {
+                "vote411": 9,
+                "supporting_sections": 22
+            }
+        },
+        "ma": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Empty dataset or incorrect counts.",
+            "directory": "data/2026/batches/20261022T191249791410Z/ma"
+        },
+        "md": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Empty dataset or incorrect counts.",
+            "directory": "data/2026/batches/20261022T191249791410Z/md"
+        },
+        "me": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/me",
+            "counts": {
+                "vote411": 53,
+                "supporting_sections": 15
+            }
+        },
+        "mi": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/mi",
+            "counts": {
+                "vote411": 49,
+                "supporting_sections": 12
+            }
+        },
+        "mn": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Entry 46 has an empty a.",
+            "directory": "data/2026/batches/20261022T191249791410Z/mn"
+        },
+        "mo": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Empty dataset or incorrect counts.",
+            "directory": "data/2026/batches/20261022T191249791410Z/mo"
+        },
+        "ms": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Empty dataset or incorrect counts.",
+            "directory": "data/2026/batches/20261022T191249791410Z/ms"
+        },
+        "mt": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/mt",
+            "counts": {
+                "vote411": 9,
+                "supporting_sections": 24
+            }
+        },
+        "nc": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/nc",
+            "counts": {
+                "vote411": 59,
+                "supporting_sections": 14
+            }
+        },
+        "nd": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/nd",
+            "counts": {
+                "vote411": 11,
+                "supporting_sections": 22
+            }
+        },
+        "ne": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/ne",
+            "counts": {
+                "vote411": 1,
+                "supporting_sections": 21
+            }
+        },
+        "nh": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/nh",
+            "counts": {
+                "vote411": 41,
+                "supporting_sections": 10
+            }
+        },
+        "nj": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/nj",
+            "counts": {
+                "vote411": 11,
+                "supporting_sections": 23
+            }
+        },
+        "nm": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/nm",
+            "counts": {
+                "vote411": 54,
+                "supporting_sections": 15
+            }
+        },
+        "nv": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/nv",
+            "counts": {
+                "vote411": 58,
+                "supporting_sections": 12
+            }
+        },
+        "ny": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/ny",
+            "counts": {
+                "vote411": 57,
+                "supporting_sections": 16
+            }
+        },
+        "oh": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/oh",
+            "counts": {
+                "vote411": 60,
+                "supporting_sections": 12
+            }
+        },
+        "ok": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Empty dataset or incorrect counts.",
+            "directory": "data/2026/batches/20261022T191249791410Z/ok"
+        },
+        "or": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Empty dataset or incorrect counts.",
+            "directory": "data/2026/batches/20261022T191249791410Z/or"
+        },
+        "pa": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Entry 17 has an empty a.",
+            "directory": "data/2026/batches/20261022T191249791410Z/pa"
+        },
+        "ri": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Empty dataset or incorrect counts.",
+            "directory": "data/2026/batches/20261022T191249791410Z/ri"
+        },
+        "sc": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/sc",
+            "counts": {
+                "vote411": 46,
+                "supporting_sections": 12
+            }
+        },
+        "sd": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/sd",
+            "counts": {
+                "vote411": 2,
+                "supporting_sections": 21
+            }
+        },
+        "tn": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Empty dataset or incorrect counts.",
+            "directory": "data/2026/batches/20261022T191249791410Z/tn"
+        },
+        "tx": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/tx",
+            "counts": {
+                "vote411": 60,
+                "supporting_sections": 17
+            }
+        },
+        "ut": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Empty dataset or incorrect counts.",
+            "directory": "data/2026/batches/20261022T191249791410Z/ut"
+        },
+        "va": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Entry 53 has an empty a.",
+            "directory": "data/2026/batches/20261022T191249791410Z/va"
+        },
+        "vt": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/vt",
+            "counts": {
+                "vote411": 12,
+                "supporting_sections": 23
+            }
+        },
+        "wa": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Empty dataset or incorrect counts.",
+            "directory": "data/2026/batches/20261022T191249791410Z/wa"
+        },
+        "wi": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/wi",
+            "counts": {
+                "vote411": 52,
+                "supporting_sections": 15
+            }
+        },
+        "wv": {
+            "status": "success",
+            "directory": "data/2026/batches/20261022T191249791410Z/wv",
+            "counts": {
+                "vote411": 13,
+                "supporting_sections": 22
+            }
+        },
+        "wy": {
+            "status": "failed",
+            "error_type": "ValueError",
+            "error": "Empty dataset or incorrect counts.",
+            "directory": "data/2026/batches/20261022T191249791410Z/wy"
+        }
+    },
+    "completed_at": "2026-10-22T19:14:11+00:00"
+}

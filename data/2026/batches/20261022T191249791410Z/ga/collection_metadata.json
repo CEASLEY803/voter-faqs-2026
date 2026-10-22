@@ -1,0 +1,21 @@
+{
+    "state": "ga",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/georgia",
+            "final_url": "https://www.vote411.org/georgia",
+            "collected_at": "2026-10-22T19:13:04+00:00",
+            "sha256": "4eb3d8a38cd37ef96b0effd942f398f095863a0af32cb2ece07d4d827ea2e5a7",
+            "snapshot": "data/2026/batches/20261022T191249791410Z/ga/vote411-ga.html"
+        }
+    ],
+    "counts": {
+        "vote411": 60,
+        "supporting_sections": 11
+    },
+    "extraction_version": 2,
+    "faq_file": "ga_qa_vote411.json",
+    "supporting_content_file": "ga_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

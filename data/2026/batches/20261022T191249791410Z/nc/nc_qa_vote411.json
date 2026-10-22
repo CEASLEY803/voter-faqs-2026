@@ -1,0 +1,362 @@
+{
+    "state": "nc",
+    "num_questions": 59,
+    "num_answers": 59,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "In North Carolina, all registered voters are permitted to vote absentee.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "Registered North Carolina voters must request an absentee ballot with an official NC Absentee Ballot Request Form. There are two ways to access and submit the form:\n\n- Online: NC Absentee Ballot Portal (https://votebymail.ncsbe.gov/app/home).\n- On paper: NC Absentee Ballot Request Form, available on the State Board of E (https://www.ncsbe.gov/voting/vote-mail)le (https://www.ncsbe.gov/voting/vote-mail)ction (https://www.ncsbe.gov/voting/vote-mail)s resource page (https://www.ncsbe.gov/voting/vote-mail).\n- After completing the paper form, submit it to your county board of elections, (https://absentee.vote411.org/vote/eoddomestic.htm) in person or by mail. You may not submit it by fax or email.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "WHO CAN REQUEST AN ABSENTEE BALLOT FOR A VOTER?",
+            "a": "- The voter.\n- A voter's near relative (spouse, brother, sister, parent, grandparent, child, grandchild, mother-in-law, father-in-law, daughter-in-law, son-in-law, stepparent, or stepchild) or legal guardian on behalf of the voter\n- If you need assistance requesting your ballot due to disability, these restrictions do not apply, and you may ask any person to request your ballot.\n\nAnyone requesting a ballot on behalf of a voter will provide their name, address, and relationship to the voter on the absentee request form.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "The deadline to request an absentee ballot is two weeks before Election Day by 5pm.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
+            "a": "Yes. However, if you have a continuous or expected illness or disability, you may request an absentee ballot be sent to you for all elections that you are eligible for in that calendar year. The absentee ballots will be mailed separately at the appropriate time.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "a": "Voted ballots must be received by 7:30pm on Election Day to be counted.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Election officials will start mailing out ballots about 60 days before the election to those who have requested them.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
+            "a": "One notary public or two witnesses must be in your presence when you mark your absentee ballot. They should only observe you marking your ballot, not how you vote.\n\nVoters who vote by mail must include a photocopy of an acceptable ID. Or they may complete a Photo ID Exception Form with the absentee ballot return envelope. Instructions will be included in the absentee ballot packet. For more information, including acceptable types of photo ID, see Voter ID (https://www.ncsbe.gov/voting/voter-id).",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT?",
+            "a": "Absentee ballots may be returned:\n\n- By mail.\n- By commercial courier service. (DHL, FedEx, or UPS.)\n- In person at your county board of elections office.\n- In person at an open early voting site in your county. You can find early voting sites in your county by using the Early Voting Site Search (https://vt.ncsbe.gov/EVSite/). You may not return an absentee ballot to a polling place on Election Day.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "You can sign up to track your absentee ballot (https://vt.ncsbe.gov/RegLkup/) on your State Board of Elections website.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "Requesting an absentee ballot will not record you in the system as having voted. If you do not vote your absentee ballot, you may vote in person during the early voting period or on Election Day. You may simply discard your absentee ballot. There is no need to bring it with you to a polling place.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://votebymail.ncsbe.gov/app/home)",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Does North Carolina allow ballot curing?",
+            "a": "Yes, North Carolina allows voters to fix an issue with their ballot.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "a": "Your county board of elections will contact you if there are any deficiencies with your absentee ballot using the phone number or email address on the absentee request form submitted.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "What is the deadline to cure my ballot?",
+            "a": "The deadline to cure (correct) your absentee/mail ballot is noon on the third business day after the election.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Can I track my absentee ballot?",
+            "a": "You can track your ballot by signing up online for status notifications through your state’s online tool. (https://northcarolina.ballottrax.net/voter/)",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "How do I cure a provisional ballot?",
+            "a": "The deadline for a provisional voter to show an acceptable photo ID or HAVA ID to their county board of elections is noon on the third business day after the election.\n\nTo check the status of a provisional vote, you can use your state’s online tool. (https://vt.ncsbe.gov/RegProvPIN/)",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "What is a ballot drop box?",
+            "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Are drop boxes available in my state?",
+            "a": "No drop boxes are available in North Carolina.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Where can I return my ballot?",
+            "a": "You can return your voted ballot to your county board of elections office or an open Early Voting site during the Early Voting period.\n\nYou can find the location of your county board of elections office here. (https://vt.ncsbe.gov/BOEInfo/)  (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Can I track the ballot after placing in the drop box?",
+            "a": "No, you can not currently track the status of your voted absentee ballot.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Can I vote before Election Day in North Carolina?",
+            "a": "Yes. In North Carolina, you can vote before Election Day by voting early in person during the early voting period or by voting by mail using an absentee ballot.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Do I have to apply to vote early in North Carolina?",
+            "a": "If you plan to vote early in person, no application is required. If you would like to vote early by mail, you must request an absentee ballot from your county board of elections. Any registered voter in North Carolina may request an absentee ballot without providing a reason.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Where can I vote early in person in North Carolina?",
+            "a": "During the early voting period, you may vote at any early voting site in your county. You can find early voting locations and schedules through your county board of elections. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "How can I receive an early ballot in the mail?",
+            "a": "Any registered voter in North Carolina can vote by mail by requesting an absentee ballot from their county board of elections. No excuse is required. Read more about requesting and returning your Absentee Ballot here. (https://www.vote411.org/north-carolina#absentee-ballot-process)",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Do I need an ID to vote early in North Carolina?",
+            "a": "Yes. Voters are asked to show a photo ID when voting in North Carolina, whether voting early in person or by mail. If you do not have an acceptable ID, you can still vote by completing an ID Exception Form. Read more about voter ID requirements in North Carolina here. (https://www.vote411.org/north-carolina#voter-id-requirements)",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "WHO CAN REGISTER TO VOTE IN NORTH CAROLINA?",
+            "a": "You can register to vote in North Carolina if you meet all of the following requirements:\n\n- You are a US citizen\n- You will be at least 18 years old by the general election\n- 16- and 17-year-olds may preregister to vote\n- 17-year-olds can vote in a primary if they will turn 18 by the general election\n- You have lived in the county where you’re registering for at least 30 days before the election\n- The federal Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA) allows certain voters who are active duty military or their families as well as U.S. citizens abroad special rights that provide an expedited means to register and vote by mail-in ballot. Find more information on Military and Overseas Voting (https://www.ncsbe.gov/voting/military-and-overseas-voting)\n- You are not currently serving a felony sentence, including probation, parole, or post-release supervision",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "WHO CAN VOTE IN NORTH CAROLINA?",
+            "a": "You can vote in North Carolina if you:\n\n- Are a registered voter\n- Will be at least 18 years old by the general election\n- 17-year-olds can vote in a primary if they will turn 18 by the general election\n- Have established residency in the state and county at least 30 days before the election\n- Are not currently serving a felony sentence",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "CAN I VOTE IN NORTH CAROLINA IF I HAVE A FELONY CONVICTION?",
+            "a": "Yes, but only after you complete your full sentence. This includes any probation, parole, or post-release supervision. Once your sentence is fully served, you regain your right to vote and can register again.v Voting rights are not restricted by pretrial detention and misdemeanors in North Carolina.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "CAN I REGISTER AND VOTE IN NORTH CAROLINA IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "a": "If you do not have a traditional address, you can draw a picture in the space provided on the voter registration form of your usual sleeping location. Be descriptive and note any nearby streets or physical buildings. You must provide a mailing address if you do not receive mail at your residential address. The mailing address on your registration form can be a P.O. box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for you.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN NORTH CAROLINA?",
+            "a": "Yes, but only certain types of identification are required depending on how you register:\n\n- If you register online, (https://payments.ncdot.gov/) you must provide your NC driver’s license or DMV-issued ID card number, your full Social Security number, and your date of birth\n- If you register using a paper form, you must include either:\n- Your NC driver’s license number,\n- The last 4 digits of your Social Security number, or\n- Check a box stating you don’t have either.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN NORTH CAROLINA?",
+            "a": "To complete your voter registration online (https://payments.ncdot.gov/) or by paper form, you can use:\n\n- Your North Carolina driver’s license number,\n- OR the last 4 digits of your Social Security number.\n\nIf you don’t have either and check the corresponding box, you’ll need to show proof of name and address when voting for the first time (examples include a utility bill, government check, bank statement, or paycheck issued within the last 6 months).\n\nIf you use Same-Day Registration during Early Voting, you’ll need to show one of the following:\n\n- NC driver’s license or other government-issued photo ID with your current name and address\n- Current utility bill, bank statement, government document, paycheck, or government check\n- A student document from a NC college/university showing your name and campus address\n- A document from the institution that issued the photo ID you're using to vote",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER IN NORTH CAROLINA?",
+            "a": "You can get a free North Carolina voter photo ID (https://www.ncsbe.gov/voting/voter-id/get-free-voter-photo-id) in two ways:\n\n- From your county board of elections (no documents required—just your name, DOB, and last four of SSN), or\n- From the NC DMV, which offers no-fee state ID cards.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "When are official election results available in North Carolina?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "Official election results will be uploaded on North Carolina’s State Board of Elections website (https://www.ncsbe.gov/results-data/election-results) as they become available.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "How can I learn more?",
+            "a": "What Happens After You Vote in North Carolina (https://www.youtube.com/watch?v=cRdOKg4kepI) addresses the vote counting process, how voted ballots are stored until Election Day, and other election security measures taken by the NC State Board of Elections.\n\n  Official Results  (https://www.ncsbe.gov/results-data/election-results)",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "What does a poll worker do in North Carolina?",
+            "a": "Poll workers, called election officials in North Carolina, help run elections by checking in voters, issuing ballots, assisting voters, operating voting equipment, and helping open and close polling places.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "What qualifications do I need to be a poll worker in North Carolina?",
+            "a": "To serve as an election official in North Carolina, you must:\n\n- Be a registered voter in the precinct where you wish to serve\n- Complete required training\n- Not be a candidate in the election\n- Not be a close relative of a candidate in the election\n- Not be an elected government official\n- Not hold office with a political party\n- Not serve as a manager or treasurer for a candidate or political party\n\nNorth Carolina also allows high school students who are at least 17 years old and in good academic standing to serve as election workers on Election Day through the Student Election Assistant program. Students cannot serve during early voting.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Are poll workers paid in North Carolina?",
+            "a": "Yes. Election officials are paid for their service, and some counties may also provide compensation for training. Pay varies by county and position. Contact your county board of elections (https://www.ncsbe.gov/democracy-heroes-form) for more information.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "How do I apply to be a poll worker in North Carolina?",
+            "a": "Sign up online (https://www.ncsbe.gov/democracy-heroes-form) through your state's election worker application or contact your county board of elections (https://absentee.vote411.org/vote/eoddomestic.htm) to apply.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Does North Carolina offer provisional voting?",
+            "a": "Yes, North Carolina offers provisional voting.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "How do I vote a provisional ballot?",
+            "a": "You may vote a provisional ballot if you meet specific conditions.\n\nYou may be asked to vote a provisional ballot if:\n\n- Your qualification to vote is questioned\n- Your voter eligibility is questioned\n- Your eligibility to vote a specific ballot is questioned\n- You ask to vote for an election that is not in your assigned voting district\n- You do not show appropriate ID under HAVA\n\nIf you are asked to vote a provisional ballot, that ballot will be held aside until you can prove your eligibility to vote.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "What are some reasons to vote a provisional ballot?",
+            "a": "Examples of reasons for provisional voting:\n\n- There's no record of your registration\n- You moved to a different precinct and didn't report the change before 30 days before the election\n- You were previously registered in the county but the registration was canceled\n- Your address can't be verified in the lookup files\n- You're trying to vote at the incorrect precinct\n- During a primary election, you try to vote the other parties ballot\n- The records indicate you already voted in this election\n- Voting during extended hours on Election Day\n- Once you vote your provisional ballot you will receive a PIN number in order to check the status of your ballot (http://www.ncsbe.gov/Voting-Options/Provisional-Voting). You can begin checking the status of your ballot 10 days after the election.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "How do I cure a provisional ballot?",
+            "a": "The deadline for a provisional voter to show an acceptable photo ID or HAVA ID to their county board of elections is noon on the third business day after the election.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "How do I check the status of my provisional ballot?",
+            "a": "Once you vote your provisional ballot you will receive a PIN number in order to check the status of your ballot (http://www.ncsbe.gov/Voting-Options/Provisional-Voting). You can begin checking the status of your ballot 10 days after the election.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "What voting assistance is available for voters with disabilities?",
+            "a": "The Help America Vote Act requires that election authorities have voting equipment for voters with disabilities to vote privately and independently, and North Carolina is no exception.\n\nVoting assistance and curbside voting are offered to voters with disabilities.\n\nCURBSIDE VOTING\n\nAged and disabled persons allowed to vote outside voting enclosure. In any primary or election any qualified voter who is able to travel to the voting place, but because of age, or physical disability and physical barriers encountered at the voting place is unable to enter the voting place or enclosure to vote in person without physical assistance, shall be allowed to vote either in the vehicle conveying such person to the voting place or in the immediate proximity of the voting place.\n\nVOTING ASSISTANCE\n\nAssistance to voters in primaries and general elections. In a primary or general election, a registered voter qualified to vote in the primary or general election shall be entitled to assistance in getting to and from the voting booth and in preparing his ballots in accordance with the following rules:\n\n1. Any voter shall be entitled to assistance from a near relative of his [her] choice.\n\n2. Any voter in any of the following four categories shall be entitled to assistance from a person of the voter's choice, other than the voter's employer or agent of that employer or officer or agent of the voter's union:\n\n-One who, on account of physical disability, is unable to enter the voting booth without assistance;\n\n-One who, on account of physical disability, is unable to mark his ballots without assistance;\n\n-One who, on account of illiteracy, is unable to mark his ballots without assistance;\n\n-One who, on account of blindness, is unable to enter the voting booth or mark his ballots without assistance.\n\nPlease visit your state's resource (http://www.ncsbe.gov/voting-accessibility) for additional information.\n\nFor more information on the provisions available for disabled voters, please contact your local election authority (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "How do I request accommodation or report accessibility issues?",
+            "a": "If you have any questions about receiving help in voting, please ask the clerk or inspector at the polling place.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Can I vote by mail because of my disability?",
+            "a": "Vote-by-mail (absentee voting) is available in North Carolina and no excuse is required. You can find more about how to vote by mail here. (https://www.vote411.org/north-carolina#absentee-ballot-process)\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Does North Carolina require employers to give time off to vote?",
+            "a": "No. North Carolina law does not require employers to provide time off to vote. Time off to vote is at the employer's discretion. Talk to your employer and make a plan to vote ahead of Election Day.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "What is the deadline to register to vote in North Carolina?",
+            "a": "- Online registration deadline: 25 days before Election Day\n- Register by mail deadline: Postmarked 25 days before Election Day\n- In-person registration deadline: 25 days before Election Day. If you missed the voter registration deadline, you may still register (except for party affiliation changes) and vote during early voting.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "How can I register to vote in North Carolina?",
+            "a": "- Register online (https://www.vote411.org/register)\n- By mail (English form (https://s3.amazonaws.com/dl.ncsbe.gov/Voter_Registration/NCVoterRegForm_06W.pdf) / Spanish Form (https://s3.amazonaws.com/dl.ncsbe.gov/Voter_Registration/NCVoterRegForm_09W.pdf))\n- Register in person at the DMV (Department of Motor Vehicles)\n- Register in person (https://www.ncsbe.gov/registering/how-register/register-person-during-early-voting) during early voting.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "How can I check my voter registration status?",
+            "a": "You can verify your voter registration status using North Carolina’s voter information tool. (https://vt.ncsbe.gov/RegLkup/)",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Does North Carolina have online voter registration?",
+            "a": "Yes! Use our online registration tool (https://www.vote411.org/register) to complete your application",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Is same-day voter registration available in North Carolina?",
+            "a": "No, North Carolina does not have same-day voter registration, but you can register in person during early voting.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Can I pre-register to vote?",
+            "a": "Yes, you can pre-register to vote if you are 16 or 17 years old.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "Who is eligible to register in North Carolina?",
+            "a": "Check if you’re eligible to register here (https://www.vote411.org/north-carolina#eligibility-requirements).",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "What types of voting machines does North Carolina use?",
+            "a": "The voting systems used in North Carolina are Optical Scan, Paper Ballots, and Direct Recording Electronic (DRE).",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        },
+        {
+            "q": "What is optical scan voting?",
+            "a": "With optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\n\n- With a pen or pencil, you fill in a little box, circle, or space between two arrows.\n- When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\n- Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.\n\nWhat are paper ballots?\n\nPaper ballots are one of the oldest ways of voting in America.\n\nWhen you come to the polling place, you will get a paper ballot from the poll worker. You take it to the voting booth, and use a pen or pencil to mark a box next to your candidate and issue choices. You then drop the marked ballot into a sealed ballot box.\n\nWhat is Direct Recording Electronic Voting?\n\nDirect Recording Electronic (DRE) is the newest system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.\n\nThere are many variations of DREs because many companies are inventing new ones, and many cities, counties, and states are trying them out.\n\n- Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.\n- Some of these devices will show all candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure).\n- On other DREs, the screen is set up to show pages. There will probably be one thing on which to vote on each screen or page. For example, on one screen or page, you might vote for the president. Then you might move to the next page to vote for a senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for.\n- Other devices have a keypad, and some have a keyboard, so you can write in the name of someone you want to vote for.\n- You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2026-10-22T19:13:32+00:00"
+        }
+    ]
+}

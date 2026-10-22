@@ -1,0 +1,21 @@
+{
+    "state": "ct",
+    "coverage": "Vote411 only; state election commission not yet collected in this run",
+    "sources": [
+        {
+            "requested_url": "https://www.vote411.org/connecticut",
+            "final_url": "https://www.vote411.org/connecticut",
+            "collected_at": "2026-10-22T19:12:59+00:00",
+            "sha256": "28349862ad32a14a8874ef1c89f12c437992b55eff02a97fd7cc5325bc22f3d4",
+            "snapshot": "data/2026/batches/20261022T191249791410Z/ct/vote411-ct.html"
+        }
+    ],
+    "counts": {
+        "vote411": 28,
+        "supporting_sections": 19
+    },
+    "extraction_version": 2,
+    "faq_file": "ct_qa_vote411.json",
+    "supporting_content_file": "ct_supporting_content_vote411.json",
+    "review_status": "Pending human review of source fidelity and completeness"
+}

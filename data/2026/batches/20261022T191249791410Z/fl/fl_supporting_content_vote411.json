@@ -1,0 +1,104 @@
+{
+    "state": "fl",
+    "num_sections": 14,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "topic_introduction",
+            "content": "Vote-by-Mail (absentee voting) is available in Florida and no excuse is required. The last day to request a vote-by-mail ballot from your local Supervisor of Elections (https://www.myfloridaelections.com/find-your-county-s-supervisor-of-elections) is no later than 5:00 pm, 12 days before the election. Your voted ballot must be mailed or delivered in person to your local Supervisor of Elections (https://www.myfloridaelections.com/find-your-county-s-supervisor-of-elections)’ office no later than 7:00 pm on the day of the election.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "topic": "Ballot Notice and Cure Process",
+            "kind": "topic_introduction",
+            "content": "Ballot curing is when a voter corrects an issue with their ballot, so it can be counted.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "Have you ever wondered who is donating to the candidates on your ballot? You can find campaign finance reports for your federal candidates (US House & US Senate candidates) on OpenSecrets.org (http://www.opensecrets.org/).\n\nFor your statewide and state legislative candidates, you can visit your state's campaign finance resource (https://dos.myflorida.com/elections/candidates-committees/campaign-finance/).",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "When an election is coming up in your state, the League of Women Voters will publish a voter guide on VOTE411.org (https://www.vote411.org/). If you enter your address and don't see your candidates yet, please check back closer to Election Day to see them published online.\n\nIf you see a candidate listed on VOTE411 who has not yet filled out the candidate questions, please reach out to them (https://www.vote411.org/candidate-contact), asking them to fill out the VOTE411 voter guide! The more candidates who fill it out the more helpful it is for voters in your community.\n\nOne great option with the VOTE411 voter guide is that you can print your choices to take with you to vote. The use of mobile phones and tablets are allowed in Florida voting booths, but the law also allows you to bring the printed voter guide with you.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "topic_introduction",
+            "content": "Early voting for the November 3, 2026 General Election varies by county.\n\nEarly Voting Starts: 10 days before Election Day. This may vary by county. Contact your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm) for more details.\n\nEarly Voting Ends: 3 days before Election Day. This may vary by county. Contact your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm) for more details.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "If there is an upcoming election in your area, it will be listed in the dark blue box at the top of this page (scroll up) or by clicking on https://www.vote411.org/Florida. (https://www.vote411.org/florida)",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "The polling place hours will be from 7:00 am to 7:00 pm.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://voterhelpdesk.usvotefoundation.org/en/support/home)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://voterhelpdesk.usvotefoundation.org/en/support/home)",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "You can find your polling place by utilizing your state resource. (https://registration.elections.myflorida.com/CheckVoterStatus) If you have further questions on your polling place location, please contact your county clerk. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "Florida is a “closed primary” state. In order to vote in the primary election, voters must be registered with a political party. Unaffiliated or independent voters are not able to participate in the primary.\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "topic": "Registering after Moving",
+            "kind": "section_without_questions",
+            "content": "If you are already registered to vote in Florida and have moved within the state, you do not need to re-register to vote. However, you must update your voter registration record with your county’s Supervisor of Elections. (https://dos.elections.myflorida.com/supervisors/) You can update your registration through one of the following ways: online, (https://registertovoteflorida.gov/) by paper form, by phone, or by email.\n\nYou may also update your voter registration when you update your driver's license online. (https://services.flhsmv.gov/VirtualOffice/)\n\nWHAT IF I MISSED THE VOTER REGISTRATION DEADLINE AFTER I MOVED?\n\nFlorida Law requires that you vote in the precinct of your residence. If you are already registered to vote in Florida and have moved within the state, you do not need to re-register to vote. However, you must update your voter registration record with your county’s Supervisor of Elections (https://dos.elections.myflorida.com/supervisors/). You must be registered to vote 29 days before an upcoming election. New voters who miss the deadline may still register at any time to vote in the next election.",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "topic": "Student Voting Process",
+            "kind": "section_without_questions",
+            "content": "If you are a student studying at a university in Florida, you can decide on where to register to vote. You can register to vote at whichever address you consider the place that you live, whether that is your family’s home address or where you attend school.\n\nRemember that you can only be registered to vote at one location. Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status. You can register to vote at any time. However, to vote in a Florida election you must be registered 29 days before that election.\n\nWHAT DO I NEED TO REGISTER TO VOTE?\n\nHere is what you need to know to register in Florida:\n\n- Visit RegisterToVoteFlorida.gov (https://registertovoteflorida.gov/home) to register to vote or to update your registration\n- Valid Identification – visit ID Needed for Voter Registration\n- If you are not a Florida resident and you are registered to vote out of state, contact your home state’s elections office for information on registration and voting",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status\n\n  click here!  (http://registration.elections.myflorida.com/CheckVoterStatus)",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        },
+        {
+            "topic": "Voter Registration Deadlines",
+            "kind": "section_without_questions",
+            "content": "Online registration deadline: 29 days before Election Day\n\nRegister by mail deadline: Postmarked 29 days before Election Day\n\nIn-person registration deadline: 29 days before Election Day\n\nWHO IS ELIGIBLE TO REGISTER IN FLORIDA?\n\nTo register in Florida, you must be:\n\n- A U.S. citizen\n- A Florida resident\n- A resident of the county in which you intend to vote\n- At least 18 years old (16- and 17-year-olds may pre-register, but will be ineligible to vote until their 18th birthday)\n- Not adjudicated mentally incapacitated with respect to voting in Florida or any other state, or, if you were adjudicated mentally incapacitated, you have had your rights restored by a court.\n- Not convicted of a felony (and not had your civil rights restored)\n\nHOW DO I UPDATE MY REGISTRATION IF I MOVE OR HAVE A NAME CHANGE?\n\nIf you are already registered to vote in Florida and have moved within the state, you do not need to re-register to vote. However, you must update your voter registration record with your county’s Supervisor of Elections. (https://dos.elections.myflorida.com/supervisors/) You can update your registration through one of the following ways: online, (https://registertovoteflorida.gov/) by paper form, by phone, or by email.\n\nFor name and party changes, you must update your information online or by using the paper form. Identification is required and any of the following forms will be accepted by your local Supervisor of Elections:\n\n- Your Florida driver license number\n- Florida identification card number\n- The last 4 digits of your social security number\n\nYou may also update your voter registration when you update your driver's license online. (https://services.flhsmv.gov/VirtualOffice/)\n\nI JUST MOVED TO FLORIDA OR MOVED TO A NEW COUNTY IN FLORIDA. HOW DO I REGISTER TO VOTE?\n\nIf you are already registered to vote in Florida and have moved within the state, you do not need to re-register to vote. However, you must update your voter registration record with your county’s Supervisor of Elections. If you are not already registered to vote in Florida, eligible individuals can register to vote at any time. The deadline to register to participate in an upcoming election is 29 days before the election.You can register one of the following ways:\n\n- Online (https://registertovoteflorida.gov/home)\n- Paper form (available at your local Supervisor of Elections (https://www.myfloridaelections.com/find-your-county-s-supervisor-of-elections) office or website)\n- In person at any of the following voter registration agencies\n\n  - Driver License Offices\n  - Public Assistance Offices\n  - Public Libraries\n  - Disabilities Offices\n  - Armed Forces Recruitment Offices\n  - Centers for Independent Living\n\nWHERE SHOULD I VOTE IF I DON’T HAVE A RESIDENCE?\n\nIt is not mandatory for citizens to possess a \"permanent home\" for voter registration. A citizen can provide an alternative description of their residence, even if they are experiencing homelessness, as long as it enables the authorities to identify and assign a voting precinct to them. This precinct assignment ensures that the voter receives the appropriate ballot. The mailing address on their registration form can be a P.O. box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for them.\n\nNot registered? Use our online registration tool (https://www.vote411.org/register) to complete your application!",
+            "s": "https://www.vote411.org/florida",
+            "t": "2026-10-22T19:13:02+00:00"
+        }
+    ]
+}

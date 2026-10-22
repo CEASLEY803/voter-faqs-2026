@@ -1,0 +1,111 @@
+{
+    "state": "me",
+    "num_sections": 15,
+    "sections": [
+        {
+            "topic": "Absentee Ballot Process",
+            "kind": "topic_introduction",
+            "content": "Vote-by-mail (absentee voting) is available in Maine and no excuse is required. The last day to request an absentee ballot is the Thursday before every election at 5:00pm. You can submit your absentee ballot request form through the mail, by email, in person at your local elections office, or online (https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/index.pl).\n\nVoted ballots must be received by 8:00pm on Election Day to be counted. You can track your absentee ballot on the Secretary of State's website (https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/ballot_status.pl).",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "topic": "Campaign Finance Information",
+            "kind": "section_without_questions",
+            "content": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).\n\nFor information on state campaign contributions, please visit your state's resource. (https://mainecampaignfinance.com/#/index)",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "topic": "Candidate and Ballot Measure Information",
+            "kind": "section_without_questions",
+            "content": "Local election information is collected by League volunteers and may not be complete. If you don't see your local ballot, you may still have an election - please contact your town clerk\n\nInformation on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp).",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "topic": "Drop Boxes",
+            "kind": "topic_introduction",
+            "content": "Ballot curing is when a voter corrects an issue with their ballot, so it can be counted.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "topic": "Early Voting",
+            "kind": "topic_introduction",
+            "content": "Early voting for the November 3, 2026 General Election begins on October 5th and ends on October 29th.\n\nEarly Voting (in-person absentee voting) Starts: 30 days before Election Day\n\nEarly Voting (in-person absentee voting) Ends: 3 business days before Election Day",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "topic": "Election Dates",
+            "kind": "section_without_questions",
+            "content": "The next election date can be found here https://www.vote411.org/maine.\n\nContact your local Board of Elections (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "topic": "Election Day Voting Hours",
+            "kind": "section_without_questions",
+            "content": "All polls open between 6am and 10am until 8pm.\n\nYou can find your polling place by utilizing your state resource. (https://nam10.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.maine.gov%2Fportal%2Fgovernment%2Fedemocracy%2Fvoter_lookup.php&data=05%7C01%7CMBrown%40lwv.org%7C6e9a2edef3324b0bd44f08da967888c9%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C0%7C637987741685084629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=yS%2Br%2FTrAL5kZaOZjAEeGjb%2BNPH5dGh4%2FJuQ28LC5nEY%3D&reserved=0)\n\nIf you have further questions on your polling place location, please contact your Municipal Clerk (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "topic": "Eligibility Requirements",
+            "kind": "section_without_questions",
+            "content": "WHO CAN REGISTER TO VOTE IN MAINE?\n\nTo register to vote in Maine, you must:\n\n- Be a US citizen\n- Be at least 16 years old (you must be at least 18 to vote in a general election; 17-year-olds may vote in primaries if they will be 18 by the general election)\n- Have established a voting residence in a Maine municipality\n\nWHO CAN VOTE IN MAINE?\n\n You can vote in Maine if:\n\n- You are a registered voter\n- You are at least 18 years old on or before Election Day\n- 17-year-olds may vote in primary elections as long as they will be 18 by the time of the general election\n- You have established a voting residence in Maine\n- Voters like students, military members, overseas citizens, incarcerated individuals, and those without traditional housing can vote in Maine if they meet residency requirements.\n\nCAN I VOTE IF I HAVE A FELONY CONVICTION?\n\nYes. In Maine, having a felony conviction does not affect your right to vote. Even if you’re currently incarcerated, you can vote as long as you register using the address where you lived before being incarcerated.\n\nCAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?\n\nYes. If you are experiencing homelessness or living in a shelter, you can register to vote in the Maine municipality where you currently reside, even if your address is non-traditional, like a park bench or another physical location. You can give a physical description of where you live, under oath, to the municipal clerk (https://absentee.vote411.org/vote/eoddomestic.htm) instead of showing typical residency documents. A mailing address is not required.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "topic": "ID Needed for Voter Registration",
+            "kind": "section_without_questions",
+            "content": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN MAINE?\n\nYes, if you're registering to vote for the first time in Maine, you must show proof of identity and residence.\n\nWHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN MAINE?\n\nYou can use any of the following to prove your identity and residence:\n\nTo register online (https://registertovote.sos.maine.gov/OnlineVoterRegistration/Registration):\n\nYou must have a Maine driver’s license or state ID and your name, date of birth, and address must match the BMV records.\n\nTo register in person or by mail:\n\n- A government-issued photo ID like a Maine driver’s license, state ID, U.S. passport, military ID, or tribal ID\n- A government ID document/credential without photo (i.e. certified birth certificate or signed Social Security card)\n- An official document showing your name and Maine address, such as:\n- Utility bill\n- Bank statement\n- Paycheck\n- Government check\n- Document proving eligibility for public benefits\n- A student photo ID from a state-approved public or private school or institute of higher education in Maine\n- Your Maine driver’s license number or the last four digits of your Social Security Number (if verifiable)\n\nWHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER?\n\nIf you don’t have the standard documents, you can still register by:\n\n- Providing a sworn written statement (under oath) describing your place of residence\n- Submitting any other documents that help prove your identity and/or residency\n- If you’re homeless or displaced, you do not need a mailing address, and you can describe your residence (like a park or shelter) under oath to the municipal clerk\n\nIf you're trying to register online but don’t have a Maine driver’s license or state ID, you won’t be able to use the online registration system. Instead, you must register using a paper form and provide identity/residency documentation as described above.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "topic": "Overseas and Military Voters",
+            "kind": "section_without_questions",
+            "content": "Maine overseas citizens and U.S. military personnel can register to vote and request an absentee ballot on the Maine Secretary of State’s website.  (https://www.maine.gov/sos/elections-voting/uniformed-service-and-overseas-voters)",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "topic": "Polling Place Locations",
+            "kind": "section_without_questions",
+            "content": "You can find your polling place by utilizing your state resource. (http://www.maine.gov/portal/government/edemocracy/voter_lookup.php)\n\nIf you have further questions on your polling place location, please contact your M (https://absentee.vote411.org/vote/eoddomestic.htm)unicipal Clerk (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "topic": "Primary Election Process",
+            "kind": "section_without_questions",
+            "content": "Maine now has semi-open primaries. If you are registered with a political party, you can only vote in that party’s primary. If you are not registered with a political party (unenrolled), you can choose which party’s primary to vote in. You may only vote in one party’s primary.\n\nThis applies to both presidential and state primaries.\n\nIf you want to change your party affiliation, you must do so at least 15 days before Election Day.\n\nRanked Choice Voting (RCV)\n\nMaine uses a ranked choice voting system for Presidential Primaries, State Primaries, and General Elections. To find out more about ranked choice voting click here (https://www.vote411.org/maine#ranked-choice-voting).\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "topic": "Ranked Choice Voting",
+            "kind": "section_without_questions",
+            "content": "Maine allows voters to vote using Ranked Choice Voting (https://www.lwvme.org/RCVhelp) for all state-level primary elections, and in general elections ONLY for federal offices, including the office of U.S. President. Ranked choice voting allows voters to rank the candidates in the order of their preference.\n\nHow does Ranked Choice Voting work?\n\n- Voters rank candidates in the order of their preference: first choice, second choice, third choice, and so on.\n- When all the ballots are counted, if one candidate gets more than 50% of the first choice votes, they win.\n- If no candidate receives more than 50% of first choice votes, the candidate with fewest votes is considered defeated.\n- Voters who ranked the defeated candidate as their first choice have their votes counted for their second choice.\n- This is repeated until only two candidates remain. The one with the most votes wins.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "topic": "Student Voting Process",
+            "kind": "section_without_questions",
+            "content": "What do I need to register to vote in Maine?\n\nHere is what you need to know to register in Maine:\n\nThere are three methods of voter registration in Maine: register in-person, register online (https://registertovote.sos.maine.gov/), or email a printable application (https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Maine%20Voter%20Registration%20Application.pdf) to the Maine Secretary of State.\n\nCan I register to vote using my college address in Maine?\n\nYes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.\n\nWhat’s the deadline to register to vote in Maine?\n\nMaine requires voters to register at least 21 days before the election. Be sure to check the exact date each year.\n\nWhat form of ID do I need to vote in Maine?\n\nA Maine voter is not required to show identification. However, if you are voting for the first time, you may be asked to show a form of identification when you go to the polls. This can include a driver’s license, passport, student ID from a state-supported college, or other accepted forms.\n\nI’m originally from another state, can I still vote in my home state while studying in Maine?\n\nYes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).\n\nDoes registering to vote affect my financial aid, parents’ taxes, and/or tuition in Maine?\n\nRegistering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "topic": "Verify Voter Registration",
+            "kind": "section_without_questions",
+            "content": "To verify your voter registration status, contact your\n\n  election official.  (https://www.maine.gov/portal/government/edemocracy/voter_lookup.php)",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        }
+    ]
+}
