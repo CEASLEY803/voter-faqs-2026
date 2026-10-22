@@ -46,3 +46,11 @@ User request, verbatim:
 > Keep the topic title alongside the supporting content so we know where it belongs
 
 Coding assistance: implement block-aware text rendering and nested list formatting, separate supporting content from question-heading records, add checksum-verified replay of source snapshots, and update code documentation. Validate formatting and extraction boundaries with small HTML fixtures and the saved source pages. Model information is the same as recorded above. The user supplied the source-review findings and extraction requirements.
+
+## October 22, 2026: Georgia and Ohio Vote411 portability check
+
+User request, verbatim:
+
+> Everything looks correct from that extraction, i think we can try running it against maybe Georgia and Ohio next
+
+Coding assistance: add a small state-selectable Vote411 runner that reuses the corrected SC parser, text renderer, and validators. Run it for Georgia and Ohio, retain source snapshots and supporting-content sidecars, and check extraction completeness against saved page structure. These runs cover Vote411 only. The user approved the corrected SC extraction; Georgia and Ohio require their own human source review. Model information is the same as recorded above.
