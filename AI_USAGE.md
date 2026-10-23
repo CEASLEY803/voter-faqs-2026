@@ -8,8 +8,8 @@ This is a working record for the required disclosure, not a complete conversatio
 - Model information: session identifies the assistant as Codex based on GPT-6; exact selectable model variant and version are not exposed in the available session metadata. Verify against the app or a conversation export before final disclosure.
 - Scope: project setup, recovery of a pinned upstream baseline, collector implementation, validation, and code documentation.
 - Generated code: `restore_baseline.py`, `collect_sc.py`, dependency and ignore configuration.
+- Supporting documentation: `README.md` and this log.
 - Validation: original upstream notebook validator, baseline hashes, source-text retention, answer boundaries, links, and Unicode checks.
-- Documentation will NOT be written generatively; However formatting help did use the help of codex to create the tables seen in README.md.
 
 User instructions initiating this coding work, verbatim:
 
