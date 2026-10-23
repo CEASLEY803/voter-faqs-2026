@@ -9,7 +9,7 @@ This is a working record for the required disclosure, not a complete conversatio
 - Scope: project setup, recovery of a pinned upstream baseline, collector implementation, validation, and code documentation.
 - Generated code: `restore_baseline.py`, `collect_sc.py`, dependency and ignore configuration.
 - Validation: original upstream notebook validator, baseline hashes, source-text retention, answer boundaries, links, and Unicode checks.
-- Documentation will NOT be written generatively.
+- Documentation will NOT be written generatively; However formatting help did use the help of codex to create the tables seen in README.md.
 
 User instructions initiating this coding work, verbatim:
 
