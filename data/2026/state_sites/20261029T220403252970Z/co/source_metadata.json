@@ -1,13 +1,16 @@
 [
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "capture_method": "requests",
-        "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-10-29T22:08:38+00:00",
+        "capture_method": "manual browser save",
+        "saved_file_name": "co-579ef28a50.html",
+        "collected_at": "2026-10-29T22:32:52+00:00",
+        "collected_at_source": "modified time of the saved file",
         "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "status_code": 403,
+        "status_code": 200,
         "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403"
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-579ef28a50.html",
+        "sha256": "9175d65a477d971d91ca85a06865a49803a3cf42b4150a1785943418e5914309",
+        "bytes": 28035
     }
 ]

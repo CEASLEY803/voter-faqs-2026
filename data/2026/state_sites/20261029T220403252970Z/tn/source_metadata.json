@@ -1,13 +1,16 @@
 [
     {
         "requested_url": "https://sos.tn.gov/elections/faqs",
-        "capture_method": "requests",
-        "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-10-29T22:09:52+00:00",
+        "capture_method": "manual browser save",
+        "saved_file_name": "tn-c9fd85dc53.html",
+        "collected_at": "2026-10-29T22:40:22+00:00",
+        "collected_at_source": "modified time of the saved file",
         "final_url": "https://sos.tn.gov/elections/faqs",
-        "status_code": 403,
+        "status_code": 200,
         "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403"
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/tn/tn-c9fd85dc53.html",
+        "sha256": "15c865d58cef5f7146a2b03b33f7934039aa71e917991cf33f1213e982786427",
+        "bytes": 90559
     }
 ]

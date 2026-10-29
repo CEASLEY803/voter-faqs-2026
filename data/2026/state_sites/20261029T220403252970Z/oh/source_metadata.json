@@ -1,13 +1,17 @@
 [
     {
         "requested_url": "https://www.ohiosos.gov/elections/frequently-asked-questions",
-        "capture_method": "requests",
-        "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-10-29T22:09:47+00:00",
+        "capture_method": "manual browser save",
+        "saved_file_name": "oh-f269a20bae.html",
+        "collected_at": "2026-10-29T22:40:16+00:00",
+        "collected_at_source": "modified time of the saved file",
+        "canonical_url": "https://www.ohiosos.gov/elections/frequently-asked-questions",
         "final_url": "https://www.ohiosos.gov/elections/frequently-asked-questions",
-        "status_code": 403,
+        "status_code": 200,
         "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403"
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/oh/oh-f269a20bae.html",
+        "sha256": "09fc791c90b30cb138695dbada2a8c9efffd87887a01c7638d3e9575e1913690",
+        "bytes": 1761614
     }
 ]

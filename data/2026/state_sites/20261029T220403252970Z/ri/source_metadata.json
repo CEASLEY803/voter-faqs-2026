@@ -1,24 +1,30 @@
 [
     {
         "requested_url": "https://vote.sos.ri.gov/Elections/Administration",
-        "capture_method": "requests",
-        "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-10-29T22:09:48+00:00",
+        "capture_method": "manual browser save",
+        "saved_file_name": "ri-5a8a8eb1ac.html",
+        "collected_at": "2026-10-29T22:40:53+00:00",
+        "collected_at_source": "modified time of the saved file",
         "final_url": "https://vote.sos.ri.gov/Elections/Administration",
-        "status_code": 403,
+        "status_code": 200,
         "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403"
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ri/ri-5a8a8eb1ac.html",
+        "sha256": "1537a319fda3e6d2ecbe01ad3f833bf296f7372430dcae1ee597345bb9b407a9",
+        "bytes": 42045
     },
     {
         "requested_url": "https://vote.sos.ri.gov/Voter/VoterFaq",
-        "capture_method": "requests",
-        "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-10-29T22:09:50+00:00",
+        "capture_method": "manual browser save",
+        "saved_file_name": "ri-eca94409f4.html",
+        "collected_at": "2026-10-29T22:40:25+00:00",
+        "collected_at_source": "modified time of the saved file",
         "final_url": "https://vote.sos.ri.gov/Voter/VoterFaq",
-        "status_code": 403,
+        "status_code": 200,
         "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403"
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ri/ri-eca94409f4.html",
+        "sha256": "e60142dfe05e240570fc0eebb771795d4565b71dc9eba1a843210a8cc2d75f83",
+        "bytes": 38402
     }
 ]

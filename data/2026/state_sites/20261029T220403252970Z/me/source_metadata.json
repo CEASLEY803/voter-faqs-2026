@@ -1,13 +1,16 @@
 [
     {
         "requested_url": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
-        "capture_method": "requests",
-        "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-10-29T22:09:04+00:00",
+        "capture_method": "manual browser save",
+        "saved_file_name": "me-8f4cc7a9e4.html",
+        "collected_at": "2026-10-29T22:41:39+00:00",
+        "collected_at_source": "modified time of the saved file",
         "final_url": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
-        "status_code": 403,
+        "status_code": 200,
         "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403"
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/me/me-8f4cc7a9e4.html",
+        "sha256": "a0ce121368d3e440b0a3858f790ed314c06dc723eb4a46ae53b6950ee4043f90",
+        "bytes": 40717
     }
 ]

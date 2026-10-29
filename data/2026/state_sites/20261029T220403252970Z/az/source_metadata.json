@@ -1,13 +1,17 @@
 [
     {
         "requested_url": "https://azsos.gov/elections",
-        "capture_method": "requests",
-        "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-10-29T22:08:37+00:00",
+        "capture_method": "manual browser save",
+        "saved_file_name": "az-b0eb4315fa.html",
+        "collected_at": "2026-10-29T22:32:32+00:00",
+        "collected_at_source": "modified time of the saved file",
+        "canonical_url": "https://azsos.gov/elections",
         "final_url": "https://azsos.gov/elections",
-        "status_code": 403,
+        "status_code": 200,
         "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403"
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/az/az-b0eb4315fa.html",
+        "sha256": "deb203a329714a22c3e8cfbd0c517fd0d2aaa893f1120809cc0d25ce09a5ec6a",
+        "bytes": 250556
     }
 ]

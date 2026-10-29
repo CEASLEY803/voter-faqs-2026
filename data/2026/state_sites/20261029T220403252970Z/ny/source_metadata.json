@@ -1,13 +1,17 @@
 [
     {
         "requested_url": "https://elections.ny.gov/frequently-asked-questions",
-        "capture_method": "requests",
-        "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-10-29T22:09:45+00:00",
+        "capture_method": "manual browser save",
+        "saved_file_name": "ny-0f2ec9f10d.html",
+        "collected_at": "2026-10-29T22:40:57+00:00",
+        "collected_at_source": "modified time of the saved file",
+        "canonical_url": "https://elections.ny.gov/frequently-asked-questions",
         "final_url": "https://elections.ny.gov/frequently-asked-questions",
-        "status_code": 403,
+        "status_code": 200,
         "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403"
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ny/ny-0f2ec9f10d.html",
+        "sha256": "b54eb9281ce6890fe767c0c123f657f8cea74f176cac1c513244fd8da3559c91",
+        "bytes": 58852
     }
 ]

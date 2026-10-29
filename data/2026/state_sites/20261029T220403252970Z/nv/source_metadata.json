@@ -1,13 +1,16 @@
 [
     {
         "requested_url": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-        "capture_method": "requests",
-        "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-10-29T22:12:46+00:00",
+        "capture_method": "manual browser save",
+        "saved_file_name": "nv-d3bda4b7f7.html",
+        "collected_at": "2026-10-29T22:40:59+00:00",
+        "collected_at_source": "modified time of the saved file",
         "final_url": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
         "status_code": 200,
         "content_type": "text/html",
-        "status": "failed",
-        "error": "Bot-check page instead of content"
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nv/nv-d3bda4b7f7.html",
+        "sha256": "c1cfb880a8b3a45922cbff7a5778596eb0d9627e3f382b2c242a0646bd0d3e24",
+        "bytes": 217288
     }
 ]

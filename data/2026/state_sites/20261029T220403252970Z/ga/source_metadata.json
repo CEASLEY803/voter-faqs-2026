@@ -1,13 +1,17 @@
 [
     {
         "requested_url": "https://sos.ga.gov/page/elections-faq",
-        "capture_method": "requests",
-        "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-10-29T22:08:48+00:00",
+        "capture_method": "manual browser save",
+        "saved_file_name": "ga-f0e791c1f3.html",
+        "collected_at": "2026-10-29T22:26:52+00:00",
+        "collected_at_source": "modified time of the saved file",
+        "canonical_url": "https://sos.ga.gov/page/elections-faq",
         "final_url": "https://sos.ga.gov/page/elections-faq",
-        "status_code": 403,
+        "status_code": 200,
         "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403"
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ga/ga-f0e791c1f3.html",
+        "sha256": "275cf9158883511f68b1e865f3f925074600b8283aa7ed6fe15a9c0a88948411",
+        "bytes": 227372
     }
 ]

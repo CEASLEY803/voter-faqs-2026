@@ -1,26 +1,47 @@
 [
     {
         "requested_url": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
-        "capture_method": "requests",
-        "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-10-29T22:08:33+00:00",
-        "status": "failed",
-        "error": "SSLError: HTTPSConnectionPool(host='www.elections.alaska.gov', port=443): Max retries exceeded with url: /voter-information/absentee-and-early-voting/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
+        "capture_method": "manual browser save",
+        "saved_file_name": "ak-a060106e2b.html",
+        "collected_at": "2026-10-29T22:30:03+00:00",
+        "collected_at_source": "modified time of the saved file",
+        "canonical_url": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+        "final_url": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ak/ak-a060106e2b.html",
+        "sha256": "5e2b38b30ba234c942ac9cefc18e56f204e61ab2d7db10657f556b483338a5bb",
+        "bytes": 201181
     },
     {
         "requested_url": "https://www.elections.alaska.gov/military-overseas-and-college-voters/",
-        "capture_method": "requests",
-        "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-10-29T22:08:35+00:00",
-        "status": "failed",
-        "error": "SSLError: HTTPSConnectionPool(host='www.elections.alaska.gov', port=443): Max retries exceeded with url: /military-overseas-and-college-voters/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
+        "capture_method": "manual browser save",
+        "saved_file_name": "ak-0b3fea8b94.html",
+        "collected_at": "2026-10-29T22:30:37+00:00",
+        "collected_at_source": "modified time of the saved file",
+        "canonical_url": "https://www.elections.alaska.gov/voter-information/military-overseas-and-college-voters/",
+        "final_url": "https://www.elections.alaska.gov/military-overseas-and-college-voters/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ak/ak-0b3fea8b94.html",
+        "sha256": "306f6484d4df36602ffacdadb2f4a2c48eaad701edba6f6a4d26a4152e0d458b",
+        "bytes": 113576
     },
     {
         "requested_url": "https://www.elections.alaska.gov/voter-information/",
-        "capture_method": "requests",
-        "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-10-29T22:08:36+00:00",
-        "status": "failed",
-        "error": "SSLError: HTTPSConnectionPool(host='www.elections.alaska.gov', port=443): Max retries exceeded with url: /voter-information/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
+        "capture_method": "manual browser save",
+        "saved_file_name": "ak-f3b154ffc6.html",
+        "collected_at": "2026-10-29T22:30:57+00:00",
+        "collected_at_source": "modified time of the saved file",
+        "canonical_url": "https://www.elections.alaska.gov/voter-information/",
+        "final_url": "https://www.elections.alaska.gov/voter-information/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ak/ak-f3b154ffc6.html",
+        "sha256": "369508a7d4361a26daf7f65b823727150c4902c79a873124daa32658473c7bcc",
+        "bytes": 132904
     }
 ]
