@@ -50,7 +50,8 @@ hi,state,https://elections.hawaii.gov/voting/military-and-overseas-voters/,Addit
 hi,state,https://elections.hawaii.gov/voting/houseless-voter-2/,Additional 2024 state page (2 records)
 hi,state,https://elections.hawaii.gov/voting/college-students/,Additional 2024 state page (1 record)
 hi,vote411,https://www.vote411.org/hawaii,Vote411 state page used by the 2026 batches
-ia,state,https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html,Most-used 2024 state page (36 of 36 state-site records)
+ia,state,https://sos.iowa.gov/voters/military-and-overseas-civilian-voters,"Replaces the 2024 military and overseas voter FAQ (sos.iowa.gov/elections/voterinformation/uocava/faqs.html, 36 of 36 state-site records), which no longer exists on 2026-10-29; linked from the Elections & Voting page"
+ia,state,https://sos.iowa.gov/elections-and-voting-faqs,"Iowa's current general election FAQ, linked as Elections and Voting FAQ's from the Elections & Voting page on 2026-10-29; not used in 2024"
 ia,vote411,https://www.vote411.org/iowa,Vote411 state page used by the 2026 batches
 id,state,https://voteidaho.gov/frequently-asked-questions/,Most-used 2024 state page (37 of 37 state-site records)
 id,vote411,https://www.vote411.org/idaho,Vote411 state page used by the 2026 batches

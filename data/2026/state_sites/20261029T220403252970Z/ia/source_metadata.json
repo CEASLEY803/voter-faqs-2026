@@ -7,7 +7,37 @@
         "final_url": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
         "status_code": 403,
         "content_type": "text/html",
-        "status": "failed",
+        "status": "superseded",
         "error": "HTTP 403"
+    },
+    {
+        "requested_url": "https://sos.iowa.gov/voters/military-and-overseas-civilian-voters",
+        "capture_method": "manual browser save",
+        "saved_file_name": "ia-ec5164d8cc.html",
+        "collected_at": "2026-10-29T22:48:35+00:00",
+        "collected_at_source": "modified time of the saved file",
+        "canonical_url": "https://sos.iowa.gov/voters/military-and-overseas-civilian-voters",
+        "final_url": "https://sos.iowa.gov/voters/military-and-overseas-civilian-voters",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ia/ia-ec5164d8cc.html",
+        "sha256": "d63ef5805159d94a246d13b03a48d3649bfbbbf8412d93ba9055546dc419d8a1",
+        "bytes": 66461
+    },
+    {
+        "requested_url": "https://sos.iowa.gov/elections-and-voting-faqs",
+        "capture_method": "manual browser save",
+        "saved_file_name": "ia-cd22f0e9d9.html",
+        "collected_at": "2026-10-29T22:48:18+00:00",
+        "collected_at_source": "modified time of the saved file",
+        "canonical_url": "https://sos.iowa.gov/elections-and-voting-faqs",
+        "final_url": "https://sos.iowa.gov/elections-and-voting-faqs",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ia/ia-cd22f0e9d9.html",
+        "sha256": "102d39902ff99283bb5416d9da6ee557d8dcaaf5d643cff4e5fef05c944aa9d3",
+        "bytes": 59444
     }
 ]
