@@ -2,6 +2,7 @@
 
 import argparse
 from copy import deepcopy
+import csv
 from datetime import datetime, timezone
 import hashlib
 import json
@@ -14,9 +15,40 @@ import requests
 
 
 ROOT = Path(__file__).resolve().parent
-SC_URL = "https://scvotes.gov/voters/voter-faq/"
-VOTE411_URL = "https://www.vote411.org/south-carolina"
+SOURCES_CSV = ROOT / "sources.csv"
+WEBSITES = {"state", "vote411"}
 EXTRACTION_VERSION = 4
+
+
+def load_sources(path=SOURCES_CSV):
+    """Read (state, website, url) rows in file order; rows with a blank URL are skipped."""
+    sources = []
+    # utf-8-sig also accepts files saved by Excel, which start with a byte order mark.
+    with open(path, newline="", encoding="utf-8-sig") as file:
+        reader = csv.DictReader(file)
+        if not {"state", "website", "url"} <= set(reader.fieldnames or []):
+            raise ValueError(f"{path.name} needs state, website, and url columns.")
+        for line, row in enumerate(reader, start=2):
+            state, website, url = row["state"].strip().lower(), row["website"].strip().lower(), row["url"].strip()
+            if website not in WEBSITES:
+                raise ValueError(f"{path.name} line {line}: unknown website {row['website']!r}.")
+            if not url:
+                continue
+            if urlparse(url).scheme != "https":
+                raise ValueError(f"{path.name} line {line}: URL must start with https://.")
+            if (state, website, url) in sources:
+                raise ValueError(f"{path.name} line {line}: {state} {website} {url} is listed twice.")
+            sources.append((state, website, url))
+    return sources
+
+
+def source_urls(website, path=SOURCES_CSV):
+    """Return {state code: [urls]} for one website type, keeping file order."""
+    urls = {}
+    for state, row_website, url in load_sources(path):
+        if row_website == website:
+            urls.setdefault(state, []).append(url)
+    return urls
 
 
 def render_html(element):
@@ -225,8 +257,11 @@ def main():
         primary_page, primary_metadata = replay_page(saved_metadata["sources"][0], arguments.from_run, run_dir)
         secondary_page, secondary_metadata = replay_page(saved_metadata["sources"][1], arguments.from_run, run_dir)
     else:
-        primary_page, primary_metadata = fetch_page(SC_URL, run_dir / "scvotes.html")
-        secondary_page, secondary_metadata = fetch_page(VOTE411_URL, run_dir / "vote411-sc.html")
+        state_urls, vote411_urls = source_urls("state").get("sc", []), source_urls("vote411").get("sc", [])
+        if len(state_urls) != 1 or len(vote411_urls) != 1:
+            raise SystemExit("sources.csv must have exactly one sc state row and one sc vote411 row for this collector.")
+        primary_page, primary_metadata = fetch_page(state_urls[0], run_dir / "scvotes.html")
+        secondary_page, secondary_metadata = fetch_page(vote411_urls[0], run_dir / "vote411-sc.html")
     primary = parse_scvotes(primary_page, primary_metadata)
     secondary, supporting = parse_vote411(secondary_page, secondary_metadata)
     entries = primary + secondary

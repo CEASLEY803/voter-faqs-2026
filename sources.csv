@@ -1,0 +1,200 @@
+state,website,url,notes
+ak,state,https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/,Most-used 2024 state page (24 of 32 state-site records); 2024 drew from 3 state pages
+ak,state,https://www.elections.alaska.gov/military-overseas-and-college-voters/,Additional 2024 state page (5 records)
+ak,state,https://www.elections.alaska.gov/voter-information/,Additional 2024 state page (3 records)
+ak,vote411,https://www.vote411.org/alaska,Vote411 state page used by the 2026 batches
+al,state,https://www.sos.alabama.gov/alabama-votes/faqs,Most-used 2024 state page (20 of 20 state-site records)
+al,vote411,https://www.vote411.org/alabama,Vote411 state page used by the 2026 batches
+ar,state,https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information/,Most-used 2024 state page (4 of 4 state-site records)
+ar,vote411,https://www.vote411.org/arkansas,Vote411 state page used by the 2026 batches
+az,state,https://azsos.gov/elections,Most-used 2024 state page (13 of 13 state-site records)
+az,vote411,https://www.vote411.org/arizona,Vote411 state page used by the 2026 batches
+ca,state,https://www.sos.ca.gov/elections/frequently-asked-questions,Most-used 2024 state page (57 of 57 state-site records)
+ca,vote411,https://www.vote411.org/california,Vote411 state page used by the 2026 batches
+co,state,https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html,Most-used 2024 state page (22 of 22 state-site records)
+co,vote411,https://www.vote411.org/colorado,Vote411 state page used by the 2026 batches
+ct,state,https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter,"Most-used 2024 state page (7 of 37 state-site records); 2024 drew from 10 state pages; page removed, no replacement found on 2026-10-29"
+ct,state,https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet,Additional 2024 state page (6 records)
+ct,state,https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility,Additional 2024 state page (5 records)
+ct,state,https://portal.ct.gov/sots/election-services/voter-information/absentee-voting,Additional 2024 state page (4 records)
+ct,state,https://portal.ct.gov/sots/election-services/faq/faq---voter-identification,Additional 2024 state page (4 records)
+ct,state,https://portal.ct.gov/sots/election-services/voter-information/homeless-voter-fact-sheet,Additional 2024 state page (3 records)
+ct,state,https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote,Additional 2024 state page (3 records)
+ct,state,https://portal.ct.gov/sots/election-services/voter-information/voter-registration-information,Additional 2024 state page (2 records)
+ct,state,https://portal.ct.gov/sots/election-services/voter-information/party-affiliation,Additional 2024 state page (2 records)
+ct,state,https://portal.ct.gov/sots/election-services/election-day-registration/election-day-registration,Additional 2024 state page (1 record)
+ct,vote411,https://www.vote411.org/connecticut,Vote411 state page used by the 2026 batches
+de,state,https://elections.delaware.gov/voter/ExpressVoteXL.html,Replaces 2024 URL https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf (404 on 2026-10-29); new location found 2026-10-29 by a Claude research agent
+de,state,https://elections.delaware.gov/voter/VotingFAQ.html,Replaces 2024 URL https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf (404 on 2026-10-29); new location found 2026-10-29 by a Claude research agent
+de,state,https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf,"Additional 2024 state page (14 records); PDF, not HTML; page removed, no replacement found on 2026-10-29"
+de,state,https://elections.delaware.gov/voter/VoterRegistrationFAQ.html,Replaces 2024 URL https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf (404 on 2026-10-29); new location found 2026-10-29 by a Claude research agent
+de,state,https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html,Replaces 2024 URL https://elections.delaware.gov/voter/absentee/pdfs/Absentee%20Voting%20FAQs.pdf (404 on 2026-10-29); new location found 2026-10-29 by a Claude research agent
+de,state,https://elections.delaware.gov/voter/pdfs/Pollbook%20FAQs.pdf,"Additional 2024 state page (3 records); PDF, not HTML"
+de,vote411,https://www.vote411.org/delaware,Vote411 state page used by the 2026 batches
+fl,state,https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-voting/,Most-used 2024 state page (25 of 110 state-site records); 2024 drew from 8 state pages
+fl,state,https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-campaign-finance/,Additional 2024 state page (21 records)
+fl,state,https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-voter-registration/,Additional 2024 state page (16 records)
+fl,state,https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-minor-political-parties/,Additional 2024 state page (14 records)
+fl,state,https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-elections/,Additional 2024 state page (12 records)
+fl,state,https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-candidates/,Additional 2024 state page (9 records)
+fl,state,https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-political-committees/,Additional 2024 state page (8 records)
+fl,state,https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-campaign-advertising/,Additional 2024 state page (5 records)
+fl,vote411,https://www.vote411.org/florida,Vote411 state page used by the 2026 batches
+ga,state,https://sos.ga.gov/page/elections-faq,Most-used 2024 state page (50 of 50 state-site records)
+ga,vote411,https://www.vote411.org/georgia,Vote411 state page used by the 2026 batches
+hi,state,https://elections.hawaii.gov/voting/voting-in-hawaii/,Most-used 2024 state page (21 of 52 state-site records); 2024 drew from 7 state pages
+hi,state,https://elections.hawaii.gov/register-to-vote/registration/,Additional 2024 state page (14 records)
+hi,state,https://elections.hawaii.gov/voting/voters-with-a-felony-conviction/,Additional 2024 state page (6 records)
+hi,state,https://elections.hawaii.gov/voting/voters-requiring-assistance/,Additional 2024 state page (5 records)
+hi,state,https://elections.hawaii.gov/voting/military-and-overseas-voters/,Additional 2024 state page (3 records)
+hi,state,https://elections.hawaii.gov/voting/houseless-voter-2/,Additional 2024 state page (2 records)
+hi,state,https://elections.hawaii.gov/voting/college-students/,Additional 2024 state page (1 record)
+hi,vote411,https://www.vote411.org/hawaii,Vote411 state page used by the 2026 batches
+ia,state,https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html,Most-used 2024 state page (36 of 36 state-site records)
+ia,vote411,https://www.vote411.org/iowa,Vote411 state page used by the 2026 batches
+id,state,https://voteidaho.gov/frequently-asked-questions/,Most-used 2024 state page (37 of 37 state-site records)
+id,vote411,https://www.vote411.org/idaho,Vote411 state page used by the 2026 batches
+il,state,https://www.elections.il.gov/Main/FAQ.aspx,"URL from search results; page saved by the collector on 2026-10-29, found 2026-10-29 by a Claude research agent; 2024 used Vote411 only; no state-site source to start from"
+il,vote411,https://www.vote411.org/illinois,Vote411 state page used by the 2026 batches
+in,state,https://www.in.gov/idr/hoosiers-vote/voting-faqs/,"Most-used 2024 page was vote.indy.gov (Marion County); this is the statewide page 2024 also used; page removed, no replacement found on 2026-10-29"
+in,state,https://www.in.gov/sos/elections/voter-information/register-to-vote/,Additional 2024 state page (4 records)
+in,state,https://www.in.gov/sos/elections/voter-information/ways-to-vote/absentee-voting/,Additional 2024 state page (4 records)
+in,state,https://www.in.gov/sos/elections/voter-information/ways-to-vote/provisional-ballots/,Additional 2024 state page (3 records)
+in,state,https://www.in.gov/idr/hoosiers-vote/register/,"Additional 2024 state page (1 record); page removed, no replacement found on 2026-10-29"
+in,vote411,https://www.vote411.org/indiana,Vote411 state page used by the 2026 batches
+ks,state,https://www.sos.ks.gov/elections/election-faq.html,Most-used 2024 state page (24 of 24 state-site records)
+ks,vote411,https://www.vote411.org/kansas,Vote411 state page used by the 2026 batches
+ky,state,https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx,Most-used 2024 state page (11 of 34 state-site records); 2024 drew from 5 state pages
+ky,state,https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx,Additional 2024 state page (10 records)
+ky,state,https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx,Additional 2024 state page (9 records)
+ky,state,https://elect.ky.gov/Voters/Pages/Voter-Rights.aspx,Additional 2024 state page (3 records)
+ky,state,https://elect.ky.gov/Voters/Pages/Military-or-Overseas-Voters.aspx,Additional 2024 state page (1 record)
+ky,vote411,https://www.vote411.org/kentucky,Vote411 state page used by the 2026 batches
+la,state,https://sos.la.gov/elections-voting/voter-registration-faqs,Replaces 2024 URL https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote (404 on 2026-10-29); new location found 2026-10-29 by a Claude research agent
+la,state,https://sos.la.gov/elections-voting/absentee-voting-faqs,Replaces 2024 URL https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail (404 on 2026-10-29); new location found 2026-10-29 by a Claude research agent
+la,state,https://sos.la.gov/elections-voting/voting-early-faqs,Replaces 2024 URL https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly (404 on 2026-10-29); new location found 2026-10-29 by a Claude research agent
+la,state,https://sos.la.gov/elections-voting/voting-on-election-day-faqs,Replaces 2024 URL https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay (404 on 2026-10-29); new location found 2026-10-29 by a Claude research agent
+la,state,https://sos.la.gov/elections-voting/provisional-voting-faqs,Replaces 2024 URL https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally (404 on 2026-10-29); new location found 2026-10-29 by a Claude research agent
+la,vote411,https://www.vote411.org/louisiana,Vote411 state page used by the 2026 batches
+ma,state,,"2024 recorded the source as the text 'Voting-Mass.gov', not a URL"
+ma,vote411,https://www.vote411.org/massachusetts,Vote411 state page used by the 2026 batches
+md,state,https://elections.maryland.gov/voting/index.html,Most-used 2024 state page (23 of 23 state-site records)
+md,vote411,https://www.vote411.org/maryland,Vote411 state page used by the 2026 batches
+me,state,https://www.maine.gov/portal/government/edemocracy/elections_faq.html,Most-used 2024 state page (33 of 33 state-site records)
+me,vote411,https://www.vote411.org/maine,Vote411 state page used by the 2026 batches
+mi,state,https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting,Most-used 2024 state page (73 of 159 state-site records); 2024 drew from 7 state pages
+mi,state,https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting,Additional 2024 state page (24 records)
+mi,state,https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center,Additional 2024 state page (24 records)
+mi,state,https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote,Additional 2024 state page (17 records)
+mi,state,https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting,Additional 2024 state page (9 records)
+mi,state,https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot,Additional 2024 state page (7 records)
+mi,state,https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/campaign-finance-and-lobby-disclosure,"Additional 2024 state page (5 records); page removed, no replacement found on 2026-10-29"
+mi,vote411,https://www.vote411.org/michigan,Vote411 state page used by the 2026 batches
+mn,state,https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail/,Most-used 2024 state page (13 of 55 state-site records); 2024 drew from 10 state pages; site moved from www.sos.state.mn.us to www.sos.mn.gov (same path)
+mn,state,https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/,Additional 2024 state page (10 records); site moved from sos.state.mn.us to www.sos.mn.gov (same path)
+mn,state,https://www.sos.mn.gov/elections-voting/register-to-vote/common-registration-questions/,Additional 2024 state page (9 records); site moved from sos.state.mn.us to www.sos.mn.gov (same path)
+mn,state,https://www.sos.mn.gov/elections-voting/register-to-vote/im-a-college-student/,Additional 2024 state page (7 records); site moved from sos.state.mn.us to www.sos.mn.gov (same path)
+mn,state,https://www.sos.mn.gov/elections-voting/register-to-vote/automatic-voter-registration/,Additional 2024 state page (5 records); site moved from sos.state.mn.us to www.sos.mn.gov (same path)
+mn,state,https://www.sos.mn.gov/elections-voting/register-to-vote/im-in-a-residential-facility/,Additional 2024 state page (3 records); site moved from sos.state.mn.us to www.sos.mn.gov (same path)
+mn,state,https://www.sos.mn.gov/elections-voting/register-to-vote/i-have-a-criminal-record/,Additional 2024 state page (3 records); site moved from sos.state.mn.us to www.sos.mn.gov (same path)
+mn,state,https://www.sos.mn.gov/elections-voting/register-to-vote/im-homeless/,Additional 2024 state page (2 records); site moved from sos.state.mn.us to www.sos.mn.gov (same path)
+mn,state,https://www.sos.mn.gov/elections-voting/register-to-vote/i-fear-for-my-personal-safety/,Additional 2024 state page (2 records); site moved from sos.state.mn.us to www.sos.mn.gov (same path)
+mn,state,https://www.sos.mn.gov/elections-voting/register-to-vote/,Additional 2024 state page (1 record); site moved from sos.state.mn.us to www.sos.mn.gov (same path)
+mn,vote411,https://www.vote411.org/minnesota,Vote411 state page used by the 2026 batches
+mo,state,https://www.sos.mo.gov/elections/goVoteMissouri/electionday,Most-used 2024 state page (7 of 24 state-site records); 2024 drew from 4 state pages
+mo,state,https://www.sos.mo.gov/elections/goVoteMissouri/votereg,Additional 2024 state page (6 records)
+mo,state,https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions,Additional 2024 state page (6 records)
+mo,state,https://www.sos.mo.gov/elections/goVoteMissouri/votingrights,Additional 2024 state page (5 records)
+mo,vote411,https://www.vote411.org/missouri,Vote411 state page used by the 2026 batches
+ms,state,https://www.sos.ms.gov/elections-voting/election-faqs,Replaces 2024 URL https://www.sos.ms.gov/index.php/elections-voting/faqs (404 on 2026-10-29); new location found 2026-10-29 by a Claude research agent
+ms,vote411,https://www.vote411.org/mississippi,Vote411 state page used by the 2026 batches
+mt,state,https://sosmt.gov/elections/faq/,Most-used 2024 state page (13 of 13 state-site records)
+mt,vote411,https://www.vote411.org/montana,Vote411 state page used by the 2026 batches
+nc,state,https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail,Most-used 2024 state page (35 of 88 state-site records); 2024 drew from 11 state pages
+nc,state,https://www.ncsbe.gov/voting/military-and-overseas-voting/faq,Additional 2024 state page (16 records)
+nc,state,https://www.ncsbe.gov/registering/faq-voter-registration,Additional 2024 state page (14 records)
+nc,state,https://www.ncsbe.gov/voting/voter-id/faq-voter-id,Additional 2024 state page (7 records)
+nc,state,https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting,Additional 2024 state page (6 records)
+nc,state,https://www.ncsbe.gov/registering/national-voter-registration-act-nvra,Additional 2024 state page (4 records)
+nc,state,https://www.ncsbe.gov/registering/how-register/voter-registration-deadlines,Additional 2024 state page (2 records)
+nc,state,https://www.ncsbe.gov/candidates/filing-candidacy,Additional 2024 state page (1 record)
+nc,state,https://www.ncsbe.gov/about-elections/electoral-college,Additional 2024 state page (1 record)
+nc,state,https://www.ncsbe.gov/voting/vote-early-person,Additional 2024 state page (1 record)
+nc,state,https://www.ncsbe.gov/voting/vote-person-election-day,Additional 2024 state page (1 record)
+nc,vote411,https://www.vote411.org/north-carolina,Vote411 state page used by the 2026 batches
+nd,state,https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/military-and-overseas-us-citizens,Most-used 2024 state page (8 of 28 state-site records); 2024 drew from 6 state pages
+nd,state,https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote,Additional 2024 state page (6 records)
+nd,state,https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/absentee-voting,Additional 2024 state page (6 records)
+nd,state,https://www.sos.nd.gov/elections/voter/voting-north-dakota/forms-voter-id,Additional 2024 state page (5 records)
+nd,state,https://www.sos.nd.gov/elections/voter/voting-north-dakota,Additional 2024 state page (2 records)
+nd,state,https://www.sos.nd.gov/elections/voter/voting-north-dakota/where-do-i-vote,Additional 2024 state page (1 record)
+nd,vote411,https://www.vote411.org/north-dakota,Vote411 state page used by the 2026 batches
+ne,state,https://sos.nebraska.gov/elections/election-day-faq,Most-used 2024 state page (10 of 10 state-site records)
+ne,vote411,https://www.vote411.org/nebraska,Vote411 state page used by the 2026 batches
+nh,state,https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters,Most-used 2024 state page (10 of 34 state-site records); 2024 drew from 5 state pages
+nh,state,https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries,Additional 2024 state page (8 records)
+nh,state,https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote,Additional 2024 state page (7 records)
+nh,state,https://www.sos.nh.gov/elections/frequently-asked-questions/voters-disabilities,Additional 2024 state page (5 records)
+nh,state,https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law,Additional 2024 state page (4 records)
+nh,vote411,https://www.vote411.org/new-hampshire,Vote411 state page used by the 2026 batches
+nj,state,https://www.nj.gov/state/elections/vote-faq.shtml,Most-used 2024 state page (33 of 33 state-site records)
+nj,vote411,https://www.vote411.org/new-jersey,Vote411 state page used by the 2026 batches
+nm,state,https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/,"Confirmed Q&A page, found 2026-10-29 by a Claude research agent; 2024 file has no records"
+nm,state,https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/,"Confirmed Q&A page, found 2026-10-29 by a Claude research agent; 2024 file has no records"
+nm,state,https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/,"Sub-page of the NM voting FAQ hub, found 2026-10-29 by a Claude research agent, not yet confirmed; 2024 file has no records"
+nm,state,https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/,"Sub-page of the NM voting FAQ hub, found 2026-10-29 by a Claude research agent, not yet confirmed; 2024 file has no records"
+nm,state,https://www.sos.nm.gov/voting-and-elections/voting-faqs/early-voting-in-person/,"Sub-page of the NM voting FAQ hub, found 2026-10-29 by a Claude research agent, not yet confirmed; 2024 file has no records"
+nm,state,https://www.sos.nm.gov/voting-and-elections/voting-faqs/provisional-voting/,"Sub-page of the NM voting FAQ hub, found 2026-10-29 by a Claude research agent, not yet confirmed; 2024 file has no records"
+nm,state,https://www.sos.nm.gov/voting-and-elections/voting-faqs/military-and-overseas-voters/,"Sub-page of the NM voting FAQ hub, found 2026-10-29 by a Claude research agent, not yet confirmed; 2024 file has no records"
+nm,state,https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/,"Sub-page of the NM voting FAQ hub, found 2026-10-29 by a Claude research agent, not yet confirmed; 2024 file has no records"
+nm,state,https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/,"Sub-page of the NM voting FAQ hub, found 2026-10-29 by a Claude research agent, not yet confirmed; 2024 file has no records"
+nm,vote411,https://www.vote411.org/new-mexico,Vote411 state page used by the 2026 batches
+nv,state,https://www.nvsos.gov/sos/elections/election-resources/faqs,Most-used 2024 state page (79 of 79 state-site records)
+nv,vote411,https://www.vote411.org/nevada,Vote411 state page used by the 2026 batches
+ny,state,https://elections.ny.gov/frequently-asked-questions,Most-used 2024 state page (20 of 20 state-site records)
+ny,vote411,https://www.vote411.org/new-york,Vote411 state page used by the 2026 batches
+oh,state,https://www.ohiosos.gov/elections/frequently-asked-questions,"Not confirmed: site blocks scripted requests; URL from search results, found 2026-10-29 by a Claude research agent; 2024 used ohiovoterrights.org, which is not the state election site"
+oh,vote411,https://www.vote411.org/ohio,Vote411 state page used by the 2026 batches
+ok,state,https://oklahoma.gov/elections/faqs.html,Most-used 2024 state page (51 of 89 state-site records); 2024 drew from 3 state pages
+ok,state,https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html,Additional 2024 state page (20 records)
+ok,state,https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html,Additional 2024 state page (18 records)
+ok,vote411,https://www.vote411.org/oklahoma,Vote411 state page used by the 2026 batches
+or,state,https://sos.oregon.gov/elections/Pages/faq.aspx,Most-used 2024 state page (19 of 19 state-site records)
+or,vote411,https://www.vote411.org/oregon,Vote411 state page used by the 2026 batches
+pa,state,https://www.pa.gov/en/agencies/vote/voter-support/elections-faqs,Most-used 2024 state page (34 of 34 state-site records)
+pa,vote411,https://www.vote411.org/pennsylvania,Vote411 state page used by the 2026 batches
+ri,state,https://vote.sos.ri.gov/Elections/Administration,Most-used 2024 state page (9 of 17 state-site records); 2024 drew from 2 state pages
+ri,state,https://vote.sos.ri.gov/Voter/VoterFaq,Additional 2024 state page (8 records)
+ri,vote411,https://www.vote411.org/rhode-island,Vote411 state page used by the 2026 batches
+sc,state,https://scvotes.gov/voters/voter-faq/,Most-used 2024 state page (23 of 23 state-site records)
+sc,vote411,https://www.vote411.org/south-carolina,Vote411 state page used by the 2026 batches
+sd,state,https://sdsos.gov/elections-voting/upcoming-elections/Myths-vs-Facts-and-FAQS/faqs.aspx,Replaces 2024 URL https://sdsos.gov/elections-voting/upcoming-elections/faqs.aspx (404 on 2026-10-29); new location found 2026-10-29 by a Claude research agent
+sd,vote411,https://www.vote411.org/south-dakota,Vote411 state page used by the 2026 batches
+tn,state,https://sos.tn.gov/elections/faqs,Most-used 2024 state page (50 of 50 state-site records)
+tn,vote411,https://www.vote411.org/tennessee,Vote411 state page used by the 2026 batches
+tx,state,https://www.votetexas.gov/faq/index.html,Most-used 2024 state page (69 of 69 state-site records)
+tx,vote411,https://www.vote411.org/texas,Vote411 state page used by the 2026 batches
+ut,state,https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/,"Confirmed Q&A page (no page titled FAQ exists), found 2026-10-29 by a Claude research agent; 2024 used utahcounty.gov, a county page, not the state election site"
+ut,state,https://vote.utah.gov/learn-about-registering-to-vote/,"Confirmed Q&A page (no page titled FAQ exists), found 2026-10-29 by a Claude research agent; 2024 used utahcounty.gov, a county page, not the state election site"
+ut,state,https://vote.utah.gov/voter-registration-portal/,"Confirmed Q&A page (no page titled FAQ exists), found 2026-10-29 by a Claude research agent; 2024 used utahcounty.gov, a county page, not the state election site"
+ut,vote411,https://www.vote411.org/utah,Vote411 state page used by the 2026 batches
+va,state,https://www.elections.virginia.gov/registration/election-voter-faq/,Most-used 2024 state page (19 of 19 state-site records)
+va,vote411,https://www.vote411.org/virginia,Vote411 state page used by the 2026 batches
+vt,state,https://sos.vermont.gov/elections/voters/voter-faqs/,Most-used 2024 state page (13 of 13 state-site records)
+vt,vote411,https://www.vote411.org/vermont,Vote411 state page used by the 2026 batches
+wa,state,https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail,Most-used 2024 state page (13 of 51 state-site records); 2024 drew from 8 state pages
+wa,state,https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program,Additional 2024 state page (10 records)
+wa,state,https://www.sos.wa.gov/elections/voters/helpful-information/top-2-primary-faqs-voters,Additional 2024 state page (10 records)
+wa,state,https://www.sos.wa.gov/elections/voters/helpful-information/voting-assisted-living-facilities,Additional 2024 state page (7 records)
+wa,state,https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters,Additional 2024 state page (5 records)
+wa,state,https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voters-disabilities,Additional 2024 state page (3 records)
+wa,state,https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/felony-convictions-and-voting-rights,Additional 2024 state page (2 records)
+wa,state,https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voter-eligibility,Additional 2024 state page (1 record)
+wa,vote411,https://www.vote411.org/washington,Vote411 state page used by the 2026 batches
+wi,state,https://elections.wi.gov/faq,"Not confirmed: site blocks scripted requests; URL from search results, found 2026-10-29 by a Claude research agent; 2024 recorded only the domain 'elections.wi.gov', not a page URL"
+wi,state,https://elections.wi.gov/news-events/wisconsins-election-faqs,"Not confirmed: site blocks scripted requests; URL from search results, found 2026-10-29 by a Claude research agent; 2024 recorded only the domain 'elections.wi.gov', not a page URL"
+wi,vote411,https://www.vote411.org/wisconsin,Vote411 state page used by the 2026 batches
+wv,state,https://sos.wv.gov/elections/Pages/FAQs.aspx,Most-used 2024 state page (52 of 52 state-site records)
+wv,vote411,https://www.vote411.org/west-virginia,Vote411 state page used by the 2026 batches
+wy,state,https://sos.wyo.gov/faqs.aspx?root=ELEC,Most-used 2024 state page (49 of 49 state-site records)
+wy,vote411,https://www.vote411.org/wyoming,Vote411 state page used by the 2026 batches

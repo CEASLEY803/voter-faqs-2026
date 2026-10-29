@@ -90,3 +90,23 @@ From this entry on, coding assistance comes from Claude Code instead of Codex. E
 User prompts, verbatim:
 
 Coding assistance: a read-only review of the repository (code, data folders, batch manifests, validation reports, and the original pilot folder) to summarize what is done and what remains. No code or data was changed during the review. This entry was added at the user's request.
+
+## October 29, 2026: source URLs moved into sources.csv
+
+User request, verbatim:
+
+> I want to get the URL's organized first. Can we switch to using a CSV to control that?
+>
+> so like it has the state, the website, and the URL in a row? two rows per website for state/vote411 so that way in the future someone can just open the CSV and swap out the URL
+
+Coding assistance: create `sources.csv` with one `state` row and one `vote411` row per state (100 rows) and a `notes` column recording where each URL came from. Vote411 URLs are the ones the existing batches used. State URLs start from the official state page that supplied the most 2024 records. Six state rows (IL, MA, NM, OH, UT, WI) are left blank because the 2024 data gives no usable official URL. Add `load_sources()` to `collect_sc.py`, and change `collect_sc.py`, `collect_vote411.py`, and `validate_vote411_batch.py` to read URLs from the CSV instead of hard-coded values. Checks: CSV Vote411 URLs match the latest batch's requested URLs, a replay of the latest batch produces byte-identical outputs and passes validation, and malformed CSV rows are rejected. A request to each state URL found six that return a 404 page (CT, DE, IN, LA, MS, SD), which are flagged in `notes`. The README was not edited. Model information is the same as the October 26 entry.
+
+## October 29, 2026: state election site snapshots
+
+User request, verbatim:
+
+> we need all of the individual state websites now, elections are happening soon so id like to avoid partially updated data
+
+Scope choice supplied by the user when asked how many pages to save per state: "All 2024 pages".
+
+Coding assistance: allow several `state` rows per state in `sources.csv` and add every official state page the 2024 data used (excluding a county site and a League of Women Voters page). Make `load_sources()` accept CSV files saved by Excel (byte order mark). Add `snapshot_state_sites.py`, which saves exact page bytes with timestamps and checksums into one batch under `data/2026/state_sites/`, records failures (HTTP errors, redirects to 404 pages or other sites) instead of stopping, and can continue an existing batch. A Claude research subagent searched for current URLs for the 12 states with blank or dead rows; its confirmed pages, and three unconfirmed search results for IL, OH, and WI, were added to `sources.csv` with notes saying so. A test of capturing blocked sites through a browser was stopped by Claude Code's safety check as bot-check circumvention and was not used; the import option written for that test was removed before committing. A first version of the bot-check-page filter was too broad and deleted 20 real, uncommitted snapshots (CA, HI, ID, IL, MS, NJ, WA); they were downloaded again minutes later, and their recorded collection times are the times of the second download. The README was not edited. Model information is the same as the October 26 entry.

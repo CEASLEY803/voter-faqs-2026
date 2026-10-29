@@ -5,33 +5,24 @@ from datetime import datetime, timezone
 import json
 from pathlib import Path
 import time
+from urllib.parse import urlparse
 
 import requests
 
-from collect_sc import EXTRACTION_VERSION, ROOT, fetch_page, parse_vote411, replay_page, validate_dataset, validate_records
+from collect_sc import EXTRACTION_VERSION, ROOT, fetch_page, parse_vote411, replay_page, source_urls, validate_dataset, validate_records
 
 
-STATE_SLUGS = {
-    "ak": "alaska", "al": "alabama", "ar": "arkansas", "az": "arizona",
-    "ca": "california", "co": "colorado", "ct": "connecticut", "de": "delaware",
-    "fl": "florida", "ga": "georgia", "hi": "hawaii", "ia": "iowa",
-    "id": "idaho", "il": "illinois", "in": "indiana", "ks": "kansas",
-    "ky": "kentucky", "la": "louisiana", "ma": "massachusetts", "md": "maryland",
-    "me": "maine", "mi": "michigan", "mn": "minnesota", "mo": "missouri",
-    "ms": "mississippi", "mt": "montana", "nc": "north-carolina", "nd": "north-dakota",
-    "ne": "nebraska", "nh": "new-hampshire", "nj": "new-jersey", "nm": "new-mexico",
-    "nv": "nevada", "ny": "new-york", "oh": "ohio", "ok": "oklahoma",
-    "or": "oregon", "pa": "pennsylvania", "ri": "rhode-island", "sc": "south-carolina",
-    "sd": "south-dakota", "tn": "tennessee", "tx": "texas", "ut": "utah",
-    "va": "virginia", "vt": "vermont", "wa": "washington", "wi": "wisconsin",
-    "wv": "west-virginia", "wy": "wyoming",
-}
+def vote411_urls():
+    """Return {state code: Vote411 URL} in sources.csv order; each state needs exactly one."""
+    urls = source_urls("vote411")
+    repeated = [state for state, state_urls in urls.items() if len(state_urls) > 1]
+    if repeated:
+        raise ValueError(f"sources.csv has more than one vote411 row for: {', '.join(repeated)}")
+    return {state: state_urls[0] for state, state_urls in urls.items()}
 
 
-def collect_state(state, contributor, batch_dir=None, original_run=None):
+def collect_state(state, url, contributor, batch_dir=None, original_run=None):
     """Keep one state's source snapshot and validated outputs in a separate run."""
-    slug = STATE_SLUGS[state]
-    url = f"https://www.vote411.org/{slug}"
     run_id = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S%fZ")
     if batch_dir is None:
         run_dir = ROOT / "data" / "2026" / "runs" / run_id
@@ -89,9 +80,11 @@ def collect_state(state, contributor, batch_dir=None, original_run=None):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    accepted_states = list(STATE_SLUGS) + list(STATE_SLUGS.values())
+    urls = vote411_urls()
+    codes_by_slug = {urlparse(url).path.strip("/"): code for code, url in urls.items()}
+    accepted_states = list(urls) + list(codes_by_slug)
     parser.add_argument("states", nargs="*", help="State codes or full URL slugs")
-    parser.add_argument("--all", action="store_true", help="Collect all 50 US states")
+    parser.add_argument("--all", action="store_true", help="Collect every state with a Vote411 row in sources.csv")
     parser.add_argument("--from-batch", type=Path, help="Reprocess saved batch sources without downloading")
     parser.add_argument("--contributor", default="Cole Easley")
     arguments = parser.parse_args()
@@ -102,9 +95,8 @@ def main():
     for state in arguments.states:
         if state not in accepted_states:
             parser.error(f"Unsupported state: {state}")
-    codes_by_slug = {slug: code for code, slug in STATE_SLUGS.items()}
     if arguments.all:
-        states = list(STATE_SLUGS)
+        states = list(urls)
     else:
         states = list(dict.fromkeys(codes_by_slug.get(state, state) for state in arguments.states))
     run_id = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S%fZ")
@@ -118,7 +110,7 @@ def main():
             time.sleep(1)
         try:
             original_run = (ROOT / arguments.from_batch / state).resolve() if arguments.from_batch else None
-            run_dir = collect_state(state, arguments.contributor, batch_dir, original_run)
+            run_dir = collect_state(state, urls[state], arguments.contributor, batch_dir, original_run)
             metadata = json.loads((run_dir / "collection_metadata.json").read_text(encoding="utf-8"))
             manifest["results"][state] = {
                 "status": "success", "directory": run_dir.relative_to(ROOT).as_posix(),
