@@ -78,3 +78,15 @@ Fix request, verbatim:
 > And definitely add the MIT license
 
 Coding assistance: inspect collection and validation code, reproduce appended SC navigation URLs and lost nested-container paragraph boundaries, then implement separate question link handling and explicit container boundaries. Add the root MIT license with the student's copyright notice, preserve upstream licensing, and reprocess saved sources into version-4 outputs. Update validation for intentionally omitted question destinations and verify answer-link retention, formatting, source hashes, and original collection times. Model information is the same as recorded above. No push was performed.
+
+## October 26, 2026: switch from Codex to Claude Code
+
+From this entry on, coding assistance comes from Claude Code instead of Codex. Entries above this one used the Codex model recorded in the first entry. Entries below this one use the model recorded here unless they say otherwise.
+
+- Tool: Claude Code, run from the Code tab of the Claude desktop app.
+- Model information: Claude Opus 5.5, model ID `claude-opus-5-5`, as stated in the session's environment information. Verify against the app or a conversation export before final disclosure.
+- Scope: carry on the existing coding work. The project instructions in `AGENTS.md` still apply.
+
+User prompts, verbatim:
+
+Coding assistance: a read-only review of the repository (code, data folders, batch manifests, validation reports, and the original pilot folder) to summarize what is done and what remains. No code or data was changed during the review. This entry was added at the user's request.
