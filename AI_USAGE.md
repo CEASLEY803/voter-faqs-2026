@@ -85,7 +85,7 @@ From this entry on, coding assistance comes from Claude Code instead of Codex. E
 
 - Tool: Claude Code, run from the Code tab of the Claude desktop app.
 - Model information: Claude Opus 5.5, model ID `claude-opus-5-5`, as stated in the session's environment information. Verify against the app or a conversation export before final disclosure.
-- Scope: carry on the existing coding work. The project instructions in `AGENTS.md` still apply.
+- Scope: carry on the existing coding work.
 
 User prompts, verbatim:
 
