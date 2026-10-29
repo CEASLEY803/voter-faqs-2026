@@ -1,0 +1,41 @@
+[
+    {
+        "requested_url": "https://oklahoma.gov/elections/faqs.html",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:07:05+00:00",
+        "final_url": "https://oklahoma.gov/elections/faqs.html",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ok/ok-4a445ff989.html",
+        "sha256": "64eca75451b5f5c12e5b022db8b239cf633fa94a4c52dff493d63da182e90c28",
+        "bytes": 362245
+    },
+    {
+        "requested_url": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:07:07+00:00",
+        "final_url": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ok/ok-50be7ea644.html",
+        "sha256": "955c13b6f7c9db1465a5b3c952613f8f671d82951cccf069b46658ada999d933",
+        "bytes": 189457
+    },
+    {
+        "requested_url": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:07:08+00:00",
+        "final_url": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ok/ok-6923749d24.html",
+        "sha256": "91b4b7057b70854411e25927ec17b54bc538d848ba728f69776e510ec6bb6011",
+        "bytes": 158561
+    }
+]

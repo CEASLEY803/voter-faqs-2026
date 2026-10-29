@@ -1,0 +1,67 @@
+[
+    {
+        "requested_url": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:23+00:00",
+        "final_url": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ky/ky-3c141b7b15.html",
+        "sha256": "5ee68706227d77bafb396e89319d112b6185e9bbc77423910da7914bfc0c9493",
+        "bytes": 81555
+    },
+    {
+        "requested_url": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:25+00:00",
+        "final_url": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ky/ky-6f5e083c5e.html",
+        "sha256": "7c95724490077cab72dc6c6ea1f1d83e361cf433acf1918d8c0b38cec5ce03b5",
+        "bytes": 89571
+    },
+    {
+        "requested_url": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:27+00:00",
+        "final_url": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ky/ky-8e8c0e8d57.html",
+        "sha256": "698b7554f3aa796183827af92efa3ee27fabc91fb6806adf1d6091db3e831aeb",
+        "bytes": 81735
+    },
+    {
+        "requested_url": "https://elect.ky.gov/Voters/Pages/Voter-Rights.aspx",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:29+00:00",
+        "final_url": "https://elect.ky.gov/Voters/Pages/Voter-Rights.aspx",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ky/ky-fb2fb86be8.html",
+        "sha256": "5548ddbc691d2a9f4e03843e54f86caa7b6ef5b561949a6bb90d14ee91387447",
+        "bytes": 85040
+    },
+    {
+        "requested_url": "https://elect.ky.gov/Voters/Pages/Military-or-Overseas-Voters.aspx",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:30+00:00",
+        "final_url": "https://elect.ky.gov/Voters/Pages/Military-or-Overseas-Voters.aspx",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ky/ky-f48c4ff2c8.html",
+        "sha256": "951a94e8868b425037d139d96c95f1e62e7da377e144e936461e5b11771724d6",
+        "bytes": 89836
+    }
+]

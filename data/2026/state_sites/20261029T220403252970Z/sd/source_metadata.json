@@ -1,0 +1,26 @@
+[
+    {
+        "requested_url": "https://sdsos.gov/elections-voting/upcoming-elections/faqs.aspx",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:07:18+00:00",
+        "final_url": "https://sdsos.gov/404.aspx?aspxerrorpath=/elections-voting/upcoming-elections/faqs.aspx",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to a 404 page"
+    },
+    {
+        "requested_url": "https://sdsos.gov/elections-voting/upcoming-elections/Myths-vs-Facts-and-FAQS/faqs.aspx",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:51+00:00",
+        "final_url": "https://sdsos.gov/elections-voting/upcoming-elections/Myths-vs-Facts-and-FAQS/faqs.aspx",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/sd/sd-097af7c58d.html",
+        "sha256": "27324faa846cef211cb8188108787d95c7ebada046359ed7044fb77c865b45c3",
+        "bytes": 98968
+    }
+]

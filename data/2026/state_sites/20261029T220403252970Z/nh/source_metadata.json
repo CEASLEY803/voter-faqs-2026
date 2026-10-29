@@ -1,0 +1,57 @@
+[
+    {
+        "requested_url": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:27+00:00",
+        "final_url": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+        "status_code": 403,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 403"
+    },
+    {
+        "requested_url": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:28+00:00",
+        "final_url": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+        "status_code": 403,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 403"
+    },
+    {
+        "requested_url": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:30+00:00",
+        "final_url": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+        "status_code": 403,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 403"
+    },
+    {
+        "requested_url": "https://www.sos.nh.gov/elections/frequently-asked-questions/voters-disabilities",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:31+00:00",
+        "final_url": "https://www.sos.nh.gov/elections/frequently-asked-questions/voters-disabilities",
+        "status_code": 403,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 403"
+    },
+    {
+        "requested_url": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:32+00:00",
+        "final_url": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+        "status_code": 403,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 403"
+    }
+]

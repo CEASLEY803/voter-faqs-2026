@@ -1,0 +1,15 @@
+[
+    {
+        "requested_url": "https://sos.vermont.gov/elections/voters/voter-faqs/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:07:24+00:00",
+        "final_url": "https://sos.vermont.gov/elections/voters/voter-faqs",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/vt/vt-fe5b96b6fc.html",
+        "sha256": "8714f995074aff9195cc9722de6839740dd589430480fb2e0956483c8a68eeea",
+        "bytes": 40733
+    }
+]

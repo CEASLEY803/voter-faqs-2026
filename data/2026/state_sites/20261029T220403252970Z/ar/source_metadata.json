@@ -1,0 +1,15 @@
+[
+    {
+        "requested_url": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:04:08+00:00",
+        "final_url": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ar/ar-2672269c98.html",
+        "sha256": "99f0931eeefe0592e2671b1469e5b09df2236754b9f70f82db7e5a5e114f6f40",
+        "bytes": 102993
+    }
+]

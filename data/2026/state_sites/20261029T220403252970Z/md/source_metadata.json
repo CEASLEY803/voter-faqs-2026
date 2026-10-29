@@ -1,0 +1,15 @@
+[
+    {
+        "requested_url": "https://elections.maryland.gov/voting/index.html",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:42+00:00",
+        "final_url": "https://elections.maryland.gov/voting/index.html",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/md/md-041b9dbe58.html",
+        "sha256": "e97c903164721b23ae3edfdbe5eedce6e20b6e64d3a2321f124d5d0fffa36dab",
+        "bytes": 23231
+    }
+]

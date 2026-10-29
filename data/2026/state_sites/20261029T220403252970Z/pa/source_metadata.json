@@ -1,0 +1,15 @@
+[
+    {
+        "requested_url": "https://www.pa.gov/en/agencies/vote/voter-support/elections-faqs",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:07:11+00:00",
+        "final_url": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/pa/pa-2b90a45b5f.html",
+        "sha256": "f11440688897030cd2d577666c82abef685c5ac8e4025fcf9f6ce9c70b037161",
+        "bytes": 279947
+    }
+]

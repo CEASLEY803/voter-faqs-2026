@@ -1,0 +1,26 @@
+[
+    {
+        "requested_url": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:08:33+00:00",
+        "status": "failed",
+        "error": "SSLError: HTTPSConnectionPool(host='www.elections.alaska.gov', port=443): Max retries exceeded with url: /voter-information/absentee-and-early-voting/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
+    },
+    {
+        "requested_url": "https://www.elections.alaska.gov/military-overseas-and-college-voters/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:08:35+00:00",
+        "status": "failed",
+        "error": "SSLError: HTTPSConnectionPool(host='www.elections.alaska.gov', port=443): Max retries exceeded with url: /military-overseas-and-college-voters/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
+    },
+    {
+        "requested_url": "https://www.elections.alaska.gov/voter-information/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:08:36+00:00",
+        "status": "failed",
+        "error": "SSLError: HTTPSConnectionPool(host='www.elections.alaska.gov', port=443): Max retries exceeded with url: /voter-information/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
+    }
+]

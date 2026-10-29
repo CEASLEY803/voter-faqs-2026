@@ -1,0 +1,54 @@
+[
+    {
+        "requested_url": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:19+00:00",
+        "final_url": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mo/mo-8080f5a951.html",
+        "sha256": "a4e63107d51d5944d0e915eee805f0e496dd6c779c47753045266165ae8111b9",
+        "bytes": 26956
+    },
+    {
+        "requested_url": "https://www.sos.mo.gov/elections/goVoteMissouri/votereg",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:21+00:00",
+        "final_url": "https://www.sos.mo.gov/elections/goVoteMissouri/votereg",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mo/mo-9955cf2b44.html",
+        "sha256": "f6d7bfe40a0567ab9c342368b2cd2cdc3a30a9db0fe207acfe7440a07eba99a8",
+        "bytes": 28743
+    },
+    {
+        "requested_url": "https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:22+00:00",
+        "final_url": "https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mo/mo-647bf0554a.html",
+        "sha256": "cf0a341ba02d2dd2214e08e838ab8cd49873715e1766e6048766dde5f6997855",
+        "bytes": 29415
+    },
+    {
+        "requested_url": "https://www.sos.mo.gov/elections/goVoteMissouri/votingrights",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:23+00:00",
+        "final_url": "https://www.sos.mo.gov/elections/goVoteMissouri/votingrights",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mo/mo-e8562387b4.html",
+        "sha256": "1af5f5a52ecf9d64f84fb2eb83abe9d043d1dc5fdde4e61f8b929b319bc550e7",
+        "bytes": 29991
+    }
+]

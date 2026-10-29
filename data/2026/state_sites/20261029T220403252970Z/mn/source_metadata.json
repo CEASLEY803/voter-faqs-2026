@@ -1,0 +1,222 @@
+[
+    {
+        "requested_url": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:02+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=6459f2ec-55f5-4dd7-a606-deb8b508860e&ssb=05679266688&ssc=https%3A%2F%2Fwww.sos.state.mn.us%2Felections-voting%2Fother-ways-to-vote%2Fvote-early-by-mail%2F&ssi=e5c382d0-cxge-4c0f-9ac7-92bc8688f896&ssk=botmanager_support@radware.com&ssm=84673900629410053109203019531974&ssn=1384dd6bb4db85319b38395d85310bf948adf960f81d-05df-4ea8-a4ff1f&sso=90e22292-31a98720f6fd3c433ddc2ef154674cc72aaf64a7942525f4&ssp=52336864381793315644179337199882624&ssq=35514351156222296953111562621723481622119&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBmOTYwZjgxZC0wNWRmLTRlYTgtYTI5Mi0zMWE5ODcyMGY2ZmQxLTE3OTMzMTE1NjI2MzIwLTAwNWVhYzU5N2ViYWMzZDBiYTExMCIsInV6bXgiOiI3ZmMwMDBiOTA2MDJlNy1kMjA5LTRmYjEtODg2My1lMzc2MWYyN2M4NzAxLTE3OTMzMTE1NjI2MzIwLTAwYmQ5Yzc4ZGQyYTk1ZjZlNDMxMCIsInJkIjoibW4uZ292In0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:03+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=5b042d78-9a2d-4566-85e0-78870ffffd28&ssb=33517256717&ssc=https%3A%2F%2Fsos.state.mn.us%2Felections-voting%2Fother-ways-to-vote%2Fvote-from-military-or-abroad%2F&ssi=13ad8d36-cxge-4f3c-80a8-81f8c5584f72&ssk=botmanager_support@radware.com&ssm=26866725589037614106227542234397&ssn=9060845d1354801a13f3e383b9df5f8dc3723a2fbf0f-e76e-4d27-b47cbe&sso=092f26d8-8bdd9399cd1d4c621a3063b65688b09a9f4d7af5e711c5dc&ssp=38548141341793323240179339838011044&ssq=11987491156432281929311564952492857980796&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2ZjMDAwNWE0MjcwMjctNzYyOC00ZDkzLWI1NzgtMzNiZTg4ZWQ1ODdjMS0xNzkzMzExNTY0NDQ4MC0wMGI5ZjEzN2E5OWY0Yjk4NTQ4MTAiLCJfX3V6bWYiOiI3ZjkwMDAzYTJmYmYwZi1lNzZlLTRkMjctYjZkOC04YmRkOTM5OWNkMWQxLTE3OTMzMTE1NjQ0NDgwLTAwNWIzNzNlMzM1YmNiNmJiZTQxMCIsInJkIjoibW4uZ292In0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:05+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=59922539-bdfe-49b0-ba8d-07f9a8a1df69&ssb=30764241038&ssc=https%3A%2F%2Fsos.state.mn.us%2Felections-voting%2Fregister-to-vote%2Fcommon-registration-questions%2F&ssi=9728e496-cxge-4d2b-866a-f819496e348a&ssk=botmanager_support@radware.com&ssm=85959983640871481102068975756774&ssn=8dbb3d54fd43592b90b21b1bc4d76c195488856539d0-d8cf-47ef-a72567&sso=6029c5ab-6236c5dfa6300e89383994e59175adca8a9e1526aae8b289&ssp=02191383571793304371179339863369714&ssq=16998481156659277609811566935872794877190&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDA4NTY1MzlkMC1kOGNmLTQ3ZWYtYTVhYi02MjM2YzVkZmE2MzAxLTE3OTMzMTE1NjYxMzkwLTAwNWUwYzg5ODIxZTc2NDZjMmQxMCIsInJkIjoibW4uZ292IiwidXpteCI6IjdmYzAwMDg2NTVkNGUzLTI1NjYtNGExZC1iZjM0LTc0NjgxZTIyMjMzYTEtMTc5MzMxMTU2NjEzOTAtMDBiZDc5YjY2NjA4OGU1YTdhYTEwIn0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://sos.state.mn.us/elections-voting/register-to-vote/im-a-college-student/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:07+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=573e761e-0a1e-4bce-88e5-b15f99889c5f&ssb=32692222127&ssc=https%3A%2F%2Fsos.state.mn.us%2Felections-voting%2Fregister-to-vote%2Fim-a-college-student%2F&ssi=02e9136c-cxge-4f62-ae9a-cdf1d9dd5856&ssk=botmanager_support@radware.com&ssm=90157021191770373109321516167701&ssn=80c0e0a7418bcab6980c4817bdd31359c3dd8c0d550d-d1e4-4102-99c82d&sso=d7b52f6d-4e09535bc7807c4e52f00c6ba5db98f358d2054f8d8abda9&ssp=17959695381793359533179332140057973&ssq=54667631156700948169511567284827216032737&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDA4YzBkNTUwZC1kMWU0LTQxMDItOWY2ZC00ZTA5NTM1YmM3ODAxLTE3OTMzMTE1Njc5NDEwLTAwNWYwY2MyOGU2ZjQ3Y2RhYjcxMCIsInJkIjoibW4uZ292IiwidXpteCI6IjdmYzAwMGNhYzIzYjk3LTBhMDItNDliMC05MmJjLWYzOTJmM2ZiMjE3MTEtMTc5MzMxMTU2Nzk0MTAtMDBiMmZiMmI5NGM3NWYyYTlkOTEwIn0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://sos.state.mn.us/elections-voting/register-to-vote/automatic-voter-registration/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:09+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=138e2b30-77a8-4d39-9023-c99b335efd7f&ssb=08943286740&ssc=https%3A%2F%2Fsos.state.mn.us%2Felections-voting%2Fregister-to-vote%2Fautomatic-voter-registration%2F&ssi=ca93aacb-cxge-4c25-86e2-1e2452e93481&ssk=botmanager_support@radware.com&ssm=22622504902246267103444102506950&ssn=8510dcfa19625b894ffddcc5a44e94b697ec73a754dc-8a92-489a-a67ccb&sso=6806c1e2-92bafe74bb760de85324a717825c9220f572ee2bfa0f29be&ssp=57961214691793320942179335693325686&ssq=10603371156975637273611569571676642788114&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJyZCI6Im1uLmdvdiIsIl9fdXptZiI6IjdmOTAwMDczYTc1NGRjLThhOTItNDg5YS1hMWUyLTkyYmFmZTc0YmI3NjEtMTc5MzMxMTU2OTY1MTAtMDA1YjJhNjJkNmIwZjhjNzA4MTEwIiwidXpteCI6IjdmYzAwMDJkYjc2YzZmLWU0NDctNDZmMC05MmVjLTZmMzA5MDg5ZGEyZTEtMTc5MzMxMTU2OTY1MTAtMDBiNTM0YzZjNzc0OWY1Mzg1OTEwIn0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://sos.state.mn.us/elections-voting/register-to-vote/im-in-a-residential-facility/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:10+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=c924f00e-bf5d-4204-b291-56115e691e83&ssb=38891203953&ssc=https%3A%2F%2Fsos.state.mn.us%2Felections-voting%2Fregister-to-vote%2Fim-in-a-residential-facility%2F&ssi=d7582284-cxge-46ca-81fc-3fff41b08275&ssk=botmanager_support@radware.com&ssm=63658144137535693101665985924148&ssn=fa002b127bd7814793747ffc589c365ab3343aaaf7a2-da83-4605-a7eeca&sso=81461999-94a716a84535cf7a57f366d16489037ff53de414368d444b&ssp=41120213661793375285179335426042916&ssq=42310631157132527679411571402607648205452&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2ZjMDAwNmI1NTE1ZTQtNjU3Ny00OWE5LTg4ODMtMDA1NDlkNWM0ODRjMS0xNzkzMzExNTcxMzY5MC0wMGI4YjhjY2ZiNzAxNjA5OTZhMTAiLCJfX3V6bWYiOiI3ZjkwMDAzYWFhZjdhMi1kYTgzLTQ2MDUtYTk5OS05NGE3MTZhODQ1MzUxLTE3OTMzMTE1NzEzNjkwLTAwNTk4ZGM1NjZmMjc2YjQ0ODQxMCIsInJkIjoibW4uZ292In0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://sos.state.mn.us/elections-voting/register-to-vote/i-have-a-criminal-record/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:12+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=155164dd-6a01-47e1-87ac-eb21cbd2082c&ssb=03035290321&ssc=https%3A%2F%2Fsos.state.mn.us%2Felections-voting%2Fregister-to-vote%2Fi-have-a-criminal-record%2F&ssi=c09a4331-cxge-48c7-a50e-84f915fdacf1&ssk=botmanager_support@radware.com&ssm=98708043898173562104898755008648&ssn=604d33e3d96e71ea03dfabb43b37afb6bd11ee3ef8d2-38cd-4d31-bf01fd&sso=ce2f4693-5a7f5317863575bd6318a423d2bde142a686b8ad6387cc3b&ssp=69620005701793373694179334737834097&ssq=68372471157319838475611573623432221124035&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBlZTNlZjhkMi0zOGNkLTRkMzEtYjY5My01YTdmNTMxNzg2MzUxLTE3OTMzMTE1NzMwNTYwLTAwNTk1MzRiMmVlNzVkNjYzNDcxMCIsInJkIjoibW4uZ292IiwidXpteCI6IjdmYzAwMGM4MDFjMzlmLTBlNjYtNGFmNC04NzhmLTEzMzI0YmUxMmU2NzEtMTc5MzMxMTU3MzA1NjAtMDBiMDMwZDc3OTU0NmJkMDljMjEwIn0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://sos.state.mn.us/elections-voting/register-to-vote/im-homeless/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:14+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=5ae1c66c-5ebf-4b9e-ad89-71e5aa09b1eb&ssb=13521274355&ssc=https%3A%2F%2Fsos.state.mn.us%2Felections-voting%2Fregister-to-vote%2Fim-homeless%2F&ssi=7eda662f-cxge-4bad-b412-ba990ecffc26&ssk=botmanager_support@radware.com&ssm=22381788727648788102578907738768&ssn=d660d9002427e2eaac361e766f9dde98a1989fbe16ae-5c34-4490-872900&sso=e82912c4-b22efc92cbe79944ea76010259d56e04994e157a25acda66&ssp=10814763491793311818179335654021859&ssq=27566901157457267821511574201697933744600&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDA5ZmJlMTZhZS01YzM0LTQ0OTAtODJjNC1iMjJlZmM5MmNiZTcxLTE3OTMzMTE1NzQ3NDYwLTAwNTA5ZDQ3NjFlNGM2ZmNlYzAxMCIsInV6bXgiOiI3ZmMwMDA3YWZiOWJlZC03ODkyLTQ3MWMtYWE1ZC1lZTkzZmRlOTNhZjExLTE3OTMzMTE1NzQ3NDYwLTAwYjQ4ODJjZjVkNGYxMTg0YmUxMCIsInJkIjoibW4uZ292In0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://sos.state.mn.us/elections-voting/register-to-vote/i-fear-for-my-personal-safety/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:16+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=5b192151-7662-4414-b61c-300cc28db3db&ssb=51821206297&ssc=https%3A%2F%2Fsos.state.mn.us%2Felections-voting%2Fregister-to-vote%2Fi-fear-for-my-personal-safety%2F&ssi=519fe1c4-cxge-45e5-be1f-27d17523a532&ssk=botmanager_support@radware.com&ssm=01372315071029756102619170811717&ssn=4a58c0ffb4ba2f79fec30c43a009e83ec5ba0a1d69ab-7b8f-4de0-ac7d14&sso=c5d55ad3-f970d07bfb61d6d6eaf3c6492340deb1dd737de1e9a55c72&ssp=82235293611793360520179331802825435&ssq=26706861157696255245411576284961965264454&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDAwYTFkNjlhYi03YjhmLTRkZTAtYWFkMy1mOTcwZDA3YmZiNjExLTE3OTMzMTE1NzY1MjEwLTAwNTZlOGRjMzlkMmM5NmIxNjcxMCIsInV6bXgiOiI3ZmMwMDA3OWM0NDcxYS05NmM1LTRmZGItODkwNS04MjM4NjYzOGVkOWExLTE3OTMzMTE1NzY1MjEwLTAwYjA5MjZhZWViMTMzZmViMzkxMCIsInJkIjoibW4uZ292In0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://sos.state.mn.us/elections-voting/register-to-vote/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:17+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=17a57c5f-2c61-4c5b-ba3e-1fa43c3f99a8&ssb=57923228437&ssc=https%3A%2F%2Fsos.state.mn.us%2Felections-voting%2Fregister-to-vote%2F&ssi=d82eb8ab-cxge-4290-b360-5b33c9123b30&ssk=botmanager_support@radware.com&ssm=02110100801721716100590767261876&ssn=e28de9249927700159059f8b5465c6fec681b1cd4ec8-62a6-4439-92019f&sso=7bb7ff06-081fe8148f40f4eb557b28d919b4bb5f1b9e89b7aea74e17&ssp=86405556451793374549179337947010722&ssq=37015481157860611662511578737734660648192&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJyZCI6Im1uLmdvdiIsInV6bXgiOiI3ZmMwMDA4YmE3Y2Y1My04ODkyLTRjMWYtOWQ4ZC02OTI4MDAwM2E3NGQxLTE3OTMzMTE1NzgyMTkwLTAwYmQ2ZWNjZDdlMjQyZTQxMzQxMCIsIl9fdXptZiI6IjdmOTAwMGIxY2Q0ZWM4LTYyYTYtNDQzOS05ZjA2LTA4MWZlODE0OGY0MDEtMTc5MzMxMTU3ODIxOTAtMDA1OGVhNzYxZTA2MjMwOTE4NDEwIn0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:07+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=bbdbaeff-755b-48c8-ac63-33bc952ec6fe&ssb=76794261646&ssc=https%3A%2F%2Fwww.sos.mn.gov%2Felections-voting%2Fother-ways-to-vote%2Fvote-early-by-mail%2F&ssi=1aa9f28d-cxge-4fac-8b76-dc4768be4dae&ssk=botmanager_support@radware.com&ssm=83464635807902386105234173903027&ssn=80f1dc3dbec527df5469608be44ffc05e7bef0a7db39-4260-4821-b181ab&sso=44006edd-c22d3aecea3d4133baaaf3086ff4365be9afae47921d768b&ssp=69880933761793344188179336364196910&ssq=82492791174842362560111748795373522617308&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJyZCI6Im1uLmdvdiIsInV6bXgiOiI3ZmMwMDA2OWY2NjcwZS1jZjIxLTRjNTktODZjYi0xZjgyNmRhNDBjZDAxLTE3OTMzMTE3NDgxMDcwLTAwYmQ5NTE1NDAwOWM3NjhmYTUxMCIsIl9fdXptZiI6IjdmOTAwMGYwYTdkYjM5LTQyNjAtNDgyMS1iZWRkLWMyMmQzYWVjZWEzZDEtMTc5MzMxMTc0ODEwNzAtMDA1NjMyNGQ3OTVlYzFjYmQ1MTEwIn0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:09+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=85170099-7153-4701-913e-56f53e88fc25&ssb=39019224300&ssc=https%3A%2F%2Fwww.sos.mn.gov%2Felections-voting%2Fother-ways-to-vote%2Fvote-from-military-or-abroad%2F&ssi=fedb882a-cxge-4947-925c-c105e85aa09f&ssk=botmanager_support@radware.com&ssm=71610786894025809106591682448667&ssn=1b5de2b3d0ab0a9bf74761eae12811055b5b09fef801-fbdc-46c7-a451c0&sso=1ba3ee26-55a72839e37397e96d1b177dcbf5f17540c660e0afff8d72&ssp=42391558211793397039179332559570141&ssq=35584521174988369651911749206702958153790&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDAwOWZlZjgwMS1mYmRjLTQ2YzctYWUyNi01NWE3MjgzOWUzNzMxLTE3OTMzMTE3NDk3NjgwLTAwNWZmZDM1YjA2NTkxMTBiNzgxMCIsInJkIjoibW4uZ292IiwidXpteCI6IjdmYzAwMDk5N2M3MWVjLWM4NmQtNGRiMi1iMmM2LThiMDFkYmI2OGZjMDEtMTc5MzMxMTc0OTc2ODAtMDBiMWMxZWE1MDQzNWE5ZTliNTEwIn0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://www.sos.mn.gov/elections-voting/register-to-vote/common-registration-questions/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:11+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=c49f1ad2-768e-4d34-9454-c7cf13034173&ssb=43173277599&ssc=https%3A%2F%2Fwww.sos.mn.gov%2Felections-voting%2Fregister-to-vote%2Fcommon-registration-questions%2F&ssi=255c42ad-cxge-4dcb-be6c-0511fa1f53c9&ssk=botmanager_support@radware.com&ssm=28455704339110357109413397105079&ssn=4ee6e44fd7f9d2b9f3907b719ad3b8892ac200ff3469-b58c-4aa5-a59e01&sso=ab3d8134-0fa29796c62d7aaf647ee663b1b2c015b9abd27575fffa13&ssp=04365656791793365634179330411368304&ssq=20318281175113889049111751466322196478719&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDAwMGZmMzQ2OS1iNThjLTRhYTUtYTEzNC0wZmEyOTc5NmM2MmQxLTE3OTMzMTE3NTE0ODYwLTAwNTA1NTAyNmE4ZTQ0YTU5YzExMCIsInJkIjoibW4uZ292IiwidXpteCI6IjdmYzAwMGI0OWE3MTE3LWU4MTQtNGI4Yy1iZDg5LWY2YzIyZmJhYzE4OTEtMTc5MzMxMTc1MTQ4NjAtMDBiZWNkODc3OWZiNGRlNzc4OTEwIn0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-a-college-student/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:12+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=99ff7285-6bd9-4fac-9ffc-83cf14e315bb&ssb=50484284417&ssc=https%3A%2F%2Fwww.sos.mn.gov%2Felections-voting%2Fregister-to-vote%2Fim-a-college-student%2F&ssi=57d12dce-cxge-40bd-8ffb-2702e2e3006a&ssk=botmanager_support@radware.com&ssm=06350728437394390109815488756880&ssn=88c41a55cb486445f633031fe401840758c56c9564d8-98f8-4dba-8f13db&sso=3bb8709a-22d033249b5306b54a1cd46aea07f1978aa0efaf9e77ca16&ssp=11711974531793316209179331902204135&ssq=59412741175393155822711753664659599861294&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2ZjMDAwNDQyMzg1M2EtZTVlYi00YmRhLTlmODgtNjM3NjhmMTExMmNhMS0xNzkzMzExNzUzMjM1MC0wMGJmNmIwYWNjYjMyYThlNGQxMTAiLCJfX3V6bWYiOiI3ZjkwMDA2Yzk1NjRkOC05OGY4LTRkYmEtODA5YS0yMmQwMzMyNDliNTMxLTE3OTMzMTE3NTMyMzUwLTAwNTkzMmE0YWY3YzdmZDliNDcxMCIsInJkIjoibW4uZ292In0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://www.sos.mn.gov/elections-voting/register-to-vote/automatic-voter-registration/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:14+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=843af468-e4e9-45f1-bda8-67d635d8206e&ssb=63779280544&ssc=https%3A%2F%2Fwww.sos.mn.gov%2Felections-voting%2Fregister-to-vote%2Fautomatic-voter-registration%2F&ssi=fa1324f7-cxge-432d-b41b-95f7abae7ad0&ssk=botmanager_support@radware.com&ssm=24198905766502381107086759802336&ssn=8b765838319a4a57003bcf44041fc1d8608173f9f2e4-8644-4b06-af8971&sso=c0651a71-74b81076453db8c3d6bf25e3a99c5394acae590e3c041d2b&ssp=53315478361793315293179339991326462&ssq=08016031175446083715311754577551144004815&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDA3M2Y5ZjJlNC04NjQ0LTRiMDYtYWE3MS03NGI4MTA3NjQ1M2QxLTE3OTMzMTE3NTQ4ODgwLTAwNTNlNzNjYTllN2VkYmYwY2QxMCIsInV6bXgiOiI3ZmMwMDBmMjc4ZmU0Zi00YWY1LTRmMjctYTJkYS0zYjExNjFkMjNkZmYxLTE3OTMzMTE3NTQ4ODgwLTAwYjdmNWMzYzc4MGQ1NzQ1MjExMCIsInJkIjoibW4uZ292In0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-in-a-residential-facility/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:16+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=ea6c0a75-0608-45b2-947a-473f07516825&ssb=51091276580&ssc=https%3A%2F%2Fwww.sos.mn.gov%2Felections-voting%2Fregister-to-vote%2Fim-in-a-residential-facility%2F&ssi=78cc859b-cxge-4d4f-8924-1a2d1b3c46c3&ssk=botmanager_support@radware.com&ssm=15140838779418625108019120666473&ssn=99ec31dc02599eebbd04310b9f202bfe084e60b59d23-3d9c-4dd0-8cd410&sso=462c387a-530777f1d6a1b824bd081beafa495cca89a809056e8353d5&ssp=48803429731793347928179331417145612&ssq=59901271175693652431311756739632453334525&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJyZCI6Im1uLmdvdiIsIl9fdXptZiI6IjdmOTAwMDYwYjU5ZDIzLTNkOWMtNGRkMC04ODdhLTUzMDc3N2YxZDZhMTEtMTc5MzMxMTc1NjY4MTAtMDA1MmFmYTUyNTQ3NTA4MTkwODEwIiwidXpteCI6IjdmYzAwMGZkNWFlM2IwLTI3MGQtNDA0ZS04MWQ5LTRkZDQyZjI4OGU3YjEtMTc5MzMxMTc1NjY4MTAtMDBiN2I3OTY1M2VlOTZkMmVjYjEwIn0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://www.sos.mn.gov/elections-voting/register-to-vote/i-have-a-criminal-record/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:17+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=7f53c7b2-3ee6-412d-8dff-dc61ecc9f338&ssb=80015260544&ssc=https%3A%2F%2Fwww.sos.mn.gov%2Felections-voting%2Fregister-to-vote%2Fi-have-a-criminal-record%2F&ssi=8b4580fd-cxge-48c4-afd1-00240ff296a6&ssk=botmanager_support@radware.com&ssm=89805675475352861102906182107447&ssn=ebc6228551d66eec97e52206cc905bbf1d608a60e9dc-ded9-413b-89b2fe&sso=c24cbb5e-3d5ab4fc304983980611b1fe0747d22b6bd954b0d064cc45&ssp=66983909781793395797179331960819332&ssq=92524651175858569218211758887660862009312&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJyZCI6Im1uLmdvdiIsIl9fdXptZiI6IjdmOTAwMDhhNjBlOWRjLWRlZDktNDEzYi04YjVlLTNkNWFiNGZjMzA0OTEtMTc5MzMxMTc1ODQxMTAtMDA1YTU0YjVkZjRmNWY2YTg5YzEwIiwidXpteCI6IjdmYzAwMDBkZjcyMGFhLWJiYTctNDkxOS05ZDA5LWE1NTBiYWIyYjQ4OTEtMTc5MzMxMTc1ODQxMTAtMDBiYWFkMWViOGE1ZTBmNTA3NjEwIn0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-homeless/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:19+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=80b48423-a6eb-4720-9682-3881508ef676&ssb=60944259074&ssc=https%3A%2F%2Fwww.sos.mn.gov%2Felections-voting%2Fregister-to-vote%2Fim-homeless%2F&ssi=6e983a0b-cxge-4ef1-8346-51a519b530d7&ssk=botmanager_support@radware.com&ssm=65422553807827986109700852832832&ssn=57bd83489a7bb03114587acbdf61505addfa0c113485-a11a-4c12-bcccfd&sso=b3f21696-52ac96fcc6ab6549ef892dc64aaf0a3493caa6386daa0e16&ssp=89902511141793399601179331643969599&ssq=14063151176049826814911760680660192194444&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJyZCI6Im1uLmdvdiIsIl9fdXptZiI6IjdmOTAwMDBjMTEzNDg1LWExMWEtNGMxMi1iNjk2LTUyYWM5NmZjYzZhYjEtMTc5MzMxMTc2MDExMDAtMDA1MzI0ZmJkMWE4ZmVmYjZmNTEwIiwidXpteCI6IjdmYzAwMGE3MzZlZmMyLWE4NTgtNDQ2MC04YzQ1LWRlMmJiZDIxMTEzMDEtMTc5MzMxMTc2MDExMDAtMDBiZGQ4YjYwNzA4MzBhZDMwODEwIn0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://www.sos.mn.gov/elections-voting/register-to-vote/i-fear-for-my-personal-safety/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:21+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=f6c4337d-2ced-4a78-8725-4b5bcaed00b1&ssb=81015213386&ssc=https%3A%2F%2Fwww.sos.mn.gov%2Felections-voting%2Fregister-to-vote%2Fi-fear-for-my-personal-safety%2F&ssi=70e44de5-cxge-4cbe-8412-33c3841dbb53&ssk=botmanager_support@radware.com&ssm=91479176880032615107549070356166&ssn=4a7de2eb9c80d09829aa4450ea46014669828ead05bf-986f-44f5-9bf84f&sso=51247b2d-af5108948fd2ebd815f857762da094e82476b1ac0d974129&ssp=17143384231793334290179334185963364&ssq=08720371176161327145111761941823760732173&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDA4ZWFkMDViZi05ODZmLTQ0ZjUtOWIyZC1hZjUxMDg5NDhmZDIxLTE3OTMzMTE3NjE4NDEwLTAwNWFiOGMzOTVlZjJlNTI0YTYxMCIsInJkIjoibW4uZ292IiwidXpteCI6IjdmYzAwMGU1OGI5ZjNlLTNlMDgtNDkxZC1hODYzLWU1OTYyZDY1OTE5YzEtMTc5MzMxMTc2MTg0MTAtMDBiMGFiNTc4NjdlZTg4N2ZiNjEwIn0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    },
+    {
+        "requested_url": "https://www.sos.mn.gov/elections-voting/register-to-vote/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:23+00:00",
+        "final_url": "https://validate.perfdrive.com/?ssa=744c452c-bb9e-4d61-813e-ea85cb6357eb&ssb=89181257675&ssc=https%3A%2F%2Fwww.sos.mn.gov%2Felections-voting%2Fregister-to-vote%2F&ssi=c7273a0f-cxge-43b0-a896-fedd4f6d087a&ssk=botmanager_support@radware.com&ssm=50689958392946996103412086912856&ssn=7d48eeb7f3f1121d9aeeff8403fb278677bbf1b54fb7-b905-4453-b6dcda&sso=03525e08-fdf60f847e9880dd128ffeeee7040c87718caf0ff9ab5ba6&ssp=98254596691793358115179337396690636&ssq=42667411176373497145011763044075498455731&ssr=NzEuNjguMTQxLjE2Mg==&sst=VoterFAQResearch/1.0&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBmMWI1NGZiNy1iOTA1LTQ0NTMtYmUwOC1mZGY2MGY4NDdlOTgxLTE3OTMzMTE3NjM1NjkwLTAwNTU2ZTIzM2JjMGQ4ZWIyNmIxMCIsInJkIjoibW4uZ292IiwidXpteCI6IjdmYzAwMGI3ZjExNWE0LTFjZjctNDRhNy1iMzMwLWNkMDQ0YjkzOWVmZjEtMTc5MzMxMTc2MzU2OTAtMDBiMWRmOGNhZDYxZWFiNGI1NzEwIn0=",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Redirected to another site"
+    }
+]

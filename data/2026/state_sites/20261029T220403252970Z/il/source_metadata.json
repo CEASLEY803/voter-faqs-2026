@@ -1,0 +1,15 @@
+[
+    {
+        "requested_url": "https://www.elections.il.gov/Main/FAQ.aspx",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:12:05+00:00",
+        "final_url": "https://www.elections.il.gov/Main/FAQ.aspx",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/il/il-7a55a9d5e9.html",
+        "sha256": "1b561129dcc4c6b85f1b8813949e491eaaf321224e72a35e00a3c41d43040025",
+        "bytes": 74261
+    }
+]

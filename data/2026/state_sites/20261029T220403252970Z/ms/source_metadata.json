@@ -1,0 +1,26 @@
+[
+    {
+        "requested_url": "https://www.sos.ms.gov/index.php/elections-voting/faqs",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:25+00:00",
+        "final_url": "https://www.sos.ms.gov/index.php/elections-voting/faqs",
+        "status_code": 404,
+        "content_type": "text/html",
+        "status": "superseded",
+        "error": "HTTP 404"
+    },
+    {
+        "requested_url": "https://www.sos.ms.gov/elections-voting/election-faqs",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:12:06+00:00",
+        "final_url": "https://www.sos.ms.gov/elections-voting/election-faqs",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ms/ms-786e4039e9.html",
+        "sha256": "ae4d9072859ed9e55ad593aae591582b59f54abe18ef8ef2dcd8e003d2258051",
+        "bytes": 122171
+    }
+]

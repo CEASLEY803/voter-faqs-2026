@@ -1,0 +1,15 @@
+[
+    {
+        "requested_url": "https://www.elections.virginia.gov/registration/election-voter-faq/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:07:23+00:00",
+        "final_url": "https://www.elections.virginia.gov/registration/election-voter-faq/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/va/va-10a89cbeae.html",
+        "sha256": "59e5ac10637faaaa42cbc4361ff286c5d635dcdafd3bf2dbccab80d9fd57c5bc",
+        "bytes": 46076
+    }
+]

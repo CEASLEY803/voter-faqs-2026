@@ -1,0 +1,91 @@
+[
+    {
+        "requested_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:44+00:00",
+        "final_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mi/mi-336ebe7117.html",
+        "sha256": "ce853f0a975137c10825ca68c1518d715b6d14f47080d8eb8622476281d4d92e",
+        "bytes": 950024
+    },
+    {
+        "requested_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:47+00:00",
+        "final_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mi/mi-0251820a81.html",
+        "sha256": "424a543d799a7d41e60903973704040e5f6da82abdbbd40307073c400b63b4b0",
+        "bytes": 697123
+    },
+    {
+        "requested_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:49+00:00",
+        "final_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mi/mi-c2c2a2e273.html",
+        "sha256": "0bd2d92815155ed6dd6b95daf1b89cd8c9ed3576b30121d2fefa238c76a57e33",
+        "bytes": 513502
+    },
+    {
+        "requested_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:53+00:00",
+        "final_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mi/mi-8d82b27e20.html",
+        "sha256": "e0c9408a6599d5e57079043d2c328fbb5ae51b360b450bc139ecb2dec5c198fe",
+        "bytes": 591419
+    },
+    {
+        "requested_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:55+00:00",
+        "final_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mi/mi-afa1ab2fa2.html",
+        "sha256": "a3f4670973ae902caf8ad840e902e4378483f62f83824b8f8e213fe8301dcfc0",
+        "bytes": 448804
+    },
+    {
+        "requested_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:58+00:00",
+        "final_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mi/mi-855857bc5d.html",
+        "sha256": "e7475822c4a8969132a85748058eb7e9362720dd7acb0d9bbb614b835f19eee8",
+        "bytes": 383352
+    },
+    {
+        "requested_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/campaign-finance-and-lobby-disclosure",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:05+00:00",
+        "final_url": "https://www.michigan.gov/sos/404",
+        "status_code": 404,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 404"
+    }
+]

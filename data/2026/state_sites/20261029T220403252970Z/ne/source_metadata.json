@@ -1,0 +1,15 @@
+[
+    {
+        "requested_url": "https://sos.nebraska.gov/elections/election-day-faq",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:53+00:00",
+        "final_url": "https://sos.nebraska.gov/elections/election-day-faq",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ne/ne-421c022fc0.html",
+        "sha256": "d0185ecedc7cabeea9cc37c11c507a789b4e9dbe5aea8d5fdf0788076c95e1bb",
+        "bytes": 53163
+    }
+]

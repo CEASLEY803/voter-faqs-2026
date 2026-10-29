@@ -1,0 +1,15 @@
+[
+    {
+        "requested_url": "https://www.sos.alabama.gov/alabama-votes/faqs",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:04:07+00:00",
+        "final_url": "https://www.sos.alabama.gov/alabama-votes/faqs",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/al/al-a168c44e4d.html",
+        "sha256": "a5e4153a1034bef20756195aad4039b6c56bb2968558889276971b5f9445592c",
+        "bytes": 45563
+    }
+]

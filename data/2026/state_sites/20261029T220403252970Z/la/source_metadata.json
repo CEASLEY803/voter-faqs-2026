@@ -1,0 +1,122 @@
+[
+    {
+        "requested_url": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:34+00:00",
+        "final_url": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote",
+        "status_code": 404,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 404"
+    },
+    {
+        "requested_url": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:36+00:00",
+        "final_url": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail",
+        "status_code": 404,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 404"
+    },
+    {
+        "requested_url": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:37+00:00",
+        "final_url": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly",
+        "status_code": 404,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 404"
+    },
+    {
+        "requested_url": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:39+00:00",
+        "final_url": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay",
+        "status_code": 404,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 404"
+    },
+    {
+        "requested_url": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:40+00:00",
+        "final_url": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally",
+        "status_code": 404,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 404"
+    },
+    {
+        "requested_url": "https://sos.la.gov/elections-voting/voter-registration-faqs",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:10:37+00:00",
+        "final_url": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/la/la-89e35dd72a.html",
+        "sha256": "6d75d09c19e12981bebaa2d31d6a80b5719dad6c45d55910113c82ff205c30fb",
+        "bytes": 128805
+    },
+    {
+        "requested_url": "https://sos.la.gov/elections-voting/absentee-voting-faqs",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:10:39+00:00",
+        "final_url": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/la/la-fe3010235a.html",
+        "sha256": "87e0245558689df0ff44a34eb02420f28f19bae2c7b423416c8e5d3f6d2e7670",
+        "bytes": 156364
+    },
+    {
+        "requested_url": "https://sos.la.gov/elections-voting/voting-early-faqs",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:10:40+00:00",
+        "final_url": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/la/la-d9ba59ddcd.html",
+        "sha256": "68e02f882323a19b04eb693d4bd21e1a35e498cf6954da5ffc925446859f7e02",
+        "bytes": 127818
+    },
+    {
+        "requested_url": "https://sos.la.gov/elections-voting/voting-on-election-day-faqs",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:10:42+00:00",
+        "final_url": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/la/la-4db7d584dd.html",
+        "sha256": "c52234004e70d4f62c31a70245d2a7d929c4c00da269c56c768bb964871cc40c",
+        "bytes": 129010
+    },
+    {
+        "requested_url": "https://sos.la.gov/elections-voting/provisional-voting-faqs",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:10:43+00:00",
+        "final_url": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/la/la-ff25cdefc1.html",
+        "sha256": "937d007f775ff0d6c41545e8b4035fb3a0335abd2129538b214e2d096924566a",
+        "bytes": 96314
+    }
+]

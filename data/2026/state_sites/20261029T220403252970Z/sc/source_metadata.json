@@ -1,0 +1,15 @@
+[
+    {
+        "requested_url": "https://scvotes.gov/voters/voter-faq/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:07:16+00:00",
+        "final_url": "https://scvotes.gov/voters/voter-faq/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/sc/sc-2d62df1c8f.html",
+        "sha256": "2ad09842558ba5bc4bb2026ee43093d4477b0f68d47910c6e5517112a56edd30",
+        "bytes": 83324
+    }
+]

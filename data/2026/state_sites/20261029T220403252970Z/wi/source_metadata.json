@@ -1,0 +1,24 @@
+[
+    {
+        "requested_url": "https://elections.wi.gov/faq",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:58+00:00",
+        "final_url": "https://elections.wi.gov/faq",
+        "status_code": 403,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 403"
+    },
+    {
+        "requested_url": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:59+00:00",
+        "final_url": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+        "status_code": 403,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 403"
+    }
+]

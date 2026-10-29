@@ -1,0 +1,63 @@
+[
+    {
+        "requested_url": "https://www.in.gov/sos/elections/voter-information/register-to-vote/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:15+00:00",
+        "final_url": "https://www.in.gov/sos/elections/voter-information/register-to-vote/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/in/in-0e7fc59ee1.html",
+        "sha256": "2c58f9ed7da0f43de0f2adc4d4991e404a6fe618838b5fce8136eb6e5571c19f",
+        "bytes": 66868
+    },
+    {
+        "requested_url": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/absentee-voting/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:17+00:00",
+        "final_url": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/absentee-voting/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/in/in-8bf8e5f4f0.html",
+        "sha256": "208c293d9ee9d168a94c10de8275cdabc5bbcfdd92e91eb741619c70715e8409",
+        "bytes": 94010
+    },
+    {
+        "requested_url": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/provisional-ballots/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:18+00:00",
+        "final_url": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/provisional-ballots/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/in/in-5bba770f54.html",
+        "sha256": "ac72d527e12356b275cb82b165b7bae1580cf734db5ce2b9b4f68547ecaa8999",
+        "bytes": 69559
+    },
+    {
+        "requested_url": "https://www.in.gov/idr/hoosiers-vote/voting-faqs/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:08:52+00:00",
+        "final_url": "https://www.in.gov/idr/hoosiers-vote/voting-faqs/",
+        "status_code": 404,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 404"
+    },
+    {
+        "requested_url": "https://www.in.gov/idr/hoosiers-vote/register/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:08:54+00:00",
+        "final_url": "https://www.in.gov/idr/hoosiers-vote/register/",
+        "status_code": 404,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 404"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "requested_url": "https://vote.sos.ri.gov/Elections/Administration",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:48+00:00",
+        "final_url": "https://vote.sos.ri.gov/Elections/Administration",
+        "status_code": 403,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 403"
+    },
+    {
+        "requested_url": "https://vote.sos.ri.gov/Voter/VoterFaq",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:50+00:00",
+        "final_url": "https://vote.sos.ri.gov/Voter/VoterFaq",
+        "status_code": 403,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 403"
+    }
+]

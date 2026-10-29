@@ -1,0 +1,15 @@
+[
+    {
+        "requested_url": "https://voteidaho.gov/frequently-asked-questions/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:12:03+00:00",
+        "final_url": "https://voteidaho.gov/frequently-asked-questions/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/id/id-7548b84429.html",
+        "sha256": "2adc13a700b0c11028b3f94d94c0fd58181beb0e4717b8656463284abfa13e58",
+        "bytes": 115330
+    }
+]

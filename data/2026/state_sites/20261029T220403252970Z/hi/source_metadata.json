@@ -1,0 +1,93 @@
+[
+    {
+        "requested_url": "https://elections.hawaii.gov/voting/voting-in-hawaii/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:11:51+00:00",
+        "final_url": "https://elections.hawaii.gov/voting/voting-in-hawaii/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/hi/hi-846391a365.html",
+        "sha256": "5f07ef173f67b2fb58824d49b57b7204aa93e74179af0a755793e2ea2d967e10",
+        "bytes": 138459
+    },
+    {
+        "requested_url": "https://elections.hawaii.gov/register-to-vote/registration/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:11:52+00:00",
+        "final_url": "https://elections.hawaii.gov/register-to-vote/registration/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/hi/hi-5bf270f2e6.html",
+        "sha256": "f0d613e47e4ff753f9281f83b453ccef2c6dd7221f85acb93e0445a605f5f23a",
+        "bytes": 138661
+    },
+    {
+        "requested_url": "https://elections.hawaii.gov/voting/voters-with-a-felony-conviction/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:11:53+00:00",
+        "final_url": "https://elections.hawaii.gov/voting/voters-with-a-felony-conviction/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/hi/hi-5a1d76c986.html",
+        "sha256": "983ecd273e9acb3672cbd135ede8b49139d5e6f8d964848714c06769e1ae2247",
+        "bytes": 123474
+    },
+    {
+        "requested_url": "https://elections.hawaii.gov/voting/voters-requiring-assistance/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:11:55+00:00",
+        "final_url": "https://elections.hawaii.gov/voting/voters-requiring-assistance/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/hi/hi-6074b76a31.html",
+        "sha256": "b9b477aea2be41cb5074cba189a6e00d881a3865ab163ff71d00203a9409d8e7",
+        "bytes": 138023
+    },
+    {
+        "requested_url": "https://elections.hawaii.gov/voting/military-and-overseas-voters/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:11:57+00:00",
+        "final_url": "https://elections.hawaii.gov/voting/military-and-overseas-voters/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/hi/hi-f34925c814.html",
+        "sha256": "04c415f4fd96a387b9d3d313a1896830cf44b2c8148b8d855e3ffe3cf5840e59",
+        "bytes": 130737
+    },
+    {
+        "requested_url": "https://elections.hawaii.gov/voting/houseless-voter-2/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:12:00+00:00",
+        "final_url": "https://elections.hawaii.gov/voting/houseless-voter-2/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/hi/hi-d18106d25d.html",
+        "sha256": "520e614f1e9d48ac7495bb583bbf86927703cefa5a16790a5d7d4f9b7edfb5da",
+        "bytes": 127150
+    },
+    {
+        "requested_url": "https://elections.hawaii.gov/voting/college-students/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:12:02+00:00",
+        "final_url": "https://elections.hawaii.gov/voting/college-students/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/hi/hi-7e36e457fa.html",
+        "sha256": "9040caa5784963313ff0756dfb9f975917c9932ca6caaa8f9682f273d566aed7",
+        "bytes": 125269
+    }
+]

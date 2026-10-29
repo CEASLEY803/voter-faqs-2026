@@ -1,0 +1,15 @@
+[
+    {
+        "requested_url": "https://www.sos.ks.gov/elections/election-faq.html",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:05:21+00:00",
+        "final_url": "https://www.sos.ks.gov/elections/election-faq.html",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ks/ks-2d3b87ad51.html",
+        "sha256": "a5b73678ab0c54ca9281c47544435469be9eae71b6e4cf7eac600f6456b2321f",
+        "bytes": 47539
+    }
+]

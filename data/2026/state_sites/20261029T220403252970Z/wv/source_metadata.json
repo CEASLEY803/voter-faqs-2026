@@ -1,0 +1,15 @@
+[
+    {
+        "requested_url": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:07:44+00:00",
+        "final_url": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/wv/wv-abe6c430af.html",
+        "sha256": "f6255e0ffb72656a836e9ff6d3af05eadeca83e5634305c64180bf675b6d7433",
+        "bytes": 146401
+    }
+]

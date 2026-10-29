@@ -1,0 +1,13 @@
+[
+    {
+        "requested_url": "https://azsos.gov/elections",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:08:37+00:00",
+        "final_url": "https://azsos.gov/elections",
+        "status_code": 403,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "HTTP 403"
+    }
+]

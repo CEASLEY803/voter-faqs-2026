@@ -1,0 +1,15 @@
+[
+    {
+        "requested_url": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:07:09+00:00",
+        "final_url": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/or/or-952c5f1f3c.html",
+        "sha256": "a104ffa04a8d844d3d734892a872ffabd2c8af8942413e032e1fb240439d6046",
+        "bytes": 144496
+    }
+]

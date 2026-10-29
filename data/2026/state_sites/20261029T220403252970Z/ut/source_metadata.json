@@ -1,0 +1,41 @@
+[
+    {
+        "requested_url": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:54+00:00",
+        "final_url": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ut/ut-365a786e3a.html",
+        "sha256": "78f82eb646ffece19261c40db9a9ddbfded86b7060247d38c2ea7e28cf0b53dc",
+        "bytes": 20688
+    },
+    {
+        "requested_url": "https://vote.utah.gov/learn-about-registering-to-vote/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:55+00:00",
+        "final_url": "https://vote.utah.gov/learn-about-registering-to-vote/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ut/ut-933bb7d03b.html",
+        "sha256": "d18b3128ebf28a4f2266968cef1c703165d30c42609e8ad25d3097d95b60e39c",
+        "bytes": 23553
+    },
+    {
+        "requested_url": "https://vote.utah.gov/voter-registration-portal/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:09:56+00:00",
+        "final_url": "https://vote.utah.gov/voter-registration-portal/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ut/ut-1e11e6474c.html",
+        "sha256": "4c51d52ac8b41f36600d62c401c8e61d21ca9190769c963b2fe8bd0f492f4bc8",
+        "bytes": 32995
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "requested_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/military-and-overseas-us-citizens",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:42+00:00",
+        "final_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/military-and-overseas-us-citizens",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nd/nd-62d30d039a.html",
+        "sha256": "79809c0de025f1a435a181dd2135ee1ea717c73e3bae9a9aeb9653a69e4a0c9b",
+        "bytes": 198697
+    },
+    {
+        "requested_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:44+00:00",
+        "final_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nd/nd-653ac58665.html",
+        "sha256": "0ae592fbade49cd2d187c71d3081c5569c6e1e2674bbc7d48998ac0eb2b5183f",
+        "bytes": 195431
+    },
+    {
+        "requested_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/absentee-voting",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:46+00:00",
+        "final_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/absentee-voting",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nd/nd-b39bb74260.html",
+        "sha256": "b344de96aeed519b985d158966c258c04dec168b43b1efda0511c10b73cff5f7",
+        "bytes": 187604
+    },
+    {
+        "requested_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/forms-voter-id",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:48+00:00",
+        "final_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/forms-voter-id",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nd/nd-4a32b6f84e.html",
+        "sha256": "5433a386e2e33a6f421052e35aab72d79af490d4a7a40c97bd183a9d91d98b68",
+        "bytes": 209848
+    },
+    {
+        "requested_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:50+00:00",
+        "final_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nd/nd-2da22d4351.html",
+        "sha256": "2f45cef63fdc8bb5a8aa4c6ba571dde199b203a42be1a4814061035401eb26fa",
+        "bytes": 177073
+    },
+    {
+        "requested_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/where-do-i-vote",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:06:51+00:00",
+        "final_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/where-do-i-vote",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nd/nd-5768d6ea77.html",
+        "sha256": "329909eeb42495f53d284405585247f1c8027006d086b4e8a7f8202904d56a0d",
+        "bytes": 181063
+    }
+]

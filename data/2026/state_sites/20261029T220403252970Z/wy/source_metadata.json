@@ -1,0 +1,15 @@
+[
+    {
+        "requested_url": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:07:46+00:00",
+        "final_url": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/wy/wy-3e42a3ec19.html",
+        "sha256": "c3ff494448b756b9b66971c566afb712400d6afea075ce0e0d9935346f6694d6",
+        "bytes": 160425
+    }
+]

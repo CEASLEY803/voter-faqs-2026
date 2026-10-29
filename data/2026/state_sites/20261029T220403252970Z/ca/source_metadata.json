@@ -1,0 +1,15 @@
+[
+    {
+        "requested_url": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:11:49+00:00",
+        "final_url": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ca/ca-08fc225766.html",
+        "sha256": "d56ca4cae53808adaff33e696fb1b83313ca651b86f69c19a9292fcba45bf71e",
+        "bytes": 110984
+    }
+]
