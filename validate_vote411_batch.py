@@ -11,7 +11,7 @@ import re
 from bs4 import BeautifulSoup
 
 from collect_sc import ROOT, source_text, validate_dataset, validate_records, vote411_blocks
-from collect_vote411 import STATE_SLUGS
+from collect_vote411 import vote411_urls
 
 
 def text_tokens(text):
@@ -29,7 +29,7 @@ def reference_body_text(body, url, extraction_version):
     return source_text([copied], url)
 
 
-def check_state(directory, state):
+def check_state(directory, state, expected_url):
     metadata = json.loads((directory / "collection_metadata.json").read_text(encoding="utf-8"))
     dataset = json.loads((directory / metadata["faq_file"]).read_text(encoding="utf-8"))
     supporting = json.loads((directory / metadata["supporting_content_file"]).read_text(encoding="utf-8"))
@@ -42,7 +42,6 @@ def check_state(directory, state):
     if supporting["num_sections"] != len(supporting["sections"]):
         raise ValueError("Incorrect supporting section count")
     source = metadata["sources"][0]
-    expected_url = f"https://www.vote411.org/{STATE_SLUGS[state]}"
     if source["requested_url"] != expected_url:
         raise ValueError("Incorrect requested source URL")
     raw = (ROOT / source["snapshot"]).read_bytes()
@@ -71,16 +70,17 @@ def main():
     parser.add_argument("batch", type=Path)
     arguments = parser.parse_args()
     manifest = json.loads((arguments.batch / "batch_manifest.json").read_text())
+    urls = vote411_urls()
     results = {}
     for state in manifest["requested_states"]:
         try:
-            results[state] = check_state(arguments.batch / state, state)
+            results[state] = check_state(arguments.batch / state, state, urls.get(state))
         except (ValueError, OSError, KeyError) as error:
             results[state] = {"status": "failed", "error": str(error)}
     failures = [state for state, result in results.items() if result["status"] == "failed"]
     report = {
         "status": "failed" if failures else "passed",
-        "all_50_states_present": set(results) == set(STATE_SLUGS),
+        "all_50_states_present": set(results) == set(urls),
         "checks": ["record format and counts", "snapshot hashes", "state and source identity",
                    "source timestamps", "source-body word and punctuation token conservation"],
         "limitations": "Token counts do not verify text order, answer boundaries, browser appearance, or factual accuracy. Human source review remains required.",
