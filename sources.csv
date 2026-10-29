@@ -26,7 +26,8 @@ ct,state,https://portal.ct.gov/sots/election-services/election-day-registration/
 ct,vote411,https://www.vote411.org/connecticut,Vote411 state page used by the 2026 batches
 de,state,https://elections.delaware.gov/voter/ExpressVoteXL.html,Replaces 2024 URL https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf (404 on 2026-10-29); new location found 2026-10-29 by a Claude research agent
 de,state,https://elections.delaware.gov/voter/VotingFAQ.html,Replaces 2024 URL https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf (404 on 2026-10-29); new location found 2026-10-29 by a Claude research agent
-de,state,https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf,"Additional 2024 state page (14 records); PDF, not HTML; page removed, no replacement found on 2026-10-29"
+de,state,https://elections.delaware.gov/voter/avr.html,"Replaces 2024 URL https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf (14 records; 404 on 2026-10-29); the automatic voter registration page now carries those questions"
+de,state,https://elections.delaware.gov/public/faq/,"Delaware's general FAQ page, linked as FAQs from the automatic voter registration page on 2026-10-29; not used in 2024"
 de,state,https://elections.delaware.gov/voter/VoterRegistrationFAQ.html,Replaces 2024 URL https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf (404 on 2026-10-29); new location found 2026-10-29 by a Claude research agent
 de,state,https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html,Replaces 2024 URL https://elections.delaware.gov/voter/absentee/pdfs/Absentee%20Voting%20FAQs.pdf (404 on 2026-10-29); new location found 2026-10-29 by a Claude research agent
 de,state,https://elections.delaware.gov/voter/pdfs/Pollbook%20FAQs.pdf,"Additional 2024 state page (3 records); PDF, not HTML"
@@ -135,7 +136,7 @@ ne,vote411,https://www.vote411.org/nebraska,Vote411 state page used by the 2026 
 nh,state,https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters,Most-used 2024 state page (10 of 34 state-site records); 2024 drew from 5 state pages
 nh,state,https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries,Additional 2024 state page (8 records)
 nh,state,https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote,Additional 2024 state page (7 records)
-nh,state,https://www.sos.nh.gov/elections/frequently-asked-questions/voters-disabilities,Additional 2024 state page (5 records)
+nh,state,https://www.sos.nh.gov/elections/voting-disabilities,"Replaces 2024 URL https://www.sos.nh.gov/elections/frequently-asked-questions/voters-disabilities (5 records), which forwards to this page on 2026-10-29"
 nh,state,https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law,Additional 2024 state page (4 records)
 nh,vote411,https://www.vote411.org/new-hampshire,Vote411 state page used by the 2026 batches
 nj,state,https://www.nj.gov/state/elections/vote-faq.shtml,Most-used 2024 state page (33 of 33 state-site records)

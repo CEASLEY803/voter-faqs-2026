@@ -7,7 +7,7 @@
         "final_url": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
         "status_code": 404,
         "content_type": "text/html",
-        "status": "failed",
+        "status": "superseded",
         "error": "HTTP 404"
     },
     {
@@ -18,7 +18,7 @@
         "final_url": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
         "status_code": 404,
         "content_type": "text/html",
-        "status": "failed",
+        "status": "superseded",
         "error": "HTTP 404"
     },
     {
@@ -29,7 +29,7 @@
         "final_url": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
         "status_code": 404,
         "content_type": "text/html",
-        "status": "failed",
+        "status": "superseded",
         "error": "HTTP 404"
     },
     {
@@ -40,7 +40,7 @@
         "final_url": "https://elections.delaware.gov/voter/absentee/pdfs/Absentee%20Voting%20FAQs.pdf",
         "status_code": 404,
         "content_type": "text/html",
-        "status": "failed",
+        "status": "superseded",
         "error": "HTTP 404"
     },
     {
@@ -118,5 +118,31 @@
         "snapshot": "data/2026/state_sites/20261029T220403252970Z/de/de-5d0542754c.html",
         "sha256": "ac181850e69f0f0ab12fe4ef08b78e14587e692d3321816528bb630a2f96a969",
         "bytes": 38845
+    },
+    {
+        "requested_url": "https://elections.delaware.gov/voter/avr.html",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:58:17+00:00",
+        "final_url": "https://elections.delaware.gov/voter/avr.html",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/de/de-27c1754776.html",
+        "sha256": "429344d00e5ba6ac0e1950bb2f604cebba23ca34d875cbcf2ef747ab028a2aa1",
+        "bytes": 49479
+    },
+    {
+        "requested_url": "https://elections.delaware.gov/public/faq/",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-29T22:58:18+00:00",
+        "final_url": "https://elections.delaware.gov/public/faq/",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/de/de-080e9c160f.html",
+        "sha256": "e0fb2da0276bccc5a96bfd2a14a6d807bf929d06e4ba9749d818d51d7cec874b",
+        "bytes": 39125
     }
 ]

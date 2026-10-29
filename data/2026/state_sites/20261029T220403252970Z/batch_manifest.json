@@ -349,7 +349,7 @@
                 "final_url": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
                 "status_code": 404,
                 "content_type": "text/html",
-                "status": "failed",
+                "status": "superseded",
                 "error": "HTTP 404"
             },
             {
@@ -377,6 +377,32 @@
                 "snapshot": "data/2026/state_sites/20261029T220403252970Z/de/de-5d0542754c.html",
                 "sha256": "ac181850e69f0f0ab12fe4ef08b78e14587e692d3321816528bb630a2f96a969",
                 "bytes": 38845
+            },
+            {
+                "requested_url": "https://elections.delaware.gov/voter/avr.html",
+                "capture_method": "requests",
+                "user_agent": "VoterFAQResearch/1.0",
+                "collected_at": "2026-10-29T22:58:17+00:00",
+                "final_url": "https://elections.delaware.gov/voter/avr.html",
+                "status_code": 200,
+                "content_type": "text/html",
+                "status": "saved",
+                "snapshot": "data/2026/state_sites/20261029T220403252970Z/de/de-27c1754776.html",
+                "sha256": "429344d00e5ba6ac0e1950bb2f604cebba23ca34d875cbcf2ef747ab028a2aa1",
+                "bytes": 49479
+            },
+            {
+                "requested_url": "https://elections.delaware.gov/public/faq/",
+                "capture_method": "requests",
+                "user_agent": "VoterFAQResearch/1.0",
+                "collected_at": "2026-10-29T22:58:18+00:00",
+                "final_url": "https://elections.delaware.gov/public/faq/",
+                "status_code": 200,
+                "content_type": "text/html",
+                "status": "saved",
+                "snapshot": "data/2026/state_sites/20261029T220403252970Z/de/de-080e9c160f.html",
+                "sha256": "e0fb2da0276bccc5a96bfd2a14a6d807bf929d06e4ba9749d818d51d7cec874b",
+                "bytes": 39125
             }
         ],
         "fl": [
@@ -1650,7 +1676,7 @@
                 "final_url": "https://www.sos.nh.gov/elections/frequently-asked-questions/voters-disabilities",
                 "status_code": 403,
                 "content_type": "text/html",
-                "status": "failed",
+                "status": "superseded",
                 "error": "HTTP 403"
             },
             {
@@ -1712,6 +1738,21 @@
                 "snapshot": "data/2026/state_sites/20261029T220403252970Z/nh/nh-029d6fd146.html",
                 "sha256": "04ce1656ffd9b32feadb25b39f1c6250271df6f082ccc862cac9d585b0547e79",
                 "bytes": 2960341
+            },
+            {
+                "requested_url": "https://www.sos.nh.gov/elections/voting-disabilities",
+                "capture_method": "manual browser save",
+                "saved_file_name": "nh-b008d65a04.html",
+                "collected_at": "2026-10-29T22:41:03+00:00",
+                "collected_at_source": "modified time of the saved file",
+                "canonical_url": "https://www.sos.nh.gov/elections/voting-disabilities",
+                "final_url": "https://www.sos.nh.gov/elections/voting-disabilities",
+                "status_code": 200,
+                "content_type": "text/html",
+                "status": "saved",
+                "snapshot": "data/2026/state_sites/20261029T220403252970Z/nh/nh-b008d65a04.html",
+                "sha256": "299b8589c80a9858a02e1543b8d015fca198d048c4fac6550de39458614d5db9",
+                "bytes": 2955673
             }
         ],
         "nj": [
@@ -2323,5 +2364,5 @@
         ]
     },
     "status": "completed_with_failures",
-    "last_updated_at": "2026-10-29T22:49:35+00:00"
+    "last_updated_at": "2026-10-29T22:58:33+00:00"
 }
