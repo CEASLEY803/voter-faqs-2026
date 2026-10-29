@@ -1,6 +1,7 @@
 """Save exact copies of every state election site page in sources.csv, without parsing."""
 
 import argparse
+import csv
 from datetime import datetime, timezone
 import hashlib
 import json
@@ -16,6 +17,9 @@ from collect_sc import ROOT, source_urls
 
 USER_AGENT = "VoterFAQResearch/1.0"
 EXTENSIONS = {"text/html": ".html", "application/pdf": ".pdf"}
+MANUAL_DIR = ROOT / "manual_saves"
+# Pages that are gone from the site; there is nothing to save by hand.
+REMOVED_PAGE_ERRORS = {"HTTP 404", "Redirected to a 404 page"}
 # Some sites answer a script with a bot-check page and HTTP 200 instead of the real page.
 # These scripts also appear on normal pages, so a page only counts as a bot check when it
 # has one of them and almost no visible text.
@@ -78,15 +82,57 @@ def snapshot_page(state, url, state_dir):
                          response.headers.get("Content-Type", ""), response.content)
 
 
+def import_manual_page(state, url, path, state_dir):
+    """Add a page a person saved from their own browser for a site that refuses scripted requests."""
+    content = path.read_bytes()
+    record = {"requested_url": url, "capture_method": "manual browser save", "saved_file_name": path.name,
+              "collected_at": datetime.fromtimestamp(path.stat().st_mtime, timezone.utc).isoformat(timespec="seconds"),
+              "collected_at_source": "modified time of the saved file"}
+    if path.suffix.lower() == ".pdf":
+        return save_response(record, state, state_dir, 200, url, "application/pdf", content)
+    # The page's own canonical address catches a file saved under another page's name.
+    soup = BeautifulSoup(content, "html.parser")
+    tag = soup.find("link", rel="canonical") or soup.find("meta", property="og:url")
+    canonical = (tag.get("href") or tag.get("content") or "").strip() if tag else ""
+    if canonical.startswith("http"):
+        record["canonical_url"] = canonical
+        if not same_site(url, canonical):
+            return record | {"status": "failed", "error": "Saved page belongs to another site"}
+    return save_response(record, state, state_dir, 200, url, "text/html", content)
+
+
 def write_json(path, content):
     path.write_text(json.dumps(content, indent=4, ensure_ascii=False) + "\n", encoding="utf-8")
+
+
+def write_checklist(manifest, urls):
+    """List failed pages still in sources.csv, with the file name each manual save should use."""
+    rows = []
+    for state, records in manifest["pages"].items():
+        for record in records:
+            url = record["requested_url"]
+            if record["status"] == "failed" and url in urls.get(state, []) and record["error"] not in REMOVED_PAGE_ERRORS:
+                rows.append({"state": state, "url": url, "save_as": snapshot_name(state, url) + ".html",
+                             "reason": record["error"][:80]})
+    MANUAL_DIR.mkdir(exist_ok=True)
+    with open(MANUAL_DIR / "checklist.csv", "w", newline="", encoding="utf-8") as file:
+        writer = csv.DictWriter(file, fieldnames=["state", "url", "save_as", "reason"])
+        writer.writeheader()
+        writer.writerows(rows)
+    return rows
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("states", nargs="*", help="State codes; default is every state with a state row")
     parser.add_argument("--batch", type=Path, help="Continue an existing batch, fetching only pages not yet saved")
+    parser.add_argument("--checklist", action="store_true",
+                        help="With --batch, write manual_saves/checklist.csv of failed pages to save by hand")
+    parser.add_argument("--import-manual", action="store_true",
+                        help="With --batch, add pages saved by hand into manual_saves/ instead of downloading")
     arguments = parser.parse_args()
+    if (arguments.checklist or arguments.import_manual) and not arguments.batch:
+        parser.error("--checklist and --import-manual need --batch.")
     urls = source_urls("state")
     for state in arguments.states:
         if state not in urls:
@@ -100,9 +146,31 @@ def main():
         batch_dir.mkdir(parents=True)
         manifest = {"coverage": "State election sites; exact page snapshots, not yet parsed",
                     "started_at": now(), "pages": {}}
+    if arguments.checklist:
+        rows = write_checklist(manifest, urls)
+        print(f"{len(rows)} pages to save by hand. Checklist: {MANUAL_DIR / 'checklist.csv'}")
+        return
     manifest["status"] = "running"
     manifest_path = batch_dir / "batch_manifest.json"
     write_json(manifest_path, manifest)
+    if arguments.import_manual:
+        with open(MANUAL_DIR / "checklist.csv", newline="", encoding="utf-8") as file:
+            checklist = list(csv.DictReader(file))
+        for row in checklist:
+            state, url = row["state"], row["url"]
+            records = manifest["pages"].setdefault(state, [])
+            if any(record["requested_url"] == url and record["status"] == "saved" for record in records):
+                continue
+            stem = Path(row["save_as"]).stem
+            files = [path for path in MANUAL_DIR.glob(stem + ".*") if path.suffix.lower() in {".html", ".htm", ".pdf"}]
+            if not files:
+                print(f"{state.upper()} not saved yet: {url}")
+                continue
+            record = import_manual_page(state, url, files[0], batch_dir / state)
+            records[:] = [old for old in records if old["requested_url"] != url] + [record]
+            print(f"{state.upper()} {record['status']} (manual): {url}" + (f" ({record['error']})" if "error" in record else ""))
+            write_json(batch_dir / state / "source_metadata.json", records)
+        states = []
     fetched = 0
     for state in states:
         state_dir = batch_dir / state

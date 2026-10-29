@@ -110,3 +110,11 @@ User request, verbatim:
 Scope choice supplied by the user when asked how many pages to save per state: "All 2024 pages".
 
 Coding assistance: allow several `state` rows per state in `sources.csv` and add every official state page the 2024 data used (excluding a county site and a League of Women Voters page). Make `load_sources()` accept CSV files saved by Excel (byte order mark). Add `snapshot_state_sites.py`, which saves exact page bytes with timestamps and checksums into one batch under `data/2026/state_sites/`, records failures (HTTP errors, redirects to 404 pages or other sites) instead of stopping, and can continue an existing batch. A Claude research subagent searched for current URLs for the 12 states with blank or dead rows; its confirmed pages, and three unconfirmed search results for IL, OH, and WI, were added to `sources.csv` with notes saying so. A test of capturing blocked sites through a browser was stopped by Claude Code's safety check as bot-check circumvention and was not used; the import option written for that test was removed before committing. A first version of the bot-check-page filter was too broad and deleted 20 real, uncommitted snapshots (CA, HI, ID, IL, MS, NJ, WA); they were downloaded again minutes later, and their recorded collection times are the times of the second download. The README was not edited. Model information is the same as the October 26 entry.
+
+## October 29, 2026: manual saves for blocked state sites
+
+User decision, verbatim, when asked how to capture the 15 states that refuse scripted requests:
+
+> I'll save them myself
+
+Coding assistance: add `--checklist` to `snapshot_state_sites.py`, which lists each blocked page with the file name to save it under, and `--import-manual`, which copies pages the user saved from their own browser into the existing batch. Imported pages are marked `manual browser save`, take their collection time from the saved file's modified time, and are rejected if they are bot-check pages or if the page's canonical address is on another site. Tested on a throwaway copy of the batch with made-up files. The user saves the pages; the code only imports them. Model information is the same as the October 26 entry.
