@@ -1,16 +1,5 @@
 [
     {
-        "requested_url": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
-        "capture_method": "requests",
-        "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-10-30T09:57:29+00:00",
-        "final_url": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
-        "status_code": 200,
-        "content_type": "text/html",
-        "status": "failed",
-        "error": "Bot-check page instead of content"
-    },
-    {
         "requested_url": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
         "capture_method": "manual browser save",
         "saved_file_name": "ma-31d00faff9.html",
@@ -51,5 +40,19 @@
         "snapshot": "data/2026/state_sites/20261029T220403252970Z/ma/ma-60221fcf43.html",
         "sha256": "5093a8b4cd416d205eb1cfc1fccc70e34a11397d50afd49580f7e9dd8614577f",
         "bytes": 39841
+    },
+    {
+        "requested_url": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
+        "capture_method": "manual browser save",
+        "saved_file_name": "ma-6521d2a1fb.html",
+        "collected_at": "2026-10-30T09:59:19+00:00",
+        "collected_at_source": "modified time of the saved file",
+        "final_url": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ma/ma-6521d2a1fb.html",
+        "sha256": "6fd48be08c93c63a00202552644097badef533f98ff46e7d4ba6009c498bb53b",
+        "bytes": 53620
     }
 ]
