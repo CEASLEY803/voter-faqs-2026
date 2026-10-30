@@ -78,7 +78,10 @@ la,state,https://sos.la.gov/elections-voting/voting-early-faqs,Replaces 2024 URL
 la,state,https://sos.la.gov/elections-voting/voting-on-election-day-faqs,Replaces 2024 URL https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay (404 on 2026-10-29); new location found 2026-10-29 by a Claude research agent
 la,state,https://sos.la.gov/elections-voting/provisional-voting-faqs,Replaces 2024 URL https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally (404 on 2026-10-29); new location found 2026-10-29 by a Claude research agent
 la,vote411,https://www.vote411.org/louisiana,Vote411 state page used by the 2026 batches
-ma,state,,"2024 recorded the source as the text 'Voting-Mass.gov', not a URL"
+ma,state,https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm,"FAQ page headed 2022 Information for Voters, still online on 2026-10-30, found by the user; not 2026-specific; 2024 recorded the source as the text 'Voting-Mass.gov', not a URL"
+ma,state,https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm,"Current state voting page, found by search on 2026-10-30; not a labeled FAQ; added because the 2024 records cover the same topics"
+ma,state,https://www.sec.state.ma.us/divisions/elections/voting-information/vote-early.htm,"Current state voting page, found by search on 2026-10-30; not a labeled FAQ; added because the 2024 records cover the same topics"
+ma,state,https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-Information-for-voters/2026-voting-options.htm,"Voting options page in the state's 2026 Information for Voters guide, found by search on 2026-10-30; not a labeled FAQ"
 ma,vote411,https://www.vote411.org/massachusetts,Vote411 state page used by the 2026 batches
 md,state,https://elections.maryland.gov/voting/index.html,Most-used 2024 state page (23 of 23 state-site records)
 md,vote411,https://www.vote411.org/maryland,Vote411 state page used by the 2026 batches

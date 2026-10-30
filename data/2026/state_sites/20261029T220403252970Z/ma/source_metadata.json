@@ -1,0 +1,55 @@
+[
+    {
+        "requested_url": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
+        "capture_method": "requests",
+        "user_agent": "VoterFAQResearch/1.0",
+        "collected_at": "2026-10-30T09:57:29+00:00",
+        "final_url": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "failed",
+        "error": "Bot-check page instead of content"
+    },
+    {
+        "requested_url": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+        "capture_method": "manual browser save",
+        "saved_file_name": "ma-31d00faff9.html",
+        "collected_at": "2026-10-30T09:57:58+00:00",
+        "collected_at_source": "modified time of the saved file",
+        "final_url": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ma/ma-31d00faff9.html",
+        "sha256": "f7c19708a2af9f657ab1d6a3dc3aaf92069840ff98f27b792b6b8e0a79c07ac1",
+        "bytes": 117245
+    },
+    {
+        "requested_url": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-early.htm",
+        "capture_method": "manual browser save",
+        "saved_file_name": "ma-1e7b265a67.html",
+        "collected_at": "2026-10-30T09:57:39+00:00",
+        "collected_at_source": "modified time of the saved file",
+        "final_url": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-early.htm",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ma/ma-1e7b265a67.html",
+        "sha256": "5385417712427d4fc0c2259fb00300169c1b053aaee4ae631ab3f98cdc3fc216",
+        "bytes": 36239
+    },
+    {
+        "requested_url": "https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-Information-for-voters/2026-voting-options.htm",
+        "capture_method": "manual browser save",
+        "saved_file_name": "ma-60221fcf43.html",
+        "collected_at": "2026-10-30T09:57:44+00:00",
+        "collected_at_source": "modified time of the saved file",
+        "final_url": "https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-Information-for-voters/2026-voting-options.htm",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ma/ma-60221fcf43.html",
+        "sha256": "5093a8b4cd416d205eb1cfc1fccc70e34a11397d50afd49580f7e9dd8614577f",
+        "bytes": 39841
+    }
+]
