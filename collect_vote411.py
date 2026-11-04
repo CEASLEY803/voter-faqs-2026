@@ -21,11 +21,11 @@ def vote411_urls():
     return {state: state_urls[0] for state, state_urls in urls.items()}
 
 
-def collect_state(state, url, contributor, batch_dir=None, original_run=None):
+def collect_state(state, url, contributor, batch_dir=None, original_run=None, year=None):
     """Keep one state's source snapshot and validated outputs in a separate run."""
     run_id = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S%fZ")
     if batch_dir is None:
-        run_dir = ROOT / "data" / "2026" / "runs" / run_id
+        run_dir = ROOT / "data" / str(year or datetime.now(timezone.utc).year) / "runs" / run_id
     else:
         run_dir = batch_dir / state
     run_dir.mkdir(parents=True, exist_ok=False)
@@ -87,6 +87,7 @@ def main():
     parser.add_argument("--all", action="store_true", help="Collect every state with a Vote411 row in sources.csv")
     parser.add_argument("--from-batch", type=Path, help="Reprocess saved batch sources without downloading")
     parser.add_argument("--contributor", default="Cole Easley")
+    parser.add_argument("--year", type=int, default=datetime.now(timezone.utc).year, help="Collection cycle; default is the current year")
     arguments = parser.parse_args()
     if arguments.all and arguments.states:
         parser.error("Use --all or specific states, not both.")
@@ -100,7 +101,7 @@ def main():
     else:
         states = list(dict.fromkeys(codes_by_slug.get(state, state) for state in arguments.states))
     run_id = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S%fZ")
-    batch_dir = ROOT / "data" / "2026" / "batches" / run_id
+    batch_dir = ROOT / "data" / str(arguments.year) / "batches" / run_id
     batch_dir.mkdir(parents=True, exist_ok=False)
     manifest = {"requested_states": states, "coverage": "Vote411 only", "status": "running", "results": {}}
     manifest_path = batch_dir / "batch_manifest.json"

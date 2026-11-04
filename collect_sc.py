@@ -247,10 +247,11 @@ def validate_records(entries, fields):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--contributor", default="Cole Easley")
+    parser.add_argument("--year", type=int, default=datetime.now(timezone.utc).year, help="Collection cycle; default is the current year")
     parser.add_argument("--from-run", type=Path, help="Reprocess a saved run without downloading pages.")
     arguments = parser.parse_args()
     run_id = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S%fZ")
-    run_dir = ROOT / "data" / "2026" / "runs" / run_id
+    run_dir = ROOT / "data" / str(arguments.year) / "runs" / run_id
     run_dir.mkdir(parents=True, exist_ok=False)
     if arguments.from_run:
         saved_metadata = json.loads((arguments.from_run / "collection_metadata.json").read_text(encoding="utf-8"))

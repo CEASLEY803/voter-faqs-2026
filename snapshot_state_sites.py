@@ -125,6 +125,7 @@ def write_checklist(manifest, urls):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("states", nargs="*", help="State codes; default is every state with a state row")
+    parser.add_argument("--year", type=int, default=datetime.now(timezone.utc).year, help="Collection cycle; default is the current year")
     parser.add_argument("--batch", type=Path, help="Continue an existing batch, fetching only pages not yet saved")
     parser.add_argument("--checklist", action="store_true",
                         help="With --batch, write manual_saves/checklist.csv of failed pages to save by hand")
@@ -142,7 +143,7 @@ def main():
         batch_dir = (ROOT / arguments.batch).resolve()
         manifest = json.loads((batch_dir / "batch_manifest.json").read_text(encoding="utf-8"))
     else:
-        batch_dir = ROOT / "data" / "2026" / "state_sites" / datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S%fZ")
+        batch_dir = ROOT / "data" / str(arguments.year) / "state_sites" / datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S%fZ")
         batch_dir.mkdir(parents=True)
         manifest = {"coverage": "State election sites; exact page snapshots, not yet parsed",
                     "started_at": now(), "pages": {}}
