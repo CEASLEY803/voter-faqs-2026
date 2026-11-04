@@ -1,0 +1,1872 @@
+{
+    "state": "nc",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "What is the First Activity?",
+            "current_q": "What is the “First Activity”?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/candidates/filing-candidacy",
+            "current_s": "https://www.ncsbe.gov/candidates/filing-candidacy",
+            "answer_status": "changed",
+            "answer_similarity": 0.993,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If the Electors Vote for President, Why Should I Vote in the General Election?",
+            "current_q": "If the Electors Vote for President, Why Should I Vote in the General Election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/about-elections/electoral-college",
+            "current_s": "https://www.ncsbe.gov/about-elections/electoral-college",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is the voter registration deadline?",
+            "current_q": "When is the voter registration deadline?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "current_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "May I fax or email a voter registration form?",
+            "current_q": "May I fax or email a voter registration form?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "current_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "May I sign a voter registration application for someone else?",
+            "current_q": "May I sign a voter registration application for someone else?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "current_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I register as an unaffiliated voter, can I vote in a primary election?",
+            "current_q": "If I register as an unaffiliated voter, can I vote in a primary election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "current_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are voter registration forms available in other languages?",
+            "current_q": "Are voter registration forms available in other languages?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "current_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the rules around residency for voting purposes?",
+            "current_q": "What are the rules around residency for voting purposes?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "current_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I have moved within my county?",
+            "current_q": "What if I have moved within my county?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "current_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "answer_status": "changed",
+            "answer_similarity": 0.87,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I have moved within a time period close to an election?",
+            "current_q": "What if I have moved within a time period close to an election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "current_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What about other changes?",
+            "current_q": "What about other changes?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "current_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How will I know the change has been made to my record?",
+            "current_q": "How will I know the change has been made to my record?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "current_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How does North Carolina ensure that only U.S. citizens can vote?",
+            "current_q": "How does North Carolina ensure that only U.S. citizens can vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "current_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "answer_status": "changed",
+            "answer_similarity": 0.981,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I dont vote, will my voter record be purged from the voter registration rolls?",
+            "current_q": "If I don’t vote, will my voter record be purged from the voter registration rolls?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "current_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How are ineligible voters removed from the voter registration rolls?",
+            "current_q": "How are ineligible voters removed from the voter registration rolls?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "current_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "May I keep my voter registration information private?",
+            "current_q": "May I keep my voter registration information private?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "current_s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "answer_status": "changed",
+            "answer_similarity": 0.991,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need an ID to vote?",
+            "current_q": "Do I need an ID to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "current_s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I register to vote on Election Day?",
+            "current_q": "Can I register to vote on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "current_s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if there are questions about my registration or eligibility to vote?",
+            "current_q": "What if there are questions about my registration or eligibility to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "current_s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What type of voting equipment does my county use?",
+            "current_q": "What type of voting equipment does my county use?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "current_s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.746,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I need help at my polling place?",
+            "current_q": "What if I need help at my polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "current_s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I photograph my ballot?",
+            "current_q": "Can I photograph my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "current_s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.982,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need an excuse or special circumstance to vote by mail?",
+            "current_q": "Do I need an excuse or special circumstance to vote by mail?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I request my absentee ballot?",
+            "current_q": "How do I request my absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "changed",
+            "answer_similarity": 0.925,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I fax or email my absentee ballot request form to my county board of elections?",
+            "current_q": "Can I fax or email my absentee ballot request form to my county board of elections?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are absentee-by-mail ballots automatically sent out to all registered voters?",
+            "current_q": "Are absentee-by-mail ballots automatically sent out to all registered voters?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "changed",
+            "answer_similarity": 0.926,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are acceptable ways to sign my absentee ballot request form?",
+            "current_q": "What are acceptable ways to sign my absentee ballot request form?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "changed",
+            "answer_similarity": 0.936,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can someone request an absentee ballot for me?",
+            "current_q": "Can someone request an absentee ballot for me?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I request a ballot for my child who is away at college?",
+            "current_q": "Can I request a ballot for my child who is away at college?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I pick up my ballot in person or does it have to be mailed to me?",
+            "current_q": "Can I pick up my ballot in person or does it have to be mailed to me?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if a voter in a hospital, nursing home, or other facility needs assistance voting by mail?",
+            "current_q": "What if a voter in a hospital, nursing home, or other facility needs assistance voting by mail?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can a nursing home or facility deliver the blank absentee ballot requests to the residents of the facility, or should they be placed in a common area such as a lobby?",
+            "current_q": "Can a nursing home or facility deliver the blank absentee ballot requests to the residents of the facility, or should they be placed in a common area such as a lobby?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I live on a boat or in an RV and want to request an absentee ballot by mail?",
+            "current_q": "What if I live on a boat or in an RV and want to request an absentee ballot by mail?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "May I request an absentee ballot if I do not have a permanent residence?",
+            "current_q": "May I request an absentee ballot if I do not have a permanent residence?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are organizations allowed to email request forms to voters?",
+            "current_q": "Are organizations allowed to email request forms to voters?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "changed",
+            "answer_similarity": 0.913,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How many witnesses do I need when I mark my absentee ballot?",
+            "current_q": "How many witnesses do I need when I mark my absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who is not allowed to serve as a witness to an absentee ballot?",
+            "current_q": "Who is not allowed to serve as a witness to an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I make a mistake on my ballot, may I request a new one?",
+            "current_q": "If I make a mistake on my ballot, may I request a new one?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Will my ballot still count if I leave any contests blank?",
+            "current_q": "Will my ballot still count if I leave any contests blank?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can my spouse serve as my witness?",
+            "current_q": "Can my spouse serve as my witness?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I return my absentee ballot?",
+            "current_q": "How can I return my absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Should I provide a copy of a photo ID when I return my absentee ballot?",
+            "current_q": "Should I provide a copy of a photo ID when I return my absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If Ive received my ballot by mail, may I still vote in person?",
+            "current_q": "If I’ve received my ballot by mail, may I still vote in person?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I vote the ballot and return it to the county board of elections, but change my mind and cancel my ballot and vote on Election Day instead?",
+            "current_q": "Can I vote the ballot and return it to the county board of elections, but change my mind and cancel my ballot and vote on Election Day instead?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Will I be notified if my absentee ballot is rejected? Will I have a chance to remedy any deficiencies?",
+            "current_q": "Will I be notified if my absentee ballot is rejected? Will I have a chance to remedy any deficiencies?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "May I return my friends and neighbors absentee ballots?",
+            "current_q": "May I return my friends’ and neighbors’ absentee ballots?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "May another person return my absentee ballot for me?",
+            "current_q": "May another person return my absentee ballot for me?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "May two people return their ballots in the same envelope?",
+            "current_q": "May two people return their ballots in the same envelope?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "May I hand-deliver my voted absentee ballot to my county board of elections office?",
+            "current_q": "May I hand-deliver my voted absentee ballot to my county board of elections office?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "May I hand-deliver my voted absentee ballot to the polls on Election Day?",
+            "current_q": "May I hand-deliver my voted absentee ballot to the polls on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I heard that if I vote absentee by mail, my vote may not get counted. Is that true?",
+            "current_q": "I heard that if I vote absentee by mail, my vote may not get counted. Is that true?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I mail my ballot, is it required to have a postmark?",
+            "current_q": "If I mail my ballot, is it required to have a postmark?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When are absentee ballots counted?",
+            "current_q": "When are absentee ballots counted?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How secure is absentee-by-mail voting?",
+            "current_q": "How secure is absentee-by-mail voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What prevents someone from voting absentee and then voting again in-person?",
+            "current_q": "What prevents someone from voting absentee and then voting again in-person?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Will anyone know who I voted for?",
+            "current_q": "Will anyone know who I voted for?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I view a list of all voters who have requested an absentee ballot?",
+            "current_q": "Can I view a list of all voters who have requested an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "current_s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "answer_status": "changed",
+            "answer_similarity": 0.916,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I get an ID from the county board of elections during the early voting period?",
+            "current_q": "Can I get an ID from the county board of elections during the early voting period?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "current_s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "answer_status": "changed",
+            "answer_similarity": 0.852,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can a poll worker reject my photo ID because my appearance has changed since my photo was taken?",
+            "current_q": "Can a poll worker reject my photo ID because my appearance has changed since my photo was taken?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "current_s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What student and public employee IDs are approved for voting?",
+            "current_q": "What student and public employee IDs are approved for voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "current_s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "answer_status": "changed",
+            "answer_similarity": 0.818,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is photo ID required for military and overseas voters (aka, UOCAVA voters)?",
+            "current_q": "Is photo ID required for military and overseas voters (aka, UOCAVA voters)?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "current_s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "answer_status": "changed",
+            "answer_similarity": 0.304,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where can I read the photo ID laws?",
+            "current_q": "Where can I read the photo ID laws?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "current_s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the UOCAVA, and who is covered by it?",
+            "current_q": "What is the “UOCAVA,” and who is covered by it?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "current_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.894,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I am the spouse/dependent of a military member who the UOCAVA covers. Am I also a covered voter?",
+            "current_q": "I am the spouse/dependent of a military member who the UOCAVA covers. Am I also a covered voter?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "current_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I am a student studying abroad. Does this apply to me?",
+            "current_q": "I am a student studying abroad. Does this apply to me?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "current_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the Federal Post Card Application (FPCA)?",
+            "current_q": "What is the Federal Post Card Application (FPCA)?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "current_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.996,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I have to send in a separate application for each election?",
+            "current_q": "Do I have to send in a separate application for each election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "current_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is the application deadline?",
+            "current_q": "When is the application deadline?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "current_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can someone request a ballot on my behalf?",
+            "current_q": "Can someone request a ballot on my behalf?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "current_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When will I get my ballot?",
+            "current_q": "When will I get my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "current_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is the ballot return deadline?",
+            "current_q": "When is the ballot return deadline?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "current_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.997,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if my ballot doesnt arrive in time?",
+            "current_q": "What if my ballot doesn’t arrive in time?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "current_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the Federal Write-in Absentee Ballot (FWAB)?",
+            "current_q": "What is the Federal Write-in Absentee Ballot (FWAB)?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "current_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I have to include a U.S. voting residence on the application?",
+            "current_q": "Do I have to include a U.S. voting residence on the application?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "current_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is my U.S. voting residence address and how is it used?",
+            "current_q": "What is my U.S. voting residence address and how is it used?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "current_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Why is my U.S. voting residence address important?",
+            "current_q": "Why is my U.S. voting residence address important?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "current_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "May I register to vote and request a ballot if my family moved from North Carolina to another country before I was of voting age?",
+            "current_q": "May I register to vote and request a ballot if my family moved from North Carolina to another country before I was of voting age?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "current_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What should an agency do if the client refuses to accept the voter registration application?",
+            "current_q": "What should an agency do if the client refuses to accept the voter registration application?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/national-voter-registration-act-nvra",
+            "current_s": "https://www.ncsbe.gov/registering/national-voter-registration-act-nvra",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If DSS agencies are no longer required to offer a separate preference form, how will agencies be able to prove that voter registration services were offered to a client?",
+            "current_q": "If DSS agencies are no longer required to offer a separate preference form, how will agencies be able to prove that voter registration services were offered to a client?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/national-voter-registration-act-nvra",
+            "current_s": "https://www.ncsbe.gov/registering/national-voter-registration-act-nvra",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the NVRA information that should be on a services application?",
+            "current_q": "What is the “NVRA information” that should be on a services application?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/national-voter-registration-act-nvra",
+            "current_s": "https://www.ncsbe.gov/registering/national-voter-registration-act-nvra",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are agencies supposed to review public assistance applications that are mailed to an agency to determine whether the applicant would like to register to vote?",
+            "current_q": "Are agencies supposed to review public assistance applications that are mailed to an agency to determine whether the applicant would like to register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/national-voter-registration-act-nvra",
+            "current_s": "https://www.ncsbe.gov/registering/national-voter-registration-act-nvra",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Did You Miss the Civilian Voter Registration Deadline?",
+            "current_q": "Did You Miss the Civilian Voter Registration Deadline?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/how-register/voter-registration-deadlines",
+            "current_s": "https://www.ncsbe.gov/registering/how-register/voter-registration-deadlines",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who Can Register on Election Day?",
+            "current_q": "Who Can Register on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/registering/how-register/voter-registration-deadlines",
+            "current_s": "https://www.ncsbe.gov/registering/how-register/voter-registration-deadlines",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Unsure if You Are Registered?",
+            "current_q": "Unsure if You Are Registered?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-early-person",
+            "current_s": "https://www.ncsbe.gov/voting/vote-early-person",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Unsure if You Are Registered?",
+            "current_q": "Unsure if You Are Registered?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.ncsbe.gov/voting/vote-person-election-day",
+            "current_s": "https://www.ncsbe.gov/voting/vote-person-election-day",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "May I register to vote and request a ballot if I am a U.S. citizen who has never lived in the country?",
+            "current_q": "May I register to vote and request a ballot if I am a U.S. citizen who was born outside the United States and have never lived in the country?",
+            "question_similarity": 0.825,
+            "baseline_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "current_s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.24,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "If I forgot ID, can I go get it and return to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Will my ballot be counted if I properly fill out an ID Exception Form?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "If I have an ID but forgot to bring it to my voting site, can I go get it and return to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Will I meet the photo ID requirement if I properly fill out an ID Exception Form?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How does an early voting plan get approved for each county?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.ncsbe.gov/voting/vote-early-person",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are the requirements for early voting plans under state law?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.ncsbe.gov/voting/vote-early-person",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What public notice should be given when a county board considers an early voting plan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.ncsbe.gov/voting/vote-early-person",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does the county board have to provide copies of any proposed early voting plans before the meeting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.ncsbe.gov/voting/vote-early-person",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do county boards of elections have to take public comments about early voting plans – either before the meeting to consider them or at that meeting itself?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.ncsbe.gov/voting/vote-early-person",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do county boards have to live stream or record their meetings?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.ncsbe.gov/voting/vote-early-person",
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I request and return an absentee ballot for an upcoming general election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What should I do if there's an issue with my absentee or provisional ballot before the election deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information on campaign contributions for candidates and ballot measures?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I access comprehensive details about candidates and ballot measures in the election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the options and deadlines for submitting my ballot using drop boxes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When does early voting start and end, and how can I participate in early voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I find out the important dates for upcoming elections?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility criteria to vote in an election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of identification are required to register to vote, and how can I prove my citizenship?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of identification are acceptable at polling places for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When and where will the official election results be available, and how can I track them?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can military personnel and overseas citizens register and vote in elections?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements and steps to become a poll worker for an election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the operating hours of polling places on Election Day?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I find the exact location of my designated polling place?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work for affiliated and unaffiliated voters?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Under what circumstances will I need to cast a provisional ballot, and how is it processed?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What accessible voting options are available for voters with disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the voter registration deadline for the upcoming election, and how can I register online?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are my rights regarding time off work to vote in elections?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I verify my voter registration status and address any issues?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of voting machines are used at polling places, and how do they operate?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN REQUEST AN ABSENTEE BALLOT FOR A VOTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I RETURN MY ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does North Carolina allow ballot curing?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to cure my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track my absentee ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I cure a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a ballot drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes available in my state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I return my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track the ballot after placing in the drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote before Election Day in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I have to apply to vote early in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I vote early in person in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I receive an early ballot in the mail?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to vote early in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN REGISTER TO VOTE IN NORTH CAROLINA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN VOTE IN NORTH CAROLINA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I VOTE IN NORTH CAROLINA IF I HAVE A FELONY CONVICTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I REGISTER AND VOTE IN NORTH CAROLINA IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN NORTH CAROLINA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN NORTH CAROLINA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER IN NORTH CAROLINA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When are official election results available in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find official election results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I learn more?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What does a poll worker do in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What qualifications do I need to be a poll worker in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are poll workers paid in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I apply to be a poll worker in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does North Carolina offer provisional voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are some reasons to vote a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I cure a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I check the status of my provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What voting assistance is available for voters with disabilities?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I request accommodation or report accessibility issues?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote by mail because of my disability?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do I need to register to vote in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What’s the deadline to register to vote in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state, can I still vote in my home state while studying in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does North Carolina require employers to give time off to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I NEED TO SHOW ID WHEN I VOTE IN NORTH CAROLINA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO VOTE IN NORTH CAROLINA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN NORTH CAROLINA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to register to vote in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I register to vote in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I check my voter registration status?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does North Carolina have online voter registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is same-day voter registration available in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I pre-register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to register in North Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of voting machines does North Carolina use?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is optical scan voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are paper ballots?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is Direct Recording Electronic Voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-carolina",
+            "source": "vote411"
+        }
+    ]
+}

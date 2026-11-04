@@ -1,0 +1,808 @@
+{
+    "state": "nj",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "Is there an early voting period in New Jersey?",
+            "current_q": "Is there an early voting period in New Jersey?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "changed",
+            "answer_similarity": 0.965,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I vote in-person at my polling location on Election Day?",
+            "current_q": "Can I vote in-person at my polling location on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is a provisional ballot?",
+            "current_q": "What is a provisional ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Will my other votes be counted if I choose not to vote for a candidate or question?",
+            "current_q": "Will my other votes be counted if I choose not to vote for a candidate or question?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I have to vote for the Party I am registered with?",
+            "current_q": "Do I have to vote for the Party I am registered with?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the Voter Registration Deadline?",
+            "current_q": "What is the Voter Registration Deadline?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "changed",
+            "answer_similarity": 0.79,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I register to vote?",
+            "current_q": "How can I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I check my voter registration status?",
+            "current_q": "How can I check my voter registration status?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is considered an Inactive voter?",
+            "current_q": "What is considered an “Inactive” voter?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I be a poll worker on Election Day?",
+            "current_q": "How can I be a poll worker on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I receive my Mail-in Ballot?",
+            "current_q": "How do I receive my Mail-in Ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "changed",
+            "answer_similarity": 0.82,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I always vote-by-mail, but now want to vote early, in-person, instead?",
+            "current_q": "What if I always vote-by-mail, but now want to vote early, in-person, instead?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When will ballots be mailed?",
+            "current_q": "When will ballots be mailed?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "changed",
+            "answer_similarity": 0.866,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I know if my Mail-in Ballot has been received?",
+            "current_q": "How do I know if my Mail-in Ballot has been received?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I track my Mail-in Ballot?",
+            "current_q": "Can I track my Mail-in Ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I am voting by mail, when must the county Board of Elections receive my ballot?",
+            "current_q": "If I am voting by mail, when must the county Board of Elections receive my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "changed",
+            "answer_similarity": 0.891,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I return my ballot?",
+            "current_q": "How can I return my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the deadline by which election officials must receive a mailed ballot?",
+            "current_q": "What is the deadline by which election officials must receive a mailed ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "changed",
+            "answer_similarity": 0.934,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I stop receiving a Mail-in Ballot for future elections?",
+            "current_q": "How do I stop receiving a Mail-in Ballot for future elections?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I have to include a stamp on my ballot return envelope?",
+            "current_q": "Do I have to include a stamp on my ballot return envelope?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do Mail-in Ballots require a witness or notary?",
+            "current_q": "Do Mail-in Ballots require a witness or notary?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "changed",
+            "answer_similarity": 0.741,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do voters casting a Mail-in Ballot need to include a copy of their ID?",
+            "current_q": "Do voters casting a Mail-in Ballot need to include a copy of their ID?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What should I do if I make a mistake, damage, or lose my Mail-in Ballot?",
+            "current_q": "What should I do if I make a mistake, damage, or lose my Mail-in Ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the difference between absentee and Vote-By-Mail ballot in New Jersey?",
+            "current_q": "What is the difference between absentee and Vote-By-Mail ballot in New Jersey?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where can I find the locations of the ballot drop boxes?",
+            "current_q": "Where can I find the locations of the ballot drop boxes?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I deliver more than 1 vote-by-mail ballot to the Board of Elections office or place it in the ballot drop box?",
+            "current_q": "Can I deliver more than 1 vote-by-mail ballot to the Board of Elections office or place it in the ballot drop box?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I deliver my vote-by-mail ballot to my polling location?",
+            "current_q": "Can I deliver my vote-by-mail ballot to my polling location?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are ballots subject to signature matching? If a voter submits a ballot that lacks a signature or the signature is determined not to match the signature in the voters voting record, will that voter be notified?",
+            "current_q": "Are ballots subject to signature matching? If a voter submits a ballot that lacks a signature or the signature is determined not to match the signature in the voter’s voting record, will that voter be notified?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Why am I receiving a letter, call, and/or email saying that my vote by mail ballot or provisional ballot was missing a signature, or that the signature did not match, and asking for additional information?",
+            "current_q": "Why am I receiving a letter, call, and/or email saying that my vote by mail ballot or provisional ballot was missing a signature, or that the signature did not match, and asking for additional information?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I believe an election crime or voter fraud has been committed?",
+            "current_q": "What if I believe an election crime or voter fraud has been committed?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "changed",
+            "answer_similarity": 0.31,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "How can I vote in the next 2025 Election?",
+            "current_q": "How can I vote in the next 2026 Election?",
+            "question_similarity": 0.975,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "answer_status": "changed",
+            "answer_similarity": 0.974,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Will my Mail-in Ballot be counted? I heard that Mail-in Ballots might not be counted.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is a Ballot Drop Box",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.nj.gov/state/elections/vote-faq.shtml",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I request and return an absentee ballot for an upcoming general election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What should I do if there's an issue with my absentee or provisional ballot before the election deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information on campaign contributions for candidates and ballot measures?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I access comprehensive details about candidates and ballot measures in the election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the options and deadlines for submitting my ballot using drop boxes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When does early voting start and end, and how can I participate in early voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I find out the important dates for upcoming elections?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility criteria to vote in an election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of identification are required to register to vote, and how can I prove my citizenship?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of identification are acceptable at polling places for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When and where will the official election results be available, and how can I track them?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can military personnel and overseas citizens register and vote in elections?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements and steps to become a poll worker for an election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the operating hours of polling places on Election Day?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I find the exact location of my designated polling place?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work for affiliated and unaffiliated voters?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Under what circumstances will I need to cast a provisional ballot, and how is it processed?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What accessible voting options are available for voters with disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the voter registration deadline for the upcoming election, and how can I register online?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are my rights regarding time off work to vote in elections?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I verify my voter registration status and address any issues?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of voting machines are used at polling places, and how do they operate?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-jersey",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I RETURN MY ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN REGISTER TO VOTE IN NEW JERSEY?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN VOTE IN NEW JERSEY?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I VOTE IN NEW JERSEY IF I HAVE A FELONY CONVICTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I REGISTER AND VOTE IN NEW JERSEY IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN NEW JERSEY?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN NEW JERSEY?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER IN NEW JERSEY?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do I need to register to vote in New Jersey?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in New Jersey?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What’s the deadline to register to vote in New Jersey?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in New Jersey?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state, can I still vote in my home state while studying in New Jersey?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in New Jersey?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I NEED TO SHOW ID WHEN I VOTE IN NEW JERSEY?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO VOTE IN NEW JERSEY?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN NEW JERSEY?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-jersey",
+            "source": "vote411"
+        }
+    ]
+}

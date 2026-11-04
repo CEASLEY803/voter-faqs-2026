@@ -1,0 +1,305 @@
+{
+    "state": "ut",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "1. Will I receive a ballot in the mail?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "2. When can I expect my mail ballot to arrive?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "3. When do I need to mail my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "4. How do I receive a ballot if I am in the military or living outside of the United States?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "5. How do I track my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "6. Can my mail ballot be forwarded?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "7. Do I need a stamp for my mail ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "1. How can I register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://vote.utah.gov/learn-about-registering-to-vote/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "2. What are the requirements to register?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://vote.utah.gov/learn-about-registering-to-vote/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "3. Am I considered a resident of Utah?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://vote.utah.gov/learn-about-registering-to-vote/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "4. I have a felony. Can I register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://vote.utah.gov/learn-about-registering-to-vote/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "5. I am a college student living away from home. Where do I register?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://vote.utah.gov/learn-about-registering-to-vote/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "6. Is my voter registration information shared with third parties?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://vote.utah.gov/learn-about-registering-to-vote/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Am I considered a resident of Utah?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://vote.utah.gov/voter-registration-portal/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I have a felony. Can I register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://vote.utah.gov/voter-registration-portal/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I am a college student living away from home. Where do I register?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://vote.utah.gov/voter-registration-portal/",
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the deadline for receiving absentee ballots in Utah?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/utah",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is required to vote by absentee ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/utah",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where are ballot drop boxes located?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/utah",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is early voting available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/utah",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility requirements to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/utah",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID do I need to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/utah",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of identification are accepted for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/utah",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are official election results released?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/utah",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements to become a poll worker?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/utah",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the voting hours at polling places?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/utah",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/utah",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When would I need to vote using a provisional ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/utah",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What accommodations are available for voters with disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/utah",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the deadline to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/utah",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the rules for taking time off work to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/utah",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of voting machines are used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/utah",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements for voting by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/utah",
+            "current_s": null,
+            "source": "vote411"
+        }
+    ]
+}

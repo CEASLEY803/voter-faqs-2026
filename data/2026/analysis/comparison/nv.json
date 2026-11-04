@@ -1,0 +1,1901 @@
+{
+    "state": "nv",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "How do I submit a public records request?",
+            "current_q": "How do I submit a public records request?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.994,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Has there ever been widespread voter fraud in a Nevada election?",
+            "current_q": "Has there ever been widespread voter fraud in a Nevada election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.75,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is a poll watcher or an observer?",
+            "current_q": "What is a poll watcher or an observer?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Has there ever been widespread voter fraud in a Nevada election?",
+            "current_q": "Has there ever been widespread voter fraud in a Nevada election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.75,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is voter intimidation?",
+            "current_q": "What is voter intimidation?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who do I tell if I feel that I’ve been a victim of voter intimidation or other elections-related crime?",
+            "current_q": "Who do I tell if I feel that I’ve been a victim of voter intimidation or other elections-related crime?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.963,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is an EIVR (Election Integrity Violation Report)",
+            "current_q": "What is an EIVR (Election Integrity Violation Report)?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "May I submit an EIVR anonymously?",
+            "current_q": "May I submit an EIVR anonymously?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Why does it take 10-15 days after the election to show my final vote history?",
+            "current_q": "Why does it take 10-15 days after the election to show my final vote history?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does same-day registration enable voter fraud?",
+            "current_q": "Does same-day registration enable voter fraud?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.99,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who is eligible to register to vote? What are the qualifications to register to vote in Nevada?",
+            "current_q": "Who is eligible to register to vote? What are the qualifications to register to vote in Nevada?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I register to vote online?",
+            "current_q": "Can I register to vote online?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where do I send my voter registration form once I’ve filled it out?",
+            "current_q": "Where do I send my voter registration form once I’ve filled it out?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens after I submit my voter registration application?",
+            "current_q": "What happens after I submit my voter registration application?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I confirm I am registered to vote or change my voter registration?",
+            "current_q": "How can I confirm I am registered to vote or change my voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I cancel my voter registration?",
+            "current_q": "How do I cancel my voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I vote if I’ve been convicted of a crime?",
+            "current_q": "Can I vote if I’ve been convicted of a crime?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I declare my political party affiliation when I register to vote?",
+            "current_q": "Do I declare my political party affiliation when I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I didn’t vote in the last election; do I need to re-register?",
+            "current_q": "I didn’t vote in the last election; do I need to re-register?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can register to vote during Early Voting or on Election Day?",
+            "current_q": "Can register to vote during Early Voting or on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I use my tribal ID card to same-day register to vote?",
+            "current_q": "Can I use my tribal ID card to same-day register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I have not yet received my official Nevada Driver’s License or Nevada ID card in the mail; can I use the temporary, paper version to same-day register?",
+            "current_q": "I have not yet received my official Nevada Driver’s License or Nevada ID card in the mail; can I use the temporary, paper version to same-day register?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I recently moved to Nevada and do not yet have a Nevada Driver’s License or Nevada ID card, can I same-day register?",
+            "current_q": "I recently moved to Nevada and do not yet have a Nevada Driver’s License or Nevada ID card, can I same-day register?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I challenge someone’s voter registration?",
+            "current_q": "Can I challenge someone’s voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.915,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is a \"Presidential Preference Primary\"?",
+            "current_q": "What is a “Presidential Preference Primary”?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.988,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is Primary Election Day?",
+            "current_q": "When is Primary Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.974,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is the State of Nevada a \"Closed\" or \"Open\" Primary state?",
+            "current_q": "Is the State of Nevada a “Closed” or “Open” Primary state?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is the last day I can register to vote for the upcoming Primary Election?",
+            "current_q": "When is the last day I can register to vote for the upcoming Primary Election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.992,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is early voting for the Primary Election?",
+            "current_q": "When is early voting for the Primary Election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.944,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is the last day I can register to vote or update my voter registration and receive a mail-in ballot?",
+            "current_q": "When is the last day I can register to vote or update my voter registration and receive a mail-in ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.989,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the last day a mail-in ballot can be received to be counted, that has a postmark of election day?",
+            "current_q": "What is the last day a mail-in ballot can be received to be counted, that has a postmark of election day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.973,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the last day I can cure my mail-in ballot if it has been challenged?",
+            "current_q": "What is the last day I can cure my mail-in ballot if it has been challenged?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.976,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the last day I can opt-out of receiving a mail-in ballot for the Primary Election?",
+            "current_q": "What is the last day I can opt-out of receiving a mail-in ballot for the Primary Election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.983,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When should I expect to receive my sample ballot in the mail for the Primary Election?",
+            "current_q": "When should I expect to receive my sample ballot in the mail for the Primary Election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.589,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When will mail-in ballots start to be mailed out?",
+            "current_q": "When will mail-in ballots start to be mailed out?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.982,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When will I be able to access NVEASE?",
+            "current_q": "When will I be able to access NVEASE?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.987,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is the last day for the Board of County Commissioners to canvass votes?",
+            "current_q": "When is the last day for the Board of County Commissioners to canvass votes?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.953,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When will the Supreme Court canvass the votes?",
+            "current_q": "When will the Supreme Court canvass the votes?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.734,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Why did I receive a ballot in the mail when I did not request one?",
+            "current_q": "Why did I receive a ballot in the mail when I did not request one?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I haven’t received my ballot in the mail, and it shows it was mailed, what should I do?",
+            "current_q": "I haven’t received my ballot in the mail, and it shows it was mailed, what should I do?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I have to use a stamp when I mail in my ballot? Do I have to mail it in?",
+            "current_q": "Do I have to use a stamp when I mail in my ballot? Do I have to mail it in?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I don’t trust the postal service; can I still vote using my mail-in ballot?",
+            "current_q": "I don’t trust the postal service; can I still vote using my mail-in ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.995,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is there a difference between the mail-in ballot and an absentee ballot?",
+            "current_q": "Is there a difference between the mail-in ballot and an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the deadline to return my ballot?",
+            "current_q": "What is the deadline to return my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.863,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens if I mail my ballot back the day after the election?",
+            "current_q": "What happens if I mail my ballot back the day after the election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I mail my ballot in, when will my vote be counted?",
+            "current_q": "If I mail my ballot in, when will my vote be counted?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is it possible to get two ballots in the mail?",
+            "current_q": "Is it possible to get two ballots in the mail?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What does it mean to \"opt-out\"?",
+            "current_q": "What does it mean to “opt-out”?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "May I opt-out now?",
+            "current_q": "May I opt-out now?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens if I get a ballot and then want to change my party affiliation?",
+            "current_q": "What happens if I get a ballot and then want to change my party affiliation?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.987,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is there a way I can track my ballot?",
+            "current_q": "Is there a way I can track my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.402,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is stopping someone from photocopying their ballot?",
+            "current_q": "What is stopping someone from photocopying their ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I heard third-party organizations are collecting ballots to turn them in. Are they safe?",
+            "current_q": "I heard third-party organizations are collecting ballots to turn them in. Are they safe?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.998,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Should I trust the USPS (United States Postal Service)? Can they handle the volume of mail?",
+            "current_q": "Should I trust the USPS (United States Postal Service)? Can they handle the volume of mail?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.599,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I made a mistake on my ballot? What can I do to fix it?",
+            "current_q": "I made a mistake on my ballot? What can I do to fix it?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.965,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How often will election night results be updated on your webpage?",
+            "current_q": "How often will election night results be updated on your webpage?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When can I expect to start seeing election night results being reported?",
+            "current_q": "When can I expect to start seeing election night results being reported?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.848,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where can I find election results from prior years?",
+            "current_q": "Where can I find election results from prior years?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I get election results on election night?",
+            "current_q": "How can I get election results on election night?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.948,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does Nevada allow for write-in candidates?",
+            "current_q": "Does Nevada allow for write-in candidates?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.956,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is there a limit to the dollar amount of contributions I can accept as a candidate from one donor?",
+            "current_q": "Is there a limit to the dollar amount of contributions I can accept as a candidate from one donor?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I don’t have a primary election? Can I still receive the maximum of $10,000?",
+            "current_q": "What if I don’t have a primary election? Can I still receive the maximum of $10,000?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is there a limit to the dollar amount of contributions a Committee for Political Action (PAC) can receive from one donor?",
+            "current_q": "Is there a limit to the dollar amount of contributions a Committee for Political Action (PAC) can receive from one donor?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is an in-kind contribution?",
+            "current_q": "What is an in-kind contribution?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I make an anonymous contribution to a candidate?",
+            "current_q": "Can I make an anonymous contribution to a candidate?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I contribute to a candidate in the name of another person?",
+            "current_q": "Can I contribute to a candidate in the name of another person?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are the Contribution and Expense Reports (C&E Reports) the only finance forms I must file?",
+            "current_q": "Are the Contribution and Expense Reports (C&E Reports) the only finance forms I must file?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.864,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How long does someone have to be in the office before they can be recalled?",
+            "current_q": "How long does someone have to be in the office before they can be recalled?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.991,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can anyone file a petition for recall?",
+            "current_q": "Can anyone file a petition for recall?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does it go to a Special Election?",
+            "current_q": "Does it go to a Special Election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.967,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who can demand a recount?",
+            "current_q": "Who can demand a recount?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When does the canvass occur?",
+            "current_q": "When does the canvass occur?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When does a request for a recount need to be submitted?",
+            "current_q": "When does a request for a recount need to be submitted?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What do I need to submit as a candidate who demands a recount?",
+            "current_q": "What do I need to submit as a candidate who demands a recount?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is included in the cost estimates for the recount?",
+            "current_q": "What is included in the cost estimates for the recount?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When does the recount process start after the demand has been made?",
+            "current_q": "When does the recount process start after the demand has been made?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I demand a recount, can I withdraw that demand?",
+            "current_q": "If I demand a recount, can I withdraw that demand?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Would someone have to pay if they demand a recount and then withdraw it?",
+            "current_q": "Would someone have to pay if they demand a recount and then withdraw it?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is a poll watcher or an observer?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Am I eligible to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is same-day registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote early by mail?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When is early voting in-person?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When is Election Day?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where do I go vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a Primary Election vs. a General Election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is running in this election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are Initiatives & Referenda Petitions?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a Constitutional Initiative?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a Statutory Initiative?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a Referendum?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I start a Constitutional, Statutory Initiative or Referendum Petition?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need to create a Political Action Committee before I circulate the petition for signatures?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How many signatures do I need to gather for a statewide petition?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I get all the signatures in one County for a statewide petition?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I see what the 4 Petition Districts are?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I get registered voter signatures for my petition?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is an independent candidate petition?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a minor party petition?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a Recall Petition NRS 306.015?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a PAC?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are there different types of PAC’s?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "If I am out of the State of Nevada, can I form a PAC in Nevada?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "If I am already registered as a Federal PAC do I have to register as a Nevada PAC?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need to start a PAC if I am a political candidate?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are some of the things I can do to prepare myself for working at a polling location?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to be an election worker?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW CAN I RETURN MY BALLOT BY MAIL?",
+            "current_q": "HOW CAN I RETURN MY BALLOT BY MAIL?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.9,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHO IS ELIGIBLE TO VOTE BY MAIL?",
+            "current_q": "WHO IS ELIGIBLE TO VOTE BY MAIL?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW DO I RECEIVE A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "current_q": "HOW DO I RECEIVE A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.939,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHAT IS THE DEADLINE TO SUBMIT MY MAIL BALLOT?",
+            "current_q": "WHAT IS THE DEADLINE TO SUBMIT MY MAIL BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.488,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "CAN I VOTE IN PERSON EVEN IF I HAVE RECEIVED A VOTE-BY-MAIL BALLOT?",
+            "current_q": "CAN I VOTE IN PERSON EVEN IF I HAVE RECEIVED A VOTE-BY-MAIL BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHEN ARE BALLOTS MAILED TO ACTIVE REGISTERED VOTERS?",
+            "current_q": "WHEN ARE BALLOTS MAILED TO ACTIVE REGISTERED VOTERS?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW CAN I CHECK IF I AM AN INACTIVE VOTER?",
+            "current_q": "HOW CAN I CHECK IF I AM AN INACTIVE VOTER?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW CAN I TRACK MY MAILED BALLOT?",
+            "current_q": "HOW CAN I TRACK MY MAILED BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW DO I OPT-OUT OF GETTING A MAIL BALLOT?",
+            "current_q": "HOW DO I OPT-OUT OF GETTING A MAIL BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW DO I REQUEST AN EMERGENCY ABSENTEE BALLOT?",
+            "current_q": "HOW DO I REQUEST AN EMERGENCY ABSENTEE BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW DO I UPDATE MY VOTER REGISTRATION?",
+            "current_q": "How do I update my voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.751,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "WHAT IS THE DEADLINE FOR CURING MY MAIL BALLOT SIGNATURE IF THERE IS AN ISSUE?",
+            "current_q": "WHAT IS THE DEADLINE FOR CURING MY MAIL BALLOT SIGNATURE IF THERE’S AN ISSUE?",
+            "question_similarity": 0.987,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "I AM VOTING FOR THE FIRST TIME BY MAIL. WHAT SHOULD I KNOW?",
+            "current_q": "I’M VOTING FOR THE FIRST TIME BY MAIL. WHAT SHOULD I KNOW?",
+            "question_similarity": 0.982,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.999,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "HOW CAN I CHECK MY REGISTRATION STATUS?",
+            "current_q": "How can I check my voter registration status?",
+            "question_similarity": 0.927,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What is the deadline to register to vote?",
+            "current_q": "What is the deadline to register to vote in Nevada?",
+            "question_similarity": 0.889,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.637,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What types of voting machines are used?",
+            "current_q": "What types of voting machines does Nevada use?",
+            "question_similarity": 0.843,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.088,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What accommodations are available for voters with disabilities?",
+            "current_q": "What voting assistance is available for voters with disabilities?",
+            "question_similarity": 0.81,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.513,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "When are official election results released?",
+            "current_q": "When are official election results available in Nevada?",
+            "question_similarity": 0.804,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.633,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the process for voting by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I fix issues with my mail-in ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information about campaign finance?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information about candidates and ballot measures?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where are ballot drop boxes located?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is early voting available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the upcoming election dates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility requirements to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID do I need to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of identification are accepted for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can military and overseas voters cast their ballots?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements to become a poll worker?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the voting hours at polling places?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find my Voter Service and Polling Center location?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When would I need to vote using a provisional ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the rules for taking time off work to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I verify my voter registration status?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements for voting by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "WHAT IF I NEED AN INTERPRETER?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "IS MY POLLING PLACE ACCESSIBLE?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Nevada allow ballot curing?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I cure my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to cure my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track the status of my ballot online after curing it?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a ballot drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes available in my state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find ballot drop box locations?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track the ballot after placing in the drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote before Election Day in Nevada?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who can vote early in Nevada?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When can I vote early in Nevada?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I vote early in Nevada?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to vote in Nevada?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote in Nevada if I have a felony conviction?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote in Nevada if I don’t have a permanent address?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can students vote in Nevada?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to register to vote in Nevada?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of ID are accepted for registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I don’t have an ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find official election results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What does a poll worker do in Nevada?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What qualifications do I need to be a poll worker in Nevada?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are poll workers paid in Nevada?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I apply to be a poll worker in Nevada?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Nevada offer provisional voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I check the status of my provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I request accommodation or report accessibility issues?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote by mail because of my disability?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Nevada require employers to give time off to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need ID to vote in Nevada?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of ID can I use to vote in-person in Nevada?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need ID to vote by mail/absentee in Nevada?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I don’t have an acceptable ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are student or digital IDs accepted?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Nevada have online voter registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is same-day voter registration available in Nevada?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I pre-register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to register in Nevada?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is Direct Recording Electronic Voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411"
+        }
+    ]
+}

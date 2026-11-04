@@ -1,0 +1,900 @@
+{
+    "state": "ak",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "Who Can Register, Who Can Vote?",
+            "current_q": "Who Can Register, Who Can Vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/",
+            "current_s": "https://www.elections.alaska.gov/voter-information/",
+            "answer_status": "changed",
+            "answer_similarity": 0.995,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Why did I receive a voter registration card if I am not a U.S. Citizen?",
+            "current_q": "Why did I receive a voter registration card if I am not a U.S. Citizen?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/",
+            "current_s": "https://www.elections.alaska.gov/voter-information/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I apply for a ballot on behalf of another person?",
+            "current_q": "Can I apply for a ballot on behalf of another person?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I have a Power of Attorney (POA) can I sign the ballot envelope for the voter?",
+            "current_q": "If I have a Power of Attorney (POA) can I sign the ballot envelope for the voter?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens if I request an absentee by-mail ballot but decide to vote early or in-person on Election Day instead?",
+            "current_q": "What happens if I request an absentee by-mail ballot but decide to vote early or in-person on Election Day instead?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I dont have a computer?",
+            "current_q": "What if I don’t have a computer?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I have to apply separately for each election?",
+            "current_q": "Do I have to apply separately for each election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I need to change my ballot mailing address after I have already submitted my application?",
+            "current_q": "What if I need to change my ballot mailing address after I have already submitted my application?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What does this mean: Keep my residence address confidential. Mailing address in 6 MUST be different than residence in section 5. And, do I have to provide a different mailing address in Section 6?",
+            "current_q": "What does this mean: “Keep my residence address confidential. Mailing address in 6 MUST be different than residence in section 5.” And, do I have to provide a different mailing address in Section 6?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I want to cancel my request for a by-mail ballot?",
+            "current_q": "What if I want to cancel my request for a by-mail ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I have received multiple absentee ballot applications, do I have to complete them all?",
+            "current_q": "I have received multiple absentee ballot applications, do I have to complete them all?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I have to complete an absentee by-mail application that was sent to me?",
+            "current_q": "Do I have to complete an absentee by-mail application that was sent to me?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I dont want to vote by-mail?",
+            "current_q": "What if I don’t want to vote by-mail?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are you a resident of another state but attend college in Alaska?",
+            "current_q": "Are you a resident of another state but attend college in Alaska?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.elections.alaska.gov/military-overseas-and-college-voters/#military",
+            "current_s": "https://www.elections.alaska.gov/military-overseas-and-college-voters/",
+            "answer_status": "changed",
+            "answer_similarity": 0.957,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I cancel my voter registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to Vote Absentee In-Person or Early?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "For absentee voting, what should I expect?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I Apply for an Absentee Ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Applications Deadline for voting absentee by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Deadline to Return Voted Ballot for voting absentee by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Delivery Dates for voting absentee by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I absentee vote by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What will I need for Vote Absentee By-Online Delivery?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I Vote Absentee By-Online Delivery?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Application Deadline for voting absentee by online delivery?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What will I need for Vote Absentee By-Fax?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I Vote Absentee By-Fax?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Application Deadline for voting absentee by fax?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What information do you need from military personnel for absentee voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/military-overseas-and-college-voters/#military",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What information do you need from military personnel for voter registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/military-overseas-and-college-voters/#military",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Are you a U.S. citizen permanently residing outside the United States and do not intend to return to Alaska? Were you, or your parent or legal guardian, last domiciled in Alaska prior to leaving the United States and you, or your parent or legal guardian, did not register to vote in another jurisdiction or established a domiciled in another jurisdiction since leaving Alaska?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/military-overseas-and-college-voters/#military",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Federal Absentee Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.elections.alaska.gov/military-overseas-and-college-voters/#military",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Unconditionally Discharged?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.elections.alaska.gov/voter-information/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Felony Conviction?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.elections.alaska.gov/voter-information/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Missed the 30-day opt-out?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.elections.alaska.gov/voter-information/",
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Absentee Ballot Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Ballot Notice and Cure Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#ballot-notice-and-cure-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Campaign Finance Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#campaign-finance-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Candidate and Ballot Measure Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#candidate-and-ballot-measure-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where are the Drop Boxes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#drop-boxes",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is Early Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#early-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the Election Dates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#election-dates",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Eligibility Requirements?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#eligibility-requirements",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#id-needed-for-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#id-needed-for-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the Official Results available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#official-results",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What about Overseas and Military Voters?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#overseas-and-military-voters",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Poll Worker Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#poll-worker-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Polling Place Hours?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#polling-place-hours",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Polling Place Locator?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#polling-place-locator",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Primary Election Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#primary-election-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Provisional Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#provisional-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Are there Provisions for Voters with Disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#provisions-for-voters-with-disabilities",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Ranked Choice Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#ranked-choice-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Registration Deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#registration-deadline",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Do I get Time Off To Vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#time-off-to-vote",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do Verify Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#verify-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What Voting Machines are used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alaska#voting-machines",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT EACH YEAR?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I VOTE ABSENTEE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE FOR SUBMITTING A VOTED ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I COMPLETE MY ABSENTEE BALLOT BY MAIL?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I RETURN MY ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I VOTE ABSENTEE BY PERSONAL REPRESENTATIVE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a ballot drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes available in my state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find ballot drop box locations?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN REGISTER TO VOTE IN ALASKA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN VOTE IN ALASKA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN ALASKA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN ALASKA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What voting assistance is available for voters with disabilities?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I request accommodation or report accessibility issues?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote by mail because of my disability?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do I need to register to vote in Alaska?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in Alaska?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What’s the deadline to register to vote in Alaska?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in Alaska?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state, can I still vote in my home state while studying in Alaska?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Alaska?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I NEED TO SHOW ID WHEN I VOTE IN ALASKA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO VOTE IN ALASKA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO VOTE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of voting machines does Alaska use?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is optical scan voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are Touch Screen-Paper Ballots?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is Hand Count?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alaska",
+            "source": "vote411"
+        }
+    ]
+}

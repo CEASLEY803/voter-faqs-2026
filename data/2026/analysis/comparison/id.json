@@ -1,0 +1,770 @@
+{
+    "state": "id",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "How do I register to vote?",
+            "current_q": "How do I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "changed",
+            "answer_similarity": 0.189,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Am I Registered to Vote?",
+            "current_q": "Am I Registered to Vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I’ve moved since I voted last. How do I change my address on my voter registration?",
+            "current_q": "I’ve moved since I voted last. How do I change my address on my voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is the deadline to register or to update my voter registration?",
+            "current_q": "When is the deadline to register or to update my voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "changed",
+            "answer_similarity": 0.977,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What should I do if my voter registration information is incorrect or missing?",
+            "current_q": "What should I do if my voter registration information is incorrect or missing?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need an ID to register to vote?",
+            "current_q": "Do I need an ID to register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who can register to vote in Idaho?",
+            "current_q": "Who can register to vote in Idaho?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "changed",
+            "answer_similarity": 0.182,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Am I considered an Idaho resident?",
+            "current_q": "Am I considered an Idaho resident?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I vote in Idaho?",
+            "current_q": "How do I vote in Idaho?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where do I vote on Election Day?",
+            "current_q": "Where do I vote on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is the next election?",
+            "current_q": "When is the next election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is on the ballot?",
+            "current_q": "What is on the ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What identification do I need to vote?",
+            "current_q": "What identification do I need to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "changed",
+            "answer_similarity": 0.401,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When does early voting start?",
+            "current_q": "When does early voting start?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "changed",
+            "answer_similarity": 0.939,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I have a disability and want to vote in person?",
+            "current_q": "What if I have a disability and want to vote in person?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I vote if I live overseas?",
+            "current_q": "How do I vote if I live overseas?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I requested an absentee ballot, but I want to vote in person. What should I do?",
+            "current_q": "I requested an absentee ballot, but I want to vote in person. What should I do?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I made a mistake on my ballot. What can I do?",
+            "current_q": "I made a mistake on my ballot. What can I do?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I am unable to visit my voting location on Election Day. Can I still vote?",
+            "current_q": "I am unable to visit my voting location on Election Day. Can I still vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I request an absentee ballot?",
+            "current_q": "How do I request an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I check the status of my absentee ballot?",
+            "current_q": "How do I check the status of my absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can anyone vote absentee?",
+            "current_q": "Can anyone vote absentee?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I become an Election Worker?",
+            "current_q": "How can I become an Election Worker?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I run for office?",
+            "current_q": "How do I run for office?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I add a measure to the ballot?",
+            "current_q": "How can I add a measure to the ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I find election results?",
+            "current_q": "How do I find election results?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I contact my local county election office/county clerk?",
+            "current_q": "How do I contact my local county election office/county clerk?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is a primary election?",
+            "current_q": "What is a primary election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I change my political party preference?",
+            "current_q": "How do I change my political party preference?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I request election information?",
+            "current_q": "How do I request election information?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is redistricting?",
+            "current_q": "What is redistricting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I vote on a provisional ballot?",
+            "current_q": "Can I vote on a provisional ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is a recall election? Is a recall allowed in Idaho?",
+            "current_q": "What is a recall election? Is a recall allowed in Idaho?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is a recount of results conducted?",
+            "current_q": "When is a recount of results conducted?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is voter intimidation?",
+            "current_q": "What is voter intimidation?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is a poll watcher, and who is authorized to assume that role?",
+            "current_q": "What is a poll watcher, and who is authorized to assume that role?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is “electioneering”?",
+            "current_q": "What is “electioneering”?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "current_s": "https://voteidaho.gov/frequently-asked-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What is the deadline to register to vote?",
+            "current_q": "What’s the deadline to register to vote in Idaho?",
+            "question_similarity": 0.874,
+            "baseline_s": "https://www.vote411.org/idaho",
+            "current_s": "https://www.vote411.org/idaho",
+            "answer_status": "changed",
+            "answer_similarity": 0.134,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What ID do I need to register to vote?",
+            "current_q": "What do I need to register to vote in Idaho?",
+            "question_similarity": 0.85,
+            "baseline_s": "https://www.vote411.org/idaho",
+            "current_s": "https://www.vote411.org/idaho",
+            "answer_status": "changed",
+            "answer_similarity": 0.107,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the deadline for receiving absentee ballots in Idaho?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/idaho",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to request and return vote-by-Mail Ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/idaho",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to Vote in Person if Vote-by-Mail Ballot was Requested?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/idaho",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility requirements to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/idaho",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of identification are accepted for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/idaho",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the official results released?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/idaho",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the voting hours at polling places?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/idaho",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find my Voter Service and Polling Center location?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/idaho",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/idaho",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When would I need to vote using a provisional ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/idaho",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What accommodations are available for voters with disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/idaho",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the rules for taking time off work to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/idaho",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of voting machines are used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/idaho",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT EACH YEAR?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE FOR SUBMITTING A VOTED ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHEN ARE ABSENTEE BALLOTS AVAILABLE TO VOTERS WHO HAVE REQUESTED THEM?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I VOTE AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I RETURN MY VOTED ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN REGISTER TO VOTE IN IDAHO?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN VOTE IN IDAHO?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN IDAHO?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN IDAHO?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in Idaho?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in Idaho?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state, can I still vote in my home state while studying in Idaho?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Idaho?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO VOTE IN IDAHO?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/idaho",
+            "source": "vote411"
+        }
+    ]
+}

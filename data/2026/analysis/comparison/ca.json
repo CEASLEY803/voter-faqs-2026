@@ -1,0 +1,1288 @@
+{
+    "state": "ca",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "who can register to vote?",
+            "current_q": "Who can register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "who can pre-register to vote?",
+            "current_q": "Who can pre-register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how do i register to vote?",
+            "current_q": "How do I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "where can i register to vote?",
+            "current_q": "Where can I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "what is conditional voter registration?",
+            "current_q": "What is conditional voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how do i change my political party?",
+            "current_q": "How do I change my political party?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "do i need a california driver license or california identification card to apply online? what happens if the department of motor vehicles does not have my signature on file when i try to submit an application online?",
+            "current_q": "Do I need a California driver license or California identification card to apply online? What happens if the Department of Motor Vehicles does not have my signature on file when I try to submit an application online?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "changed",
+            "answer_similarity": 0.683,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "i am eligible to register, but i am in the military, living abroad, or temporarily living outside of california. can i register to vote online?",
+            "current_q": "I am eligible to register, but I am in the military, living abroad, or temporarily living outside of California. Can I register to vote online?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "changed",
+            "answer_similarity": 0.732,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "am i automatically registered to vote when i submit the online application?",
+            "current_q": "Am I automatically registered to vote when I submit the online application?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "are voter registration applications available in languages other than english?",
+            "current_q": "Are voter registration applications available in languages other than English?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "can i vote online?",
+            "current_q": "Can I vote online?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "am i already registered to vote?",
+            "current_q": "Am I already registered to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "i did not vote in the last election. do i need to re-register to vote?",
+            "current_q": "I did not vote in the last election. Do I need to re-register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "what should i do if i have just moved within california?",
+            "current_q": "What should I do if I have just moved within California?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "what should i do if i changed my name?",
+            "current_q": "What should I do if I changed my name?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "what is the deadline to register to vote?",
+            "current_q": "What is the deadline to register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "if i started to fill out the online voter registration application before midnight on e-15 but didn't finish until after midnight, am i too late?",
+            "current_q": "If I started to fill out the online voter registration application before midnight on E-15 but didn't finish until after midnight, am I too late?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "i missed the deadline to register to vote. is there any way i can still vote in this election?",
+            "current_q": "I missed the deadline to register to vote. Is there any way I can still vote in this election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "i registered to vote a while ago but i never got a postcard confirmation from my county elections official. am i registered?",
+            "current_q": "I registered to vote a while ago but I never got a postcard confirmation from my county elections official. Am I registered?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "i submitted a voter registration application through another agency, but my county elections office says i'm not registered. what can i do?",
+            "current_q": "I submitted a voter registration application through another agency, but my county elections office says I'm not registered. What can I do?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how can i cancel my california voter registration?",
+            "current_q": "How can I cancel my California voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "if i have problems registering to vote or have additional questions who should i contact?",
+            "current_q": "If I have problems registering to vote or have additional questions who should I contact?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "i want to start a voter registration drive. what do i need to do?",
+            "current_q": "I want to start a voter registration drive. What do I need to do?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how many paper voter registration applications can i get if i want to distribute them in my community?",
+            "current_q": "How many paper voter registration applications can I get if I want to distribute them in my community?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "can an ipad, tablet, or smartphone be used to fill out california's online voter registration application?",
+            "current_q": "Can an iPad, tablet, or smartphone be used to fill out California's online voter registration application?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "what voter registration applications are approved for use in california?",
+            "current_q": "What voter registration applications are approved for use in California?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "is voter registration information confidential?",
+            "current_q": "Is voter registration information confidential?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "where can i find voter registration statistics?",
+            "current_q": "Where can I find voter registration statistics?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "can the secretary of state provide race, age and gender statistics for the voting population?",
+            "current_q": "Can the Secretary of State provide race, age and gender statistics for the voting population?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how do i find out what my legislative and congressional districts are?",
+            "current_q": "How do I find out what my legislative and congressional districts are?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how can i vote a vote-by-mail ballot?",
+            "current_q": "How can I vote a vote-by-mail ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "changed",
+            "answer_similarity": 0.615,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "when is the last day to return my voted vote-by-mail ballot?",
+            "current_q": "When is the last day to return my voted vote-by-mail ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how do i turn in my vote-by-mail ballot on election day?",
+            "current_q": "How do I turn in my vote-by-mail ballot on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "what is the voter's choice act?",
+            "current_q": "What is the Voter's Choice Act?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "where is my polling place?",
+            "current_q": "Where is my polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "what hours are polling place locations open?",
+            "current_q": "What hours are polling place locations open?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "why was my precinct/polling place changed?",
+            "current_q": "Why was my precinct/polling place changed?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "is there a toll-free telephone number i can call regarding voter information?",
+            "current_q": "Is there a toll-free telephone number I can call regarding voter information?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "are election returns for state offices on your website?",
+            "current_q": "Are election returns for state offices on your website?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "what can be done to increase voter participation?",
+            "current_q": "What can be done to increase voter participation?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "what is a voter-nominated office?",
+            "current_q": "What is a voter-nominated office?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how are primary elections conducted in california?",
+            "current_q": "How are primary elections conducted in California?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how are presidential primary elections conducted in california?",
+            "current_q": "How are presidential primary elections conducted in California?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "what do party preferences mean when listed with candidates' names on the ballot? what are the qualified political parties and abbreviations of those party names?",
+            "current_q": "What do party preferences mean when listed with candidates' names on the ballot? What are the qualified political parties and abbreviations of those party names?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "if a candidate receives a majority of the vote (over 50 percent) in the primary election, will there still be a general election?",
+            "current_q": "If a candidate receives a majority of the vote (over 50 percent) in the primary election, will there still be a general election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "if there are only two candidates in the primary election, is a general election required?",
+            "current_q": "If there are only two candidates in the primary election, is a general election required?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "which candidates can run in the general election?",
+            "current_q": "Which candidates can run in the general election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "can independent or write-in candidates for voter-nominated offices run in the general election?",
+            "current_q": "Can independent or write-in candidates for voter-nominated offices run in the general election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "when is the deadline for initiatives, referenda, and legislative measures to qualify for the ballot and which election ballot will they appear on?",
+            "current_q": "When is the deadline for initiatives, referenda, and legislative measures to qualify for the ballot and which election ballot will they appear on?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how and when are numbers assigned to state propositions?",
+            "current_q": "How and when are numbers assigned to state propositions?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how can i learn more about california's statewide initiative process?",
+            "current_q": "How can I learn more about California's statewide initiative process?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how many signatures does it take to qualify a statewide initiative?",
+            "current_q": "How many signatures does it take to qualify a statewide initiative?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how many signatures does it take to qualify a statewide referendum?",
+            "current_q": "How many signatures does it take to qualify a statewide referendum?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "what requirements must a person meet to run for office?",
+            "current_q": "What requirements must a person meet to run for office?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "when do candidates have to file their various official documents in order to become certified for the next statewide election cycle?",
+            "current_q": "When do candidates have to file their various official documents in order to become certified for the next statewide election cycle?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "apply for a second ballot",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "california replacement ballot application",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need to show ID to vote In California?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What forms of ID are acceptable (if required)?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "who is eligible to vote by mail?",
+            "current_q": "WHO IS ELIGIBLE TO VOTE BY MAIL?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "when are ballots mailed to active registered voters?",
+            "current_q": "WHEN ARE BALLOTS MAILED TO ACTIVE REGISTERED VOTERS?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how do i complete my mail ballot?",
+            "current_q": "HOW DO I COMPLETE MY MAIL BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how can i return my mail ballot?",
+            "current_q": "HOW CAN I RETURN MY MAIL BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "what is the deadline to submit my mail ballot?",
+            "current_q": "WHAT IS THE DEADLINE TO SUBMIT MY MAIL BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "can i track my mailed ballot?",
+            "current_q": "CAN I TRACK MY MAILED BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "what is the deadline to update my mailing address to receive a vote-by-mail ballot?",
+            "current_q": "WHAT IS THE DEADLINE TO UPDATE MY MAILING ADDRESS TO RECEIVE A VOTE-BY-MAIL BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how do i get a replacement vote-by-mail ballot?",
+            "current_q": "HOW DO I GET A REPLACEMENT VOTE-BY-MAIL BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how do i submit a late vote-by-mail request?",
+            "current_q": "HOW DO I SUBMIT A LATE VOTE-BY-MAIL REQUEST?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "can i vote in person even if i have received a vote-by-mail ballot?",
+            "current_q": "CAN I VOTE IN PERSON EVEN IF I HAVE RECEIVED A VOTE-BY-MAIL BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how do i receive a ballot by mail as an overseas or u.s. military voter?",
+            "current_q": "HOW DO I RECEIVE A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "changed",
+            "answer_similarity": 0.956,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "what if i don't have an id?",
+            "current_q": "What if I don’t have an ID?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "changed",
+            "answer_similarity": 0.292,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how can i register to vote?",
+            "current_q": "HOW CAN I REGISTER TO VOTE?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "changed",
+            "answer_similarity": 0.69,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "who is eligible to register in california?",
+            "current_q": "WHO IS ELIGIBLE TO REGISTER IN CALIFORNIA?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "who is eligible to pre-register to vote in california?",
+            "current_q": "WHO IS ELIGIBLE TO PRE-REGISTER TO VOTE IN CALIFORNIA?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how can i check my registration status?",
+            "current_q": "HOW CAN I CHECK MY REGISTRATION STATUS?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "how do i update my registration if i move or have a name change?",
+            "current_q": "HOW DO I UPDATE MY REGISTRATION IF I MOVE OR HAVE A NAME CHANGE?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "what if i missed the registration deadline?",
+            "current_q": "WHAT IF I MISSED THE REGISTRATION DEADLINE?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": "https://www.vote411.org/california",
+            "answer_status": "changed",
+            "answer_similarity": 0.849,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "when does early voting begin?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "where can i vote early?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "can i use my student id to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "what if i don't have a valid id?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/california",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does California allow ballot curing?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to cure my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track my absentee ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a ballot drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes available in my state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find ballot drop box locations?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track the ballot after placing in the drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote before Election Day in California?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When does early voting begin and end in California?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I vote early in California?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote early by mail?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN REGISTER TO VOTE IN CALIFORNIA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN VOTE IN CALIFORNIA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to register to vote in California?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of ID are accepted for registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When are official election results available in California?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find official election results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What does a poll worker do?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What qualifications do I need to be a poll worker in California?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are poll workers paid in California?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I apply to be a poll worker in California?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does California offer provisional voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I make sure my provisional ballot is counted?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I check the status of my provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What voting assistance is available for voters with disabilities?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I request accommodation or report accessibility issues?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote by mail because of my disability?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do I need to register to vote in California?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in California?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What’s the deadline to register to vote in California?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in California?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state, can I still vote in my home state while studying in California?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in California?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does California require employers to give time off to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I NEED TO SHOW ID WHEN I VOTE IN CALIFORNIA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO VOTE IN CALIFORNIA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of voting machines does California use?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is optical scan voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are Ballot Marking Devices (BMDs)?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/california",
+            "source": "vote411"
+        }
+    ]
+}

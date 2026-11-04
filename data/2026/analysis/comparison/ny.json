@@ -1,0 +1,1025 @@
+{
+    "state": "ny",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "Who is eligible to register to vote?",
+            "current_q": "Who is eligible to register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can a New Yorker register to vote?",
+            "current_q": "How can a New Yorker register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can a voter update their registration (change of name, address, party enrollment)?",
+            "current_q": "How can a voter update their registration (change of name, address, party enrollment)?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the voter registration options available to New Yorkers with accessibility needs?",
+            "current_q": "What are the voter registration options available to New Yorkers with accessibility needs?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How are the voter rolls maintained in New York State to ensure they are updated and accurate?",
+            "current_q": "How are the voter rolls maintained in New York State to ensure they are updated and accurate?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can a voter request an early vote by mail ballot?",
+            "current_q": "How can a voter request an early vote by mail ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can a voter request an absentee ballot?",
+            "current_q": "How can a voter request an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the voting options available to New Yorkers with accessibility needs?",
+            "current_q": "What are the voting options available to New Yorkers with accessibility needs?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can a voter look up their polling place to vote in person?",
+            "current_q": "How can a voter look up their polling place to vote in person?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "changed",
+            "answer_similarity": 0.998,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are voting machines safe to use?",
+            "current_q": "Are voting machines safe to use?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What about the software used by voting technology?",
+            "current_q": "What about the software used by voting technology?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "changed",
+            "answer_similarity": 0.997,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are voting machines connected to the internet?",
+            "current_q": "Are voting machines connected to the internet?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are the voter registration systems secure?",
+            "current_q": "Are the voter registration systems secure?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How are the voter rolls maintained in New York State to ensure they are updated and accurate?",
+            "current_q": "How are the voter rolls maintained in New York State to ensure they are updated and accurate?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are electronic poll books?",
+            "current_q": "What are electronic poll books?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can a voter be sure our elections are secure?",
+            "current_q": "How can a voter be sure our elections are secure?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where is the best place to find information about elections and voting in New York State?",
+            "current_q": "Where is the best place to find information about elections and voting in New York State?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What can a voter do to help prevent the spread of misinformation, disinformation, and malinformation (MDM) about elections and voting?",
+            "current_q": "What can a voter do to help prevent the spread of misinformation, disinformation, and malinformation (MDM) about elections and voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where can voters learn about who has filed to run for elective office and the campaign finances of candidates and committees?",
+            "current_q": "Where can voters learn about who has filed to run for elective office and the campaign finances of candidates and committees?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How else can New Yorkers engage in the electoral process?",
+            "current_q": "How else can New Yorkers engage in the electoral process?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.ny.gov/frequently-asked-questions",
+            "current_s": "https://elections.ny.gov/frequently-asked-questions",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHO IS ELIGIBLE TO VOTE BY MAIL?",
+            "current_q": "WHO IS ELIGIBLE TO VOTE BY MAIL?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": "https://www.vote411.org/new-york",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW DO I REQUEST A BALLOT BY MAIL?",
+            "current_q": "HOW DO I REQUEST A BALLOT BY MAIL?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": "https://www.vote411.org/new-york",
+            "answer_status": "changed",
+            "answer_similarity": 0.957,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "DO I HAVE TO REQUEST AN EARLY MAIL BALLOT EACH YEAR?",
+            "current_q": "DO I HAVE TO REQUEST AN EARLY MAIL BALLOT EACH YEAR?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": "https://www.vote411.org/new-york",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHAT IS THE DEADLINE TO REQUEST AN EARLY MAIL BALLOT?",
+            "current_q": "WHAT IS THE DEADLINE TO REQUEST AN EARLY MAIL BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": "https://www.vote411.org/new-york",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHAT IS THE DEADLINE TO SUBMIT MY EARLY MAIL BALLOT?",
+            "current_q": "WHAT IS THE DEADLINE TO SUBMIT MY EARLY MAIL BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": "https://www.vote411.org/new-york",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW DO I COMPLETE MY EARLY MAIL BALLOT?",
+            "current_q": "HOW DO I COMPLETE MY EARLY MAIL BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": "https://www.vote411.org/new-york",
+            "answer_status": "changed",
+            "answer_similarity": 0.992,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW CAN I RETURN MY EARLY MAIL BALLOT?",
+            "current_q": "HOW CAN I RETURN MY EARLY MAIL BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": "https://www.vote411.org/new-york",
+            "answer_status": "changed",
+            "answer_similarity": 0.642,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW CAN I TRACK MY MAILED BALLOT?",
+            "current_q": "HOW CAN I TRACK MY MAILED BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": "https://www.vote411.org/new-york",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHAT IF I REQUESTED A BALLOT BY MAIL BUT WANT TO VOTE IN PERSON?",
+            "current_q": "WHAT IF I REQUESTED A BALLOT BY MAIL BUT WANT TO VOTE IN PERSON?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": "https://www.vote411.org/new-york",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": "https://www.vote411.org/new-york",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW DO I REQUEST A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "current_q": "HOW DO I REQUEST A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": "https://www.vote411.org/new-york",
+            "answer_status": "changed",
+            "answer_similarity": 0.804,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW CAN I CHECK MY REGISTRATION STATUS?",
+            "current_q": "HOW CAN I CHECK MY REGISTRATION STATUS?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": "https://www.vote411.org/new-york",
+            "answer_status": "changed",
+            "answer_similarity": 0.994,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW DO I UPDATE MY REGISTRATION IF I MOVE OR HAVE A NAME CHANGE?",
+            "current_q": "HOW DO I UPDATE MY REGISTRATION IF I MOVE OR HAVE A NAME CHANGE?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": "https://www.vote411.org/new-york",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "How can I verify my voter registration status?",
+            "current_q": "How can I check my voter registration status?",
+            "question_similarity": 0.899,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": "https://www.vote411.org/new-york",
+            "answer_status": "changed",
+            "answer_similarity": 0.629,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What types of voting machines are used?",
+            "current_q": "What types of voting machines does New York use?",
+            "question_similarity": 0.824,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": "https://www.vote411.org/new-york",
+            "answer_status": "changed",
+            "answer_similarity": 0.181,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What accommodations are available for voters with disabilities?",
+            "current_q": "What voting assistance is available for voters with disabilities?",
+            "question_similarity": 0.81,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": "https://www.vote411.org/new-york",
+            "answer_status": "changed",
+            "answer_similarity": 0.369,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the process for voting by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I fix issues with my mail-in ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information about campaign finance?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information about candidates and ballot measures?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where are ballot drop boxes located?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is early voting available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the upcoming election dates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility requirements to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID do I need to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of identification are accepted for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are official election results released?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can military and overseas voters cast their ballots?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements to become a poll worker?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the voting hours at polling places?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find my Voter Service and Polling Center location?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When would I need to vote using a provisional ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is ranked choicec voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the deadlines for registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the rules for taking time off work to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-york",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does New York allow ballot curing?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to cure my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track my absentee ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a ballot drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes available in my state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find ballot drop box locations?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track the ballot after placing in the drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote before Election Day in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I have to apply to vote early in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I vote early in person in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I receive an early ballot in the mail?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to vote early in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN REGISTER TO VOTE IN NEW YORK?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN VOTE IN NEW YORK?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I VOTE IN NEW YORK IF I HAVE A FELONY CONVICTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I REGISTER AND VOTE IN NEW YORK IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN NEW YORK?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When are official election results available in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find official election results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What does a poll worker do in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What qualifications do I need to be a poll worker in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are poll workers paid in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I apply to be a poll worker in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does New York offer provisional voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are polling locations accessible?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I request accommodation or report accessibility issues?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote by mail because of my disability?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What’s the deadline to register to vote in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state, can I still vote in my home state while studying in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does New York require employers to give time off to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I NEED TO SHOW ID WHEN I VOTE IN NEW YORK?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO VOTE IN NEW YORK?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN NEW YORK?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to register to vote in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I register to vote in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does New York have online voter registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is same-day voter registration available in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I pre-register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to register in New York?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I update my registration if I move or have a name change?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is Imagecast?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is ES&S DS200/DS300?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is ES&S Automark?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-york",
+            "source": "vote411"
+        }
+    ]
+}

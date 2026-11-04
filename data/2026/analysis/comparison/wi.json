@@ -1,0 +1,2082 @@
+{
+    "state": "wi",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "Can I choose to vote in person either at a location for in-person absentee voting or on Election Day when I live in a care facility served by SVDs?",
+            "current_q": "Can I choose to vote in person either at a location for in-person absentee voting or on Election Day when I live in a care facility served by SVDs?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.982,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I live in a care facility and I would like my ballot sent to someone else (spouse, child, guardian, etc.) so they can bring it to me and be my assistant. How do I do that? ",
+            "current_q": "I live in a care facility and I would like my ballot sent to someone else (spouse, child, guardian, etc.) so they can bring it to me and be my assistant. How do I do that?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can my Power of Attorney get me registered to vote, request my absentee ballot, and/or vote my ballot for me? ",
+            "current_q": "Can my Power of Attorney get me registered to vote, request my absentee ballot, and/or vote my ballot for me?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is a HAVA/DMV check and how do they work?",
+            "current_q": "What is a HAVA/DMV check and how do they work?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.338,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can third-party groups design Wisconsin’s ballots?",
+            "current_q": "Can third-party groups design Wisconsin’s ballots?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.971,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are Wisconsin’s electronic poll books connected to the Internet?",
+            "current_q": "Are Wisconsin’s electronic poll books connected to the Internet?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.971,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do some pens or markers used by voters prevent their ballots from being counted?",
+            "current_q": "Do some pens or markers used by voters prevent their ballots from being counted?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does Wisconsin audit signatures for absentee voters?",
+            "current_q": "Does Wisconsin audit signatures for absentee voters?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.999,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Why are so many absentee ballots not folded and have the same initials? ",
+            "current_q": "Why are so many absentee ballots not folded and have the same initials?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.974,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are voters who request to vote at the entrance of the polling place (curbside voters) required to sign the poll list?",
+            "current_q": "Are voters who request to vote at the entrance of the polling place (curbside voters) required to sign the poll list?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can municipal clerks retain the provisional ballots past the 4 p.m. Wednesday deadline?",
+            "current_q": "Can municipal clerks retain the provisional ballots past the 4 p.m. Wednesday deadline?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are election inspectors required to scrutinize voter signatures?",
+            "current_q": "Are election inspectors required to scrutinize voter signatures?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does a voter have to appear in person to provide the missing information that required them to vote provisionally?",
+            "current_q": "Does a voter have to appear in person to provide the missing information that required them to vote provisionally?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are municipal clerks required to be available on registration, absentee, and provisional deadlines?",
+            "current_q": "Are municipal clerks required to be available on registration, absentee, and provisional deadlines?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens if a voter refuses to the sign the poll list?",
+            "current_q": "What happens if a voter refuses to the sign the poll list?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can university or college student ID’s be used as proof of residence?",
+            "current_q": "Can university or college student ID’s be used as proof of residence?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.917,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "In section seven on the Voter Registration Application (EL-131), what identifying number must a voter provide?",
+            "current_q": "In section seven on the Voter Registration Application (EL-131), what identifying number must a voter provide?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.07,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the process for recall in Wisconsin?",
+            "current_q": "What is the process for recall in Wisconsin?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.953,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "\nHow long is the term of office for a high school poll worker? ",
+            "current_q": "How long is the term of office for a high school poll worker?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the procedure for reducing the number of election inspectors?",
+            "current_q": "What is the procedure for reducing the number of election inspectors?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.993,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I be excused from my regular job to be a poll worker? ",
+            "current_q": "Can I be excused from my regular job to be a poll worker?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the specific qualifications to be an Election Inspector (poll worker)? ",
+            "current_q": "What are the specific qualifications to be an Election Inspector (poll worker)?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the Training Requirements for Election Inspectors? ",
+            "current_q": "What are the Training Requirements for Election Inspectors?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the responsibilities of an Election Inspector (poll worker)? ",
+            "current_q": "What are the responsibilities of an Election Inspector (poll worker)?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " How long may a voter linger at the polling place on election day? ",
+            "current_q": "How long may a voter linger at the polling place on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " If a person is causing disruption at the polling place, when can the chief inspector call law enforcement for assistance?\n  ",
+            "current_q": "If a person is causing disruption at the polling place, when can the chief inspector call law enforcement for assistance?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.988,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " Is the clerk required to be at the polling place on election day? \n  ",
+            "current_q": "Is the clerk required to be at the polling place on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.986,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " What is the role of the municipal clerk on election day? ",
+            "current_q": "What is the role of the municipal clerk on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.988,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What do I do if a problem happened while I was trying to vote and I feel I was treated unfairly or discriminated against? ",
+            "current_q": "What do I do if a problem happened while I was trying to vote and I feel I was treated unfairly or discriminated against?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.997,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " What can a person do if he or she becomes aware of a violation of the Help America Vote Act (HAVA)? ",
+            "current_q": "What can a person do if he or she becomes aware of a violation of the Help America Vote Act (HAVA)?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " If I believe I have witnessed efforts to commit fraud or corruption in the voting process, how do I report this? ",
+            "current_q": "If I believe I have witnessed efforts to commit fraud or corruption in the voting process, how do I report this?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.992,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " If I believe I have witnessed discrimination or intimidation in the voting process, how do I report this? ",
+            "current_q": "If I believe I have witnessed discrimination or intimidation in the voting process, how do I report this?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I report concerns about polling place accessibility or accessible voting equipment?",
+            "current_q": "How do I report concerns about polling place accessibility or accessible voting equipment?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Must the board of canvassers always consist of three people?",
+            "current_q": "Must the Board of Canvassers always consist of three people?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.998,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who is the Municipal Board of Canvassers?",
+            "current_q": "Who is the Municipal Board of Canvassers?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.996,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " How is the order of candidates' names appearing on the ballot determined?",
+            "current_q": "How is the order of candidates' names appearing on the ballot determined?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.848,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " Can a Power of Attorney (POA) complete an Application for Absentee Ballot for an elector?\n  ",
+            "current_q": "Can a Power of Attorney (POA) complete an Application for Absentee Ballot for an elector?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.991,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " If a voter casts an absentee ballot, but dies before election day, can the ballot be counted?\n  ",
+            "current_q": "If a voter casts an absentee ballot, but dies before election day, can the ballot be counted?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.983,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " Are Absentee Ballots Ever Rejected?",
+            "current_q": "Are absentee ballots ever rejected?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " What Are The Deadlines for Making an Absentee Ballot Request?",
+            "current_q": "What are the deadlines for making an absentee ballot request?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " How does a Voter Request an Absentee Ballot?",
+            "current_q": "How does a voter request an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who can request and receive an absentee ballot?",
+            "current_q": "Who can request and receive an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " What is an Absentee Ballot?",
+            "current_q": "What is an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.998,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Can a candidate withdraw from a race and have his or her name removed from the ballot?",
+            "current_q": "Can a candidate withdraw from a race and their name removed from the ballot?",
+            "question_similarity": 0.912,
+            "baseline_s": "elections.wi.gov",
+            "current_s": "https://elections.wi.gov/faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.27,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Who do I file my candidacy forms with?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "elections.wi.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I see who is running for an office?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "elections.wi.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How many signatures do I need to get on my nomination papers?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "elections.wi.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can a candidate run for an office when they don't live within the district boundaries?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "elections.wi.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are some accommodations for poll workers?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "elections.wi.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Voters are now required to provide a previous address for which they were registered last. What happens if the voter is unable to recall their previous address?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "elections.wi.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if all three election inspectors represent the same political party?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "elections.wi.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": " In a county that uses a Central Count system, who delivers the ballots to the central count location? ",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "elections.wi.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": " Can a candidate be present at the polling place on election day for any reason other than voting? \n  ",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "elections.wi.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the statutory language on a ballot where more than one officer is to be elected?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "elections.wi.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What election process is your question about?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What topic related to election integrity is your question about?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How is absentee voting data reported, and what do I need to know when analyzing the statistics?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do the columns in the spreadsheet mean?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How should media report absentee voting numbers?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does the data show the political party affiliation of voters requesting absentee ballots?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where does the data come from?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the new USPS by mail voting rule, and how does it impact Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is the USPS rule currently in effect?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What did the court do?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can USPS refuse to deliver absentee ballots if states don’t follow the rule?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Will Wisconsin comply with the rule even if it's not in effect?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What will happen next? Will anything change before the November election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Will USPS' new postmark rules impact Wisconsin voters?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a postmark?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Could the electronic transmission of unofficial election results be hacked?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How is absentee voting data reported, and what do I need to know when analyzing the statistics?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do the columns in the spreadsheet mean?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How should media report absentee voting numbers?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does the data show the political party affiliation of voters requesting absentee ballots?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where does the data come from?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the new USPS by mail voting rule, and how does it impact Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is the USPS rule currently in effect?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What did the court do?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can USPS refuse to deliver absentee ballots if states don’t follow the rule?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Will Wisconsin comply with the rule even if it's not in effect?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What will happen next? Will anything change before the November election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a Partisan Primary and how do I avoid crossover voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does crossover voting impact referendums?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What should I do if I accidentally crossover voted?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Could someone change my voter record or falsely obtain a ballot in my name on the MyVote Wisconsin website?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can someone find out my voting record on the MyVote Website?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can election results be altered by adding or subtracting votes?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Could a clerk add or subtract votes to change the results of an election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Will USPS' new postmark rules impact Wisconsin voters?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a postmark?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How is voting equipment certified in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What standards must voting equipment meet?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How is voting equipment tested before Election Day?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is voting equipment tested after Election Day?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How are results transmitted on election night?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How does the electronic transmission of data work?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Could the electronic transmission of unofficial election results be hacked?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is it true that an organization called WiscNet receives election results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Could a third-party have intercepted or altered election results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Did you get contacted by the federal government?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do you have to be a U.S. citizen to vote in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are noncitizens with a valid Wisconsin driver’s licenses allowed to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the upcoming referendum question about?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How does Wisconsin prevent non-citizens from voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do election officials verify that a voter is a U.S. citizen?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What happens if someone suspects that a voter is not a U.S. citizen?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How often do noncitizens attempt to vote in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a voter registration number?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How are voter registration numbers generated?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Why do some voter registration numbers begin or end in zero?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are voter registration numbers used for?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are there duplicate voter registration numbers?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do voter registration numbers have a secret meaning?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "As a voter, what do I use my voter registration number for?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How many people are on Wisconsin’s voter list?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Why don’t you just delete the inactive voters?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is the voter list bigger than Wisconsin’s adult population?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Why does the statewide voter registration database include multiple voters with birth dates of 1/1/1900 and registration dates of 1/1/1918?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Why are there thousands of voters with the same phone number listed in the statewide voter registration database?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Will voting equipment updates cause the loss of data and “IP logs” containing evidence of fraud from the November 2020 General Election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if electronic records were manipulated, and thousands of paper records were forged? Would this be sufficient to alter the election results without detection?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if the clerk fails to back up the data?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What about device IP logs?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Will software updates erase device logs?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Wisconsin use Dominion voting equipment, and have you done an audit?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Did the WEC give Dominion permission in June 2021 to update all voting equipment in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are counties required to keep their voting equipment and programming for 22 months after a federal election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does anyone keep copies of the code used to program voting equipment?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Did Dominion voting equipment flip votes from Trump to Biden?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Did WEC refuse to follow the law and remove ineligible voters?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Did thousands of voters fail driver’s license checks because they are not real people and possess fraudulent licenses?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "So what happens if the DMV Check doesn’t match?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Why did Milwaukee County report so many ballots for Democrats in the middle of the night?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When a person is no longer registered to vote, why does Wisconsin make their registration status “inactive?” Why not just delete their record?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Were there “ghost\" or \"phantom\" voters in Wisconsin’s 2020 election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Were recount observers prevented from seeing ballots and envelopes?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Has the Wisconsin Elections Commission investigated the allegations of computer hacking and election fraud made in the video titled “Absolute Proof”?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Election night results on TV changed – does that mean something’s wrong?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Did 200,000 people vote without a photo ID in 2020?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Did “thousands of people” vote from the same address in the 2020 General Election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are absentee ballots that arrive after 8 p.m. on Election Day still able to be counted?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Why did the Wisconsin Elections Commission vote to place independent presidential candidate Robert F. Kennedy, Jr. on the ballot despite his request to withdraw?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Did Wisconsin ballots have any special watermarks or blockchain codes?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Why did so many absentee ballots at the recount have the same initials on them?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What did the WEC tell clerks about fixing problems with witness addresses on absentee ballot certificates?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Were more than 1,000 absentee ballots sent to ineligible voters in the 2024 General Election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Did Wisconsin clerks issue 70,000 absentee ballots to voters without an application?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Did military absentee ballot numbers unexpectedly decrease between 2020 and 2022?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Did clerks receive backdated absentee ballots to be counted after the deadline of 8 p.m. on Election Day in 2020?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Did seven Wisconsin counties run out of ballots on April 1, 2025?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are there exceptions to the photo ID requirement?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need a special voter photo ID card?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What IDs are acceptable?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When will I be required to show a photo ID to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Was there widespread fraud in the 2020 election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are the positions at a polling place?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are the essential functions of becoming a poll worker?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I get an accommodation to become a poll worker?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are examples of accommodations that are generally reasonable at a polling place?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "If a municipality has only three election inspectors available to work at an election, and all represent the same political party, does it matter during a nonpartisan election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How does a race for multiple seats appear on a ballot? For example, a town board with three members?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.wi.gov/faq",
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHO CAN REQUEST AN ABSENTEE BALLOT?",
+            "current_q": "WHO CAN REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "Voter411",
+            "current_s": "https://www.vote411.org/wisconsin",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "Voter411",
+            "current_s": "https://www.vote411.org/wisconsin",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT BY MAIL? ",
+            "current_q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT BY MAIL?",
+            "question_similarity": 1.0,
+            "baseline_s": "Voter411",
+            "current_s": "https://www.vote411.org/wisconsin",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT BY MAIL? ",
+            "current_q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT BY MAIL?",
+            "question_similarity": 1.0,
+            "baseline_s": "Voter411",
+            "current_s": "https://www.vote411.org/wisconsin",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM? ",
+            "current_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "question_similarity": 1.0,
+            "baseline_s": "Voter411",
+            "current_s": "https://www.vote411.org/wisconsin",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW DO I COMPLETE MY MAIL BALLOT? ",
+            "current_q": "HOW DO I COMPLETE MY MAIL BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "Voter411",
+            "current_s": "https://www.vote411.org/wisconsin",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW DO I RETURN MY ABSENTEE BALLOT? ",
+            "current_q": "HOW DO I RETURN MY ABSENTEE BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "Voter411",
+            "current_s": "https://www.vote411.org/wisconsin",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "current_q": "HOW CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "Voter411",
+            "current_s": "https://www.vote411.org/wisconsin",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON? ",
+            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "question_similarity": 1.0,
+            "baseline_s": "Voter411",
+            "current_s": "https://www.vote411.org/wisconsin",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW DO I SIGN UP TO RECEIVE PERMANENT ABSENTEE BALLOT?",
+            "current_q": "HOW DO I SIGN UP TO RECEIVE PERMANENT ABSENTEE BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "Voter411",
+            "current_s": "https://www.vote411.org/wisconsin",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHAT IF I AM IN THE HOSPITAL?",
+            "current_q": "WHAT IF I AM IN THE HOSPITAL?",
+            "question_similarity": 1.0,
+            "baseline_s": "Voter411",
+            "current_s": "https://www.vote411.org/wisconsin",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW DO I REQUEST A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER? ",
+            "current_q": "HOW DO I REQUEST A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "question_similarity": 1.0,
+            "baseline_s": "Voter411",
+            "current_s": "https://www.vote411.org/wisconsin",
+            "answer_status": "changed",
+            "answer_similarity": 0.938,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Wisconsin allow ballot curing?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I cure my provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a ballot drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes available in my state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote before Election Day in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I have to apply to vote early in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I vote early in person in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I receive an early ballot in the mail?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to vote early in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN REGISTER TO VOTE IN WISCONSIN?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN VOTE IN WISCONSIN?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I VOTE IN WISCONSIN IF I HAVE A FELONY CONVICTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I REGISTER AND VOTE IN WISCONSIN IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN WISCONSIN?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN WISCONSIN?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I PRESENT MY PROOF OF RESIDENCE DOCUMENT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER IN WISCONSIN?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When are official election results available in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find official election results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What does a poll worker do in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What qualifications do I need to be a poll worker in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are poll workers paid in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I apply to be a poll worker in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Wisconsin offer provisional voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I cure my provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do I need to register to vote in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What’s the deadline to register to vote in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state, can I still vote in my home state while studying in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Wisconsin require employers to give time off to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I NEED TO SHOW ID WHEN I VOTE IN WISCONSIN?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO VOTE IN WISCONSIN?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN WISCONSIN?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to register to vote in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I register to vote in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I check my voter registration status?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Wisconsin have online voter registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is same-day voter registration available in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I pre-register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to register in Wisconsin?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wisconsin",
+            "source": "vote411"
+        }
+    ]
+}

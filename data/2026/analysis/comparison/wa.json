@@ -1,0 +1,948 @@
+{
+    "state": "wa",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "What if I don't have a driver's license?",
+            "current_q": "What if I don't have a driver's license?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "answer_status": "changed",
+            "answer_similarity": 0.892,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I turn 18 right before an election?",
+            "current_q": "What if I turn 18 right before an election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "answer_status": "changed",
+            "answer_similarity": 0.97,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is my information private?",
+            "current_q": "Is my information private?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "answer_status": "changed",
+            "answer_similarity": 0.793,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I'm in the Address Confidentiality Program (ACP)?",
+            "current_q": "What if I'm in the Address Confidentiality Program (ACP)?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "answer_status": "changed",
+            "answer_similarity": 0.579,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I register to vote?",
+            "current_q": "How do I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+            "answer_status": "changed",
+            "answer_similarity": 0.545,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I return my ballot?",
+            "current_q": "How do I return my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+            "answer_status": "changed",
+            "answer_similarity": 0.389,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When are ballots mailed?",
+            "current_q": "When are ballots mailed?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "answer_status": "changed",
+            "answer_similarity": 0.932,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I learn more about the measures and/or candidates that appear on my ballot?",
+            "current_q": "How can I learn more about the measures and/or candidates that appear on my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "answer_status": "changed",
+            "answer_similarity": 0.348,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is the latest I can turn in my completed ballot?",
+            "current_q": "When is the latest I can turn in my completed ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "answer_status": "changed",
+            "answer_similarity": 0.38,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I vote in-person?",
+            "current_q": "Can I vote in person?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "answer_status": "changed",
+            "answer_similarity": 0.423,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is a party preference? ",
+            "current_q": "What is a party preference?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-2-primary-faqs-voters",
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "answer_status": "changed",
+            "answer_similarity": 0.364,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Will there be both a Democrat and a Republican in each race on the ballot at the General Election? ",
+            "current_q": "Will there be both a Democrat and a Republican in each race on the ballot at the general election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-2-primary-faqs-voters",
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "answer_status": "changed",
+            "answer_similarity": 0.696,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What is the difference between a Top 2 Primary and the Primary Elections in Other States?",
+            "current_q": "What is the difference between a top-two primary and the primary elections in other states?",
+            "question_similarity": 0.978,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-2-primary-faqs-voters",
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "answer_status": "changed",
+            "answer_similarity": 0.155,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "If only 1 or 2 candidates file for an office, do they still have a Primary?",
+            "current_q": "If only one or two candidates file for an office, do they still have a primary?",
+            "question_similarity": 0.947,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-2-primary-faqs-voters",
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "answer_status": "changed",
+            "answer_similarity": 0.895,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "How did the Top 2 Primary become law?",
+            "current_q": "How did the top-two primary become law?",
+            "question_similarity": 0.946,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-2-primary-faqs-voters",
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "answer_status": "changed",
+            "answer_similarity": 0.805,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What is a Top 2 Primary?",
+            "current_q": "What is a top-two primary?",
+            "question_similarity": 0.917,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-2-primary-faqs-voters",
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "answer_status": "changed",
+            "answer_similarity": 0.222,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What offices are affected? ",
+            "current_q": "Which offices are affected?",
+            "question_similarity": 0.902,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-2-primary-faqs-voters",
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "answer_status": "changed",
+            "answer_similarity": 0.318,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "How do I obtain a replacement ballot?",
+            "current_q": "How do I get a replacement ballot?",
+            "question_similarity": 0.899,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "answer_status": "changed",
+            "answer_similarity": 0.801,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "How do I sign up for Future Voter?",
+            "current_q": "How do I sign up as a Future Voter?",
+            "question_similarity": 0.896,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "answer_status": "changed",
+            "answer_similarity": 0.761,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "How do I qualify for Future Voter?",
+            "current_q": "How do I qualify as a Future Voter?",
+            "question_similarity": 0.896,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Future Voter program?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When can I vote or sign a petition? ",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I move, leave the country, go to college, or join the military?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I have been charged with a delinquency in juvenile court?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Who is eligiable to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voter-eligibility",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Registration deadlines?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How is my ballot recieved?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I become an informed voter?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Are there Accessible voting units?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voters-disabilities",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I get assistance with voting on my ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voters-disabilities",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to report Accessibility concerns?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voters-disabilities",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How you can help?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/voting-assisted-living-facilities",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How you can offer assistance?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/voting-assisted-living-facilities",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Why up to date signatures are important?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/voting-assisted-living-facilities",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What about Incapacitation?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/voting-assisted-living-facilities",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Involuntary Cancellation?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/voting-assisted-living-facilities",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I handle misdirected ballots?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/voting-assisted-living-facilities",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Are there Translation Services?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/voting-assisted-living-facilities",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When the right to vote is restored?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/felony-convictions-and-voting-rights",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/felony-convictions-and-voting-rights",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "If I'm on vacation or have moved, will my ballot be forwarded?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is a Federal Write-In Absentee Ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is a provisional ballot, and why would I need one?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I correct my ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What happens if I vote for more than one candidate?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Will my ballot count if I choose not to vote on certain issues or candidates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Will my vote count if I forgot to seal my ballot in the security envelope?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the elections department process my vote by mail (absentee) ballot securely?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Do Minor Party Candidates ever make it to the General Election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-2-primary-faqs-voters",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Does Washington have Party Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-2-primary-faqs-voters",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can a voter still write in a candidate?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-2-primary-faqs-voters",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Why do I need to sign my envelope?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I’m away from home during an election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I move?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do provisional ballots work in Washington?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I made a mistake! How do I change my vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Will my ballot count if I don’t vote on everything?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Will my ballot count if I forget to use the security sleeve?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How does the elections office secure my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When are election results final?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When can I vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When can I sign a petition for a ballot initiative or referendum?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I move, go away to college, leave the country, or join the military?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I have a conviction in juvenile court?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How does the top-two primary work?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How does this affect nonpartisan offices?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I write in a name that’s not on the ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I change my political party affiliation?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When can I register and request a ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I receive my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find information about what is on my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I know if my ballot was received?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is an Accessible Voting Unit?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voters-disabilities",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find Accessible Voting Units?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voters-disabilities",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I get help with my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voters-disabilities",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I have a legal guardian?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voters-disabilities",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I receive a ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voter-eligibility",
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Absentee Ballot Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Ballot Notice and Cure Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#ballot-notice-and-cure-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Campaign Finance Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#campaign-finance-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Candidate and Ballot Measure Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#candidate-and-ballot-measure-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where are the Drop Boxes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#drop-boxes",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is Early Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#early-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the Election Dates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#election-dates",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Eligibility Requirements?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#eligibility-requirements",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#id-needed-for-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#id-needed-for-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the Official Results available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#official-results",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What about Overseas and Military Voters?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#overseas-and-military-voters",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Poll Worker Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#poll-worker-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Polling Place Hours?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#polling-place-hours",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Polling Place Locator?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#polling-place-locator",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Primary Election Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#primary-election-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Provisional Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#provisional-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Are there Provisions for Voters with Disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#provisions-for-voters-with-disabilities",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Registration Deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#registration-deadline",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do Verify Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#verify-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I Vote by Mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#vote-by-mail",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What Voting Machines are used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/washington#voting-machines",
+            "current_s": null,
+            "source": "vote411"
+        }
+    ]
+}

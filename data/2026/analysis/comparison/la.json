@@ -1,0 +1,1718 @@
+{
+    "state": "la",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "How do I register to vote?",
+            "current_q": "How do I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=0",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I qualify to register to vote?",
+            "current_q": "How do I qualify to register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=2",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How much does it cost to register?",
+            "current_q": "How much does it cost to register?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=3",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I have to be a resident of the state to register?",
+            "current_q": "Do I have to be a resident of the state to register?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=5",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I have multiple addresses, can I choose which address to use for voter registration?",
+            "current_q": "If I have multiple addresses, can I choose which address to use for voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=6",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " Changes in voter registration?",
+            "current_q": "Changes in voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=7",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I have to register prior to each election?",
+            "current_q": "Do I have to register prior to each election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=9",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " Felons, how to reinstate suspended voter registration?",
+            "current_q": "Felons, how to reinstate suspended voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=15",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I become a Louisiana resident?",
+            "current_q": "How do I become a Louisiana resident?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=16",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " Who can vote absentee?",
+            "current_q": "Who can vote absentee?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=0",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.92,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Federal Write-In Absentee Ballot (FWAB), information?",
+            "current_q": "Federal write-in absentee ballot (FWAB) information?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=17",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who can vote early?",
+            "current_q": "Who can vote early?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=0 ",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I vote on election day if I have voted early?",
+            "current_q": "Can I vote on election day if I have voted early?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=3",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Additional information about early voting?",
+            "current_q": "Additional information about early voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=19",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " Where do I go to vote on election day?",
+            "current_q": "Where do I go to vote on election day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=7",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Violations of state law in voting?",
+            "current_q": "Violations of state law in voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=13",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.941,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is provisional voting?",
+            "current_q": "What is provisional voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally&faqid=0",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " When is provisional voting provided in an election?",
+            "current_q": "When is provisional voting provided in an election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally&faqid=1",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " Who is a provisional voter?",
+            "current_q": "Who is a provisional voter?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally&faqid=2",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": " Law enforcement officers allowed at a polling place on election day?",
+            "current_q": "Are law enforcement officers allowed at a polling place on election day?",
+            "question_similarity": 0.971,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=16",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Law enforcement officers allowed at early voting locations?",
+            "current_q": "Are law enforcement officers allowed at early voting locations?",
+            "question_similarity": 0.967,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=15",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Firearms allowed at a polling place on election day?",
+            "current_q": "Are firearms allowed at a polling place on election day?",
+            "question_similarity": 0.962,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=17",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "How will my ballot be counted if I vote absentee (military and overseas voters)?",
+            "current_q": "How will my ballot be counted if I vote absentee as a military and overseas voter?",
+            "question_similarity": 0.962,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=13 ",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.988,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": " Write-in candidates allowed during early voting?",
+            "current_q": "Are write-in candidates allowed during early voting?",
+            "question_similarity": 0.959,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=11",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Write-in candidates allowed in Louisiana?",
+            "current_q": "Are write-in candidates allowed in Louisiana?",
+            "question_similarity": 0.952,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=12",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Photo ID required in order to vote on election day?",
+            "current_q": "Is a photo ID required in order to vote on election day?",
+            "question_similarity": 0.952,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=6",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Firearms allowed at a polling place?",
+            "current_q": "Are firearms allowed at a polling place?",
+            "question_similarity": 0.946,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=16",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Report fraud or a violation in a state or local election?",
+            "current_q": "How do I report fraud or a violation in a state or local election?",
+            "question_similarity": 0.926,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=18",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.895,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Provisional ballot counted or rejected?",
+            "current_q": "Was my provisional ballot counted or rejected?",
+            "question_similarity": 0.916,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally&faqid=5",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Email address, is it public information on my voter registration?",
+            "current_q": "Is my email address public information on my voter registration?",
+            "question_similarity": 0.905,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=18",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Report fraud or violation in a federal election?",
+            "current_q": "How do I report fraud or a violation in a federal election?",
+            "question_similarity": 0.895,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=17",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.999,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Vote Absentee, Enroll in, or Opt Out of Absentee Program",
+            "current_q": "How do I vote absentee, enroll in, or opt out of the absentee program?",
+            "question_similarity": 0.893,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=4",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Recognized political parties in the State of Louisiana?",
+            "current_q": "What are the recognized political parties in the state of Louisiana?",
+            "question_similarity": 0.893,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=17",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.784,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Deadline to register to vote before an election?",
+            "current_q": "What is the deadline to register to vote before an election?",
+            "question_similarity": 0.887,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=13",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Federal law prohibitions in voting?",
+            "current_q": "Are there federal law prohibitions in voting?",
+            "question_similarity": 0.872,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=14",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": " Felons, how to reinstate suspended voter registration?",
+            "current_q": "How do I reinstate a suspended voter registration?",
+            "question_similarity": 0.871,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=4",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Felons, how to reinstate suspended voter registration?",
+            "current_q": "How do I reinstate a suspended voter registration?",
+            "question_similarity": 0.871,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=7",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Voters' responsibilities during early voting?",
+            "current_q": "What are the voters' responsibilities during early voting?",
+            "question_similarity": 0.869,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=4",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.92,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Return absentee ballot by email (military and overseas citizens)?",
+            "current_q": "Can I return my absentee ballot by email if I am a military and overseas citizen?",
+            "question_similarity": 0.859,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=15",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Voter's responsibilities on election day?",
+            "current_q": "What are the voter's responsibilities on election day?",
+            "question_similarity": 0.857,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=1",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.926,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Voter's rights during early voting?",
+            "current_q": "What are a voter's rights during early voting?",
+            "question_similarity": 0.857,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=5",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.879,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": " Vote absentee request deadline?",
+            "current_q": "What is the vote absentee request deadline?",
+            "question_similarity": 0.833,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=2",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": " Apply to vote absentee?",
+            "current_q": "How do I apply to vote absentee?",
+            "question_similarity": 0.83,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=3",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.899,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Residential address, is it important?",
+            "current_q": "Is my residential address important?",
+            "question_similarity": 0.829,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=14",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Assistance in voting during early voting?",
+            "current_q": "How do I request assistance in voting during early voting?",
+            "question_similarity": 0.825,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=8",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.498,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": " Vote absentee, instructions for all voters other than military and overseas citizens?",
+            "current_q": "What are the instructions to vote absentee for all voters other than military and overseas citizens?",
+            "question_similarity": 0.824,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=10",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.816,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "State law prohibitions in voting?",
+            "current_q": "Are there any state law prohibitions in voting?",
+            "question_similarity": 0.821,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=12",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.941,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Voter's rights on election day?",
+            "current_q": "What are the voter's rights on election day?",
+            "question_similarity": 0.817,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=2",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.893,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Voting hours on election day?",
+            "current_q": "What are the voting hours on election day?",
+            "question_similarity": 0.812,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=0",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Return absentee ballot by email (all voters other than military and overseas citizens)?",
+            "current_q": "Can I return my absentee ballot by email if I am not a military and overseas citizen?",
+            "question_similarity": 0.81,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=14",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.581,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Cancel Voter Registration?",
+            "current_q": "How do I cancel my voter registration?",
+            "question_similarity": 0.806,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=1",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Early voting days and hours?",
+            "current_q": "What are the early voting days and hours?",
+            "question_similarity": 0.806,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=1",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Audio ballot on voting machines?",
+            "current_q": "Are audio ballots available on voting machines?",
+            "question_similarity": 0.805,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=10",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": " Election laws in Louisiana?",
+            "current_q": "What are the election laws in Louisiana?",
+            "question_similarity": 0.8,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=13",
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Voter information card, how to get a replacement?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=4",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Register to vote, what documents are needed?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=8",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Moved to another parish in Louisiana, do I have to register again?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=10",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Moved out of state, how to cancel my Louisiana voter registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=11",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "College students, where to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=12",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": " Who can vote absentee, reasons?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=1",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Vote absentee (military and overseas citizens), information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=5",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": " Vote absentee, am I guaranteed to receive a ballot if I apply?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=6",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": " Vote absentee documents to expect?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=7",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": " Vote absentee (military and overseas voters), what documents should I receive?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=8",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Fax ballot, information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=9",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": " Vote absentee, instructions for military and overseas citizens?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=11",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Vote absentee, how is the ballot counted?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=12",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Opportunity to Cure Deficiencies? ",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=16",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Write in candidates, are they allowed?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=18",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "State law prohibitions in voting, information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=19",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Election laws in Louisiana, where to view?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=20",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Federal law prohibitions in voting, information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=21",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Report a federal violation, contact information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=22",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Report a state violation, contact information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=23",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Additional information to vote absentee?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=24",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Early voting locations?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=2",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Inactive voter, what does it mean?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=6",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Photo ID to vote, what is required?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=9",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Voting machines during early voting, how to operate?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=10",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": " Inactive voter status?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=3",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": " Assistance in voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=5",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": " Polling place changes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=8",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": " Voting machines on election day, how to operate?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=9",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": " Voting machine fails on election day, how to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=11",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": " Election laws?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=14",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Violations of federal law in voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=15",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": " Report fraud in a federal election or report a federal violation?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=18",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Report fraud in a state or local election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=19",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Not found on the precinct register on election day, what to do?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally&faqid=3",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Provisional ballot, how to vote one?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally&faqid=4",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Fraud in a federal election or federal violation?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally&faqid=6",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Fraud in a state or local election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally&faqid=7",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Provisional Voting additional information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally&faqid=8",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I get a replacement voter information card?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What documents are needed to register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I have to register again if I moved to another parish in Louisiana?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I cancel my Louisiana voter registration if I moved out of state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where do I register to vote if I am a college student?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What's the difference between Independent and No Party?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are the eligible reasons to vote absentee?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where do I get information on voting absentee for military and overseas citizens?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Am I guaranteed to receive a ballot if I apply to vote absentee?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What documents should I expect when voting absentee?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What documents should I receive if voting absentee as a military or overseas voter?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I receive my ballot via fax?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are the instructions to vote absentee for military and overseas citizens?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How is an absentee ballot counted?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are write-in candidates allowed in Louisiana?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are there any state law prohibitions in voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I view election laws in Louisiana?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are there federal law prohibitions in voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I report fraud or a violation in a federal election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I report fraud or a violation in a state or local election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find additional information on voting absentee?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where are the early voting locations?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What does an inactive voter mean?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is required to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I operate voting machines during early voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are the election laws in Louisiana?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I report fraud or a violation in a federal election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I report fraud or a violation in a state or local election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What does inactive voter status mean?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I request assistance in voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where do I find out about polling place changes?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I operate voting machines on election day?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote if the voting machine fails on election day?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are there federal law violations in voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I report fraud or a violation in a federal election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I report fraud or a violation in a state or local election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What should I do if I am not on the precinct register on election day?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote on a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I find more information on provisional voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Absentee Ballot Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Ballot Notice and Cure Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#ballot-notice-and-cure-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Campaign Finance Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#campaign-finance-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Candidate and Ballot Measure Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#candidate-and-ballot-measure-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is Early Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#early-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the Election Dates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#election-dates",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Eligibility Requirements?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#eligibility-requirements",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#id-needed-for-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#id-needed-for-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the Official Results available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#official-results",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What about Overseas and Military Voters?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#overseas-and-military-voters",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Poll Worker Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#poll-worker-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Polling Place Hours?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#polling-place-hours",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Polling Place Locator?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#polling-place-locator",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Primary Election Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#primary-election-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Provisional Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#provisional-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Are there Provisions for Voters with Disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#provisions-for-voters-with-disabilities",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Registration Deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#registration-deadline",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Do I get Time Off To Vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#time-off-to-vote",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do Verify Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#verify-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What Voting Machines are used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/louisiana#voting-machines",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE FOR REQUESTING AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I RETURN MY ABSENTEE BALLOT APPLICATION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE FOR RETURNING A VOTED ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN REGISTER TO VOTE IN LOUISIANA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN VOTE IN LOUISIANA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN LOUISIANA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN LOUISIANA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do I need to register to vote in Louisiana?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in Louisiana?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What’s the deadline to register to vote in Louisiana?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in Louisiana?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state, can I still vote in my home state while studying in Louisiana?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Louisiana?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I NEED TO SHOW ID WHEN I VOTE IN LOUISIANA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO VOTE IN LOUISIANA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/louisiana",
+            "source": "vote411"
+        }
+    ]
+}

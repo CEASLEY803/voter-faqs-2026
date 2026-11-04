@@ -1,0 +1,1174 @@
+{
+    "state": "me",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "Where do I go to vote?",
+            "current_q": "Where do I go to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What hours are the polls open?",
+            "current_q": "What hours are the polls open?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I mark a ballot?",
+            "current_q": "How do I mark a ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I have help voting?",
+            "current_q": "Can I have help voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need to go to the polls on Election Day to vote?",
+            "current_q": "Do I need to go to the polls on Election Day to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I locate and contact my municipal clerk?",
+            "current_q": "How do I locate and contact my municipal clerk?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I still have questions about registering or voting in Maine?",
+            "current_q": "What if I still have questions about registering or voting in Maine?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who can register and vote in Maine?",
+            "current_q": "Who can register and vote in Maine?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I register to vote?",
+            "current_q": "How do I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where do I go to register?",
+            "current_q": "Where do I go to register?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is there a deadline for registering?",
+            "current_q": "Is there a deadline for registering?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is absentee voting and how does it work?",
+            "current_q": "What is absentee voting and how does it work?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who may vote absentee?",
+            "current_q": "Who may vote absentee?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When can I request an absentee ballot?",
+            "current_q": "When can I request an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is there a deadline to request an absentee ballot?",
+            "current_q": "Is there a deadline to request an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I apply for and receive an absentee ballot?",
+            "current_q": "How do I apply for and receive an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I vote by absentee ballot in person somewhere?",
+            "current_q": "Can I vote by absentee ballot in person somewhere?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When must my voted ballot be returned to my municipal clerk?",
+            "current_q": "When must my voted ballot be returned to my municipal clerk?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are there any other ways to receive an absentee ballot?",
+            "current_q": "Are there any other ways to receive an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the laws governing the citizen initiative process?",
+            "current_q": "What are the laws governing the citizen initiative process?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How does someone start a citizen initiative petition?",
+            "current_q": "How does someone start a citizen initiative petition?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who decides the wording of the initiative legislation?",
+            "current_q": "Who decides the wording of the initiative legislation?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who decides the wording of the ballot question?",
+            "current_q": "Who decides the wording of the ballot question?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How is the petition form prepared?",
+            "current_q": "How is the petition form prepared?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How long can the proponents gather signatures for an initiative?",
+            "current_q": "How long can the proponents gather signatures for an initiative?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How many signatures are needed for the petition to be valid?",
+            "current_q": "How many signatures are needed for the petition to be valid?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the annual deadline to submit a petition to the Secretary of State in order for the question to appear on that year's ballot?",
+            "current_q": "What is the annual deadline to submit a petition to the Secretary of State in order for the question to appear on that year's ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the deadline for the Secretary of State to determine the validity of a petition?",
+            "current_q": "What is the deadline for the Secretary of State to determine the validity of a petition?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens after the Secretary of State determines a petition to be valid?",
+            "current_q": "What happens after the Secretary of State determines a petition to be valid?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If the voters approve an initiative question at a November election, when does the new law become effective?",
+            "current_q": "If the voters approve an initiative question at a November election, when does the new law become effective?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When do proponents or opponents of an initiative have to register as Political Action Committees (PACs) and begin reporting contributions and expenditures?",
+            "current_q": "When do proponents or opponents of an initiative have to register as Political Action Committees (PACs) and begin reporting contributions and expenditures?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is the Legislature restricted at any point in the initiative process from making changes to laws governing the subject matter addressed in an initiative?",
+            "current_q": "Is the Legislature restricted at any point in the initiative process from making changes to laws governing the subject matter addressed in an initiative?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are there restrictions on activities of State Agency personnel concerning a citizen initiative?",
+            "current_q": "Are there restrictions on activities of State Agency personnel concerning a citizen initiative?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "current_s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What is Provisional Voting?",
+            "current_q": "What is a provisional ballot?",
+            "question_similarity": 0.815,
+            "baseline_s": "https://www.vote411.org/maine#provisional-voting",
+            "current_s": "https://www.vote411.org/maine",
+            "answer_status": "changed",
+            "answer_similarity": 0.259,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Absentee Ballot Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#absentee-ballot-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Ballot Notice and Cure Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#ballot-notice-and-cure-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find the Campaign Finance Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#campaign-finance-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Candidate and Ballot Measure Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#candidate-and-ballot-measure-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where are the Drop Boxes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#drop-boxes",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is Early Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#early-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the Election Dates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#election-dates",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Eligibility Requirements?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#eligibility-requirements",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#id-needed-for-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#id-needed-for-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the Official Results available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#official-results",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What voting options are available for overseas and military voters?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#overseas-and-military-voters",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Poll Worker Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#poll-worker-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Polling Place Hours?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#polling-place-hours",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I locate a Polling place?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#polling-place-locator",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Primary Election Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#primary-election-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Are there Provisions for Voters with Disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#provisions-for-voters-with-disabilities",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Ranked Choice Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#ranked-choice-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Registration Deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#registration-deadline",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Do I get Time Off To Vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#time-off-to-vote",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I Verify Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#verify-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What kind of Voting Machines are used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maine#voting-machines",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT ARE THE TYPES OF ABSENTEE VOTING IN MAINE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS SPECIAL CIRCUMSTANCES ABSENTEE VOTING?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE ELECTRONIC ACCESSIBLE ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE ONGOING ABSENTEE BALLOT VOTER STATUS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I RETURN MY ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is ballot curing?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Maine allow ballot curing?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to cure my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track my absentee ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Maine allow ballot curing?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to cure my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track my absentee ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote before Election Day in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who can vote early in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When can I vote early in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I vote early in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN REGISTER TO VOTE IN MAINE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN VOTE IN MAINE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN MAINE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN MAINE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When are official election results available in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find official election results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What does a poll worker do in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What qualifications do I need to be a poll worker in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are poll workers paid in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I apply to be a poll worker in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Maine offer provisional voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT VOTING ASSISTANCE IS AVAILABLE TO VOTERS WITH DISABILITIES?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DOES THE ACCESSIBLE VOTING SYSTEM (AVS) WORK?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I ASK TO USE THE ACCESSIBLE VOTING SYSTEM?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ACCOMMODATION OR REPORT ACCESSIBILITY ISSUES?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I VOTE BY MAIL BECAUSE OF MY DISABILITY?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How does Ranked Choice Voting work?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do I need to register to vote in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What’s the deadline to register to vote in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state, can I still vote in my home state while studying in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Maine require employers to give time off to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I NEED TO SHOW ID WHEN I VOTE IN MAINE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE IN MAINE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to register to vote in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I register to vote in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I check my voter registration status?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Maine have online voter registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is same-day voter registration available in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I pre-register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to register in Maine?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPE OF VOTING MACHINES DOES MAINE USE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DOES MAINE COUNT THE BALLOTS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do all municipalities use the machines?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/maine",
+            "source": "vote411"
+        }
+    ]
+}

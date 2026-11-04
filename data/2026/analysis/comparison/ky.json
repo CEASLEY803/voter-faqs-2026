@@ -1,0 +1,1027 @@
+{
+    "state": "ky",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "Where is my polling place?",
+            "current_q": "Where is my polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Am I entitled to time off for voting on Election Day?",
+            "current_q": "Am I entitled to time off for voting on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What identification can I bring to the polling place?",
+            "current_q": "What identification can I bring to the polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+            "answer_status": "changed",
+            "answer_similarity": 0.906,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What time are the polls open on Election Day?",
+            "current_q": "What time are the polls open on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+            "answer_status": "changed",
+            "answer_similarity": 0.978,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What time are the polls open on the days prior to Election Day?",
+            "current_q": "What time are the polls open on the days prior to Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+            "answer_status": "changed",
+            "answer_similarity": 0.638,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I have to vote according to party affiliation?",
+            "current_q": "Do I have to vote according to party affiliation?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I switch political parties?",
+            "current_q": "How do I switch political parties?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I will be out of town on Election Day. How can I vote?",
+            "current_q": "I will be out of town on Election Day. How can I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+            "answer_status": "changed",
+            "answer_similarity": 0.889,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I register to vote?",
+            "current_q": "How do I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I check if I am registered to vote?",
+            "current_q": "How do I check if I am registered to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I have to register before each election?",
+            "current_q": "Do I have to register before each election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I recently moved, do I have to update my registration?",
+            "current_q": "I recently moved, do I have to update my registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "The deadline to register has passed, can I still update my registration?",
+            "current_q": "The deadline to register has passed, can I still update my registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I am a U.S. Citizen residing overseas, how do I register to vote?",
+            "current_q": "I am a U.S. Citizen residing overseas, how do I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I am in the military, how can I request a ballot?",
+            "current_q": "I am in the military, how can I request a ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I am disabled, how can I request a ballot?",
+            "current_q": "I am disabled, how can I request a ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I cancel my voter registration?",
+            "current_q": "How do I cancel my voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I am 17 years old, can I register to vote?",
+            "current_q": "I am 17 years old, can I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How many people are registered to vote in Kentucky?",
+            "current_q": "How many people are registered to vote in Kentucky?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "current_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+            "answer_status": "changed",
+            "answer_similarity": 0.928,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I get voter registration cards for my registration drive?",
+            "current_q": "How do I get voter registration cards for my registration drive?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "current_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "answer_status": "changed",
+            "answer_similarity": 0.626,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is the person eligible to register to vote in Kentucky?",
+            "current_q": "Is the person eligible to register to vote in Kentucky?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "current_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How will a person know if they are registered to vote?",
+            "current_q": "How will a person know if they are registered to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "current_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is the voter registration card complete?",
+            "current_q": "Is the voter registration card complete?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "current_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If the voter is already registered, how does the voter change his/her political party registration?",
+            "current_q": "If the voter is already registered, how does the voter change his/her political party registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "current_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "The voter has moved. What does he need to do?",
+            "current_q": "The voter has moved. What does he need to do?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "current_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "answer_status": "changed",
+            "answer_similarity": 0.991,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where is the completed voter registration card sent?",
+            "current_q": "Where is the completed voter registration card sent?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "current_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How will the voter know where to vote?",
+            "current_q": "How will the voter know where to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "current_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "answer_status": "changed",
+            "answer_similarity": 0.602,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who are UOCAVA voters in Kentucky?",
+            "current_q": "Who are UOCAVA voters in Kentucky?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elect.ky.gov/Voters/Pages/Military-or-Overseas-Voters.aspx",
+            "current_s": "https://elect.ky.gov/Voters/Pages/Military-or-Overseas-Voters.aspx",
+            "answer_status": "changed",
+            "answer_similarity": 0.734,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I registered to vote, but I did not receive a confirmation card.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Penalties",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are voter right in Kentucky?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elect.ky.gov/Voters/Pages/Voter-Rights.aspx",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can i vote a provisional ballot",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are my responsibilities as a vote",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elect.ky.gov/Voters/Pages/Voter-Rights.aspx",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the different laws governing a voter?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elect.ky.gov/Voters/Pages/Voter-Rights.aspx",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I request and return an absentee ballot for an upcoming general election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What should I do if there's an issue with my absentee or provisional ballot before the election deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information on campaign contributions for candidates and ballot measures?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I access comprehensive details about candidates and ballot measures in the election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the options and deadlines for submitting my ballot using drop boxes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When does early voting start and end, and how can I participate in early voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I find out the important dates for upcoming elections?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility criteria to vote in an election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of identification are required to register to vote, and how can I prove my citizenship?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of identification are acceptable at polling places for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When and where will the official election results be available, and how can I track them?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can military personnel and overseas citizens register and vote in elections?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements and steps to become a poll worker for an election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the operating hours of polling places on Election Day?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I find the exact location of my designated polling place?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work for affiliated and unaffiliated voters?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Under what circumstances will I need to cast a provisional ballot, and how is it processed?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What accessible voting options are available for voters with disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Registering after Moving",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the voter registration deadline for the upcoming election, and how can I register online?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are my rights regarding time off work to vote in elections?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I verify my voter registration status and address any issues?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of voting machines are used at polling places, and how do they operate?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kentucky",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Kentucky allow ballot curing?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to cure my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track my absentee ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a ballot drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes available in my state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find ballot drop box locations?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track the ballot after placing in the drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote before Election Day in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who can vote early in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to vote in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote in Kentucky if I have a felony conviction?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to register to vote in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I don’t have an ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When are official election results available in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find official election results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What does a poll worker do in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What qualifications do I need to be a poll worker in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are poll workers paid in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I apply to be a poll worker in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Kentucky offer provisional voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When are provisional ballots counted?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I check the status of my provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What voting assistance is available for voters with disabilities?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I request accommodation or report accessibility issues?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote by mail because of my disability?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do I need to register to vote in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What’s the deadline to register to vote in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state—can I still vote in my home state while studying in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Kentucky require employers to give time off to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need ID to vote in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of ID can I use to vote in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I don’t have an acceptable ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does absentee voting in Kentucky require ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are student or digital IDs accepted to vote in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to register to vote in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I register to vote in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I check my voter registration status?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Kentucky have online voter registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is same-day voter registration available in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I pre-register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to register in Kentucky?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of voting machines does Kentucky use?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is optical scan voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is Direct Recording Electronic Voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kentucky",
+            "source": "vote411"
+        }
+    ]
+}

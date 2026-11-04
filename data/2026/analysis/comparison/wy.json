@@ -1,0 +1,743 @@
+{
+    "state": "wy",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "When are the elections and what times are polls open?",
+            "current_q": "When are the elections and what times are polls open?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where do I vote?",
+            "current_q": "Where do I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What do I need to bring with me when I vote?",
+            "current_q": "What do I need to bring with me when I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does my boss have to give me time off to vote?",
+            "current_q": "Does my boss have to give me time off to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I am refused the right to vote?",
+            "current_q": "What if I am refused the right to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "changed",
+            "answer_similarity": 0.911,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What qualifies me to register to vote in Wyoming?",
+            "current_q": "What qualifies me to register to vote in Wyoming?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "changed",
+            "answer_similarity": 0.84,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I’m only 17, can I still register?",
+            "current_q": "I’m only 17, can I still register?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I qualify to register. Now what?",
+            "current_q": "I qualify to register. Now what?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I’m registered, but how will I know where I can go vote?",
+            "current_q": "I'm registered, but how will I know where I can go vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When I get there, will I need to provide identification?",
+            "current_q": "When I get there, will I need to provide identification?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I’m not familiar with all of these candidates and races; do I need to vote for all of them?",
+            "current_q": "I’m not familiar with all of these candidates and races; do I need to vote for all of them?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I won’t be available during the day of the election. Will I miss my opportunity to vote?",
+            "current_q": "I won’t be available during the day of the election. Will I miss my opportunity to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Once I vote in an election, will I need to register again before the next election?",
+            "current_q": "Once I vote in an election, will I need to register again before the next election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I’m a Wyoming resident, but am not in Wyoming due to military obligations. Can I still vote?",
+            "current_q": "I’m a Wyoming resident, but am not in Wyoming due to military obligations. Can I still vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "changed",
+            "answer_similarity": 0.948,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who can register and vote in Wyoming?",
+            "current_q": "Who can register and vote in Wyoming?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "changed",
+            "answer_similarity": 0.695,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I register to vote and is there a deadline?",
+            "current_q": "How do I register to vote and is there a deadline?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How long do I have to live in Wyoming to qualify to register to vote?",
+            "current_q": "How long do I have to live in Wyoming to qualify to register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "changed",
+            "answer_similarity": 0.695,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I find my county clerk?",
+            "current_q": "How can I find my county clerk?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I register to vote when I get my driver’s license?",
+            "current_q": "Can I register to vote when I get my driver’s license?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need to re-register for each election?",
+            "current_q": "Do I need to re-register for each election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I change my party affiliation?",
+            "current_q": "How do I change my party affiliation?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I have a felony conviction from another state but I now live in Wyoming. Do I have to have my voting rights restored here before I can register and vote?",
+            "current_q": "I have a felony conviction from another state but I now live in Wyoming. Do I have to have my voting rights restored here before I can register and vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "changed",
+            "answer_similarity": 0.972,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I get an absentee ballot and when does it have to be returned?",
+            "current_q": "How can I get an absentee ballot and when does it have to be returned?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I change who I voted for if I already sent in my absentee ballot?",
+            "current_q": "Can I change who I voted for if I already sent in my absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I mail in my absentee ballot, do I need to provide any additional form of identification?",
+            "current_q": "If I mail in my absentee ballot, do I need to provide any additional form of identification?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "changed",
+            "answer_similarity": 0.829,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who is covered under UOCAVA?",
+            "current_q": "Who is covered under UOCAVA?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When can I request a ballot?",
+            "current_q": "When can I request a ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I’m still a registered Wyoming voter, how do I request a ballot?",
+            "current_q": "I’m still a registered Wyoming voter, how do I request a ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I’m not sure if I’m a Wyoming registered voter, what should I do?",
+            "current_q": "I’m not sure if I’m a Wyoming registered voter, what should I do?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I am not registered to vote yet. Can I still request a ballot?",
+            "current_q": "I am not registered to vote yet. Can I still request a ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When will I receive my ballot?",
+            "current_q": "When will I receive my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens if I do not receive my ballot?",
+            "current_q": "What happens if I do not receive my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I know what state to claim as my “voting residence”?",
+            "current_q": "How do I know what state to claim as my “voting residence”?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I do not maintain a legal residence in the U.S., what is my \"legal State of residence\"?",
+            "current_q": "If I do not maintain a legal residence in the U.S., what is my \"legal State of residence\"?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "changed",
+            "answer_similarity": 0.948,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I find out what’s on the ballot?",
+            "current_q": "How do I find out what’s on the ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How does a constitutional amendment pass?",
+            "current_q": "How does a constitutional amendment pass?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I have to be registered as a Republican or Democrat to vote in the primary election?",
+            "current_q": "Do I have to be registered as a Republican or Democrat to vote in the primary election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "changed",
+            "answer_similarity": 0.943,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I file to run for office?",
+            "current_q": "How do I file to run for office?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I form a campaign committee before I file my application for nomination?",
+            "current_q": "Can I form a campaign committee before I file my application for nomination?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I run as an independent candidate?",
+            "current_q": "How do I run as an independent candidate?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "changed",
+            "answer_similarity": 0.976,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I know what’s legally permissible in campaigns and what’s not?",
+            "current_q": "How do I know what’s legally permissible in campaigns and what’s not?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I get a list of registered voters?",
+            "current_q": "How do I get a list of registered voters?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "changed",
+            "answer_similarity": 0.967,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is my voter registration information confidential?",
+            "current_q": "Is my voter registration information confidential?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I find out how much a candidate has spent on a campaign or who has contributed to a campaign?",
+            "current_q": "How can I find out how much a candidate has spent on a campaign or who has contributed to a campaign?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does Wyoming law permit the recall of public officials?",
+            "current_q": "Does Wyoming law permit the recall of public officials?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I received a robocall from a candidate, is this legal?",
+            "current_q": "I received a robocall from a candidate, is this legal?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I organize a voter registration drive?",
+            "current_q": "How can I organize a voter registration drive?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where can I find election results?",
+            "current_q": "Where can I find election results?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What identification will I need to register?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What documents should I bring with me when I register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do I need to prove my identity when I register?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do I need to prove U.S. citizenship when I register?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do I need to prove Wyoming residency when I register?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the deadline for receiving absentee ballots in Wyoming?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements for voting by absentee ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When and where can you vote absentee in person, and where can overseas citizens and U.S. military personnel find information on absentee voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where are ballot drop boxes located?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is early voting available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility requirements to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID do I need to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of identification are accepted for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are official election results released?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements to become a poll worker?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the voting hours at polling places?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find my Voter Service and Polling Center location?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When would I need to vote using a provisional ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What accommodations are available for voters with disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the deadline to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the rules for taking time off work to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of voting machines are used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/wyoming",
+            "current_s": null,
+            "source": "vote411"
+        }
+    ]
+}

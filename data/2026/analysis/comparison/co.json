@@ -1,0 +1,563 @@
+{
+    "state": "co",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "removed",
+            "baseline_q": "What am I voting for on the 2024 General Election Ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Who can vote in a General Election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the voter registration deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can I receive a ballot to vote by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When do ballots get mailed out and when will I get mine?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I return my ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can I still vote in-person?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "If I choose not to vote on a candidate or question, will my other votes still be counted?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is a write-in candidate?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I make sure my mail ballot will be counted?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I vote early in-person and when are these locations open?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I mailed in my ballot and I do not think that it will be received in time?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What should I do if I experience intimidation at the polls?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the purpose of a Primary Election and a General Election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is a Coordinated Election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Federal and State election laws?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find a list of all the relevant election dates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I get my ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I know if my mail ballot has been mailed to me?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "If I choose not to vote on a candidate or question, will my other votes still be counted?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I make sure my mail ballot will be counted?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "My number is registered on the \"Do Not Call\" list, but I still receive calls from candidates and political campaigns. Is this legal?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What is the deadline to register to vote?",
+            "current_q": "What’s the deadline to register to vote in Colorado?",
+            "question_similarity": 0.844,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.12,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What types of voting machines are used?",
+            "current_q": "What types of voting machines does Colorado use?",
+            "question_similarity": 0.824,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.064,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What ID do I need to register to vote?",
+            "current_q": "What do I need to register to vote in Colorado?",
+            "question_similarity": 0.819,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.16,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the process for voting by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I fix issues with my mail-in ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information about campaign finance?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information about candidates and ballot measures?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where are ballot drop boxes located?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is early voting available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the upcoming election dates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility requirements to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of identification are accepted for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are official election results released?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can military and overseas voters cast their ballots?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements to become a poll worker?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the voting hours at polling places?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find my Voter Service and Polling Center location?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When would I need to vote using a provisional ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What accommodations are available for voters with disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the rules for taking time off work to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I verify my voter registration status?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements for voting by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/colorado",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a ballot drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/colorado",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes available in my state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/colorado",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find ballot drop box locations?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/colorado",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track the ballot after placing in the drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/colorado",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to register to vote in Colorado?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/colorado",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I don’t have an ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/colorado",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "¿Qué asistencia de votación está disponible para votantes con discapacidades?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/colorado",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "¿Cómo puedes solicitar adaptaciones o reportar problemas de accesibilidad?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/colorado",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "¿Puedes votar por correo debido a una discapacidad?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/colorado",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in Colorado?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/colorado",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in Colorado?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/colorado",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state, can I still vote in my home state while studying in Colorado?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/colorado",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Colorado?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/colorado",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is optical scan voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/colorado",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is DRE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/colorado",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are hand-counted paper ballots?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/colorado",
+            "source": "vote411"
+        }
+    ]
+}

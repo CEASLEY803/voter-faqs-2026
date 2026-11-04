@@ -1,0 +1,664 @@
+{
+    "state": "nd",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "Do I need to do anything if I've moved since my ID was issued?",
+            "current_q": "Do I need to do anything if I've moved since my ID was issued?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/forms-voter-id",
+            "current_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/forms-voter-id",
+            "answer_status": "changed",
+            "answer_similarity": 0.874,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if my ID isn't updated before election day?",
+            "current_q": "What if my ID isn't updated before election day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/forms-voter-id",
+            "current_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/forms-voter-id",
+            "answer_status": "changed",
+            "answer_similarity": 0.981,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I don't have a residential address where I live?",
+            "current_q": "What if I don't have a residential address where I live?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/forms-voter-id",
+            "current_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/forms-voter-id",
+            "answer_status": "changed",
+            "answer_similarity": 0.683,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I use my out-of-state issued ID with supplemental information?",
+            "current_q": "Can I use my out-of-state issued ID with supplemental information?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/forms-voter-id",
+            "current_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/forms-voter-id",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How Do I Vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I vote early?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I vote on election day at the polls?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I vote by absentee voting by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is a vote center?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the voting steps?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of ID can I use?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/forms-voter-id",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I find my polling location?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/where-do-i-vote",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Voter ID Laws Apply To Absentee Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/absentee-voting",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I Vote by Mail Counties?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/absentee-voting",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I request an absentee ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/absentee-voting",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I return my absentee ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/absentee-voting",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I track my ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/absentee-voting",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I vote by Absentee Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/absentee-voting",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Voter ID Requirements?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/military-and-overseas-us-citizens",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I Apply for a UOCAVA Ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/military-and-overseas-us-citizens",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I apply for a UOCAVA Ballot as  Military and Military Family Members?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/military-and-overseas-us-citizens",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I Apply for a UOCAVA Ballot as a citizen living outside the U.S.?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/military-and-overseas-us-citizens",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to Return a UOCAVA Ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/military-and-overseas-us-citizens",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to Return a UOCAVA Ballot by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/military-and-overseas-us-citizens",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to Return a UOCAVA Ballot by electronic?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/military-and-overseas-us-citizens",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to Return a UOCAVA Ballot by Fax?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/military-and-overseas-us-citizens",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "how do I Vote with a Disability?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Election Day Conduct?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Want to learn more about the types of equipment used at the polling location?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Learn more about the ways you can vote in North Dakota (in person, absentee, etc.) at How Do I Vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/where-do-i-vote",
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Absentee Ballot Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Ballot Notice and Cure Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#ballot-notice-and-cure-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Campaign Finance Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#campaign-finance-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Candidate and Ballot Measure Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#candidate-and-ballot-measure-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": " What are drop boxes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#drop-boxes",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is Early Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#early-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "when are the Election Dates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#election-dates",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Eligibility Requirements?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#eligibility-requirements",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#id-needed-for-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#id-needed-for-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the Official Results available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#official-results",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do overseas and military voters participate in elections?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#overseas-and-military-voters",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Poll Worker Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#poll-worker-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Polling Place Hours?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#polling-place-hours",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Polling Place Locator?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#polling-place-locator",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Primary Election Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#primary-election-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Provisional Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#provisional-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Provisions for Voters with Disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#provisions-for-voters-with-disabilities",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Registration Deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#registration-deadline",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Will I have Time Off To Vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#time-off-to-vote",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I Verify my Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#verify-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Voting Machines used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/north-dakota#voting-machines",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to vote absentee?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE FOR SUBMITTING MY COMPLETED ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT EACH YEAR?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHEN ARE MAIL BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I RETURN MY ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW CAN I TRACK MY ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN REGISTER TO VOTE IN NORTH DAKOTA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN VOTE IN NORTH DAKOTA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I VOTE IN NORTH DAKOTA IF I HAVE A FELONY CONVICTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I REGISTER AND VOTE IN NORTH DAKOTA IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I NEED TO SHOW ID WHEN I VOTE IN NORTH DAKOTA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO VOTE IN NORTH DAKOTA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I UPDATE MY ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I USE MY STUDENT ID TO VOTE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN NORTH DAKOTA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/north-dakota",
+            "source": "vote411"
+        }
+    ]
+}

@@ -1,0 +1,1070 @@
+{
+    "state": "ma",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "removed",
+            "baseline_q": "What is Voting by Mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do you apply for vote by mail ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Application Deadlines for voting by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to return your vote by mail ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to vote in Person?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to vote by mail in Local Elections?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Vote by Mail Accommodations?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Who can Register to Vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Voter Registration Deadlines?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do New Citizens register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to register to vote online?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to register to vote by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to register to vote In-Person?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Automatic Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Do I still need to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does automatic voter registration work?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can I opt out of registering?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "If I’m already registered, will I be registered to vote twice?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I am not the one completing my health insurance application?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I move?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I am not a U.S. citizen?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where Do I Find Election Results?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where do I find Unofficial Results?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where do I find Official Results?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the State Elections & Primaries polling hours?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Local Elections polling hours?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Early Voting polling hours?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Identification Requirements?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Who are Inactive Voters?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is The Annual Street List?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do Inactive voters vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to be Removed from the List of Inactive Voters?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are Provisional Ballots?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are Reasons for Voting Provisionally?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to Resolve Provisional Ballots?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Absentee Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Who can use Absentee Ballots?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do you apply for Absentee Ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are Emergency Absentee Ballots?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to Return Your Absentee Ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to Vote in Person?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Directory of Political Parties and Designations?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are Parties?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are Designations?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How Accessible are Polling Places?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Accessible Voting Procedures?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Is there Accessible Voting Equipment?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Accessible Vote by Mail Ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to apply for your ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Application Deadlines?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to Vote by Accessible Vote by Mail Ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to Return Your Accessible Vote by Mail Ballot Electronically?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to Return Your Ballot by Mail or in Person?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is the state election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the district of the election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What offices are on the Ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is the Voter Registration Deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is the Vote by Mail Application Deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Polling hours?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can Military and Overseas Voters vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can Military Voters vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can Overseas Citizens vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to apply for your Ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do you vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to Return Your Ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is a Federal Write-in Absentee Ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to Vote in a Primary?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Political Parties?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Party Enrollment?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to Choose a Ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are primaries held?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Why isn’t there an “Independent” option on my Vote by Mail application?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Why can’t I vote for candidates in both parties?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can I write-in a candidate from a different party on my ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Why are Democratic ballots red and Republican ballots blue?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to Vote Early?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are Eligible Elections for early voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Early Voting Periods?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Schedules & Locations for early voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting-Mass.gov",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I have to vote by mail?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How soon do I need to apply?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "If I request a mail-in ballot, can I change my mind and vote in person?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is voting by mail secure?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to return my mail-in ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I check if my ballot was received?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are all Vote by Mail ballots counted?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When can I vote in person?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I find out what offices and candidates are on my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What should I do if I registered to vote but my name is not on the voting list?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I make a mistake on my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I bring materials into the polling place?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are You Registered to Vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-Information-for-voters/2026-voting-options.htm",
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information about candidates and ballot measures for the upcoming election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Who gets Time Off To Vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where are the Drop Boxes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Registration Deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Voter registration deadlines?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I Verify voter registration status?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Automatic voter registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do New Citizens register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Absentee Ballot Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to register for Permanent Vote-by-Mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to return your Ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do absentee ballots work?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are Emergency Absentee Ballots?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Provisional Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Eligibility Requirements?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I find information on becoming a poll worker?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is Early Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where is the Polling Place Locator?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Primary Election Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Overseas and Military Voters",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Campaign Finance Information",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are Provisions for Voters with Disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Polling Place Hours?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the Official Results available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "Voting411.org",
+            "current_s": null,
+            "source": "vote411"
+        }
+    ]
+}

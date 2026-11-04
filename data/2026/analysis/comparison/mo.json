@@ -1,0 +1,439 @@
+{
+    "state": "mo",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "1. How do I register to vote?",
+            "current_q": "1. How do I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votereg",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votereg",
+            "answer_status": "changed",
+            "answer_similarity": 0.825,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "2. What is the deadline for registering to vote in an election?",
+            "current_q": "2. What is the deadline for registering to vote in an election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votereg",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votereg",
+            "answer_status": "changed",
+            "answer_similarity": 0.987,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "3. What should I do about my registration if I move, or change my name?",
+            "current_q": "3. What should I do about my registration if I move, or change my name?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votereg",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votereg",
+            "answer_status": "changed",
+            "answer_similarity": 0.996,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "4. How do I find out if I’m registered to vote or if I am on the voter rolls in the county where I live?",
+            "current_q": "4. How do I find out if I’m registered to vote or if I am on the voter rolls in the county where I live?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votereg",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votereg",
+            "answer_status": "changed",
+            "answer_similarity": 0.963,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "5. If I registered to vote by mail, how do I know my registration has been received and processed?",
+            "current_q": "5. If I registered to vote by mail, how do I know my registration has been received and processed?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votereg",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votereg",
+            "answer_status": "changed",
+            "answer_similarity": 0.969,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "6. I lost my voter identification card. How do I obtain a new one?",
+            "current_q": "6. I lost my voter identification card. How do I obtain a new one?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votereg",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votereg",
+            "answer_status": "changed",
+            "answer_similarity": 0.976,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "1. What kind of identification do I need to take with me to vote?",
+            "current_q": "1. What kind of identification do I need to take with me to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+            "answer_status": "changed",
+            "answer_similarity": 0.958,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "2. Where do I vote?",
+            "current_q": "2. Where do I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+            "answer_status": "changed",
+            "answer_similarity": 0.986,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "3. When does my polling place open?",
+            "current_q": "3. When does my polling place open?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+            "answer_status": "changed",
+            "answer_similarity": 0.974,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "4. Where can I see a sample ballot?",
+            "current_q": "4. Where can I see a sample ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+            "answer_status": "changed",
+            "answer_similarity": 0.985,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "5. What will be on the ballot on Election Day?",
+            "current_q": "5. What will be on the ballot on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+            "answer_status": "changed",
+            "answer_similarity": 0.938,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "7. How can I find out election results?",
+            "current_q": "7. How can I find out election results?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+            "answer_status": "changed",
+            "answer_similarity": 0.935,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "1. What are the qualifications to be a voter?",
+            "current_q": "1. What are the qualifications to be a voter?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingrights",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingrights",
+            "answer_status": "changed",
+            "answer_similarity": 0.364,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "2. I was convicted of a felony, and have completed my probation and parole. Can I vote?",
+            "current_q": "2. I was convicted of a felony, and have completed my probation and parole. Can I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingrights",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingrights",
+            "answer_status": "changed",
+            "answer_similarity": 0.973,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "3. Can I vote without a photo ID?",
+            "current_q": "3. Can I vote without a photo ID?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingrights",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingrights",
+            "answer_status": "changed",
+            "answer_similarity": 0.836,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "4. I will be out of town on Election Day. How will I vote?",
+            "current_q": "3. I will be out of town on Election Day. How will I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingrights",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions",
+            "answer_status": "changed",
+            "answer_similarity": 0.669,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "1. I received my absentee ballot by mail as I requested, but my plans have changed and I will be here on Election Day and I want to vote at my polling place. What should I do with my absentee ballot?",
+            "current_q": "1. I received my absentee ballot by mail as I requested, but my plans have changed and I will be here on Election Day and I want to vote at my polling place. What should I do with my absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions",
+            "answer_status": "changed",
+            "answer_similarity": 0.912,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "2. What should I do about my registration if I move, or change my name?",
+            "current_q": "2. What should I do about my registration if I move, or change my name?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions",
+            "answer_status": "changed",
+            "answer_similarity": 0.996,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "3. I will be out of town on Election Day. How will I vote?",
+            "current_q": "4. I will be out of town on Election Day. How will I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingrights",
+            "answer_status": "changed",
+            "answer_similarity": 0.676,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "4. What happens if I go to my polling place on Election Day and my name is not in the poll book?",
+            "current_q": "4. What happens if I go to my polling place on Election Day and my name is not in the poll book?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions",
+            "answer_status": "changed",
+            "answer_similarity": 0.986,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "5. If I registered to vote by mail, how do I know my registration has been received and processed?",
+            "current_q": "5. If I registered to vote by mail, how do I know my registration has been received and processed?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions",
+            "answer_status": "changed",
+            "answer_similarity": 0.969,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "6. What kind of primary election does Missouri have?",
+            "current_q": "6. What kind of primary election does Missouri have?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions",
+            "current_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions",
+            "answer_status": "changed",
+            "answer_similarity": 0.974,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "6. I need help when I vote. What are my options?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "5. I need help when I vote. What are my options?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.mo.gov/elections/goVoteMissouri/votingrights",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the deadline for receiving absentee ballots in Missouri?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to requst absentee ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Who is exempt from the identification and notary requirements for absentee ballots? ",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What should someone do if they requested an absentee ballot but decide to vote in person?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where are ballot drop boxes located?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is early voting available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility requirements to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID do I need to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of identification are accepted for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are official election results released?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the voting hours at polling places?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find my Voter Service and Polling Center location?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When would I need to vote using a provisional ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What accommodations are available for voters with disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the deadline to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the rules for taking time off work to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I verify my voter registration status?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements for voting by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/missouri",
+            "current_s": null,
+            "source": "vote411"
+        }
+    ]
+}

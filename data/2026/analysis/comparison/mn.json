@@ -1,0 +1,1352 @@
+{
+    "state": "mn",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "How do I fix a typo in my registration?",
+            "current_q": "How do I fix a typo in my registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/common-registration-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I get a copy of my voter registration card or proof of registration?",
+            "current_q": "How do I get a copy of my voter registration card or proof of registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/common-registration-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I change my party registration?",
+            "current_q": "How do I change my party registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/common-registration-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I cancel my registration?",
+            "current_q": "How do I cancel my registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/common-registration-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I let someone know a voter has died?",
+            "current_q": "How do I let someone know a voter has died?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/common-registration-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What voter data is public and private?",
+            "current_q": "What voter data is public and private?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/common-registration-questions/",
+            "answer_status": "changed",
+            "answer_similarity": 0.937,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I have safety or privacy concerns?",
+            "current_q": "What if I have safety or privacy concerns?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/common-registration-questions/",
+            "answer_status": "changed",
+            "answer_similarity": 0.993,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I register close to Election Day?",
+            "current_q": "How do I register close to Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/common-registration-questions/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I vote if I'm moving close to Election Day?",
+            "current_q": "How do I vote if I'm moving close to Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/common-registration-questions/",
+            "answer_status": "changed",
+            "answer_similarity": 0.912,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who can vote?",
+            "current_q": "Who can vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-a-college-student/",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-a-college-student/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is my voting residence?",
+            "current_q": "What is my voting residence?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-a-college-student/",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-a-college-student/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I register to vote?",
+            "current_q": "How do I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-a-college-student/",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-a-college-student/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What's on my ballot?",
+            "current_q": "What's on my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-a-college-student/",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-a-college-student/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where do I vote?",
+            "current_q": "Where do I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-a-college-student/",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-a-college-student/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need to bring ID?",
+            "current_q": "Do I need to bring ID?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-a-college-student/",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-a-college-student/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Going abroad?",
+            "current_q": "Going abroad?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-a-college-student/",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-a-college-student/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is a residential facility?",
+            "current_q": "What is a residential facility?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-in-a-residential-facility/",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-in-a-residential-facility/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Not sure about your legal status?",
+            "current_q": "Not sure about your legal status?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/i-have-a-criminal-record/",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/i-have-a-criminal-record/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How does automatic voter registration work?",
+            "current_q": "How does automatic voter registration work?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/automatic-voter-registration/",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/automatic-voter-registration/",
+            "answer_status": "changed",
+            "answer_similarity": 0.791,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When will I be registered to vote?",
+            "current_q": "When will I be registered to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/automatic-voter-registration/",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/automatic-voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I do not want to register to vote?",
+            "current_q": "What if I do not want to register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/automatic-voter-registration/",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/automatic-voter-registration/",
+            "answer_status": "changed",
+            "answer_similarity": 0.924,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who is eligible for automatic voter registration?",
+            "current_q": "Who is eligible for automatic voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/automatic-voter-registration/",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/automatic-voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I am already registered to vote?",
+            "current_q": "What if I am already registered to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/automatic-voter-registration/",
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/automatic-voter-registration/",
+            "answer_status": "changed",
+            "answer_similarity": 0.448,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Who can vote in Minnesota?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Who can apply?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do you Apply for your ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Application deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Deadline to return your ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do you Track your ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is an Emergency Write-in Ballot ?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Do I need a witness to certify my ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can I receive my ballot by email?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When will I get my ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Do I have to register to vote separately?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I Register before Election Day?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-homeless/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I Register on Election Day?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-homeless/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can I get Help with voter registration on Election Day?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-in-a-residential-facility/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can I Have an agent pick up your ballot (agent delivery)?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-in-a-residential-facility/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Safe at Home Address Confidentiality Program?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/i-fear-for-my-personal-safety/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What Additional options do I have?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/i-fear-for-my-personal-safety/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "You can vote if...?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/i-have-a-criminal-record/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "You cannot vote if...?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.state.mn.us/elections-voting/register-to-vote/i-have-a-criminal-record/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to Apply for absentee ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Application deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do you Track your ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Deadline to return your ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can I Have an agent pick up your ballot (agent delivery)?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Will my absentee ballot count?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Who can witness my ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What happens after I return my ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "If I have already requested an absentee ballot, can I change my mind and vote in the polling place?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I make a mistake on my ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if my ballot has not arrived, is lost or damaged?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I returned my ballot and want to change my vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can I have ballots sent automatically?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Need help?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Need help?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Need help?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.mn.gov/elections-voting/register-to-vote/",
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What is Provisional Voting?",
+            "current_q": "What is a provisional ballot?",
+            "question_similarity": 0.815,
+            "baseline_s": "https://www.vote411.org/minnesota#provisional-voting",
+            "current_s": "https://www.vote411.org/minnesota",
+            "answer_status": "changed",
+            "answer_similarity": 0.329,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Absentee Ballot Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Ballot Notice and Cure Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#ballot-notice-and-cure-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Campaign Finance Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#campaign-finance-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Candidate and Ballot Measure Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#candidate-and-ballot-measure-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are drop boxes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#drop-boxes",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is Early Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#early-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the Election Dates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#election-dates",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Eligibility Requirements?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#eligibility-requirements",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#id-needed-for-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#id-needed-for-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the Official Results available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#official-results",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do overseas and military voters participate in elections?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#overseas-and-military-voters",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Poll Worker Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#poll-worker-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Polling Place Hours?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#polling-place-hours",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Polling Place Locator?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#polling-place-locator",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Primary Election Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#primary-election-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Provisions for Voters with Disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#provisions-for-voters-with-disabilities",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Registration Deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#registration-deadline",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Will I have Time Off To Vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#time-off-to-vote",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I Verify my Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#verify-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Voting Machines used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#voting-machines",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Student Voting Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#student-voting-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I Vote by Mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/minnesota#vote-by-mail",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT EVERY YEAR?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I RETURN MY VOTED ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Minnesota allow ballot curing?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track my absentee ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a ballot drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes available in my state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find ballot drop box locations?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track the ballot after placing in the drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote before Election Day in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who can vote early in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When can I vote early in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I vote early in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to vote in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote in Minnesota if I have a felony conviction?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote in Minnesota if I don’t have a permanent address?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can students vote in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN MINNESOTA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN MINNESOTA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER IN MINNESOTA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When are official election results available in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find official election results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What does a poll worker do in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What qualifications do I need to be a poll worker in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are poll workers paid in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I apply to be a poll worker in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Minnesota offer provisional voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What voting assistance is available for voters with disabilities?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I request accommodation or report accessibility issues?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote by mail because of my disability?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do I need to register to vote in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What’s the deadline to register to vote in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state, can I still vote in my home state while studying in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Minnesota require employers to give time off to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to vote in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of ID can I use to vote in-person in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does mail/absentee voting require ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I don’t have an acceptable ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I use my student ID to vote in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to register to vote in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I register to vote in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Minnesota have Automatic Voter Registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I check my voter registration status?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Minnesota have online voter registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is same-day voter registration available in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I pre-register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to register in Minnesota?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of voting machines does Minnesota use?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is optical scan voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are paper ballots?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is Direct Recording Electronic Voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/minnesota",
+            "source": "vote411"
+        }
+    ]
+}

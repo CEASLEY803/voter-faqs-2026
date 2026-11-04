@@ -1,0 +1,1244 @@
+{
+    "state": "de",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "How can I cast my vote in Delaware?",
+            "current_q": "How can I cast my vote in Delaware?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When can I vote in person?",
+            "current_q": "When can I vote in person?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where do I vote in person?",
+            "current_q": "Where do I vote in person?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.901,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How are election results transmitted and reported?",
+            "current_q": "How are election results transmitted and reported?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How are election results certified in Delaware?",
+            "current_q": "How are election results certified in Delaware?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How does the Department prevent someone from voting twice; in-person and by absentee ballot in the same election?",
+            "current_q": "How does the Department prevent someone from voting twice; in-person and by absentee ballot in the same election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does Delaware require photo ID to vote in State and Federal Elections?",
+            "current_q": "Does Delaware require photo ID to vote in State and Federal Elections?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Why do they say my name before I vote?",
+            "current_q": "Why do they say my name before I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.951,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " Why do they say my party before I vote in the Primary Election?",
+            "current_q": "Why do they say my party before I vote in the Primary Election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.951,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I take my children with me to vote?",
+            "current_q": "Can I take my children with me to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I talk on my cell phone at the Polling Place?",
+            "current_q": "Can I talk on my cell phone at the Polling Place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How long can I be in the voting booth?",
+            "current_q": "How long can I be in the voting booth?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.99,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I wear items about a candidate in the polling place?",
+            "current_q": "Can I wear items about a candidate in the polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do you have or publish information about candidates and what they stand for?",
+            "current_q": "Do you have or publish information about candidates and what they stand for?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I appeal my registration status?",
+            "current_q": "How do I appeal my registration status?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is a provisional ballot?",
+            "current_q": "What is a provisional ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I have to talk to people handing out literature or taking exit polls?",
+            "current_q": "Do I have to talk to people handing out literature or taking exit polls?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does Delaware offer Early Voting?",
+            "current_q": "Does Delaware offer Early Voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.978,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "As a member of the public and a concerned Delaware citizen, am I allowed to watch what goes on in the Polling Place and challenge voters I don't think are eligible to vote?",
+            "current_q": "As a member of the public and a concerned Delaware citizen, am I allowed to watch what goes on in the Polling Place and challenge voters I don't think are eligible to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.933,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "As a member of the public and a concerned Delaware citizen, am I allowed to attend the Board of Canvass which convenes in the Superior Court of each county two days after General Elections to certify the election?",
+            "current_q": "As a member of the public and a concerned Delaware citizen, am I allowed to attend the Board of Canvass which convenes in the Superior Court of each county two days after General Elections to certify the election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How are all the people that verify the machine tapes and counts, absentee counts, and other election materials, selected for the Board of Canvass?",
+            "current_q": "How are all the people that verify the machine tapes and counts, absentee counts, and other election materials, selected for the Board of Canvass?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I volunteer to be one of the vote counters at the Board of Canvass?",
+            "current_q": "How do I volunteer to be one of the vote counters at the Board of Canvass?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I or party representatives observe the counting and tabulation of early votes, absentee votes and the adjudication process?",
+            "current_q": "Can I or party representatives observe the counting and tabulation of early votes, absentee votes and the adjudication process?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I vote by absentee ballot?",
+            "current_q": "Can I vote by absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/absentee/pdfs/Absentee%20Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.99,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I apply for an absentee ballot?",
+            "current_q": "How can I apply for an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/absentee/pdfs/Absentee%20Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does my ballot have to be witnessed or notarized?",
+            "current_q": "Does my ballot have to be witnessed or notarized?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/absentee/pdfs/Absentee%20Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who can sign up to be a permanent absentee voter?",
+            "current_q": "Who can sign up to be a permanent absentee voter?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/absentee/pdfs/Absentee%20Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.903,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I have been registered for over twenty years! When I went to vote, my record did not come up when they scanned my drivers license. Why?",
+            "current_q": "I have been registered for over twenty years! When I went to vote, my record did not come up when they scanned my driver’s license. Why?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Pollbook%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/pdfs/Pollbook%20FAQs.pdf",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Even when they entered my name in the pollbook, my record did not immediately appear. They eventually found me. Why did this happen?",
+            "current_q": "Even when they entered my name in the pollbook, my record did not immediately appear. They eventually found me. Why did this happen?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Pollbook%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/pdfs/Pollbook%20FAQs.pdf",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "After I have voted, what is stopping me from going to another polling place and voting there, too?",
+            "current_q": "After I have voted, what is stopping me from going to another polling place and voting there, too?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Pollbook%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/pdfs/Pollbook%20FAQs.pdf",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is the last day to register to vote?",
+            "current_q": "When is the last day to register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is there a deadline by which I must change my address or name before an election?",
+            "current_q": "Is there a deadline by which I must change my address or name before an election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can you pre-register to vote, if under the age of 18?",
+            "current_q": "Can you pre-register to vote, if under the age of 18?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.997,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where can a person register to vote in Delaware?",
+            "current_q": "Where can a person register to vote in Delaware?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What form of ID do I need to present or submit when I register to vote? ",
+            "current_q": "What form of ID do I need to present or submit when I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What steps does the Department take to keep its voter registration files up to date?",
+            "current_q": "What steps does the Department take to keep its voter registration files up to date?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
+            "answer_status": "changed",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I get a piece of mail from the Department of Elections for someone who does not live at my address?",
+            "current_q": "What if I get a piece of mail from the Department of Elections for someone who does not live at my address?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where does my card go when I press the vote button?",
+            "current_q": "Where does my card go when I press the vote button?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens if the secure card container on the back of the machine gets full?",
+            "current_q": "What happens if the secure card container on the back of the machine gets full?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What does Elections do with the activation cards/printed ballots after the election?",
+            "current_q": "What does Elections do with the activation cards/printed ballots after the election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does the Department reconcile the results printed on the card with the results stored electronically in the voting machines and the paper tapes printed from the machines?",
+            "current_q": "Does the Department reconcile the results printed on the card with the results stored electronically in the voting machines and the paper tapes printed from the machines?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is there a way someone can find out exactly how I voted?",
+            "current_q": "Is there a way someone can find out exactly how I voted?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is there a date/time stamp that prints on the activation card/printed ballot when I vote?",
+            "current_q": "Is there a date/time stamp that prints on the activation card/printed ballot when I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "The voting machine does not print out a receipt for me showing who I voted for. Can I take a picture of my selections with my phone?",
+            "current_q": "The voting machine does not print out a receipt for me showing who I voted for. Can I take a picture of my selections with my phone?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does the barcode on the activation card contain any personally identifiable information (PII) that the machine captures, or that they can trace the card/paper ballot back to me?",
+            "current_q": "Does the barcode on the activation card contain any personally identifiable information (PII) that the machine captures, or that they can trace the card/paper ballot back to me?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What information is contained in the barcode printed on my activation card?",
+            "current_q": "What information is contained in the barcode printed on my activation card?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " How are votes tabulated at the end of the night?",
+            "current_q": "How are votes tabulated at the end of the night?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": " I put my card in the slot, but it slid right back out. Why?",
+            "current_q": "I put my card in the slot, but it slid right back out. Why?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does the Department of Elections compare the results contained on the Election USB to the cards?",
+            "current_q": "Does the Department of Elections compare the results contained on the Election USB to the cards?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I make a mistake and want to change my vote after I press the Vote button and the card deposits in the secure card container?",
+            "current_q": "What if I make a mistake and want to change my vote after I press the Vote button and the card deposits in the secure card container?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens to the machines at the end of the night?",
+            "current_q": "What happens to the machines at the end of the night?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are Delaware's voting machines hooked up to the internet? Do the machines have wireless modems to transmit election results?",
+            "current_q": "Are Delaware's voting machines hooked up to the internet? Do the machines have wireless modems to transmit election results?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What steps does Elections make to ensure that machines are not tampered with between delivery and the election and after the election?",
+            "current_q": "What steps does Elections make to ensure that machines are not tampered with between delivery and the election and after the election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are the results stored on the machines hard drive?",
+            "current_q": "Are the results stored on the machine's hard drive?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can the machines be programmed to change the votes cast for one candidate versus another?",
+            "current_q": "Can the machines be programmed to change the votes cast for one candidate versus another?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How are the ballots cast transferred from the machines in the polling location to the secure location where the ballots are formally counted and recorded?",
+            "current_q": "How are the ballots cast transferred from the machines in the polling location to the secure location where the ballots are formally counted and recorded?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are the votes stored on a thumb drive? How is that thumb drive secured? How is it transported to the Department of Elections?",
+            "current_q": "Are the votes stored on a thumb drive? How is that thumb drive secured? How is it transported to the Department of Elections?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the measures undertaken by the Department of Elections to ensure the security of the ballots on election day?",
+            "current_q": "What are the measures undertaken by the Department of Elections to ensure the security of the ballots on election day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can the voting machines be accessed via wireless remote? I understand they are not connected to the internet, but how about wirelessly or remotely?",
+            "current_q": "Can the voting machines be accessed via wireless remote? I understand they are not connected to the internet, but how about wirelessly or remotely?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "At post-election audit public meetings, I noticed that when secure card containers were opened to remove the activation cards/voted paper ballots, some cards were upside down and were not oriented in the same direction. Why arent all the cards facing the same direction?",
+            "current_q": "At post–election audit public meetings, I noticed that when secure card containers were opened to remove the activation cards/voted paper ballots, some cards were upside down and were not oriented in the same direction. Why aren't all the cards facing the same direction?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Do I have to be registered to vote in order to vote in a School election?",
+            "current_q": "Do I have to be registered to vote in order to vote in school elections?",
+            "question_similarity": 0.979,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.784,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "I have always voted for candidates of a certain political party, but every time I go to vote in a Primary election, they tell me I am not eligible due to my party affiliation. Why?",
+            "current_q": "I have always voted for candidates of a certain political party, but every time I try to vote in a Primary election, they tell me I am not eligible due to my political party affiliation. Why?",
+            "question_similarity": 0.959,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.833,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What is Automatic Voter Registration (AVR)?",
+            "current_q": "What is Automatic Voter Registration?",
+            "question_similarity": 0.947,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/avr.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.593,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What is the specific process for formally requesting a change in the process of securing ballots for the November 8, 2022 election? How are such requests considered and who makes the final determination and over what time frame?",
+            "current_q": "What is the specific process for formally requesting a change in the process of securing ballots? How are such requests considered and who makes the final determination and over what time frame?",
+            "question_similarity": 0.921,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.98,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "How old do you have to be to register to vote in the State of Delaware?",
+            "current_q": "How old do you have to be to register to vote in Delaware?",
+            "question_similarity": 0.898,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.869,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "When are the party change deadlines?",
+            "current_q": "When are the political party change deadlines?",
+            "question_similarity": 0.875,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.135,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "When does the Department of Elections have to receive my ballot for it to be counted?",
+            "current_q": "When does the Department of Elections have to receive my voted absentee ballot in order for it to be counted?",
+            "question_similarity": 0.875,
+            "baseline_s": "https://elections.delaware.gov/voter/absentee/pdfs/Absentee%20Voting%20FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.933,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What do I do if I receive a Notice in the mail from the Department of Elections for a person who does not live at my address? ",
+            "current_q": "What if I receive a Notice from the Department in the mail for a person who does not live at my address?",
+            "question_similarity": 0.837,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/avr.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.671,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What is the Response to Automatic Voter Registration form?",
+            "current_q": "What is the purpose of the NOTICE OF AUTOMATIC VOTER REGISTRATION?",
+            "question_similarity": 0.803,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "current_s": "https://elections.delaware.gov/voter/avr.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.222,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I was automatically registered at DMV. Will I get something in the mail confirming that Im registered? ",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What does this Notice look like? ",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the purpose of the Notice?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Do you want to affiliate with a party?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Do I have to take action when I receive the Notice? Do I have to send back the Response form? ",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I ignore the Notice and never send back the Response form? ",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I want to vote in the Primary Election and I have not submitted to the Department my Response form with my choice of party affiliation? ",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I do not want to be registered to vote. How can I cancel my voter registration in Delaware?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I never sent the Department my AVR Response form and I have voted or updated my voter registration transaction after I was automatically registered (e.g., address change, name change, party change), and now I want to cancel my registration? Can I submit to the Department my AVR Response form to cancel my voter registration? ",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I have read the voter registration eligibility requirements and found that I am not eligible to be registered. What do I do? ",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I want to stay registered to vote. Will I receive a State of Delaware Polling Place Card?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "At DMV, they put my party down incorrectly, so I am not registered with the party I want. What do I do?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When did Delaware change its voting system?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When did Delaware start using the ES&S ExpressVote XL machine/device?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I have heard about \"hacking\" events that have shown that voting machines can be \"hacked\". How can I be sure Delaware's voting machines are secure?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How does the voter registration process at DMV work?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can voters who are not registered NO PARTY – AVR change their political party affiliation?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How does the Department ensure that deceased voters are removed from the voter registration rolls in a timely manner?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I am looking at absentee voting election results. What is an overvote and what is an undervote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What happens when a person is automatically registered to vote at DMV?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.delaware.gov/voter/avr.html",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can automatically registered voters cancel their voter registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.delaware.gov/voter/avr.html",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can automatically registered voters change their party from unaffiliated (\"No Party\") status?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://elections.delaware.gov/voter/avr.html",
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Absentee Ballot Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Ballot Notice and Cure Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#ballot-notice-and-cure-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Campaign Finance Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#campaign-finance-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Candidate and Ballot Measure Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#candidate-and-ballot-measure-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": " What are drop boxes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#drop-boxes",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is Early Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#early-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "when are the Election Dates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#election-dates",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Eligibility Requirements?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#eligibility-requirements",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#id-needed-for-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#id-needed-for-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the Official Results available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#official-results",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do overseas and military voters participate in elections?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#overseas-and-military-voters",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Poll Worker Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#poll-worker-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Polling Place Hours?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#polling-place-hours",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Polling Place Locator?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#polling-place-locator",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Primary Election Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#primary-election-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Provisional Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#provisional-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Provisions for Voters with Disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#provisions-for-voters-with-disabilities",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Registration Deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#registration-deadline",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Will I have Time Off To Vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#time-off-to-vote",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I Verify my Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#verify-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Voting Machines used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/delaware#voting-machines",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a ballot drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/delaware",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes available in my state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/delaware",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to register to vote in Delaware?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/delaware",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I don’t have an ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/delaware",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What voting assistance is available for voters with disabilities?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/delaware",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I request accommodation or report accessibility issues?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/delaware",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote by mail because of my disability?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/delaware",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of voting machines does Delaware use?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/delaware",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is DRE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/delaware",
+            "source": "vote411"
+        }
+    ]
+}

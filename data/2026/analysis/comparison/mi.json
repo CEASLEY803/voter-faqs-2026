@@ -1,0 +1,2391 @@
+{
+    "state": "mi",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "Are early voting election workers paid?",
+            "current_q": "Are early voting election workers paid?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are election observers, such as poll watchers and challengers, allowed in an early voting site?",
+            "current_q": "Are election observers, such as poll watchers and challengers, allowed in an early voting site?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I change my vote after voting early?",
+            "current_q": "Can I change my vote after voting early?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.808,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I register to vote at an early voting site?",
+            "current_q": "Can I register to vote at an early voting site?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I vote early if I have a disability?",
+            "current_q": "Can I vote early if I have a disability?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I vote early with an absentee ballot?",
+            "current_q": "Can I vote early with an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.966,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can someone vote twice by voting early and later submitting an absentee ballot?",
+            "current_q": "Can someone vote twice by voting early and later submitting an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need a photo ID to vote at an early voting site?",
+            "current_q": "Do I need a photo ID to vote at an early voting site?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.996,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do other states have early voting?",
+            "current_q": "Do other states have early voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How are clerks trained for early voting?",
+            "current_q": "How are clerks trained for early voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How are early voting ballots organized after they have been submitted?",
+            "current_q": "How are early voting ballots organized after they have been submitted?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.853,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How are early voting ballots retained after the election?",
+            "current_q": "How are early voting ballots retained after the election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.838,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How are the location and number of early voting sites determined?",
+            "current_q": "How are the location and number of early voting sites determined?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I know if my community has early voting for a local election?",
+            "current_q": "How do I know if my community has early voting for a local election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.992,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How is early voting different from absentee voting?",
+            "current_q": "How is early voting different from absentee voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.964,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I’m in line to vote when an early voting site closes, can I still vote?",
+            "current_q": "If I’m in line to vote when an early voting site closes, can I still vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is my early voting ballot secret?",
+            "current_q": "Is my early voting ballot secret?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is an early voting site?",
+            "current_q": "What is an early voting site?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What steps are taken to ensure early voting is secure?",
+            "current_q": "What steps are taken to ensure early voting is secure?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When are early voting ballots counted?",
+            "current_q": "When are early voting ballots counted?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When does early voting start?",
+            "current_q": "When does early voting start?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.548,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where do I find my early voting site?",
+            "current_q": "Where do I find my early voting site?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Am I notified after I submit a voter registration application?",
+            "current_q": "Am I notified after I submit a voter registration application?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are campaign materials clothing or accessories allowed in a polling place?",
+            "current_q": "Are campaign materials, clothing or accessories allowed in a polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.689,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are election observers allowed in a polling place?",
+            "current_q": "Are election observers allowed in a polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are firearms allowed in a polling place?",
+            "current_q": "Are firearms allowed in a polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.694,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I return another person's absentee ballot?",
+            "current_q": "Can I return another person's absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can someone vote twice using an absentee ballot?",
+            "current_q": "Can someone vote twice using an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can voters who have already cast their ballot early change their vote?",
+            "current_q": "Can voters who have already cast their ballot early change their vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.333,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I use a camera in the polls?",
+            "current_q": "Can I use a camera in the polls?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I vote a \"split\" ticket?",
+            "current_q": "Can I vote a \"split\" ticket?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can Michigan residents in jail or prison still vote?",
+            "current_q": "Can Michigan residents in jail or prison still vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can voters be challenged based on home foreclosures?",
+            "current_q": "Can voters be challenged based on home foreclosures?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does a political party preference have to be declared when registering to vote?",
+            "current_q": "Does a political party preference have to be declared when registering to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need my voter registration card in order to vote?",
+            "current_q": "Do I need my voter registration card in order to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need to show identification in order to vote?",
+            "current_q": "Do I need to show identification in order to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.936,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I help register people to vote?",
+            "current_q": "How can I help register people to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I submit a change of address for my voter registration?",
+            "current_q": "How do I submit a change of address for my voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.977,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I track the status of my absentee ballot application?",
+            "current_q": "How can I track the status of my absentee ballot application?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.263,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I contact the Bureau of Elections?",
+            "current_q": "How can I contact the Bureau of Elections?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I register to vote by mail?",
+            "current_q": "How can I register to vote by mail?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How does the voter ID requirement affect me if I vote with an absentee ballot?",
+            "current_q": "How does the voter ID requirement affect me if I vote with an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I determine where I go to vote?",
+            "current_q": "How do I determine where I go to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I find current and past election results?",
+            "current_q": "How do I find current and past election results?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I get an absentee ballot?",
+            "current_q": "How do I get an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I learn more about the Michigan Election canvassing process?",
+            "current_q": "How do I learn more about the Michigan Election canvassing process?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I register to vote?",
+            "current_q": "How do I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.95,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I don’t have a Michigan license or ID, but I am a Michigan resident. Can I still register to vote while I’m out of state?",
+            "current_q": "I don’t have a Michigan license or ID, but I am a Michigan resident. Can I still register to vote while I’m out of state?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.803,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I just moved to Michigan and there is an upcoming election. Can I register to vote?",
+            "current_q": "I just moved to Michigan and there is an upcoming election. Can I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I am considering becoming a poll worker. How can I find out more?",
+            "current_q": "I am considering becoming a poll worker. How can I find out more?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I’m currently registered to vote, can I request an absentee ballot on Election Day?",
+            "current_q": "If I’m currently registered to vote, can I request an absentee ballot on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I will be temporarily outside the United States during the elections, will I still be able to vote?",
+            "current_q": "If I will be temporarily outside the United States during the elections, will I still be able to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I moved and need to update my voter registration record. How do I do that?",
+            "current_q": "I moved and need to update my voter registration record. How do I do that?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is my voter record available to the public?",
+            "current_q": "Is my voter record available to the public?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Must I vote the entire ballot?",
+            "current_q": "Must I vote the entire ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are my options for absentee voting if I have a disability?",
+            "current_q": "What are my options for absentee voting if I have a disability?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What do I do if I haven't gotten a notice, but wish to cancel my registration?",
+            "current_q": "What do I do if I haven't gotten a notice, but wish to cancel my registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.991,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What do I do if I receive a notice of cancellation?",
+            "current_q": "What do I do if I receive a notice of cancellation?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.911,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What do I do if I receive election mail for someone who no longer lives there?",
+            "current_q": "What do I do if I receive election mail for someone who no longer lives there?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.999,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What documents may be accepted for proof of Michigan residency when registering to vote in person?",
+            "current_q": "What documents may be accepted for proof of Michigan residency when registering to vote in person?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens after the clerk receives my absentee ballot?",
+            "current_q": "What happens after the clerk receives my absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens to ballots submitted by someone who is deceased by Election Day?",
+            "current_q": "What happens to ballots submitted by someone who is deceased by Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I’m issued a provisional ballot?",
+            "current_q": "What if I’m issued a provisional ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if my ballot is challenged, or I receive a challenge to my eligibility?",
+            "current_q": "What if my ballot is challenged, or I receive a challenge to my eligibility?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is voter intimidation and what if I experience it at my polling place?",
+            "current_q": "What is voter intimidation and what if I experience it at my polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What prevents one person from voting in another person's name?",
+            "current_q": "What prevents one person from voting in another person's name?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What should I do if my ID is expired at a polling place?",
+            "current_q": "What should I do if my ID is expired at a polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What should voters do if they have not received their absentee ballot by mail within two weeks before Election Day?",
+            "current_q": "What should voters do if they have not received their absentee ballot by mail within two weeks before Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What will be on my ballot?",
+            "current_q": "What will be on my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What functions does the Bureau of Elections perform?",
+            "current_q": "What functions does the Bureau of Elections perform?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What hours are the polls open on Election Day?",
+            "current_q": "What hours are the polls open on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is an emergency absentee ballot and how would I get one?",
+            "current_q": "What is an emergency absentee ballot and how would I get one?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the deadline for registering to vote in an election?",
+            "current_q": "What is the deadline for registering to vote in an election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When are absentee ballots processed?",
+            "current_q": "When are absentee ballots processed?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is the deadline to request an absentee ballot for the November general election?",
+            "current_q": "When is the deadline to request an absentee ballot for the November general election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When will I get my absentee ballot in the mail?",
+            "current_q": "When will I get my absentee ballot in the mail?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is the absentee ballot due?",
+            "current_q": "When is the absentee ballot due?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is the Bureau of Elections office open?",
+            "current_q": "When is the Bureau of Elections office open?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where can I learn about the types of voting equipment that will be at my polling place?",
+            "current_q": "Where can I learn about the types of voting equipment that will be at my polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where do I send the absentee ballot once I've filled it out?",
+            "current_q": "Where do I send the absentee ballot once I've filled it out?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who can register to vote in Michigan?",
+            "current_q": "Who can register to vote in Michigan?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who qualifies for an absentee ballot?",
+            "current_q": "Who qualifies for an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Why is there a two-election waiting period before cancelling registrations for voters who move?",
+            "current_q": "Why is there a two-election waiting period before cancelling registrations for voters who move?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Will redistricting change where I vote?",
+            "current_q": "Will redistricting change where I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Will the Bureau of Elections copy documents for me?",
+            "current_q": "Will the Bureau of Elections copy documents for me?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can military and overseas voters submit their ballots electronically?",
+            "current_q": "Can military and overseas voters submit their ballots electronically?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.707,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can Michiganders overseas register to vote to participate on Election Day?",
+            "current_q": "How can Michiganders overseas register to vote to participate on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can military and overseas voters ensure their absentee ballot is received by Election Day?",
+            "current_q": "How can military and overseas voters ensure their absentee ballot is received by Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.883,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can registered Michigan voters overseas confirm they will receive an absentee ballot in time for Election Day?",
+            "current_q": "How can registered Michigan voters overseas confirm they will receive an absentee ballot in time for Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can registered Michigan voters serving in the military or living abroad request an absentee ballot?",
+            "current_q": "How can registered Michigan voters serving in the military or living abroad request an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.654,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How is the Michigan Department of State ensuring the security of the absentee ballot process for Michigan voters overseas to reduce the risk for voter fraud?",
+            "current_q": "How is the Michigan Department of State ensuring the security of the absentee ballot process for Michigan voters overseas to reduce the risk for voter fraud?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If an overseas Michigan voter does not receive their absentee ballot in time to return it to their local clerk by Election Day, can their vote still be counted?",
+            "current_q": "If an overseas Michigan voter does not receive their absentee ballot in time to return it to their local clerk by Election Day, can their vote still be counted?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I register to vote if I have a criminal record?",
+            "current_q": "Can I register to vote if I have a criminal record?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I register to vote if I'm a college or university student?",
+            "current_q": "Can I register to vote if I'm a college or university student?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can my organization use an API to set-up our own online voter registration form?",
+            "current_q": "Can my organization use an API to set-up our own online voter registration form?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How are deceased individuals removed from the voter rolls?",
+            "current_q": "How are deceased individuals removed from the voter rolls?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I know if I'm already registered to vote?",
+            "current_q": "How do I know if I'm already registered to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I register to vote on Election Day, what are my options for voting?",
+            "current_q": "If I register to vote on Election Day, what are my options for voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the requirements to run a voter registration drive?",
+            "current_q": "What are the requirements to run a voter registration drive?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I move to a new address after registering to vote?",
+            "current_q": "What if I move to a new address after registering to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is a satellite clerk’s office?",
+            "current_q": "What is a satellite clerk’s office?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the process for registering voters?",
+            "current_q": "What is the process for registering voters?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "answer_status": "changed",
+            "answer_similarity": 0.964,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where can I view voter registration statistics?",
+            "current_q": "Where can I view voter registration statistics?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is an uncommitted vote on the presidential primary ballot?",
+            "current_q": "What is an uncommitted vote on the presidential primary ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "answer_status": "changed",
+            "answer_similarity": 0.954,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is a spoiled ballot?",
+            "current_q": "What is a spoiled ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Why shouldn’t I put a sticker on my ballot instead of writing in a candidate’s name?",
+            "current_q": "Why shouldn’t I put a sticker on my ballot instead of writing in a candidate’s name?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What do I do if my registration has been cancelled, but I want to vote?",
+            "current_q": "What do I do if my registration has been canceled, but I want to vote?",
+            "question_similarity": 0.993,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.998,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "How are voter rolls maintained in Michigan?",
+            "current_q": "How are registered voter rolls maintained in Michigan?",
+            "question_similarity": 0.884,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Why did I receive an application for someone else in the mail?",
+            "current_q": "Why did I receive a voter registration application for someone else in the mail?",
+            "question_similarity": 0.871,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What if I do this on my absentee ballot?",
+            "current_q": "What if I spoil my absentee ballot?",
+            "question_similarity": 0.849,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "answer_status": "changed",
+            "answer_similarity": 0.948,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Can a U.S. citizen register to vote in Michigan if they have never lived in the state or country?",
+            "current_q": "Can a U.S. citizen currently in the military or overseas register to vote in Michigan if they have never lived in the state or country?",
+            "question_similarity": 0.833,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What if my ID lists an outdated address?",
+            "current_q": "What if I am voting and my ID lists an outdated address?",
+            "question_similarity": 0.83,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.98,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "How is my signature verified?",
+            "current_q": "When voting, how is my signature verified?",
+            "question_similarity": 0.824,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "changed",
+            "answer_similarity": 0.995,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What happens after I submit my application?",
+            "current_q": "What happens after I submit my voter registration application?",
+            "question_similarity": 0.816,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "How can candidate and campaign finance records be accessed?",
+            "current_q": "How can I access candidate and campaign finance records?",
+            "question_similarity": 0.814,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "How is double voting at early voting sites prevented?",
+            "current_q": "How is double voting prevented at early voting sites?",
+            "question_similarity": 0.808,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I find information on a particular candidate's campaign finance statement?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/campaign-finance-and-lobby-disclosure",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I obtain forms for filing my campaign report?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/campaign-finance-and-lobby-disclosure",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I find committee filing deadlines?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/campaign-finance-and-lobby-disclosure",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where do I file my Lobby reports?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/campaign-finance-and-lobby-disclosure",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where do I find information about U.S. Supreme Court Decision Issued January 21, 2010 Citizens United v Federal Elections Commission?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/campaign-finance-and-lobby-disclosure",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Who pays for early voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Election Day is Tuesday, Nov. 5, 2024. Statewide in-person early voting is Saturday, Oct. 26, 2024, through Sunday, Nov. 3, 2024.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Only U.S. citizens can vote.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "You can only vote once.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Michigan’s voter rolls are maintained in accordance with state and federal law.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Once a minor party’s presidential candidate has been nominated by a state party convention, their name can’t be removed or replaced on the ballot under Michigan law.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "College students in Michigan can register at their campus OR home address – not both.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Returning citizens, people awaiting trial or awaiting sentencing are legally allowed to vote.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Young people ages 16-17.5 can preregister to vote.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Michigan voters can cast a ballot at an early voting site before Election Day.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Michigan law allows citizens to register to vote on Election Day.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "The Secretary of State, your clerk, or third-party groups may send registered voters absentee ballot applications in the mail.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Michigan voters have the option to join the permanent absentee ballot list.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to handle election mail you believe you shouldn’t have received.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Every jurisdiction is required to provide secure ballot drop boxes for voters.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Sharpie permanent markers are allowed for ballot marking.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Voters can take a photo of their own ballot in the voting booth or at home.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Ballot drop boxes are secure.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "It is illegal for candidates and their supporters to approach voters within 100 feet of the entrance of a polling place.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "It is legal to pay for another person’s transportation to the polls or to give someone a ride to vote.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "If you are waiting to vote at a polling place by 8 p.m. on Election Night, you can still cast your ballot.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Vote totals are not calculated or available for anyone until the polls close at 8 p.m. on Election Night.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Michigan law requires machine counting of ballots.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Canvassers must certify election results.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Election fraud is rare.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can I wear election-related clothing to the polls?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I learn more about the presidential primary process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I make a request for documents?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I want to change my vote or decide to vote in person after I've returned my absentee ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Who represents me at the state and federal levels?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can military and overseas Michigan voters request an absentee ballot online?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I received a notice of cancellation?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I'm a new Michigan resident?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I'm in the military or live overseas?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the ERIC program?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "If I choose ‘uncommitted,’ what happens to my vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I would like to write in a candidate instead. Can I do that?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I write-in a candidate?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes safe?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I return my ballot in a drop box on Election Day?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I return someone else’s ballot to a drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I use any drop box to return my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need a REAL ID-compliant driver’s license or ID in order to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I request election-related documents?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "If I return my ballot in a drop box, how can I know it was counted?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When are drop boxes available?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who are my elected officials at the state and federal levels?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How does the system work?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do you know people’s documents are real?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "If voter registration is automatic, how do you know noncitizens aren’t also getting registered?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What role do federal election monitors serve?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How does the ERIC program help Michigan maintain its voter rolls?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I received a notice of cancellation for my voter registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I'm a new Michigan resident and want to register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I'm in the military or live overseas and I want to register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I sign up for electronic delivery and electronic return?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do military and overseas voters access the portal to receive their ballots?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How does the portal protect the security of the ballots?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the difference between the process for “eligible members” and all other military and overseas voters?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the Electronic Delivery and Return Portal (EDARP)?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who will use electronic delivery?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Why is electronic return of voted ballots allowed and when does it start?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "If I choose ‘uncommitted' on the presidential primary ballot, what happens to my vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I would like to write in a candidate on the presidential primary ballot. Can I do that?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Michigan allow ballot curing?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to cure my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track my absentee ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I cure a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a ballot drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes available in my state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find ballot drop box locations?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track the ballot after placing in the drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote before Election Day in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I have to apply to vote early in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When can I vote early in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I vote early in person in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to vote in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote in Michigan if I have a felony conviction?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote if I don’t have a permanent address?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can students vote in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to register to vote in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of ID are accepted for registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I don’t have an ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When are official election results available in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find official election results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What does a poll worker do in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What qualifications do I need to be a poll worker in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are poll workers paid in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I apply to be a poll worker in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Michigan offer provisional voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When will my provisional ballot be counted?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What voting assistance is available for voters with disabilities?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I request accommodation or report accessibility issues?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote by mail because of my disability?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do I need to register to vote in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What’s the deadline to register to vote in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state—can I still vote in my home state while studying in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Michigan require employers to give time off to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to vote in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of ID can I use to vote in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I don’t have an acceptable ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does mail/absentee voting require ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are student or digital IDs accepted?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to register to vote in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I register to vote in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I check my voter registration status?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Michigan have online voter registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is same-day voter registration available in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I pre-register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to register in Michigan?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of voting machines does Michigan use?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is optical scan voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/michigan",
+            "source": "vote411"
+        }
+    ]
+}

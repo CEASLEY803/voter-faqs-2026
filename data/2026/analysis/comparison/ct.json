@@ -1,0 +1,1127 @@
+{
+    "state": "ct",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "Am I eligible to vote?",
+            "current_q": "Am I eligible to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/voter-registration-information",
+            "answer_status": "changed",
+            "answer_similarity": 0.113,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I moved recently?",
+            "current_q": "What if I moved recently?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I am a student?",
+            "current_q": "What if I am a student?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I am in the military or currently living overseas?",
+            "current_q": "What if I am in the military or currently living overseas?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I have been convicted of a felony in the past?",
+            "current_q": "What if I have been convicted of a felony in the past?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
+            "answer_status": "changed",
+            "answer_similarity": 0.991,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the deadline for me to register to vote?",
+            "current_q": "What is the deadline for me to register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/voter-registration-information",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/voter-registration-information",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I register to vote in CT?",
+            "current_q": "How do I register to vote in CT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "answer_status": "changed",
+            "answer_similarity": 0.904,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens if I miss one of the registration deadlines, can I still register and vote on the day of the election? (Election Day Registration)",
+            "current_q": "What happens if I miss one of the registration deadlines? Can I still register and vote on the day of the election (Election Day Registration)?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "answer_status": "changed",
+            "answer_similarity": 0.99,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I register to vote in CT?",
+            "current_q": "How do I register to vote in CT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/homeless-voter-fact-sheet",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is an acceptable form of identification to show at the polls?",
+            "current_q": "What is an acceptable form of identification to show at the polls?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I attend college in CT, but I am from another state. Where do I vote?",
+            "current_q": "I attend college in CT, but I am from another state. Where do I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I am from CT and attending college. Where do I vote and how do I vote back in my CT town?",
+            "current_q": "I am from CT and attending college. Where do I vote and how do I vote back in my CT town?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the difference between my physical and mailing address?",
+            "current_q": "What is the difference between my physical and mailing address?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens if I miss one of the registration deadlines? Can I still register and vote on the day of the election (Election Day Registration)?",
+            "current_q": "What happens if I miss one of the registration deadlines? Can I still register and vote on the day of the election (Election Day Registration)?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/homeless-voter-fact-sheet",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can a homeless person be a resident of a town in CT?",
+            "current_q": "How can a homeless person be a resident of a town in CT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/homeless-voter-fact-sheet",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/homeless-voter-fact-sheet",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is an acceptable form of identification for to show at the polls?",
+            "current_q": "What is an acceptable form of identification for to show at the polls?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/homeless-voter-fact-sheet",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/homeless-voter-fact-sheet",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I am unable to vote on Election Day. Can I still to vote?",
+            "current_q": "I am unable to vote on Election Day. Can I still to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/homeless-voter-fact-sheet",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/homeless-voter-fact-sheet",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When do I vote?",
+            "current_q": "When do I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote",
+            "answer_status": "changed",
+            "answer_similarity": 0.869,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need to show photo identification in order to vote?",
+            "current_q": "Do I need to show photo identification in order to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens if I am not on the list of registered voters at the polling place?",
+            "current_q": "What happens if I am not on the list of registered voters at the polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote",
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote",
+            "answer_status": "changed",
+            "answer_similarity": 0.95,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is a driver's license or photo ID required to vote in Connecticut?",
+            "current_q": "Is a driver's license or photo ID required to vote in Connecticut?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/faq/faq---voter-identification",
+            "current_s": "https://portal.ct.gov/sots/election-services/faq/faq---voter-identification",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can a drive-only license be used as identification at the polling place?",
+            "current_q": "Can a drive-only license be used as identification at the polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/faq/faq---voter-identification",
+            "current_s": "https://portal.ct.gov/sots/election-services/faq/faq---voter-identification",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "My new drivers license indicates that it is \"Not for Federal Identification.\" May I use it as identification at the polling place?",
+            "current_q": "My new driver’s license indicates that it is \"Not for Federal Identification.\" May I use it as identification at the polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/faq/faq---voter-identification",
+            "current_s": "https://portal.ct.gov/sots/election-services/faq/faq---voter-identification",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does my ID need to have the address printed on it?",
+            "current_q": "Does my ID need to have the address printed on it?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/faq/faq---voter-identification",
+            "current_s": "https://portal.ct.gov/sots/election-services/faq/faq---voter-identification",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can I vote absentee?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Who can download an application for absentee ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I vote absentee?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What happens after I send in my application?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Same Day Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/election-day-registration/election-day-registration",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/voter-registration-information",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can I vote in a primary?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/party-affiliation",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is an unaffiliated voter?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/party-affiliation",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Am I eligible to vote in CT?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is an acceptable form of identification for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What should I expect the first time I vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can I vote in a Primary?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "My circumstances make it difficult to appear at the polling place.  Can I vote with absentee ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "If you have been convicted of a felony, have you completed confinement?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "If you have been convicted of a felony, have you completed confinement?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need a reason to request an absentee ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find an absentee ballot application?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "May I apply for an absentee ballot online?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What happens after I apply for an absentee ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What materials must I use when returning my absentee ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where must I return my absentee ballot, and what are the permitted return methods?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "If I have an illness or disability, may someone return my absentee ballot for me?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline for returning absentee ballots?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do Town Clerks do after receiving an absentee ballot to ensure security?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I know my absentee ballot remains private?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What happens if I forget to sign my return envelope?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What does signature “curing” mean and what is the process?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Additional questions about absentee voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "If you have been convicted of a felony, have you completed confinement?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/homeless-voter-fact-sheet",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the difference between my physical and mailing address?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/homeless-voter-fact-sheet",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where do I vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote",
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Absentee Ballot Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#absentee-ballot-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Ballot Notice and Cure Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#ballot-notice-and-cure-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find the Campaign Finance Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#campaign-finance-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Candidate and Ballot Measure Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#candidate-and-ballot-measure-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are Drop Boxes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#drop-boxes",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is Early Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#early-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are Election Dates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#election-dates",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Eligibility Requirements?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#eligibility-requirements",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#id-needed-for-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#id-needed-for-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the Official Results available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#official-results",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to vote as Overseas and Military Voters?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#overseas-and-military-voters",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Poll Worker Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#poll-worker-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Polling Place Hours?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#polling-place-hours",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Polling Place Locator?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#polling-place-locator",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Primary Election Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#primary-election-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is Provisional Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#provisional-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Provisions for Voters with Disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#provisions-for-voters-with-disabilities",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Registration Deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#registration-deadline",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Do I get Time Off To Vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#time-off-to-vote",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I Verify Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#verify-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What Voting Machines are used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/connecticut#voting-machines",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO IS ELIGIBLE TO VOTE ABSENTEE IN CONNECTICUT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I VOTE ABSENTEE IN CONNECTICUT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I RETURN MY ABSENTEE BALLOT APPLICATION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHEN ARE ABSENTEE BALLOTS MAILED?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I RETURN MY ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I TRACK MY ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "IF I HAVE AN ILLNESS OR DISABILITY, MAY SOMEONE RETURN MY ABSENTEE BALLOT FOR ME?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR MILITARY VOTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO TOWN CLERKS HELP KEEP ABSENTEE BALLOTS SECURE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I KNOW MY ABSENTEE BALLOT REMAINS PRIVATE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT HAPPENS IF I FORGET TO SIGN MY RETURN ENVELOPE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS SIGNATURE CURING?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a ballot drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes available in my state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find ballot drop box locations?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN REGISTER TO VOTE IN CONNECTICUT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN VOTE IN CONNECTICUT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN CONNECTICUT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN CONNECTICUT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What voting assistance is available for voters with disabilities?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I request accommodation or report accessibility issues?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote by mail because of my disability?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do I need to register to vote in Connecticut?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in Connecticut?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What’s the deadline to register to vote in Connecticut?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in Connecticut?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state, can I still vote in my home state while studying in Connecticut?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Connecticut?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I NEED TO SHOW ID WHEN I VOTE IN CONNECTICUT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO VOTE IN CONNECTICUT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of voting machines does Connecticut use?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is optical scan voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is DRE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/connecticut",
+            "source": "vote411"
+        }
+    ]
+}

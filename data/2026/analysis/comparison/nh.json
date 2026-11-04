@@ -1,0 +1,1005 @@
+{
+    "state": "nh",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "Who can register to vote?",
+            "current_q": "Who can register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "answer_status": "changed",
+            "answer_similarity": 0.978,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What do I need to register to vote?",
+            "current_q": "What do I need to register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "answer_status": "changed",
+            "answer_similarity": 0.355,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I attend college in New Hampshire, can I register to vote?",
+            "current_q": "If I attend college in New Hampshire, can I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "answer_status": "changed",
+            "answer_similarity": 0.891,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where do I register to vote?",
+            "current_q": "Where do I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "answer_status": "changed",
+            "answer_similarity": 0.926,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I register absentee?",
+            "current_q": "Can I register absentee?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "answer_status": "changed",
+            "answer_similarity": 0.309,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I have to register for each election?",
+            "current_q": "Do I have to register for each election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "answer_status": "changed",
+            "answer_similarity": 0.898,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is the last day I can register before a state election?",
+            "current_q": "When is the last day I can register before a state election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "answer_status": "changed",
+            "answer_similarity": 0.973,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need a New Hampshire drivers license to register to vote and to vote?",
+            "current_q": "Do I need a New Hampshire driver’s license to register to vote and to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+            "answer_status": "changed",
+            "answer_similarity": 0.762,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I register to vote and vote where I attend College/University in New Hampshire?",
+            "current_q": "Can I register to vote and vote where I attend College/University in New Hampshire?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+            "answer_status": "changed",
+            "answer_similarity": 0.524,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is a UOCAVA voter?",
+            "current_q": "What is a UOCAVA voter?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I register to vote and/or request a ballot?",
+            "current_q": "How do I register to vote and/or request a ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How long is an FPCA valid?",
+            "current_q": "How long is an FPCA valid?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I look up my voter registration information?",
+            "current_q": "How do I look up my voter registration information?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens after my FPCA is processed by my local clerk?",
+            "current_q": "What happens after my FPCA is processed by my local clerk?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is a Federal Write-in Absentee Ballot (FWAB)?",
+            "current_q": "What is a Federal Write-in Absentee Ballot (FWAB)?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the last day that an FPCA or FWAB can be received by my city or town clerk and be valid for an election?",
+            "current_q": "What is the last day that an FPCA or FWAB can be received by my city or town clerk and be valid for an election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is a Federal Office Only (FOO) ballot?",
+            "current_q": "What is a Federal Office Only (FOO) ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I determine whether there is time to vote as a UOCAVA voter?",
+            "current_q": "How do I determine whether there is time to vote as a UOCAVA voter?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "As a member of the military, under what circumstances must I re-register?",
+            "current_q": "As a member of the military, under what circumstances must I re-register?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I vote in a primary if I am an undeclared voter?",
+            "current_q": "Can I vote in a primary if I am an undeclared voter?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "answer_status": "changed",
+            "answer_similarity": 0.587,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I return to undeclared status after voting in a state primary or presidential primary?",
+            "current_q": "How do I return to undeclared status after voting in a state primary or presidential primary?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "answer_status": "changed",
+            "answer_similarity": 0.875,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I change my party affiliation?",
+            "current_q": "How do I change my party affiliation?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "answer_status": "changed",
+            "answer_similarity": 0.603,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where can I look up my voter registration status?",
+            "current_q": "Where can I look up my voter registration status?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "answer_status": "changed",
+            "answer_similarity": 0.933,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if my party affiliation that is displayed on the Secretary of States website is not correct?",
+            "current_q": "What if my party affiliation that is displayed on the Secretary of State’s website is not correct?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "answer_status": "changed",
+            "answer_similarity": 0.807,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the official political parties in the state?",
+            "current_q": "What are the official political parties in the state?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does the state website feature contact information and/or links to official political party web sites?",
+            "current_q": "Does the state website feature contact information and/or links to official political party web sites?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I have registered to vote in New Hampshire, and I have an out-of-state drivers license, but I do not drive here. Do I need to do anything?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I have registered to vote in New Hampshire, but I have an out-of-state drivers license and I drive here. What should I do?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is required for a polling place to be accessible?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voters-disabilities",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does New Hampshire make the ballot marking process accessible?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voters-disabilities",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can I choose to have another person help me mark my ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voters-disabilities",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can I vote at the polling place if I am unable to enter the building due to my disability?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voters-disabilities",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "If I have a disability, can I receive assistance in marking an absentee ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voters-disabilities",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I am observing a religious holiday on the day of an election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are the terms “domicile” and “residence” equivalent?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I establish domicile/residence in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "If I establish a domicile/residence in New Hampshire and drive in New Hampshire, do I have to get a New Hampshire driver’s license?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "If I establish a domicile/residence in New Hampshire and own a vehicle used in New Hampshire, do I have to register that vehicle?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "If I establish domicile/residence in New Hampshire, hold a driver’s license from another state, but do not drive in New Hampshire, do I have to get a New Hampshire driver’s license?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "If I establish domicile/residence in New Hampshire and drive a motor vehicle in New Hampshire owned by a person who resides in another state, do I have to register that vehicle in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I obtain a New Hampshire driver’s license using my campus housing (e.g. my dorm room) as the “address where you live” on the driver’s license application?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Absentee Ballot Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#absentee-ballot-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where do I find Campaign Finance Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#campaign-finance-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where do I find Candidate and Ballot Measure Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#candidate-and-ballot-measure-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where are Drop Boxes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#drop-boxes",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is Early Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#early-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Election Dates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://vote411.org/new-hampshire#election-dates",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Eligibility Requirements?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#eligibility-requirements",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#id-needed-for-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID is Needed for Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#id-needed-for-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are Official Results available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#official-results",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the voting rights and processes for overseas and military voters?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#overseas-and-military-voters",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find Poll Worker Information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#poll-worker-information",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the Polling Place Hours?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#polling-place-hours",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is a Polling Place Locator?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#polling-place-locator",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Primary Election Process?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#primary-election-process",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Is there Provisional Voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#provisional-voting",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Are there Provisions for Voters with Disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#provisions-for-voters-with-disabilities",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the Registration Deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#registration-deadline",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Is thereTime Off To Vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#time-off-to-vote",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I Verify Voter Registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#verify-voter-registration",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What Voting Machines are used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/new-hampshire#voting-machines",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a ballot drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes available in my state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find ballot drop box locations?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track the ballot after placing in the drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote before Election Day in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who can vote early in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When can I vote early in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I vote early in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to vote in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote in New Hampshire if I have a felony conviction?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote in New Hampshire if I don’t have a permanent address?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can students vote in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to register to vote in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of ID are accepted for registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When are official election results available in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find official election results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What does a poll worker for in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What qualifications do I need to be a poll worker in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are poll workers paid in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I apply to be a poll worker in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does New Hampshire offer provisional voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What voting assistance is available for voters with disabilities?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I request accommodation or report accessibility issues?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote by mail because of my disability?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does New Hampshire require employers to give time off to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need ID to vote in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of ID can I use to vote in-person in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to vote by mail/absentee in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I don’t have an acceptable ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I use my student ID or a digital ID to vote in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does New Hampshire allow ballot curing?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I cure my affidavit ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to register to vote in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I register to vote in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I check my voter registration status?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does New Hampshire have online voter registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is same-day voter registration available in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I pre-register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to register in New Hampshire?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of voting machines does New Hampshire use?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is optical scan voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are paper ballots?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-hampshire",
+            "source": "vote411"
+        }
+    ]
+}

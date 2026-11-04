@@ -1,0 +1,585 @@
+{
+    "state": "al",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "Why should I vote?",
+            "current_q": "Why should I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I turned in a voter registration application. Am I registered to vote?",
+            "current_q": "I turned in a voter registration application. Am I registered to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I turn 18 after the voter registration deadline but before the election. Can I vote in the election?",
+            "current_q": "I turn 18 after the voter registration deadline but before the election. Can I vote in the election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I become involved in the electoral process as a high school or college student?",
+            "current_q": "How can I become involved in the electoral process as a high school or college student?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I have moved from one part of the country to another and want to vote. What should I do?",
+            "current_q": "I have moved from one part of the country to another and want to vote. What should I do?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I have moved from one county to another and want to vote. What should I do?",
+            "current_q": "I have moved from one county to another and want to vote. What should I do?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "It's the day before the election. I forgot to register to vote. Is it too late?",
+            "current_q": "It's the day before the election. I forgot to register to vote. Is it too late?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I make a mistake marking my ballot?",
+            "current_q": "What if I make a mistake marking my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are candidates allowed to campaign outside my polling place?",
+            "current_q": "Are candidates allowed to campaign outside my polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can a candidate assist me in marking my ballot?",
+            "current_q": "Can a candidate assist me in marking my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I wear campaign buttons or t-shirts with political advertisements into the polling place?",
+            "current_q": "Can I wear campaign buttons or t-shirts with political advertisements into the polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I carry a sample ballot into the voting booth?",
+            "current_q": "Can I carry a sample ballot into the voting booth?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If Constitutional Amendments are included on the ballot, must I vote on them?",
+            "current_q": "If Constitutional Amendments are included on the ballot, must I vote on them?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "In a Primary Election, am I allowed to vote for the Constitutional Amendments only?",
+            "current_q": "In a Primary Election, am I allowed to vote for the Constitutional Amendments only?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When I voted in the Primary Election, I was asked to declare a political party preference. Why is that?",
+            "current_q": "When I voted in the Primary Election, I was asked to declare a political party preference. Why is that?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens if I do not want to declare a political party preference at the Primary Election?",
+            "current_q": "What happens if I do not want to declare a political party preference at the Primary Election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I voted in my political party's Primary Election. My party is not having a runoff. Can I vote in the other party's runoff?",
+            "current_q": "I voted in my political party's Primary Election. My party is not having a runoff. Can I vote in the other party's runoff?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I take photographs or videotape inside my polling place?",
+            "current_q": "Can I take photographs or videotape inside my polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I take a cell phone into my polling place?",
+            "current_q": "Can I take a cell phone into my polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I do not see my question on this page. What do I do now?",
+            "current_q": "I do not see my question on this page. What do I do now?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "current_s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What ID is needed to register to vote in Alabama?",
+            "current_q": "What do I need to register to vote in Alabama?",
+            "question_similarity": 0.946,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": "https://www.vote411.org/alabama",
+            "answer_status": "changed",
+            "answer_similarity": 0.3,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What type of voting machines are used ?",
+            "current_q": "What types of voting machines does Alabama use?",
+            "question_similarity": 0.819,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": "https://www.vote411.org/alabama",
+            "answer_status": "changed",
+            "answer_similarity": 0.959,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What accommodations are available for voters with disabilities?",
+            "current_q": "What voting assistance is available for voters with disabilities?",
+            "question_similarity": 0.81,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": "https://www.vote411.org/alabama",
+            "answer_status": "changed",
+            "answer_similarity": 0.281,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the process for casting an absentee ballot in Alabama?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What happens if there are issues with my mail-in ballot and can it be fixed?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information about campaign finance?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information about candidates and ballot measures?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Are ballot drop boxes available in Alabama?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Is early voting available in Alabama?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the upcoming election dates in Alabama?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility requirements to vote in Alabama?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of ID are acceptable for voting in Alabama?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are official election results released?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can military and overseas voters cast their ballots?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements to become a poll worker in Alabama?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the polling place hours in Alabama?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find my polling place?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work in Alabama?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When and why would I need to cast a provisional ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is the voter registration deadline ?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the rules for taking time off work to vote ?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I verify my voter registration status?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/alabama",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a ballot drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alabama",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes available in my state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alabama",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to register to vote in Alabama?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alabama",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of ID are accepted for registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alabama",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When are official election results available in Alabama?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alabama",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find official election results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alabama",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alabama",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Alabama offer provisional voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alabama",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alabama",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I make sure my provisional ballot is counted?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alabama",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I request accommodation or report accessibility issues?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alabama",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote by mail because of my disability?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alabama",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in Alabama?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alabama",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What’s the deadline to register to vote in Alabama?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alabama",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in Alabama?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alabama",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state. Can I still vote in my home state while studying in Alabama?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alabama",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Alabama?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/alabama",
+            "source": "vote411"
+        }
+    ]
+}

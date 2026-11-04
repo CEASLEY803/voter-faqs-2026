@@ -1,0 +1,1422 @@
+{
+    "state": "nm",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "How do I register to vote in New Mexico?",
+            "current_q": "How do I register to vote in New Mexico?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What do I need to provide when I register to vote by mail?",
+            "current_q": "What do I need to provide when I register to vote by mail?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I check whether I am registered in New Mexico?",
+            "current_q": "How do I check whether I am registered in New Mexico?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where can I get a Voter Registration Application Form?",
+            "current_q": "Where can I get a Voter Registration Application Form?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "changed",
+            "answer_similarity": 0.859,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How long do I need to be a resident of New Mexico before I can register to vote?",
+            "current_q": "How long do I need to be a resident of New Mexico before I can register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I recently moved to New Mexico and do not have a New Mexico state I.D. nor driver’s license, can I register to vote?",
+            "current_q": "I recently moved to New Mexico and do not have a New Mexico state I.D. nor driver’s license, can I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When does voter registration close?",
+            "current_q": "When does voter registration close?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need to register for every election?",
+            "current_q": "Do I need to register for every election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need to change my registration if I move?  Even if I move to a different address in the same city?",
+            "current_q": "Do I need to change my registration if I move? Even if I move to a different address in the same city?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Am I required to select a political party in order to complete the registration form?",
+            "current_q": "Am I required to select a political party in order to complete the registration form?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "changed",
+            "answer_similarity": 0.684,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I change my party?",
+            "current_q": "How do I change my party?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I am 17 years old now but will be 18 before the next state general election. Can I complete a voter registration form now and will I then be able to sign petitions?",
+            "current_q": "I am 17 years old now but will be 18 before the next state general election. Can I complete a voter registration form now and will I then be able to sign petitions?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "A person on the street offered to help me register to vote. Is that valid?",
+            "current_q": "A person on the street offered to help me register to vote. Is that valid?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I have an unlisted phone number. Do I have to provide that information on the voter registration form?",
+            "current_q": "I have an unlisted phone number. Do I have to provide that information on the voter registration form?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I know that my voter registration application form was received and processed?",
+            "current_q": "How do I know that my voter registration application form was received and processed?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Will I be notified if there is a problem with my registration form?",
+            "current_q": "Will I be notified if there is a problem with my registration form?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens if I register to vote after registration closes (within 28 days of an election)?",
+            "current_q": "What happens if I register to vote after registration closes (within 28 days of an election)?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I register to vote if I have been convicted of a crime?",
+            "current_q": "Can I register to vote if I have been convicted of a crime?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What do I need to do to have my voting rights restored following a felony conviction?",
+            "current_q": "What do I need to do to have my voting rights restored following a felony conviction?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the currently qualified political parties in New Mexico?",
+            "current_q": "What are the currently qualified political parties in New Mexico?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "answer_status": "changed",
+            "answer_similarity": 0.901,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who is eligible for same day voter registration (SDR)?",
+            "current_q": "Who is eligible for same day voter registration (SDR)?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where is SDR available?",
+            "current_q": "Where is SDR available?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What do I need to bring for SDR?",
+            "current_q": "What do I need to bring for SDR?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "answer_status": "changed",
+            "answer_similarity": 0.179,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How does SDR work for decline-to-state (DTS) and minor party voters wishing to vote in the Primary Election?",
+            "current_q": "How does SDR work for decline-to-state (DTS) and minor party voters wishing to vote in the Primary Election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "answer_status": "changed",
+            "answer_similarity": 0.649,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is SDR available for voters registered with a major party?",
+            "current_q": "Is SDR available for voters registered with a major party?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I use SDR for absentee (vote by mail) voting?",
+            "current_q": "Can I use SDR for absentee (vote by mail) voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need to present identification when I vote?",
+            "current_q": "Do I need to present identification when I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What identification do I need to provide when I vote?",
+            "current_q": "What identification do I need to provide when I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I vote if my status is “inactive”?",
+            "current_q": "Can I vote if my status is \"inactive\"?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can military and overseas voters participate in voting in an election?",
+            "current_q": "How can military and overseas voters participate in voting in an election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How much does it cost to mail my Absentee Ballot?",
+            "current_q": "How much does it cost to mail my Absentee Ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "The outer envelope of my Absentee Ballot requests an AV Register Number. Do I fill this out?",
+            "current_q": "The outer envelope of my Absentee Ballot requests an AV Register Number. Do I fill this out?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can others find out how I voted?",
+            "current_q": "Can others find out how I voted?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I am unable to mail my Absentee ballot, who is allowed to drop it off and where?",
+            "current_q": "If I am unable to mail my Absentee ballot, who is allowed to drop it off and where?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I correctly write-in a candidate on my ballot?",
+            "current_q": "How do I correctly write-in a candidate on my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How does the permanent absentee list work?",
+            "current_q": "How does the permanent absentee list work?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "answer_status": "changed",
+            "answer_similarity": 0.532,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the deadline to request an absentee ballot?",
+            "current_q": "What is the deadline to request an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I apply for an absentee ballot and receive it, can I change my mind and vote at my polling place on Election Day?",
+            "current_q": "If I apply for an absentee ballot and receive it, can I change my mind and vote at my polling place on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I do not receive my absentee ballot?",
+            "current_q": "What if I do not receive my absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who can take the absentee ballot back to the county clerk?",
+            "current_q": "Who can take the absentee ballot back to the county clerk?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When does an absentee ballot have to be returned for it to be counted?",
+            "current_q": "When does an absentee ballot have to be returned for it to be counted?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How much does it cost to mail my Absentee Ballot?",
+            "current_q": "How much does it cost to mail my Absentee Ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "The outer envelope of my Absentee Ballot requests an AV Register Number. Do I fill this out?",
+            "current_q": "The outer envelope of my Absentee Ballot requests an AV Register Number. Do I fill this out?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What about military and overseas voters?",
+            "current_q": "What about military and overseas voters?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/military-and-overseas-voters/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/military-and-overseas-voters/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What about Early Voting?",
+            "current_q": "What about Early Voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/early-voting-in-person/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/early-voting-in-person/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When does a voter get a provisional ballot?",
+            "current_q": "When does a voter get a provisional ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/provisional-voting/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/provisional-voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When does a voter get a provisional ballot?",
+            "current_q": "When does a voter get a provisional ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/provisional-voting/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/provisional-voting/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What kind of ballots and voting systems are used in New Mexico?",
+            "current_q": "What kind of ballots and voting systems are used in New Mexico?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/other-questions/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "answer_status": "changed",
+            "answer_similarity": 0.745,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I need help in voting?  Who can help me with my ballot?",
+            "current_q": "What if I need help in voting? Who can help me with my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/other-questions/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "answer_status": "changed",
+            "answer_similarity": 0.811,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What is an alternative ballot?",
+            "current_q": "What is an emergency alternative ballot?",
+            "question_similarity": 0.853,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/other-questions/",
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "answer_status": "changed",
+            "answer_similarity": 0.983,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What options does a person with a visual impairment have if they wish to vote independently and privately in New Mexico?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is a visually impaired ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Who is eligible to apply for a visually impaired ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the visually impaired ballot process work?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I have a print disability, what are my options?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I have requested a visually impaired ballot but have not received the link to my ballot via email, what should I do?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I have requested a visually impaired ballot but have not received my return envelopes, what should I do?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I am visually impaired and use a screen reader, what recommendations do you have in terms of programs/software?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What does the accessible voting machine allow you to do?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I have a mental disability or am under a conservatorship can I still vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I am currently confined in a nursing home or other healthcare facility; can I still vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I have had a medical emergency and it is too late to request an absentee ballot and I am unable to attend the polls in person. How can I vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What can I do if I think my rights are being violated at a polling location?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Why do we have the NVRA?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/national-voter-registration-act/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What duties does the Secretary of State have under the NVRA?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/national-voter-registration-act/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Who has enforcement authority?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/national-voter-registration-act/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "New Mexico has semi-open primary elections. What is a semi-open primary election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who can vote in primary elections in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are the qualified major and minor political parties in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I don’t remember if I registered with a qualified political party, or I am not sure which political party I registered with. How can I check my voter registration information?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I checked and I am registered with a political party that is not a qualified party in New Mexico. Can I still vote in a primary election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I am registered with a qualified minor political party. How can I update my voter registration and vote in a primary election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m a voter who is not registered with a qualified political party, and I intend to vote in a primary election without changing my voter registration. Will anyone know which major party primary elections I vote in?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What does “Declined-to-state” mean?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I am not registered with a qualified political party. How do I request which major party ballot I want to receive when I am voting in-person?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I am not registered with a qualified political party, and I intend to request a mailed ballot for the primary election. How will I select which ballot I receive?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I am a permanent absentee voter, and I am not registered with a qualified political party. How will I receive a mailed ballot for the primary election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I am not registered with a qualified political party. Prior to voting, I want to prepare. Will I be able to see sample ballots for each major party?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a write-in candidate?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I see who has qualified as a write-in candidate for an election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I want to vote for a write-in candidate. Do I have to spell the candidate’s first and last name correctly when I vote? What is required?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How are write-in votes reviewed and counted?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are write-in votes always tallied on Election Day?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHEN ARE VOTERS REMOVED FROM THE PERMANENT MAIL VOTING LIST?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I RETURN MY ABSENTEE BALLOT IN PERSON?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does New Mexico allow ballot curing?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to cure my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track my absentee ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a ballot drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes available in my state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find ballot drop box locations?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track the ballot after placing in the drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote before Election Day in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I have to apply to vote early in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I vote early in person in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I receive an early ballot in the mail?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to vote early in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN REGISTER TO VOTE IN NEW MEXICO?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN VOTE IN NEW MEXICO?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I VOTE IN NEW MEXICO IF I HAVE A FELONY CONVICTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I REGISTER AND VOTE IN NEW MEXICO IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN NEW MEXICO?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN NEW MEXICO?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER IN NEW MEXICO?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When are official election results available in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find official election results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What does a poll worker do in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What qualifications do I need to be a poll worker in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are poll workers paid in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I apply to be a poll worker in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who can vote in the primary elections in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does New Mexico offer provisional voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to cure my provisional ballot so it will be counted?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What voting assistance is available for voters with disabilities?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I request accommodation or report accessibility issues?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote by mail because of my disability?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do I need to register to vote in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What’s the deadline to register to vote in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state, can I still vote in my home state while studying in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does New Mexico require employers to give time off to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I NEED TO SHOW ID WHEN I VOTE IN NEW MEXICO?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO VOTE IN NEW MEXICO?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN NEW MEXICO?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to register to vote in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I register to vote in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I check my voter registration status?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does New Mexico have online voter registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is same-day voter registration available in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I pre-register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to register in New Mexico?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of voting machines does New Mexico use?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is optical scan voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/new-mexico",
+            "source": "vote411"
+        }
+    ]
+}

@@ -1,0 +1,425 @@
+{
+    "state": "md",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "Who can vote?",
+            "current_q": "Who can vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": "https://elections.maryland.gov/voting/index.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When can I vote?",
+            "current_q": "When can I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": "https://elections.maryland.gov/voting/index.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.923,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where should I vote?",
+            "current_q": "Where should I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": "https://elections.maryland.gov/voting/index.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.878,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How will I cast my vote?",
+            "current_q": "How will I cast my vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": "https://elections.maryland.gov/voting/index.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.979,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I have a disability. Will I be able to vote?",
+            "current_q": "I have a disability. Will I be able to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": "https://elections.maryland.gov/voting/index.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.885,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are election materials available in languages other than English?",
+            "current_q": "Are election materials available in languages other than English?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": "https://elections.maryland.gov/voting/index.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.288,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Why did the voting system change? Why are we voting on paper?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the voting system?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the ballot scanner?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the ballot scanner work?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Is there a paper trail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "The voting system produces a paper trail. Will I get a receipt showing how I voted?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Has this voting system been tested?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Is the voting system secure?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How will I vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I make a mistake? How can I correct it?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What happens after I scan my ballot? How do I know my ballot was counted?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How are ballots counted?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can you tell the order in which I voted and find my ballot in the box?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What happens to the ballots? Do I get to keep mine?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Will anyone be able to see how I voted?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Is the new voting system accessible? How is it accessible?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "May I take a selfie when I vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://elections.maryland.gov/voting/index.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the process for voting by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I fix issues with my mail-in ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information about campaign finance?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information about candidates and ballot measures?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where are ballot drop boxes located?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is early voting available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the upcoming election dates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility requirements to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID do I need to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of identification are accepted for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are official election results released?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can military and overseas voters cast their ballots?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements to become a poll worker?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the voting hours at polling places?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find my Voter Service and Polling Center location?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When would I need to vote using a provisional ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What accommodations are available for voters with disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the deadline to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the rules for taking time off work to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I verify my voter registration status?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of voting machines are used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/maryland",
+            "current_s": null,
+            "source": "vote411"
+        }
+    ]
+}

@@ -1,0 +1,287 @@
+{
+    "state": "ne",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "Where do I vote?",
+            "current_q": "Where do I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "current_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What time will the polls open?",
+            "current_q": "What time will the polls open?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "current_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Am I able to vote if I did not re-register?",
+            "current_q": "Am I able to vote if I did not re-register?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "current_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How does a person vote?",
+            "current_q": "How does a person vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "current_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can voters receive assistance in voting?",
+            "current_q": "Can voters receive assistance in voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "current_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I'm registered as nonpartisan, can I vote in primary elections?",
+            "current_q": "If I'm registered as nonpartisan, can I vote in primary elections?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "current_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.846,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I campaign at my polling place?",
+            "current_q": "Can I campaign at my polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "current_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I become an election worker?",
+            "current_q": "How do I become an election worker?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "current_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I become a poll watcher?",
+            "current_q": "How can I become a poll watcher?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "current_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Do I need to present valid photo ID in order to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need a voting card or my ID in order to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the deadline for receiving absentee ballots in Nebraska?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nebraska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How to request and return an Early-Vote (absentee) Ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nebraska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the registration deadline for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nebraska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is early voting available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nebraska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility requirements to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nebraska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID do I need to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nebraska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of identification are accepted for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nebraska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are official election results released?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nebraska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements to become a poll worker?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nebraska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the voting hours at polling places?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nebraska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find my Voter Service and Polling Center location?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nebraska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nebraska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When would I need to vote using a provisional ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nebraska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What accommodations are available for voters with disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nebraska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the deadline to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nebraska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the rules for taking time off work to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nebraska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of voting machines are used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/nebraska",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to register to vote in Nebraska?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nebraska",
+            "source": "vote411"
+        }
+    ]
+}

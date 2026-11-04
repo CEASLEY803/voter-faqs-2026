@@ -1,0 +1,878 @@
+{
+    "state": "sc",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "What candidates and/or offices are on the ballot?",
+            "current_q": "What candidates and/or offices are on the ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When do I need to register to vote?",
+            "current_q": "When do I need to register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "changed",
+            "answer_similarity": 0.632,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Ive moved since the last time I voted and I havent updated my voter registration. Can I still vote?",
+            "current_q": "I’ve moved since the last time I voted and I haven’t updated my voter registration. Can I still vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "changed",
+            "answer_similarity": 0.982,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I take my child with me to vote?",
+            "current_q": "Can I take my child with me to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What do I need to take with me to vote?",
+            "current_q": "What do I need to take with me to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "changed",
+            "answer_similarity": 0.687,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I dont have one of these Photo IDs?",
+            "current_q": "What if I don’t have one of these Photo IDs?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "changed",
+            "answer_similarity": 0.998,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens if I forget to bring my Photo ID when voting in person?",
+            "current_q": "What happens if I forget to bring my Photo ID when voting in person?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "changed",
+            "answer_similarity": 0.819,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Ive lost my non-photo voter registration card. Can I still vote?",
+            "current_q": "I’ve lost my non-photo voter registration card. Can I still vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "changed",
+            "answer_similarity": 0.96,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How and where can I vote early in person?",
+            "current_q": "How and where can I vote early in person?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "changed",
+            "answer_similarity": 0.822,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who can vote absentee?",
+            "current_q": "Who can vote absentee?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I vote absentee?",
+            "current_q": "How can I vote absentee?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "changed",
+            "answer_similarity": 0.711,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "It's almost Election Day and I still have my absentee ballot. What should I do?",
+            "current_q": "It's almost Election Day and I still have my absentee ballot. What should I do?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "changed",
+            "answer_similarity": 0.988,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I'm not voting early. Where do I vote on Election Day?",
+            "current_q": "I'm not voting early. Where do I vote on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What hours will the polls be open on Election Day?",
+            "current_q": "What hours will the polls be open on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are there any laws about candidates posting their signs along the roadway?",
+            "current_q": "Are there any laws about candidates posting their signs along the roadway?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can candidates or their representatives take people to the polls to vote?",
+            "current_q": "Can candidates or their representatives take people to the polls to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I saw a candidate/member of candidates campaign at my polling place talking to voters. Can they do that?",
+            "current_q": "I saw a candidate/member of candidate’s campaign at my polling place talking to voters. Can they do that?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "A candidate is definitely campaigning while in the polling place, or there is campaign literature within 500 feet of the entrance. What can I do?",
+            "current_q": "A candidate is definitely campaigning while in the polling place, or there is campaign literature within 500 feet of the entrance. What can I do?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When I left the polls, I was asked to participate in an exit poll. Is this legal?",
+            "current_q": "When I left the polls, I was asked to participate in an “exit poll.” Is this legal?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where should I file a complaint about the election?",
+            "current_q": "Where should I file a complaint about the election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When and where will results be reported?",
+            "current_q": "When and where will results be reported?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is the 2024 General Election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How is the winner determined in a General Election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://scvotes.gov/voters/voter-faq/",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find information on upcoming elections?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How and when should I update my voter registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can candidates or their representatives take people to the polls to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are official results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When is a recount necessary?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I trust the accuracy of the results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I get a copy of my Voter History?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is the voting system connected to the internet?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I help?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I can't find an answer to my question, are there other resources available?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I see who I voted for in a past election?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://scvotes.gov/voters/voter-faq/",
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the rules regarding campaign finance contributions and expenditures?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/south-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information about candidates and ballot measures for the upcoming election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/south-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID or identification documents are required to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/south-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the procedures and special provisions for overseas and military voters to register and cast their ballots?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/south-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I become a poll worker, and what are the qualifications and responsibilities involved?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/south-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I locate my assigned polling place for Election Day?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/south-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the process for participating in primary elections, and how does it differ from general elections?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/south-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is provisional voting, and under what circumstances should it be used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/south-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What accommodations or provisions are available for voters with disabilities at polling places?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/south-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I verify that my voter registration is current and what should I do if it is not?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/south-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of voting machines are used in elections, and how can I learn about their security and functionality?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/south-carolina",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does South Carolina allow ballot curing?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I cure my provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I check the status of my provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a ballot drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes available in my state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find ballot drop box locations?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote before Election Day in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I have to apply to vote early in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I vote early in person in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I receive an early ballot in the mail?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to vote early in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to vote in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote in South Carolina if I have a felony conviction?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote in South Carolina if I don’t have a permanent address?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can students vote in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to register to vote in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of ID are accepted for registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I don’t have an ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When are official election results available in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find official election results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What does a poll worker do in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What qualifications do I need to be a poll worker in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are poll workers paid in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I apply to be a poll worker in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does South Carolina offer provisional voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I cure my provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I check the status of my provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What voting assistance is available for voters with disabilities?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I request accommodation or report accessibility issues?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote by mail because of my disability?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does South Carolina require employers to give time off to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need ID to vote in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of photo ID can I use to vote in-person in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of ID can I use to vote absentee in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I don’t have an acceptable ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I use my student ID to vote in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to register to vote in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I register to vote in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I check my voter registration status?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does South Carolina have online voter registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is same-day voter registration available in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I pre-register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to register in South Carolina?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of voting machines does South Carolina use?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is Paper-Based Voting System?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-carolina",
+            "source": "vote411"
+        }
+    ]
+}

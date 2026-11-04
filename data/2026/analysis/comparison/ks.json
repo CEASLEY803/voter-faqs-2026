@@ -1,0 +1,681 @@
+{
+    "state": "ks",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "Do I have to live in Kansas for a certain amount of time to be eligible to vote?",
+            "current_q": "Do I have to live in Kansas for a certain amount of time to be eligible to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I pre-register if I will be 18 years old before the next election?",
+            "current_q": "Can I pre-register if I will be 18 years old before the next election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the disqualifications for voting in Kansas?",
+            "current_q": "What are the disqualifications for voting in Kansas?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I have a felony conviction, can I vote?",
+            "current_q": "I have a felony conviction, can I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if my certificate of registration has incorrect information?",
+            "current_q": "What if my certificate of registration has incorrect information?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I moved from one county to another county in Kansas, how do I vote?",
+            "current_q": "I moved from one county to another county in Kansas, how do I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I moved to Kansas from another state, when can I vote?",
+            "current_q": "I moved to Kansas from another state, when can I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I review a sample ballot prior to voting?",
+            "current_q": "Can I review a sample ballot prior to voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.955,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What should I expect when voting in Kansas?",
+            "current_q": "What should I expect when voting in Kansas?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.712,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I make a mistake, can I request another ballot?",
+            "current_q": "What if I make a mistake, can I request another ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I live overseas and applied to cast a federal services voter ballot. How long is my application good for?",
+            "current_q": "I live overseas and applied to cast a federal services voter ballot. How long is my application good for?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I get my ballot if I live overseas and cast a ballot under the federal voting assistance program (UOVACA)?",
+            "current_q": "How do I get my ballot if I live overseas and cast a ballot under the federal voting assistance program (UOVACA)?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do all Kansas counties have to offer advance in-person voting?",
+            "current_q": "Do all Kansas counties have to offer advance in-person voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I have to show photo ID to advance in-person vote?",
+            "current_q": "Do I have to show photo ID to advance in-person vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the difference between all mail ballot elections and advance by mail ballots?",
+            "current_q": "What is the difference between all mail ballot elections and advance by mail ballots?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.998,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is it safe to cast an advance by mail ballot?",
+            "current_q": "Is it safe to cast an advance by mail ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.697,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I find out the status of my advance by mail ballot application and/or ballot?",
+            "current_q": "How can I find out the status of my advance by mail ballot application and/or ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.965,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I requested a mail-in ballot for the election. Can I vote in person or do I need to fill out my mail-in ballot?",
+            "current_q": "I requested a mail-in ballot for the election. Can I vote in person or do I need to fill out my mail-in ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What types of photo ID are acceptable in Kansas? Do exemptions exist?",
+            "current_q": "What types of photo ID are acceptable in Kansas? Do exemptions exist?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.818,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I have to provide photo ID for mail ballot elections?",
+            "current_q": "Do I have to provide photo ID for mail ballot elections?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I do not have an approved government-issued photo ID and cannot afford to get one. What are my options?",
+            "current_q": "I do not have an approved government-issued photo ID and cannot afford to get one. What are my options?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.467,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I was not born in Kansas and cannot locate an acceptable form that shows proof of my identity but I want to vote in the upcoming election. Money is tight and I cannot afford to pay for a birth certificate in another state. What are my options?",
+            "current_q": "I was not born in Kansas and cannot locate an acceptable form that shows proof of my identity but I want to vote in the upcoming election. Money is tight and I cannot afford to pay for a birth certificate in another state. What are my options?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "changed",
+            "answer_similarity": 0.808,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "I moved to a new address in the county I am currently registered in, can I vote?",
+            "current_q": "I moved to a new address in the county I’m currently registered in, can I vote?",
+            "question_similarity": 0.987,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What if I am still in line when polls close?",
+            "current_q": "What if I’m still in line when polls close?",
+            "question_similarity": 0.976,
+            "baseline_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "current_s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What is the deadline to register to vote?",
+            "current_q": "What’s the deadline to register to vote in Kansas?",
+            "question_similarity": 0.864,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": "https://www.vote411.org/kansas",
+            "answer_status": "changed",
+            "answer_similarity": 0.232,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "What ID do I need to register to vote?",
+            "current_q": "What do I need to register to vote in Kansas?",
+            "question_similarity": 0.84,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": "https://www.vote411.org/kansas",
+            "answer_status": "changed",
+            "answer_similarity": 0.375,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the process for voting by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I fix issues with my mail-in ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information about campaign finance?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where are ballot drop boxes located?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is early voting available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the upcoming election dates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility requirements to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of identification are accepted for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are official election results released?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can military and overseas voters cast their ballots?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements to become a poll worker?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the voting hours at polling places?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find my Voter Service and Polling Center location?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When would I need to vote using a provisional ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What accommodations are available for voters with disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the rules for taking time off work to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I verify my voter registration status?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of voting machines are used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/kansas",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO IS ELIGIBLE TO VOTE AN ADVANCE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ADVANCE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE TO REQUEST AN ADVANCE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I HAVE TO REQUEST AN ADVANCE BALLOT FOR EACH ELECTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ADVANCE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHEN ARE ADVANCE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I COMPLETE MY ADVANCE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I RETURN MY VOTED ADVANCE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I TRACK MY MAILED ADVANCE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I REQUESTED AN ADVANCE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ADVANCE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN REGISTER TO VOTE IN KANSAS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN VOTE IN KANSAS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN KANSAS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN KANSAS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in Kansas?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in Kansas?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state, can I still vote in my home state while studying in Kansas?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Kansas ?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO VOTE IN KANSAS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/kansas",
+            "source": "vote411"
+        }
+    ]
+}

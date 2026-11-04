@@ -1,0 +1,1253 @@
+{
+    "state": "ga",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "Who is eligible to vote?",
+            "current_q": "Who is eligible to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I be sure I’m registered to vote?",
+            "current_q": "How can I be sure I’m registered to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I changed my legal name. How do I update my voter registration?",
+            "current_q": "I changed my legal name. How do I update my voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What do I do if I got a notice that my voter application is pending because my citizenship information didn’t match the records at the Department of Driver Services?",
+            "current_q": "What do I do if I got a notice that my voter application is pending because my citizenship information didn’t match the records at the Department of Driver Services?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.977,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the deadline for registering to vote?",
+            "current_q": "What is the deadline for registering to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I change the address on my voter registration?",
+            "current_q": "How do I change the address on my voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I have a felony conviction. Can I vote?",
+            "current_q": "I have a felony conviction. Can I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I did not vote in the last election, do I need to re-register?",
+            "current_q": "I did not vote in the last election, do I need to re-register?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I registered to vote a while ago but I never got a registration card from my county elections official. Am I registered?",
+            "current_q": "I registered to vote a while ago but I never got a registration card from my county elections official. Am I registered?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I cancel my Georgia voter registration?",
+            "current_q": "How do I cancel my Georgia voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is voter registration information confidential?",
+            "current_q": "Is voter registration information confidential?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I vote online? Is online voter registration related to online voting?",
+            "current_q": "Can I vote online? Is online voter registration related to online voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I am a victim of domestic violence. How can I protect myself with the VoteSafe program?",
+            "current_q": "I am a victim of domestic violence. How can I protect myself with the VoteSafe program?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need my voter card to vote?",
+            "current_q": "Do I need my voter card to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.785,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who are the candidates?",
+            "current_q": "Who are the candidates?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the ballot questions?",
+            "current_q": "What are the ballot questions?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where do I vote?",
+            "current_q": "Where do I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I know my ballot will count?",
+            "current_q": "How do I know my ballot will count?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need to show identification when I vote?",
+            "current_q": "Do I need to show identification when I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I take a photo of my ballot or get a receipt?",
+            "current_q": "Can I take a photo of my ballot or get a receipt?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are there rules on what I can wear or say at the polls?",
+            "current_q": "Are there rules on what I can wear or say at the polls?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I bring water and a snack to the poll?",
+            "current_q": "Can I bring water and a snack to the poll?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I take my child to the polls with me?",
+            "current_q": "Can I take my child to the polls with me?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are the elderly allowed to go to the front of the line of voters?",
+            "current_q": "Are the elderly allowed to go to the front of the line of voters?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I make a mistake on my ballot, can I get a new one?",
+            "current_q": "If I make a mistake on my ballot, can I get a new one?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Will my ballot count if I don’t vote for all of the races and questions?",
+            "current_q": "Will my ballot count if I don’t vote for all of the races and questions?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I get an absentee ballot?",
+            "current_q": "How do I get an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I get an absentee ballot for someone else?",
+            "current_q": "How do I get an absentee ballot for someone else?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How long does it take to get my absentee ballot?",
+            "current_q": "How long does it take to get my absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What do I do if my absentee ballot never arrived?",
+            "current_q": "What do I do if my absentee ballot never arrived?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I cancel my absentee ballot and vote in person?",
+            "current_q": "Can I cancel my absentee ballot and vote in person?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "changed",
+            "answer_similarity": 0.794,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I received my absentee ballot by mail as I requested, but my plans changed and I want to vote in person, what do I do?",
+            "current_q": "I received my absentee ballot by mail as I requested, but my plans changed and I want to vote in person, what do I do?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I distribute absentee ballots?",
+            "current_q": "Can I distribute absentee ballots?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I file a complaint or report voter fraud?",
+            "current_q": "How do I file a complaint or report voter fraud?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are the voting machines secure?",
+            "current_q": "Are the voting machines secure?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can members of the public watch elections?",
+            "current_q": "Can members of the public watch elections?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I stop getting mail, texts and phone calls from political campaigns?",
+            "current_q": "How do I stop getting mail, texts and phone calls from political campaigns?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Will my polling place be accessible to a voter with disabilities?",
+            "current_q": "Will my polling place be accessible to a voter with disabilities?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are voters with disabilities allowed to go to the front of the voting line?",
+            "current_q": "Are voters with disabilities allowed to go to the front of the voting line?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I become a poll worker?",
+            "current_q": "How can I become a poll worker?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I be excused from my regular job to be a poll worker?",
+            "current_q": "Can I be excused from my regular job to be a poll worker?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are poll workers paid?",
+            "current_q": "Are poll workers paid?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the qualifications to be a poll worker?",
+            "current_q": "What are the qualifications to be a poll worker?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can a candidate withdraw from a race ?",
+            "current_q": "Can a candidate withdraw from a race ?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I find out what my legislative and congressional districts are?",
+            "current_q": "How do I find out what my legislative and congressional districts are?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Does Georgia offer \"early voting?\"",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "If I make a mistake on my ballot, can I get a new one?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What do I do if my absentee ballot never arrived?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "State Election Board Duties",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "File a Complaint",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.ga.gov/page/elections-faq",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I register by party in Georgia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.ga.gov/page/elections-faq",
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "current_q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": "https://www.vote411.org/georgia",
+            "answer_status": "changed",
+            "answer_similarity": 0.44,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW DO I REQUEST A BALLOT BY MAIL?",
+            "current_q": "HOW DO I REQUEST A BALLOT BY MAIL?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": "https://www.vote411.org/georgia",
+            "answer_status": "changed",
+            "answer_similarity": 0.732,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHAT IS THE DEADLINE TO SUBMIT AN ABSENTEE BALLOT APPLICATION?",
+            "current_q": "WHAT IS THE DEADLINE TO SUBMIT AN ABSENTEE BALLOT APPLICATION?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": "https://www.vote411.org/georgia",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "current_q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": "https://www.vote411.org/georgia",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "DO I NEED TO REQUEST AN ABSENTEE BALLOT EACH YEAR?",
+            "current_q": "DO I NEED TO REQUEST AN ABSENTEE BALLOT EACH YEAR?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": "https://www.vote411.org/georgia",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "current_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": "https://www.vote411.org/georgia",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
+            "current_q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": "https://www.vote411.org/georgia",
+            "answer_status": "changed",
+            "answer_similarity": 0.892,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW CAN I RETURN MY ABSENTEE BALLOT?",
+            "current_q": "HOW CAN I RETURN MY ABSENTEE BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": "https://www.vote411.org/georgia",
+            "answer_status": "changed",
+            "answer_similarity": 0.223,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW CAN I TRACK MY ABSENTEE BALLOT?",
+            "current_q": "HOW CAN I TRACK MY ABSENTEE BALLOT?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": "https://www.vote411.org/georgia",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": "https://www.vote411.org/georgia",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "same",
+            "baseline_q": "HOW DO I REQUEST A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "current_q": "HOW DO I REQUEST A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": "https://www.vote411.org/georgia",
+            "answer_status": "changed",
+            "answer_similarity": 0.938,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Who are eligible to vote in Georgia?",
+            "current_q": "Who is eligible to vote in Georgia?",
+            "question_similarity": 0.928,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": "https://www.vote411.org/georgia",
+            "answer_status": "changed",
+            "answer_similarity": 0.411,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": " HOW CAN I CHECK MY REGISTRATION STATUS?",
+            "current_q": "How can I check my voter registration status?",
+            "question_similarity": 0.927,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": "https://www.vote411.org/georgia",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "How can I be a poll worker in Georgia?",
+            "current_q": "How do I apply to be a poll worker in Georgia?",
+            "question_similarity": 0.829,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": "https://www.vote411.org/georgia",
+            "answer_status": "changed",
+            "answer_similarity": 0.408,
+            "source": "vote411"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": " What is required to register to vote online in Georgia?",
+            "current_q": "What is the deadline to register to vote in Georgia?",
+            "question_similarity": 0.8,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": "https://www.vote411.org/georgia",
+            "answer_status": "changed",
+            "answer_similarity": 0.209,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the polling hours on Election Day and what happens if I am still in line when the polls close?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of ID are acceptable for voting at the polls in Georgia and what can you do if you don't have one of these IDs?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "At what age can you register and vote in Georgia?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What conditions can disqualify you from voting in Georgia?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How individuals without a fixed and homless people can vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are voting rights restored for individuals convicted of a felony in Georgia?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When does early voting for the general election begin and end?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can you find available early voting locations?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": " When is the deadline for the registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "HOW DO I UPDATE MY REGISTRATION IF I MOVE OR HAVE A NAME CHANGE? ",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "HOW EMPLOYEES CAN VOTE?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "what is the election process for georgia?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is provisional voting, and when can it be used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What assistance is available at the polls for voters who have difficulties reading English or have physical disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/georgia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Georgia allow ballot curing?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the deadline to cure my ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track my absentee ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I cure my provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track the status of my provisional ballot online?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a ballot drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are drop boxes available in my state?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find ballot drop box locations?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I track the ballot after placing in the drop box?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote before Election Day in Georgia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who can vote early in Georgia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When can I vote early in Georgia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I vote early in Georgia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote in Georgia if I have a felony conviction?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote in Georgia if I don’t have a permanent address?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can students vote in Georgia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need an ID to register to vote in Georgia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of ID are accepted for registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I don’t have an ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "When are official election results available in Georgia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can I find official election results?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What does a poll worker do in Georgia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What qualifications do I need to be poll worker in Georgia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Are poll workers paid in Georgia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Georgia offer provisional voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I vote a provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I make sure my provisional ballot is counted?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How can I check the status of my provisional ballot?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What voting assistance is available for voters with disabilities?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do I request accommodation or report accessibility issues?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I vote by mail because of my disability?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Georgia require employers to give time off to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need ID to vote in Georgia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of ID can I use to vote in-person in Georgia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of ID can I use to vote absentee in Georgia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What if I don’t have an acceptable ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I use my student ID to vote in Georgia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does Georgia have online voter registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Is same-day voter registration available in Georgia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I pre-register to vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is eligible to register in Georgia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What types of voting machines does Georgia use?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is Direct Recording Electronic Voting?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/georgia",
+            "source": "vote411"
+        }
+    ]
+}

@@ -1,0 +1,1021 @@
+{
+    "state": "wv",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "How do I find out if I am already registered to vote?",
+            "current_q": "How do I find out if I am already registered to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I register to vote?",
+            "current_q": "How do I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.992,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I register to vote online?",
+            "current_q": "Can I register to vote online?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need identification when I register to vote?",
+            "current_q": "Do I need identification when I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the quickest way to receive my voter registration card?",
+            "current_q": "What is the quickest way to receive my voter registration card?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.998,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How will I know when my application is processed?",
+            "current_q": "How will I know when my application is processed?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I change or update my voter registration?",
+            "current_q": "How do I change or update my voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How old must I be to register to vote?",
+            "current_q": "How old must I be to register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need to be a United States Citizen before I register to vote?",
+            "current_q": "Do I need to be a United States Citizen before I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is someone with a developmental disability allowed to register to vote?",
+            "current_q": "Is someone with a developmental disability allowed to register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is someone with a mental health disorder allowed to register to vote?",
+            "current_q": "Is someone with a mental health disorder allowed to register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is someone convicted of a crime allowed to register to vote?",
+            "current_q": "Is someone convicted of a crime allowed to register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.983,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "May I use a PO Box address as my residence address on my application?",
+            "current_q": "May I use a PO Box address as my residence address on my application?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is there a deadline for registering to vote?",
+            "current_q": "Is there a deadline for registering to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Will my voter registration information stay private?",
+            "current_q": "Will my voter registration information stay private?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "May homeless people register to vote?",
+            "current_q": "May homeless people register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I cancel my voter registration?",
+            "current_q": "How do I cancel my voter registration?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I cancel the voter registration of a deceased family member?",
+            "current_q": "How do I cancel the voter registration of a deceased family member?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I help other people register to vote?",
+            "current_q": "How can I help other people register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.994,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I apply to vote absentee electronically as a voter with a physical disability?",
+            "current_q": "Can I apply to vote absentee electronically as a voter with a physical disability?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.717,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is the next election?",
+            "current_q": "When is the next election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.637,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When and where do I vote?",
+            "current_q": "When and where do I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.525,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens at the polling place?",
+            "current_q": "What happens at the polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.813,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I need to provide identification if I vote absentee?",
+            "current_q": "Do I need to provide identification if I vote absentee?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "My poll workers said my ballot would be provisional. What does that mean?",
+            "current_q": "My poll workers said my ballot would be provisional. What does that mean?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.995,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who is running for office?",
+            "current_q": "Who is running for office?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who are the current elected officials?",
+            "current_q": "Who are the current elected officials?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are polling places accessible to voters with disabilities?",
+            "current_q": "Are polling places accessible to voters with disabilities?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can someone help me vote my ballot?",
+            "current_q": "Can someone help me vote my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does West Virginia have absentee voting or vote by mail?",
+            "current_q": "Does West Virginia have absentee voting or vote by mail?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I cannot make it to the polls. Can I vote by mail?",
+            "current_q": "I cannot make it to the polls. Can I vote by mail?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I vote as a member of uniformed services on active duty, their spouse or dependent, or a citizen residing overseas?",
+            "current_q": "How do I vote as a member of uniformed services on active duty, their spouse or dependent, or a citizen residing overseas?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I will be in the hospital on Election Day. How can I vote?",
+            "current_q": "I will be in the hospital on Election Day. How can I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.846,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I am in the Address Confidentiality Program. How can I vote?",
+            "current_q": "I am in the Address Confidentiality Program. How can I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.985,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I have a permanent disability that prevents me from going to the polling place. How can I vote?",
+            "current_q": "I have a permanent disability that prevents me from going to the polling place. How can I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I vote absentee electronically as a qualified voter with a physical disability?",
+            "current_q": "How do I vote absentee electronically as a qualified voter with a physical disability?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.962,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I applied for an absentee ballot. When will my County Clerk send my ballot?",
+            "current_q": "I applied for an absentee ballot. When will my County Clerk send my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the deadline for applying for an absentee ballot?",
+            "current_q": "What is the deadline for applying for an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the deadline for sending my absentee ballot?",
+            "current_q": "What is the deadline for sending my absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I sent my absentee ballot. How do I know if my County Clerk receives it?",
+            "current_q": "I sent my absentee ballot. How do I know if my County Clerk receives it?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Which political parties are recognized in West Virginia?",
+            "current_q": "Which political parties are recognized in West Virginia?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.926,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What does it mean to become a recognized political party?",
+            "current_q": "What does it mean to become a recognized political party?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are primary elections and conventions?",
+            "current_q": "What are primary elections and conventions?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I have to register with one of the recognized political parties?",
+            "current_q": "Do I have to register with one of the recognized political parties?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are minor, independent, and third parties?",
+            "current_q": "What are minor, independent, and third parties?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do people not affiliated with a recognized political party run for office?",
+            "current_q": "How do people not affiliated with a recognized political party run for office?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I register in a political party?",
+            "current_q": "How do I register in a political party?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does my political party matter in the primary election?",
+            "current_q": "Does my political party matter in the primary election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.781,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Will all of the recognized political parties have a ballot in the primary election?",
+            "current_q": "Will all of the recognized political parties have a ballot in the primary election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.987,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does my political party matter in the general election?",
+            "current_q": "Does my political party matter in the general election?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I change my political party?",
+            "current_q": "How do I change my political party?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are there any deadlines for changing my political party?",
+            "current_q": "Are there any deadlines for changing my political party?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Learn more here: Which Ballot May I Vote?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I request and return an absentee ballot for an upcoming general election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What should I do if there's an issue with my absentee or provisional ballot before the election deadline?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information on campaign contributions for candidates and ballot measures?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I access comprehensive details about candidates and ballot measures in the election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the options and deadlines for submitting my ballot using drop boxes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When does early voting start and end, and how can I participate in early voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I find out the important dates for upcoming elections?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility criteria to vote in an election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of identification are required to register to vote, and how can I prove my citizenship?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of identification are acceptable at polling places for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When and where will the official election results be available, and how can I track them?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can military personnel and overseas citizens register and vote in elections?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements and steps to become a poll worker for an election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the operating hours of polling places on Election Day?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I find the exact location of my designated polling place?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work for affiliated and unaffiliated voters?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Under what circumstances will I need to cast a provisional ballot, and how is it processed?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What accessible voting options are available for voters with disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the voter registration deadline for the upcoming election, and how can I register online?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are my rights regarding time off work to vote in elections?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I verify my voter registration status and address any issues?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of voting machines are used at polling places, and how do they operate?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/west-virginia",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I VOTE ABSENTEE?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE FOR REQUESTING AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I RETURN MY ABSENTEE BALLOT APPLICATION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN REGISTER TO VOTE IN WEST VIRGINIA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHO CAN VOTE IN WEST VIRGINIA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I VOTE IN WEST VIRGINIA IF I HAVE A FELONY CONVICTION?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "CAN I REGISTER AND VOTE IN WEST VIRGINIA IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN WEST VIRGINIA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN WEST VIRGINIA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER IN WEST VIRGINIA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What do I need to register to vote in West Virginia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I register to vote using my college address in West Virginia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What’s the deadline to register to vote in West Virginia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What form of ID do I need to vote in West Virginia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "I’m originally from another state, can I still vote in my home state while studying in West Virginia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in West Virginia?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "DO I NEED TO SHOW ID WHEN I VOTE IN WEST VIRGINIA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT TYPES OF ID CAN I USE TO VOTE IN WEST VIRGINIA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN WEST VIRGINIA?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/west-virginia",
+            "source": "vote411"
+        }
+    ]
+}

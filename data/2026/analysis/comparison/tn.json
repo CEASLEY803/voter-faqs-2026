@@ -1,0 +1,732 @@
+{
+    "state": "tn",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "Can I hand deliver my ballot to the election office?",
+            "current_q": "Can I hand deliver my ballot to the election office?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Do I qualify for the permanent absentee list?",
+            "current_q": "Do I qualify for the permanent absentee list?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.988,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is additional information required to vote absentee by-mail if I am a first-time voter who registered to vote by-mail?",
+            "current_q": "Is additional information required to vote absentee by-mail if I am a first-time voter who registered to vote by-mail?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "May I track my absentee ballot?",
+            "current_q": "May I track my absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I do not receive or ruin my ballot and can no longer use it?",
+            "current_q": "What if I do not receive or ruin my ballot and can no longer use it?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the deadline to return my ballot so it can be counted?",
+            "current_q": "What is the deadline to return my ballot so it can be counted?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When can I request my ballot?",
+            "current_q": "When can I request my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.976,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I contact my county election commission?",
+            "current_q": "How do I contact my county election commission?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where can I find election results?",
+            "current_q": "Where can I find election results?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where do I send a General Election Complaint Form?",
+            "current_q": "Where do I send a General Election Complaint Form?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Who are my elected officials?",
+            "current_q": "Who are my elected officials?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I download the GoVoteTN app?",
+            "current_q": "How can I download the GoVoteTN app?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the GoVoteTN app?",
+            "current_q": "What is the GoVoteTN app?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Does my complaint qualify as a Title III HAVA complaint?",
+            "current_q": "Does my complaint qualify as a Title III HAVA complaint?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens if I file a Title III (HAVA) complaint?",
+            "current_q": "What happens if I file a Title III (HAVA) complaint?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where do I send the Title III (HAVA) complaint form?",
+            "current_q": "Where do I send the Title III (HAVA) complaint form?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How may I receive my absentee ballot?",
+            "current_q": "How may I receive my absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Must I already be a registered voter to vote in Tennessee pursuant to this provision?",
+            "current_q": "Must I already be a registered voter to vote in Tennessee pursuant to this provision?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Must I submit an application for each election in the upcoming year?",
+            "current_q": "Must I submit an application for each election in the upcoming year?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "To be counted, when must the voted ballot be received by the county election commission?",
+            "current_q": "To be counted, when must the voted ballot be received by the county election commission?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I do not receive or ruin my ballot and can no longer use it?",
+            "current_q": "What if I do not receive or ruin my ballot and can no longer use it?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When may a military or overseas individual apply to vote by absentee ballot?",
+            "current_q": "When may a military or overseas individual apply to vote by absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.99,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Are poll workers paid or volunteers?",
+            "current_q": "Are poll workers paid or volunteers?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do I become a poll worker?",
+            "current_q": "How do I become a poll worker?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "May state employees become poll workers?",
+            "current_q": "May state employees become poll workers?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the hours of work?",
+            "current_q": "What are the hours of work?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the qualifications to be a poll worker?",
+            "current_q": "What are the qualifications to be a poll worker?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the responsibilities of a poll worker?",
+            "current_q": "What are the responsibilities of a poll worker?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What are the training requirements for poll workers?",
+            "current_q": "What are the training requirements for poll workers?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where will I be assigned?",
+            "current_q": "Where will I be assigned?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "If I have a felony conviction, can I vote?",
+            "current_q": "If I have a felony conviction, can I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.256,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I get a free photo ID card even if I have one of the other acceptable forms of photo ID?",
+            "current_q": "Can I get a free photo ID card even if I have one of the other acceptable forms of photo ID?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.367,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How can I check the status of my absentee by-mail ballot?",
+            "current_q": "How can I check the status of my absentee by-mail ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is an expired photo ID acceptable?",
+            "current_q": "Is an expired photo ID acceptable?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Is my photo ID acceptable?",
+            "current_q": "Is my photo ID acceptable?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What ID is required when voting?",
+            "current_q": "What ID is required when voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I don’t bring a photo ID to the polling place?",
+            "current_q": "What if I don’t bring a photo ID to the polling place?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What if I don’t have a photo ID?",
+            "current_q": "What if I don’t have a photo ID?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What will I need to get a free photo ID from the Department of Safety and Homeland Security?",
+            "current_q": "What will I need to get a free photo ID from the Department of Safety and Homeland Security?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When can I vote?",
+            "current_q": "When can I vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Where is my nearest driver service center?",
+            "current_q": "Where is my nearest driver service center?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Am I registered to vote?",
+            "current_q": "Am I registered to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I complete the online voter registration application on an iPad, tablet or smartphone?",
+            "current_q": "Can I complete the online voter registration application on an iPad, tablet or smartphone?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I register to vote online if I do not have an ID issued by the Tennessee Department of Safety and Homeland Security?",
+            "current_q": "Can I register to vote online if I do not have an ID issued by the Tennessee Department of Safety and Homeland Security?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I update my voter registration information through the online voter registration application?",
+            "current_q": "Can I update my voter registration information through the online voter registration application?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can I vote online?",
+            "current_q": "Can I vote online?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Non-US Citizens Not Eligible to Vote In Tennessee Elections",
+            "current_q": "Can non-U.S. citizens vote in Tennessee elections?",
+            "question_similarity": 0.804,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "answer_status": "changed",
+            "answer_similarity": 0.235,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I apply to vote absentee as a Military or Overseas voter under T.C.A. § 2-6-502",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I can’t afford a copy of my birth certificate, so I can’t get a photo ID. Can I still vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I have a driver license, but it doesn’t have a photo. Can I use it to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.tn.gov/elections/faqs",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is the state’s process for reviewing voter rolls to ensure accuracy?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What should Tennesseans do if they would like to report specific instances of suspected voter fraud?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.tn.gov/elections/faqs",
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the deadline for receiving absentee ballots in Tennessee?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can you request a mail-in ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What should you do if you spoil your absentee ballot or have not received it, and what are the rules for first-time voters who register by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where are ballot drop boxes located?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is early voting available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility requirements to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID do I need to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of identification are accepted for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are official election results released?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements to become a poll worker?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the voting hours at polling places?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find my Voter Service and Polling Center location?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When would I need to vote using a provisional ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What accommodations are available for voters with disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the deadline to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the rules for taking time off work to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of voting machines are used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/tennessee",
+            "current_s": null,
+            "source": "vote411"
+        }
+    ]
+}

@@ -1,0 +1,548 @@
+{
+    "state": "ia",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "removed",
+            "baseline_q": "How do I register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I determine my residence for voter registration purposes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I've lost my voter registration card. How do I get it replaced?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "If I am already registered to vote, do I have to register to vote before each election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I am retired and spend time at my vacation home during the winters. Can I still vote in Iowa?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can someone with the power of attorney sign a voter registration form on a voter's behalf?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Do I have to vote according to the party affiliation on my voter registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Is my voter registration record information considered public information?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can the status of my voter registration change?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are Iowaâs eligibility requirements for voter registration and voting purposes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I determine my residence for voting purposes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Why do I need to provide an exact address for voting purposes?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "If I have moved, how do I update my residential or mailing address?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Do I need to provide identification to register to vote or request a ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the deadline for voter registration?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the deadline to request an absentee ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the return deadline for a Federal Write-in Absentee Ballot (FWAB)?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are absentee ballots available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Do I need to complete a federal postcard application (FPCA) or absentee ballot request for each individual election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What if I move after I requested a ballot but before I receive it?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is a federal write-in absentee ballot (FWAB)?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the primary election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is Iowa's primary election held?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Do I have to be registered with a political party to vote in the primary election?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I request an absentee ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Do I need to get my request for an absentee ballot notarized or witnessed?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Can someone with the power of attorney request an absentee ballot on a voter's behalf?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Does Iowa have permanent absentee voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How do I mark my ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "If I need assistance while voting my absentee ballot, can someone assist me?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What can I do if I make a mistake when voting my ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What should I do if I requested an absentee ballot but I have not received it?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What can I do if my absentee ballot was damaged/I lost my absentee ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "If a voter casts an absentee ballot but dies before Election Day, is the ballot counted?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "I've heard that absentee ballots are only counted if they will affect the outcome of the election. Is this true?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How Can The Secretary Help You?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.iowa.gov/elections/voterinformation/uocava/faqs.html",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the process for voting by absentee ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I fix issues with my mail-in ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information about campaign finance?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information about candidates and ballot measures?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where are ballot drop boxes located?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is early voting available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the upcoming election dates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility requirements to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID do I need to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of identification are accepted for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are official election results released?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can military and overseas voters cast their ballots?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements to become a poll worker?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the voting hours at polling places?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find my Voter Service and Polling Center location?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When would I need to vote using a provisional ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What accommodations are available for voters with disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the deadline to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the rules for taking time off work to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I verify my voter registration status?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What types of voting machines are used?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/iowa",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What is a valid form of ID to show at the polls?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/iowa",
+            "source": "vote411"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What about voters who don’t have an ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/iowa",
+            "source": "vote411"
+        }
+    ]
+}

@@ -1,0 +1,438 @@
+{
+    "state": "or",
+    "baseline_year": 2024,
+    "year": 2026,
+    "reworded_threshold": 0.8,
+    "items": [
+        {
+            "status": "same",
+            "baseline_q": "How do I register to vote?",
+            "current_q": "How do I register to vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I received a text message saying that I might not be a \"voter.\" What does this mean?",
+            "current_q": "I received a text message saying that I might not be a “voter.” What does this mean?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How does vote-by-mail work?",
+            "current_q": "How does vote-by-mail work?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "When is Election Day / When are ballots due?",
+            "current_q": "When is Election Day / When are ballots due?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "answer_status": "changed",
+            "answer_similarity": 0.752,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What is the postmark rule / Can I mail my ballot on Election Day?",
+            "current_q": "What is the postmark rule / Can I mail my ballot on Election Day?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Why aren't some candidates in the Voters' Pamphlet?",
+            "current_q": "Why aren’t some candidates in the Voters’ Pamphlet?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How do we determine the order of Republicans and Democrats in the voters' pamphlet?",
+            "current_q": "How do we determine the order of Republicans and Democrats in the voters’ pamphlet?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Why are \"independent\" or nonaffiliated candidates not on the primary election ballot?",
+            "current_q": "Why are “independent” or nonaffiliated candidates not on the primary election ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "answer_status": "changed",
+            "answer_similarity": 0.981,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How does Oregon keep my vote private?",
+            "current_q": "How does Oregon keep my vote private?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "answer_status": "changed",
+            "answer_similarity": 0.998,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How does Oregon validate accurate results?",
+            "current_q": "How does Oregon validate accurate results?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How does Oregon protect against voter fraud?",
+            "current_q": "How does Oregon protect against voter fraud?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "I'm not going to be present to receive a ballot where I'm registered. How do I receive an absentee ballot?",
+            "current_q": "I’m not going to be present to receive a ballot where I’m registered. How do I receive an absentee ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Can formerly incarcerated people vote?",
+            "current_q": "Can formerly incarcerated people vote?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What happens if I get multiple ballots?",
+            "current_q": "What happens if I get multiple ballots?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "How does Oregon ensure only U.S. citizens are voting?",
+            "current_q": "How does Oregon ensure only U.S. citizens are voting?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "same",
+            "baseline_q": "What determines the order candidates are listed on my ballot?",
+            "current_q": "What determines the order candidates are listed on my ballot?",
+            "question_similarity": 1.0,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "reworded",
+            "baseline_q": "Something is wrong with my ballot/Replacement ballot?",
+            "current_q": "Something is wrong with my ballot/Replacement ballot. Who can help?",
+            "question_similarity": 0.889,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Why don't I see Republicans/Democrats on my ballot? Understanding closed primaries.",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Track your ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "current_s": null,
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How Can We Help You?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Where can voters find resources for the 2026 Elections?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "source": "state"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Why do the “active voter” numbers keep changing on the unofficial voting results page?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+            "source": "state"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the process for voting by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I fix issues with my mail-in ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information about campaign finance?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find information about candidates and ballot measures?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where are ballot drop boxes located?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When is early voting available?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are the upcoming election dates?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the eligibility requirements to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What ID do I need to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What forms of identification are accepted for voting?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When are official election results released?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can military and overseas voters cast their ballots?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements to become a poll worker?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the voting hours at polling places?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "Where can I find my Voter Service and Polling Center location?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How does the primary election process work?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "When would I need to vote using a provisional ballot?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What accommodations are available for voters with disabilities?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What is the deadline to register to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the rules for taking time off work to vote?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "How can I verify my voter registration status?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        },
+        {
+            "status": "removed",
+            "baseline_q": "What are the requirements for voting by mail?",
+            "current_q": null,
+            "question_similarity": null,
+            "baseline_s": "https://www.vote411.org/oregon",
+            "current_s": null,
+            "source": "vote411"
+        }
+    ]
+}
