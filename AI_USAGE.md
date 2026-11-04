@@ -118,3 +118,29 @@ User decision, verbatim, when asked how to capture the 15 states that refuse scr
 > I'll save them myself
 
 Coding assistance: add `--checklist` to `snapshot_state_sites.py`, which lists each blocked page with the file name to save it under, and `--import-manual`, which copies pages the user saved from their own browser into the existing batch. Imported pages are marked `manual browser save`, take their collection time from the saved file's modified time, and are rejected if they are bot-check pages or if the page's canonical address is on another site. Tested on a throwaway copy of the batch with made-up files. The user saves the pages; the code only imports them. Model information is the same as the October 26 entry.
+
+## November 4, 2026: parsing, combined dataset, comparison, analysis and pipeline
+
+User request, verbatim:
+
+> Finish the remaining code for the project. It should be rerunnable for a future election cycle.
+>
+> 1. Parse the saved state election site pages in data/2026/state_sites/20261029T220403252970Z/ into Q&A records with q, a, s and t, the same fields as the 2024 files.
+>    - Use one general parser instead of one per state. On most pages a question is a short block ending in a question mark, sometimes starting with Q: or Q., and its answer is everything after it until the next question or the next heading that is not a question. This covers headings, accordion buttons, bold lead-ins and dt/dd lists.
+>    - Remove navigation menus, headers, footers and sidebars first, since the menus on the NV, IA, ND and MA pages contain short question-like lines. Drop questions with empty answers so tables of contents are not turned into records.
+>    - Keep parse_scvotes for South Carolina. Allow site-specific parsers to be added later through a lookup by hostname.
+>    - Parse the Delaware pollbook PDF with pypdf or flag it.
+>    - The Iowa FAQ, the Delaware general FAQ and the Colorado main FAQ page have no FAQ text in the saved HTML. Flag them instead of guessing.
+>    - Compare each page's record count to the number of records the same URL produced in 2024 and flag pages that come out well below it.
+>
+> 2. Build a combined 2026 dataset with one file per state in the same format as data/2024, using the Vote411 records from the latest validated batch plus the state site records, and a manifest listing which batches it came from.
+>
+> 3. Compare 2024 and 2026 per state within each source, state site against state site and Vote411 against Vote411, using the s URL. Classify questions as same, reworded, new or removed, and flag changed answers for matched questions. Handle the 2024 quirks: tx_qa.json uses metadata and data instead of questions, nm_qa.json has no records, Delaware is filed as dl, and some MA records list Voting-Mass.gov or Voting411.org as the source instead of a URL.
+>
+> 4. Cross-state analysis and charts: counts per state for both years, change rates, and topic coverage for registration, mail and absentee voting, early voting, voter ID, polling places and deadlines, using keyword rules. Rank states by coverage and by amount of change.
+>
+> 5. One command that runs the whole pipeline for a given cycle, with the year as an input instead of hardcoded 2026, plus a review file for marking each state approved with a name and date. The analysis should be able to run on approved states only.
+>
+> Add any new libraries to requirements.txt with pinned versions.
+
+Coding assistance: add `datasets.py` (reads yearly datasets, including the 2024 `tx` layout and the `nm` file, which holds 66 records as parallel `q`, `a` and `s` lists under the code `mx`; classifies records as state site, Vote411 or other), `parse_state_sites.py` (general parser, `SITE_PARSERS` hostname lookup with `parse_scvotes`, numbered-PDF parsing with pypdf, flags for pages with no records or under half the 2024 count for the same URL), `build_dataset.py` (writes `data/<year>/combined/` and its manifest), `compare_years.py` (same, reworded at similarity 0.8 or higher, new and removed questions; answer changes with similarity scores, ignoring lines repeated across most answers of a page), `analyze_states.py` (counts, change rates, keyword topic coverage, rankings and three matplotlib charts) and `run_pipeline.py` (one command per cycle, a review file at `data/<year>/review.csv`, and `--approved-only`). The collectors take `--year`. Parser rules were adjusted after checking the output against the saved pages and the 2024 counts for NV, TN, WY, NJ, WA, AZ, VT and WV. The thresholds (0.8 for rewording, 0.6 for repeated lines) were chosen by Claude from samples of the data and are constants in the code. Charts use a palette checked with the dataviz skill's validator. Code and data outputs only: no interpretation or report text was written. Pypdf 6.21.4 and matplotlib 3.11.2 were already installed and are now pinned. The README was not edited. Model information is the same as the October 26 entry.
