@@ -80,6 +80,8 @@ def normalize_text(text):
     text = re.sub(r"(?:https?://|www\.)\S+", " ", text)
     text = re.sub(r"^\s*[QA]\s*[:.)]\s*", "", text, flags=re.I)
     text = re.sub(r"^\s*\d+[.)]\s+", "", text)  # Missouri numbers its questions
+    # Delete apostrophes, so "don't", "don’t" and 2024's broken "don�t" all become "dont".
+    text = re.sub(r"['‘’`�]", "", text)
     text = re.sub(r"[^\w\s]", " ", text.lower())
     return re.sub(r"\s+", " ", text).strip()
 
