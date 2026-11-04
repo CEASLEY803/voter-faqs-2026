@@ -1,0 +1,788 @@
+{
+    "state": "nm",
+    "num_questions": 130,
+    "num_answers": 130,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "How do I register to vote in New Mexico?",
+            "a": "- If you have a current or expired New Mexico state I.D. or driver’s license, you can register or update your registration online with our Online Voter Registration System:https://portal1.sos.nm.gov/OVR/WebPages/InstructionsStep1.aspx\n- A voter can use the paper application found here: (English  (https://www.sos.nm.gov/wp-content/uploads/2026/08/VoterReg_SHELL_2026_ENG-2.pdf)/ Español (https://www.sos.nm.gov/wp-content/uploads/2026/08/VoterReg_SHELL_2026_SPANISH-2.pdf)) and mail it to your to your County Clerk’s Office (https://www.sos.nm.gov/voting-and-elections/voter-information/county-clerk-information/)\n- A voter may request a copy of the paper application be mailed to them by contacting your County Clerk’s Office (https://www.sos.nm.gov/voting-and-elections/voter-information/county-clerk-information/)\n- You may also register with a Third-Party Registration Agent (see below).",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "What do I need to provide when I register to vote by mail?",
+            "a": "- If you are registering for the first time in New Mexico, and you submit the registration form by mail, then you must submit with the form a copy of (1) a current and valid photo identification; or (2) a current utility bill, bank statement, government check, paycheck, student identification card or other government document, including identification issued by an Indian nation, tribe or pueblo that shows your name and current address. If you do not submit one of these forms of identification with your mailed-in, first time registration, then you will be required to present one of the forms of identification when voting in person or absentee.\n- Once the county clerk has accepted the form for filing, individuals or groups may make a public records request. However, the day and month of birth and the Social Security number on the form is always privacy protected.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "How do I check whether I am registered in New Mexico?",
+            "a": "- You can check your registration status using the Secretary of State’s online Voter Services, available here (https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx).",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "Where can I get a Voter Registration Application Form?",
+            "a": "- In New Mexico, we have distributed registration forms throughout county clerks offices. The forms are also available at the Secretary of State’s office in Santa Fe, Motor Vehicle Division offices, and many other public assistance offices. You can also call our office at 1.800.477.3632 and ask for a registration form to be mailed to you.\n- A voter can use the paper application found here: (English  (https://www.sos.nm.gov/wp-content/uploads/2026/08/VoterReg_SHELL_2026_ENG-2.pdf)/ Español (https://www.sos.nm.gov/wp-content/uploads/2026/08/VoterReg_SHELL_2026_SPANISH-2.pdf)) and mail it to your to your County Clerk’s Office (https://www.sos.nm.gov/voting-and-elections/voter-information/county-clerk-information/)",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "How long do I need to be a resident of New Mexico before I can register to vote?",
+            "a": "- You can register immediately upon becoming a resident.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "I recently moved to New Mexico and do not have a New Mexico state I.D. nor driver’s license, can I register to vote?",
+            "a": "- Yes! You do not need a New Mexico MVD issued I.D. or driver’s license to vote. MVD issued forms of identification are only required for online registration and online absentee ballot requests.\n- You can use the paper application found here: (English  (https://www.sos.nm.gov/wp-content/uploads/2026/08/VoterReg_SHELL_2026_ENG-2.pdf)/ Español (https://www.sos.nm.gov/wp-content/uploads/2026/08/VoterReg_SHELL_2026_SPANISH-2.pdf)) to register to vote. Your out-of-state I.D. or driver’s license in combination with a current utility bill, bank statement, government check, paycheck, student identification card or other government document, including identification issued by an Indian nation, tribe or pueblo that shows your name and current address to meet the identification requirement. (Section 1-4-5.1(I) NMSA 1978).",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "When does voter registration close?",
+            "a": "- Voter registration closes 28 days prior to an election. (Section 1-4-8, NMSA 1978).\n- Same-Day Voter Registration: Same day voter registration is available. Click HERE (https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/) for FAQ page\n- Registration applications may be submitted by hand or mail to the appropriate county clerks through the Friday following the registration deadline, provided the date and/or postmark is before the deadline (28 days prior to the election). (Section 1-4-8 (F), NMSA 1978).",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "Do I need to register for every election?",
+            "a": "- No, registration is permanent in New Mexico. If you have moved and not voted in several years, it is possible your name may be removed from the voter rolls in accordance with the National Voter Registration Act (see National Voter Registration Act (NVRA) Questions, below). Check your voter registration status to make sure you are registered and all your information is correct at https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "Do I need to change my registration if I move? Even if I move to a different address in the same city?",
+            "a": "- Yes, the content of your ballot including districted offices, bond questions, and other types of ballot contests is directly associated with the precinct of your physical address of registration.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "Am I required to select a political party in order to complete the registration form?",
+            "a": "- No. You can choose to select a political party affiliation if you wish, or you can decide to not be affiliated with any political party. The choice is yours to make and does not impact the validity of your registration form.\n\n- Any applicant may choose to check the “No Party” box on the application; this will result in you being registered as a Decline-to-State (DTS) voter.\n\n- The major political parties in New Mexico are:\n\n  - Democratic Party\n  - Republican Party\n- New Mexico now has open primaries, effective July 1, 2025. That means all decline-to-state voters (aka non-affiliated voters who have not registered with a major or minor party) can participate in New Mexico Primary Elections without changing their registration status.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "How do I change my party?",
+            "a": "- You need to fill out a new voter registration form and submit it to the county clerk or Secretary of State’s office or submit a new registration online in order to change your party affiliation.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "I am 17 years old now but will be 18 before the next state general election. Can I complete a voter registration form now and will I then be able to sign petitions?",
+            "a": "- You may complete the voter registration form now, but you may not sign any petition. 17 year olds who will be 18 by the general election may participate in the primary election. Voters must be 18 to participate in all other elections.\n- By completing the voter registration form now, you are in essence pre-registering but you do not become an eligible voter until you have reached your 18th birthday. Only eligible voters may sign petitions or vote in an election.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "A person on the street offered to help me register to vote. Is that valid?",
+            "a": "State law allows for Third-Party Registration Agents to assist persons to register to vote (Section 1-4-49, NMSA 1978). These agents must attend a training and register with the Secretary of State’s Office. They can proof the validity of their third party registration agent status by showing you their notarized ‘Voter Registration Agent Identification Form.’",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "I have an unlisted phone number. Do I have to provide that information on the voter registration form?",
+            "a": "- No, however, it does come in handy if the Secretary of State or County Clerk need to contact you in the event there is an issue concerning the processing of your registration. If you have an unlisted phone number and you are willing to provide that number, simply check “No” next to the phone number and we will not disclose that number to anyone else.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "How do I know that my voter registration application form was received and processed?",
+            "a": "- You can check your registration status at any time using our My Registration Information tool: https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx\n- Once the county clerk has processed your registration form, they will send confirmation of your registration by mail in the form of a voter information card. Once you receive the card, please review it to make certain there are no errors in the spelling of your name, your address or your political party affiliation. The time it takes to process your voter registration application varies from county to county and depends on whether the registration books are closed due to an upcoming election. Please contact your county clerk (https://www.sos.nm.gov/voting-and-elections/voter-information-portal/county-clerk-information/) if you have any questions about your registration being processed.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "Will I be notified if there is a problem with my registration form?",
+            "a": "- Yes. If the form you submit is missing information that prevents your registration, you will be notified by a letter sent to the address on the registration form. That letter is sent within ten days or less from receipt of your form. The letter will specify what the problem with your registration form is and will include a new registration form or other instructions on how to correct the situation.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "What happens if I register to vote after registration closes (within 28 days of an election)?",
+            "a": "- If you register to vote after registration has closed, the county clerk will still accept your voter registration application but it will not be processed until the thirty-five (35) days after the election.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "Can I register to vote if I have been convicted of a crime?",
+            "a": "- If you are currently incarcerated for a felony offense you cannot vote or register to vote while you are incarcerated.\n- However, once you are no longer confined to a jail, prison, or other correctional facility you can register and vote in New Mexico elections. You can register to vote and vote even if you are on probation or parole.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "What do I need to do to have my voting rights restored following a felony conviction?",
+            "a": "- As you are finishing your incarceration you will be given the chance to register to vote, either through an online portal or paper form, or when you are obtaining a license or ID card through the Motor Vehicles Department (MVD).\n- If you were already registered to vote before your incarceration, you will be given the chance to update your existing registration as you are finishing your incarceration.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "What are the currently qualified political parties in New Mexico?",
+            "a": "Major Parties\n\n- Democratic Party of New Mexico\n- Republican Party of New Mexico\n\nIn New Mexico, only major political party candidates will appear on the Primary Election ballot. The two major political parties are the New Mexico Democratic Party and the New Mexico Republican Party.\n\nMinor Parties (Qualified Political Parties in New Mexico)\n\n- Libertarian Party of New Mexico\n- Green Party of New Mexico\n\nQualified minor party candidates may appear on the General Election ballot and are nominated for office pursuant to the party rules on file with the Secretary of State and pursuant to NMSA 1978 §§ 1-8-2 and 1-8-3.\n\n ",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+            "t": "2026-10-29T22:09:34+00:00"
+        },
+        {
+            "q": "Do I need to present identification when I vote?",
+            "a": "- You do not have to present identification to vote in a statewide election. When registering for the first time in New Mexico, you must submit a copy of (1) a current and valid photo identification; or (2) a current utility bill, bank statement, government check, paycheck, student identification card or other government document, including identification issued by an Indian nation, tribe or pueblo that shows your name and current address. If you do not submit the required identification with your mailed-in, first time registration, then you will be required to present one of the forms of identification when voting in person or absentee.\n- Some municipal jurisdictions in New Mexico have ordinances in place that require voter id be presented to vote in city elections. This includes the City of Rio Rancho.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "t": "2026-10-29T22:09:35+00:00"
+        },
+        {
+            "q": "What identification do I need to provide when I vote?",
+            "a": "- A physical form of identification is only required for first-time New Mexico voters who registered by mail and did not include identification with their voter registration application form.\n- Otherwise, you will be asked to provide a verbal or written statement of identification including your name, year of birth, and registered address.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "t": "2026-10-29T22:09:35+00:00"
+        },
+        {
+            "q": "Can I vote if my status is \"inactive\"?",
+            "a": "- Yes, an “inactive” status does not prohibit any registered voter to vote. You will vote like usual and your status will return to “active.”",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "t": "2026-10-29T22:09:35+00:00"
+        },
+        {
+            "q": "How can military and overseas voters participate in voting in an election?",
+            "a": "- Information, deadlines and eligibility requirements for military and overseas voters can be found Here. (https://portal1.sos.nm.gov/OVR/WebPages/MilitaryDoc.aspx?AspxAutoDetectCookieSupport=1)",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "t": "2026-10-29T22:09:35+00:00"
+        },
+        {
+            "q": "How much does it cost to mail my Absentee Ballot?",
+            "a": "- Return postage is pre-paid.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "t": "2026-10-29T22:09:35+00:00"
+        },
+        {
+            "q": "The outer envelope of my Absentee Ballot requests an AV Register Number. Do I fill this out?",
+            "a": "- You can leave that information blank. This information is for internal use only.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "t": "2026-10-29T22:09:35+00:00"
+        },
+        {
+            "q": "Can others find out how I voted?",
+            "a": "- By law, your ballot is secret and no one can find out how you voted. Certain portions of your voter registration record, including party affiliation and whether or not you vote in a particular election, is public record and may be requested. Voter registration record information is most often requested by political parties and candidates.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "t": "2026-10-29T22:09:35+00:00"
+        },
+        {
+            "q": "If I am unable to mail my Absentee ballot, who is allowed to drop it off and where?",
+            "a": "- Pursuant to NMSA 1978, Section 1-6-10.1, a voter, caregiver to that voter or member of that voter’s “immediate family” defined as a person’s spouse, children, parents, brothers and sisters may deliver a voter’s absentee ballot to the county clerk in person or by mail.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "t": "2026-10-29T22:09:35+00:00"
+        },
+        {
+            "q": "How do I correctly write-in a candidate on my ballot?",
+            "a": "- When casting the write-in vote, fill in the oval and write the name of the declared write-in candidate. Unless both of these requirements are fulfilled, the vote will not be counted.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "t": "2026-10-29T22:09:35+00:00"
+        },
+        {
+            "q": "What kind of ballots and voting systems are used in New Mexico?",
+            "a": "- New Mexico uses hand-marked, paper ballots that are scanned on an optical scan tabulating system. This system is used for early voting, to count mailed ballots, and on Election Day at each polling location. New Mexico’s voting equipment is uniform statewide.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "t": "2026-10-29T22:09:35+00:00"
+        },
+        {
+            "q": "What is an emergency alternative ballot?",
+            "a": "- If you become ill after the period for absentee balloting and are unable to go to the polls, you may request, in writing, that an emergency alternative ballot be made available to you. The written request must be signed by the voter and a health care provider under penalty of perjury (Section 1-6-16.2, NMSA 1978).",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "t": "2026-10-29T22:09:35+00:00"
+        },
+        {
+            "q": "What if I need help in voting? Who can help me with my ballot?",
+            "a": "- You may request assistance in voting at the polls if you are blind, physically disabled, unable to read or write, or a member of a language minority (Section 1-12-12, NMSA 1978).\n- Any person of your choice may assist you, except your employer, an agent of the employer, an officer or agent of your union, or a candidate whose name is on the ballot (Section 1-12-15, NMSA 1978).\n\n ",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+            "t": "2026-10-29T22:09:35+00:00"
+        },
+        {
+            "q": "Who is eligible for same day voter registration (SDR)?",
+            "a": "Any eligible voter in New Mexico can register to vote or update their voter registration and then vote on the same day at their County Clerk’s office or at any polling location in their county on Election Day and participating Early Voting locations.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "t": "2026-10-29T22:09:36+00:00"
+        },
+        {
+            "q": "Where is SDR available?",
+            "a": "SDR is available for eligible voters at their County Clerk’s office or at any polling location in their county on Election Day. Additional Early Voting locations may also provide SDR – it’s best to check with your local county clerk.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "t": "2026-10-29T22:09:36+00:00"
+        },
+        {
+            "q": "What do I need to bring for SDR?",
+            "a": "A physical form of identification that is issued by the federal government, a state government, a federally recognized Indian nation, tribe or pueblo or an educational institution and that:\n\n(1) contains the name of the qualified elector, which shall reasonably match the name provided on the certificate of registration;\n\n(2) contains a photograph of the qualified elector, which shall resemble the qualified elector;\n\n(3) need not contain an expiration date, and if it does, the expiration date is not required to be a date on or after the date of the election; and\n\n(4) shall either:\n\n(a) contain an address that matches the address provided for the certificate of registration; or\n\n(b) be accompanied by an original or copy of a utility bill, bank statement, government check, paycheck or other document issued by an educational institution or government, including a document issued by a federally recognized Indian nation, tribe or pueblo, dated within the ninety days prior to the qualified elector registering to vote or updating an existing certificate of registration and that contains the name of the qualified elector, which shall reasonably match the name provided on the certificate of registration, and an address that matches the address provided for the certificate of registration.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "t": "2026-10-29T22:09:36+00:00"
+        },
+        {
+            "q": "How does SDR work for decline-to-state (DTS) and minor party voters wishing to vote in the Primary Election?",
+            "a": "Decline-to-state voters in New Mexico are registered voters who have chosen not to affiliate with a major political party. Minor party voters are registered with political parties that do not have major party status (currently, only Democrats and Republicans are recognized as major parties in New Mexico).\n\nOnly voters who are affiliated with a major party can vote in Primary Elections in New Mexico (General Elections are open to all registered voters).\n\nNew Mexico now has open primaries, effective July 1, 2025. That means all decline-to-state voters (aka non-affiliated voters who have not registered with a major or minor party) can participate in New Mexico Primary Elections without changing their registration status.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "t": "2026-10-29T22:09:36+00:00"
+        },
+        {
+            "q": "Is SDR available for voters registered with a major party?",
+            "a": "Major party voters may update name, address, or other contact info during SDR. However, if you are currently registered with a major political party you cannot use SDR to switch parties during the Primary Election.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "t": "2026-10-29T22:09:36+00:00"
+        },
+        {
+            "q": "Can I use SDR for absentee (vote by mail) voting?",
+            "a": "No. SDR is only available for voters voting in person, on the same day, at the same time they register to vote or update their voter registration at an in-person (Early or Election Day) polling location.\n\n ",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+            "t": "2026-10-29T22:09:36+00:00"
+        },
+        {
+            "q": "How does the permanent absentee list work?",
+            "a": "Eligible voters can now opt-in to the permanent absentee list to automatically be sent an absentee (mail-in) ballot for each statewide election by their county clerk.\n\nVoters can sign up for the permanent absentee list while requesting an absentee ballot through NMVOTE (https://www.nmvote.gov/) – the option is available during “Step 4 – Ballot Delivery Method” where the voter will check a box to be added to the list (if they are eligible).\n\nVoters can also sign up for the permanent absentee list by checking a box on the paper voter registration form.\n\nNOTE: Voters are not eligible for the permanent absentee list if the mailing address on their voter registration record is outside of New Mexico.\n\nVoters can request to be removed from the list at any time by contacting their county clerk.\n\nA voter will be removed from the voluntary permanent absentee list by the county clerk for the following reasons:\n\n(1) the voter fails to return a mailed ballot in two consecutive elections, including at least one general election;\n\n(2) the county clerk has sent a mailed ballot or other piece of election mail to the voter’s mailing address and was then returned as undeliverable;\n\n(3) the voter’s certificate of registration is canceled;\n\n(4) the voter updates their certificate of registration indicating an address that is outside of the county for which the voter is listed on the voluntary permanent absentee voter list; or\n\n(5) the voter submits a written request to the county clerk requesting to be removed from the voluntary permanent absentee voter list.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "t": "2026-10-29T22:09:38+00:00"
+        },
+        {
+            "q": "What is the deadline to request an absentee ballot?",
+            "a": "- The county clerk must receive the application for an absentee ballot no later than 14 days prior to election day (Section 1-6-5(A), NMSA 1978).\n- Within twenty-three (23) days of Election Day, the county clerk must either mail the ballot or notice of rejection to the applicant as soon as practicable; provided that the ballot or a notice of rejection is sent not later than twenty-two (22) days before the election (Section 1-6-5(F), NMSA 1978).",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "t": "2026-10-29T22:09:38+00:00"
+        },
+        {
+            "q": "If I apply for an absentee ballot and receive it, can I change my mind and vote at my polling place on Election Day?",
+            "a": "- Yes, but must execute an affidavit stating that the person did not and will not vote the mailed ballot that was issued. (Section 1-6-16 (A) NMSA 1978",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "t": "2026-10-29T22:09:38+00:00"
+        },
+        {
+            "q": "What if I do not receive my absentee ballot?",
+            "a": "- If you apply for, but do not receive the absentee ballot, you may apply for a replacement absentee ballot by communicating with the county clerk and requesting a replacement mailed ballot be delivered to the voter; and executes an affidavit and the county clerk has voided the mailed ballot previously issued to the voter. (Section 1-6-16 (B), NMSA 1978).\n- You may also go to your polling place and vote on a replacement absentee ballot on Election Day, after signing an affidavit of non-receipt of absentee ballot (Section 1-6-16.1(A), NMSA 1978).\n- In both cases, you will be required to sign a sworn statement, under penalty of perjury, that you did not receive your ballot.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "t": "2026-10-29T22:09:38+00:00"
+        },
+        {
+            "q": "Who can take the absentee ballot back to the county clerk?",
+            "a": "- A member of your immediate family or your caregiver may hand-deliver your absentee ballot; provided that the voter has subscribed the official mailing envelope of the absentee ballot. An unrelated third party may not deliver another voter’s absentee ballot .(Section 1-6-10.1, NMSA 1978).",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "t": "2026-10-29T22:09:38+00:00"
+        },
+        {
+            "q": "When does an absentee ballot have to be returned for it to be counted?",
+            "a": "- Ballots must be returned to the county clerk or voter’s precinct by 7:00 p.m. on Election Day to be counted (Section 1-6-10 (B), NMSA 1978).",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "t": "2026-10-29T22:09:38+00:00"
+        },
+        {
+            "q": "How much does it cost to mail my Absentee Ballot?",
+            "a": "- Return postage is pre-paid. Please ensure you return the ballot with enough time for it to arrive at your County Clerk’s office  (https://www.sos.nm.gov/voting-and-elections/voter-information/county-clerk-information/) before 7 pm on Election Day. For more details, log on to the Voter Information Portal.  (https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx)",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "t": "2026-10-29T22:09:38+00:00"
+        },
+        {
+            "q": "The outer envelope of my Absentee Ballot requests an AV Register Number. Do I fill this out?",
+            "a": "- You can leave that information blank. This information is for internal use only.\n\n ",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+            "t": "2026-10-29T22:09:38+00:00"
+        },
+        {
+            "q": "What about Early Voting?",
+            "a": "- You may also vote early in-person, instead of voting by mail. You may go to your county clerk’s office beginning the 28th day before the election and vote. (Section 1-6-5, NMSA 1978).\n- Expanded early voting is available in many counties beginning on the third Saturday before the election. Look up early voting locations here (https://voterportal.servis.sos.state.nm.us/WhereToVoteAddress.aspx) or call your county clerk (https://www.sos.nm.gov/voting-and-elections/voter-information/county-clerk-information/) for locations and dates and hours of operation.\n- Early voting ends the Saturday before the election.\n\n ",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/early-voting-in-person/",
+            "t": "2026-10-29T22:09:39+00:00"
+        },
+        {
+            "q": "When does a voter get a provisional ballot?",
+            "a": "You will be issued a provisional ballot if your name does not appear on the roster at your polling place or if you are a first time voter who registered by mail and do not provide the required identification. (Section 1-12-8 (A) (B), NMSA 1978).",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/provisional-voting/",
+            "t": "2026-10-29T22:09:40+00:00"
+        },
+        {
+            "q": "When does a voter get a provisional ballot?",
+            "a": "You can check the status of your provisional ballot after the election here. (https://voterportal.servis.sos.state.nm.us/ProvisionalSearch.aspx)\n\n ",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/provisional-voting/",
+            "t": "2026-10-29T22:09:40+00:00"
+        },
+        {
+            "q": "What about military and overseas voters?",
+            "a": "- If you are a military or overseas voter, you may transmit your absentee ballot by facsimile or scanned document to your county clerk. You must sign and transmit a waiver of secrecy form that will be provided by the county clerk. For more information please view our Military and Overseas Voter Information (https://portal1.sos.nm.gov/OVR/WebPages/MilitaryDoc.aspx) page.\n\n ",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/military-and-overseas-voters/",
+            "t": "2026-10-29T22:09:41+00:00"
+        },
+        {
+            "q": "New Mexico has semi-open primary elections. What is a semi-open primary election?",
+            "a": "A primary election is an election held to allow voters to select major party candidates to move on to represent the parties in the general election. Major party voters are qualified to participate in these elections because they have a major party listed on their voter registration. In a “semi-open” primary election, voters who are not registered with a qualified political party may also participate in the election by selecting which major party’s ballot they want to vote on without changing their voter registration.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "t": "2026-10-29T22:09:43+00:00"
+        },
+        {
+            "q": "Who can vote in primary elections in New Mexico?",
+            "a": "New Mexico has semi-open primary elections, effective July 1, 2025. This means that:\n\n1. Major party voters may participate in the primary elections of the major party with which they are registered 28 days before Election Day. Once voting has started, voters registered with one major party cannot change the party on their voter registration to vote in the primary elections of another major party.\n\n2. Voters who have not registered with a qualified major or minor party (including “declined-to-state” or “independent” voters) can also participate by selecting a major party’s ballot and vote, without changing the political party on their voter registration.\n\n3. Voters registered with a qualified minor party may update the political party on their voter registration to either a major party (Republican or Democratic) or “Declined-to-State”/Independent before the election or through same day voter registration at a polling location and vote in the primary election.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "t": "2026-10-29T22:09:43+00:00"
+        },
+        {
+            "q": "What are the qualified major and minor political parties in New Mexico?",
+            "a": "Learn more about New Mexico’s qualified political parties here (https://www.sos.nm.gov/voting-and-elections/nm-political-party-information/).",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "t": "2026-10-29T22:09:43+00:00"
+        },
+        {
+            "q": "I don’t remember if I registered with a qualified political party, or I am not sure which political party I registered with. How can I check my voter registration information?",
+            "a": "Please visit NMVote (https://www.nmvote.org/) to review your voter registration status, register to vote, or update your voter registration. Learn more about voter registration eligibility and frequently asked questions here (https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/).",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "t": "2026-10-29T22:09:43+00:00"
+        },
+        {
+            "q": "I checked and I am registered with a political party that is not a qualified party in New Mexico. Can I still vote in a primary election?",
+            "a": "Yes, voters who have not registered with a qualified political party may participate by selecting a major party’s ballot without changing their voter registration.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "t": "2026-10-29T22:09:43+00:00"
+        },
+        {
+            "q": "I am registered with a qualified minor political party. How can I update my voter registration and vote in a primary election?",
+            "a": "Voters registered with a qualified minor party must update their voter registration to a major party or to “Declined-to-State” before the election or through same day voter registration at a polling location in order to vote in the primary election.\n\nPlease visit NMVote (https://www.nmvote.org/) to review your voter registration status, register to vote, or update your voter registration. Learn more about voter registration eligibility and frequently asked questions here (https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/).\n\nInformation on what you need for same-day voter registration, which is available at polling locations prior to voting, is available here (https://www.sos.nm.gov/voting-and-elections/same-day-voter-registration/).",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "t": "2026-10-29T22:09:43+00:00"
+        },
+        {
+            "q": "I’m a voter who is not registered with a qualified political party, and I intend to vote in a primary election without changing my voter registration. Will anyone know which major party primary elections I vote in?",
+            "a": "Yes, which party’s ballot you select at the polling location or when you request a mailed ballot is public information. However, unless you share it, only you will know who or what you vote for on your ballot.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "t": "2026-10-29T22:09:43+00:00"
+        },
+        {
+            "q": "What does “Declined-to-state” mean?",
+            "a": "“Declined-to-state” is a term used when a person’s voter registration does not show a political party and is often referred to as an independent voter.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "t": "2026-10-29T22:09:43+00:00"
+        },
+        {
+            "q": "I am not registered with a qualified political party. How do I request which major party ballot I want to receive when I am voting in-person?",
+            "a": "When you check-in at a voting location, the election worker will ask you which ballot you would like to be issued. The party ballot you chose will not cause a change to your voter registration record.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "t": "2026-10-29T22:09:43+00:00"
+        },
+        {
+            "q": "I am not registered with a qualified political party, and I intend to request a mailed ballot for the primary election. How will I select which ballot I receive?",
+            "a": "You can request a mailed ballot online using our portal available at NMVote.org, and you will be provided with the opportunity to select a major party ballot at that time. If you prefer to use a paper application for a mailed ballot, the paper application also has an option for selecting a major party ballot and can be found here (https://www.sos.nm.gov/voting-and-elections/absentee-and-early-voting/).",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "t": "2026-10-29T22:09:43+00:00"
+        },
+        {
+            "q": "I am a permanent absentee voter, and I am not registered with a qualified political party. How will I receive a mailed ballot for the primary election?",
+            "a": "Permanent absentee voters not registered with a qualified political party will receive a mailed notice prior to the primary election with directions to select a major party ballot using an online portal or a form.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "t": "2026-10-29T22:09:43+00:00"
+        },
+        {
+            "q": "I am not registered with a qualified political party. Prior to voting, I want to prepare. Will I be able to see sample ballots for each major party?",
+            "a": "Yes, voters who are not registered with a qualified political party will be able to view a sample of each major political party’s primary election ballot. Sample ballots are available on our website (https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx) prior to the primary election.\n\n ",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+            "t": "2026-10-29T22:09:43+00:00"
+        },
+        {
+            "q": "What is a write-in candidate?",
+            "a": "The biggest difference between a write-in candidate and other candidates is that a write-in candidate’s name does not appear on a ballot. In New Mexico, write-in candidates are required to file for candidacy and be qualified by a proper filing officer prior to an election. To vote for a write-in candidate, voters must write the name of the qualified write-in candidate in the space provided on the ballot for the appropriate contest.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/",
+            "t": "2026-10-29T22:09:44+00:00"
+        },
+        {
+            "q": "Where can I see who has qualified as a write-in candidate for an election?",
+            "a": "Candidate qualification lists are posted to our website prior to each statewide election. Please visit our homepage for the link to election-specific information.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/",
+            "t": "2026-10-29T22:09:44+00:00"
+        },
+        {
+            "q": "I want to vote for a write-in candidate. Do I have to spell the candidate’s first and last name correctly when I vote? What is required?",
+            "a": "If you are wishing to vote for a qualified write-in candidate, you should write one of the following in the space provided on the ballot:\n\n- the candidate’s first and last name OR\n- the candidate’s first name, middle name or initial and last name OR\n- one or two initials of the candidate’s first name and their last name OR\n- the candidate’s last name alone if there is no other declared write-in candidate for the office or position that is the same or so similar as to tend to confuse the candidates’ identities\n\nAn abbreviation, misspelling or other minor variation shall be accepted as a valid vote as long as your intention is clearly discernable by the election board legally responsible for reviewing it.\n\nYou cannot use a stamp or sticker with the candidate’s name in order to complete your ballot, and you should fill in the oval on your ballot next to the name you write. However, should the oval not be filled-in, your vote would still count if you wrote the name of a qualified candidate as described above, and the election board determines that your intention was clearly discernable.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/",
+            "t": "2026-10-29T22:09:44+00:00"
+        },
+        {
+            "q": "How are write-in votes reviewed and counted?",
+            "a": "Appointed election board judges, a group of multi-partisan poll workers, is responsible for the review and manual counting of qualified write-in votes in accordance with state law and procedures prescribed by the Secretary of State’s Office. These judges carefully review each write-in vote cast to see if the voter wrote a candidate’s name and if the voter’s intention was clearly discernable.\n\nElection board judges are required to document their determination on a tally sheet for each write-in vote. These tally sheets are later audited for accuracy during the post-election county and state canvases.",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/",
+            "t": "2026-10-29T22:09:44+00:00"
+        },
+        {
+            "q": "Are write-in votes always tallied on Election Day?",
+            "a": "State statute requires poll workers to pause the tabulation and tallying of ballots at 11:00 pm on Election Night. Should such a pause occur, election boards will reconvene the following day to continue their work.\n\nThe tallying of write-in votes may begin on Election Night, but because it is a manual process, it often continues into the days following Election Day.\n\n ",
+            "s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/",
+            "t": "2026-10-29T22:09:44+00:00"
+        },
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "In New Mexico, all registered voters are permitted to vote absentee.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "Registered voters have 3 ways to request an absentee ballot:\n\n1) R (https://portal.sos.state.nm.us/OVR/WebPages/AbsenteeApplication.aspx?type=RA&AspxAutoDetectCookieSupport=1)equest an absentee ballot (https://portal1.sos.nm.gov/OVR/(S(hksacpezpoy4dqi20wc2n5cb))/WebPages/AbsenteeApplication.aspx) through your county clerk, by mail, by phone, or online.\n\n2) Request an accessible absentee ballot. These are for voters who are visually impaired to independently use their screen reader technology to mark their ballot. Fill out an application online here (https://portal1.sos.nm.gov/OVR/(S(hksacpezpoy4dqi20wc2n5cb))/WebPages/AbsenteeApplication.aspx).\n\n3) Sign Up for the Permanent Absentee List. Eligible voters can now opt-in to the permanent absentee list to automatically be sent an absentee (mail-in) ballot for each statewide election by their county clerk.\n\nTo join the permanent mail voting list, you can complete a paper or online application and submit it to your county clerk (https://www.sos.nm.gov/voting-and-elections/voter-information-portal-nmvote-org/county-clerk-information/). (https://absentee.vote411.org/vote/eoddomestic.htm;jsessionid=1D779867C3901F32AA7E48DCC5BE0D39?submission=true&stateId=15&regionId=430727) At least 49 days before each statewide election, the county clerk will notify voters on the list, reminding them that they will receive a ballot by mail. The notice will also include information on removing themselves from the list if they choose to do so.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "WHEN ARE VOTERS REMOVED FROM THE PERMANENT MAIL VOTING LIST?",
+            "a": "A voter would be removed from the permanent mail voting list if:\n\n- They fail to return the mail ballot in two consecutive elections, including at least one general election.\n- A mailed ballot or other election mail sent to the voter's mailing address was returned undeliverable.\n- Their registration is canceled.\n- They update their registration to an address outside the county.\n- They request to leave the list.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "The last day to request an absentee ballot is 14 days before the election.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "a": "Voted ballots must be received by 7pm on Election Day to be counted.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Election officials start mailing ballots to voters 28 days before the election.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT IN PERSON?",
+            "a": "Absentee ballots may be returned to the County Clerk’s Office or any Election Day polling location no later than 7pm on Election Day.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "You can sign up to track your absentee ballot (https://app.enhancedvoting.com/login/Voter/Account/Login2?returnUrl=%2Flogin%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcore.voter.frontend%26scope%3Dopenid%2520profile%2520offline_access%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fapp.enhancedvoting.com%252Fvoter%252Fapi%252Fauth%252Fcallback%26acr_values%3Dusertype%253AVoter%2520voterLoginMode%253Alight%2520shortName%253Anewmexico%26code_challenge%3D1jXZUvJ0F68q920zDiLoCnYO4oHWv8ogEtwRCETxi4g%26code_challenge_method%3DS256) on your Secretary of State website.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "Those who requested an absentee ballot but end up voting in person: Do not mail a ballot and vote in person. For more information, you can find your local county clerk contact info here (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://portal.sos.state.nm.us/OVR/WebPages/AbsenteeApplication.aspx?type=RA&AspxAutoDetectCookieSupport=1)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Does New Mexico allow ballot curing?",
+            "a": "Yes, New Mexico allows voters to fix an issue with their ballot.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "a": "Your county clerk will attempt to contact you immediately if your absentee/mail ballot is rejected.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "What is the deadline to cure my ballot?",
+            "a": "The deadline to cure (correct) your absentee/mail ballot is the third Friday after Election Day.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Can I track my absentee ballot?",
+            "a": "You can track the status of your mail ballot using your state’s online tool (https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx?tab=AbsenteeTracker) to make sure it has been received and accepted.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "What is a ballot drop box?",
+            "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Are drop boxes available in my state?",
+            "a": "There are multiple ways for voters to return their absentee ballot in New Mexico. You can drop off your ballot at your county clerk’s office (https://absentee.vote411.org/vote/eoddomestic.htm), a secured mail ballot drop box, or at any polling location in your county during Early Voting or on Election Day.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Where can I find ballot drop box locations?",
+            "a": "Each county is required to have at least two mail ballot drop boxes, otherwise known as “monitored secure containers.” Indigenous nations, tribes, and pueblos may make written requests for voting locations and monitored secured containers (ballot drop boxes) from county clerks.\n\nPlease contact your county clerk's (https://absentee.vote411.org/vote/eoddomestic.htm) office for information on the nearest drop box.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Can I track the ballot after placing in the drop box?",
+            "a": "Yes, you can track your ballot by looking up your on the Secretary of State website. (https://app.enhancedvoting.com/login/Voter/Account/Login2?returnUrl=%2Flogin%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcore.voter.frontend%26scope%3Dopenid%2520profile%2520offline_access%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fapp.enhancedvoting.com%252Fvoter%252Fapi%252Fauth%252Fcallback%26acr_values%3Dusertype%253AVoter%2520voterLoginMode%253Alight%2520shortName%253Anewmexico%26code_challenge%3D1jXZUvJ0F68q920zDiLoCnYO4oHWv8ogEtwRCETxi4g%26code_challenge_method%3DS256)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Can I vote before Election Day in New Mexico?",
+            "a": "Yes. New Mexico offers early voting. You can vote at your county clerk’s office beginning 28 days before Election Day. Many counties also offer expanded early voting locations starting on the third Saturday before Election Day. Early voting ends on the Saturday before Election Day.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Do I have to apply to vote early in New Mexico?",
+            "a": "No. You do not need to submit an application to vote early in person. Simply go to an eligible early voting location and vote before Election Day.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Where can I vote early in person in New Mexico?",
+            "a": "You can vote early in person at:\n\n- Your county clerk’s (https://absentee.vote411.org/vote/eoddomestic.htm) office beginning 28 days before Election Day\n- Expanded early voting locations in participating counties beginning on the third Saturday before Election Day\n\nYou can find early voting locations through NMVote.org (https://www.sos.nm.gov/voting-and-elections/voting-faqs/early-voting-in-person/) or by contacting your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "How can I receive an early ballot in the mail?",
+            "a": "Any registered voter in New Mexico may request an absentee (mail-in) ballot without providing an excuse. Read more about requesting and returning your mail ballot here. (https://www.vote411.org/new-mexico#absentee-ballot-process)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Do I need an ID to vote early in New Mexico?",
+            "a": "Most voters do not need to show identification when voting in person. However, if you are a first-time New Mexico voter who registered by mail and did not provide identification when you registered, you must present one of the following:\n\n- A current and valid photo ID; or\n- A current utility bill, bank statement, government check, paycheck, student ID, tribal ID, or another government document showing your name and current address.\n\nAll other voters may provide a verbal or written statement that includes their name, year of birth, and registered address.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "WHO CAN REGISTER TO VOTE IN NEW MEXICO?",
+            "a": "To register to vote in New Mexico, you must:\n\n- Be a US citizen\n- Be a resident of New Mexico\n- Be at least 18 years old\n- 17-year-olds who will be 18 by the General Election may participate in the primary election. Voters must be at least 18 years old to participate in all other elections.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "WHO CAN VOTE IN NEW MEXICO?",
+            "a": "You can vote in New Mexico if:\n\n- You are properly registered by the registration deadline\n- Online registration deadline: 28 days before Election Day\n- Register by mail deadline: Postmarked 28 days before Election Day.\n- In-person registration deadline: Election Day\n- You are a US citizen\n- You are a resident of New Mexico\n- You are at least 18 years old\n- 17-year-olds who will be 18 by the General Election may participate in the primary election. Voters must be at least 18 years old to participate in all other elections.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "CAN I VOTE IN NEW MEXICO IF I HAVE A FELONY CONVICTION?",
+            "a": "In New Mexico, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "CAN I REGISTER AND VOTE IN NEW MEXICO IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "a": "In New Mexico, you do not need a permanent home to register to vote. If you are experiencing homelessness or do not have a traditional address, you can describe where you usually stay, such as a street corner, park, or shelter. This helps election officials assign you to the correct voting precinct so you receive the right ballot. You must also provide a mailing address where you can receive election mail. This can be a P.O. box, a shelter, an outreach center, an advocacy organization, or the home of someone willing to accept mail for you.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN NEW MEXICO?",
+            "a": "In New Mexico, ID is not required for all registration methods. If you’re registering for the first time by mail you must include a copy of an acceptable ID. If you register online (https://portal.sos.state.nm.us/OVR/WebPages/InstructionsStep1.aspx) or in person and your identity can be verified using a New Mexico driver’s license or state ID, no separate ID is needed.\n\nTo register or update online (https://portal.sos.state.nm.us/OVR/WebPages/InstructionsStep1.aspx), your Social Security number, driver’s license or state ID number, and date of birth must match what’s on file with the New Mexico Motor Vehicle Division.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN NEW MEXICO?",
+            "a": "For first-time registration by mail, you can use:\n\n- A current and valid photo ID\n- A current utility bill, bank statement, government check, paycheck, or student ID\n- Any other government document (including those from an Indian nation, tribe, or pueblo) that shows your name and current address",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER IN NEW MEXICO?",
+            "a": "If you are registering by mail and don’t include the required ID, you can still complete your registration. However, you will be required to show acceptable identification the first time you vote in person or absentee.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "When are official election results available in New Mexico?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "Official election results will be uploaded on New Mexico’s Secretary of State website (https://www.sos.nm.gov/voting-and-elections/election-results/) as they become available.\n\n  Official Results  (https://www.sos.nm.gov/voting-and-elections/election-results/)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "What does a poll worker do in New Mexico?",
+            "a": "Election workers help run polling locations by setting up voting equipment, checking in voters, issuing ballots, assisting voters, answering questions, and opening and closing polling locations. They help ensure elections are conducted fairly and securely.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "What qualifications do I need to be a poll worker in New Mexico?",
+            "a": "To serve as an election worker in New Mexico, you generally must:\n\n- Be a registered voter in New Mexico\n- Be a resident of the county where you will serve\n- Be able to read and write\n- Be able to perform election worker duties\n- Complete required training\n- Take an oath of office\n\nNew Mexico also allows qualified 16- and 17-year-old students to serve in certain election worker positions.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Are poll workers paid in New Mexico?",
+            "a": "Yes. Election workers are paid for their service, Many counties also pay workers for attending required training. Compensation varies by county and position. Contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "How do I apply to be a poll worker in New Mexico?",
+            "a": "Contact your county clerk's office (https://absentee.vote411.org/vote/eoddomestic.htm) to apply. Most counties accept applications online or through their elections office. All election workers must complete training before serving.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Who can vote in the primary elections in New Mexico?",
+            "a": "1. Major party voters may participate in the primary elections of the major party with which they are registered 28 days before Election Day. Once voting has started, voters registered with one major party cannot change the party on their voter registration to vote in the primary elections of another major party.\n\n2. Voters who have not registered with a qualified major or minor party (including “declined-to-state” or “independent” voters) can also participate by selecting a major party’s ballot and vote, without changing the political party on their voter registration.\n\n3. Voters registered with a qualified minor party may update the political party on their voter registration to either a major party (Republican or Democratic) or “Declined-to-State”/Independent before the election or through same day voter registration at a polling location and vote in the primary election.\n\nYou can learn more about New Mexico's qualified political parties on the NM Secretary of State website.  (https://www.sos.nm.gov/voting-and-elections/voter-information-portal-nmvote-org/nm-political-party-information/)\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Does New Mexico offer provisional voting?",
+            "a": "Yes, New Mexico offers provisional voting.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "How do I vote a provisional ballot?",
+            "a": "You will be issued a provisional ballot if your name does not appear on the roster or you do not provide the required identification.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "What is the deadline to cure my provisional ballot so it will be counted?",
+            "a": "You have until 5pm two days after the Election to provide proper identification for your provisional ballot to be counted.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "What voting assistance is available for voters with disabilities?",
+            "a": "The Help America Vote Act requires that election authorities have voting equipment for voters with disabilities to vote privately and independently, and New Mexico is no exception.\n\nYou may request assistance in voting at the polls if you are blind, physically disabled, unable to read or write or a member of a language minority.\n\nAny person of your choice may assist you, except your employer, an agent of the employer, an officer or agent of your union, or a candidate whose name is on the ballot.\n\nFor more information on the provisions available for disabled voters, please contact your local election authority (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "How do I request accommodation or report accessibility issues?",
+            "a": "If you have any questions about receiving help in voting, please ask the clerk or inspector at the polling place.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Can I vote by mail because of my disability?",
+            "a": "Vote-by-mail (absentee voting) is available in New Mexico and no excuse is required.\n\nIf you are blind or visually impaired, you may request an absentee ballot be sent electronically so you may use your own non-visual or low vision technology to mark your ballot. Fill out an absentee ballot application and be sure to provide your email address for delivery of the electronic ballot.\n\nYou can find more about how to vote by mail here.  (https://www.vote411.org/new-mexico#absentee-ballot-process)\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in New Mexico?",
+            "a": "Here is what you need to know to register in New Mexico:\n\nThere are three methods of voter registration in New Mexico: register in-person, register online (https://portal.sos.state.nm.us/OVR/WebPages/InstructionsStep1.aspx), or mail a printable application (https://www.sos.nm.gov/voting-and-elections/voter-information-portal-nmvote-org/voter-registration-information/) to your local county clerk’s office.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in New Mexico?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in New Mexico?",
+            "a": "New Mexico requires voters to register online or by mail at least 28 days before the election. You can also register in person up to and including Election Day. Be sure to check the exact date each year.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in New Mexico?",
+            "a": "A New Mexico voter is not required to show identification. However, if you are voting for the first time, you may be asked to show a form of identification when you go to the polls. This can include a driver’s license, passport, student ID from a state-supported college, or other accepted forms.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "I’m originally from another state, can I still vote in my home state while studying in New Mexico?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in New Mexico?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Does New Mexico require employers to give time off to vote?",
+            "a": "Yes. New Mexico employees may take up to two hours off work to vote on Election Day if they do not have enough time to vote outside of working hours. Employers may choose when the time off is taken. Talk to your employer and make a plan to vote ahead of Election Day.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "DO I NEED TO SHOW ID WHEN I VOTE IN NEW MEXICO?",
+            "a": "Most voters do not need to show ID when voting in statewide elections in New Mexico. The exception is if you are voting for the first time after registering by mail and did not include ID with your registration form. In that case, you’ll need to show ID when voting in person or absentee. Some cities, like Rio Rancho, may require ID for municipal elections due to local ordinances. Please contact your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO VOTE IN NEW MEXICO?",
+            "a": "A physical form of identification is only required for first-time New Mexico voters who registered by mail and did not include identification with their voter registration application form. You can use one of the following forms of ID:\n\n- A current and valid photo ID\n- A current utility bill\n- A bank statement\n- A government check\n- A paycheck\n- A student ID\n- An ID issued by an Indian nation, tribe, or pueblo that shows your name and current address\n- Verbal or written statement by you (the voter) with your name, year of birth and registered address",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN NEW MEXICO?",
+            "a": "If you’re not required to show ID, you’ll just need to provide your name, year of birth, and registered address verbally or in writing. If you are required to show ID and don’t have it, you may need to vote on a provisional ballot or provide ID later for your vote to count. Please contact your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "What is the deadline to register to vote in New Mexico?",
+            "a": "- Online registration deadline: 28 days before Election Day\n- Register by mail deadline: Postmarked 28 days before Election Day.\n- In-person registration deadline: Election Day",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "How can I register to vote in New Mexico?",
+            "a": "- Register online (https://portal1.sos.nm.gov/OVR/(S(kr0pfr2xsydcmi01wqs5c4qv))/WebPages/InstructionsStep1.aspx)\n- Use the paper application found here: (English  (https://www.sos.nm.gov/wp-content/uploads/2024/11/VoterReg_SHELL_2023_ENG.pdf)/ Español (https://www.sos.nm.gov/wp-content/uploads/2024/11/VoterReg_SHELL_2023_SPANISH.pdf)) and mail it to your to your County Clerk’s Office (https://www.sos.nm.gov/voting-and-elections/voter-information/county-clerk-information/)\n- Request a copy of the paper application to be mailed to you by contacting your County Clerk’s Office (https://www.sos.nm.gov/voting-and-elections/voter-information/county-clerk-information/)\n- Register in person on Election Day",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "How can I check my voter registration status?",
+            "a": "You can verify your voter registration status using New Mexico’s voter information tool. (https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Does New Mexico have online voter registration?",
+            "a": "Yes! Use our online registration tool (https://www.vote411.org/register) to complete your application",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Is same-day voter registration available in New Mexico?",
+            "a": "Yes, New Mexico has same-day voter registration.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Can I pre-register to vote?",
+            "a": "Yes, you can pre-register to vote at 17 years old and participate in the primary election if you will be 18 years old by the general election.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Who is eligible to register in New Mexico?",
+            "a": "Check if you’re eligible to register here (https://www.vote411.org/new-mexico#eligibility-requirements).",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "What types of voting machines does New Mexico use?",
+            "a": "The voting system used in New Mexico is Optical Scan.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "What is optical scan voting?",
+            "a": "With optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\n\n- With a pen or pencil, you fill in a little box, circle, or space between two arrows.\n- When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\n- Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        }
+    ]
+}

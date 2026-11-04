@@ -1,0 +1,308 @@
+{
+    "state": "ks",
+    "num_questions": 50,
+    "num_answers": 50,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "Do I have to live in Kansas for a certain amount of time to be eligible to vote?",
+            "a": "No, Kansas does not have a length of residence requirement. However, you have to be registered 21 days prior to an election and be a resident of Kansas at the time of registration.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "Can I pre-register if I will be 18 years old before the next election?",
+            "a": "If you are 17 years old and will be 18 before the next election, you may apply to register to vote. Individuals are not allowed to vote in any election if they are not registered to vote and 18 years of age.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "What are the disqualifications for voting in Kansas?",
+            "a": "Individuals may be found disqualified to vote by reason of death, federal or state felony conviction or by declaration of a Kansas Court of Law.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "I have a felony conviction, can I vote?",
+            "a": "A federal or state felony conviction results in the loss of voting rights until the terms of the felony sentence is complete. If on probation or parole, a sentence is not considered complete until your probation or parole is finished.\n\nIndividuals who lose their voting rights due to a felony conviction may re-register to vote upon completion of their sentence. The voter registration form includes an affidavit above the signature line attesting an individual’s right to vote has been restored. Signing a false affidavit is a felony and could result in the loss of voting rights, if convicted.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "What if my certificate of registration has incorrect information?",
+            "a": "After registering to vote, you should receive a certificate of registration from your local county election officer. If any information on the certificate is incorrect, please contact your local election office immediately.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "I moved to a new address in the county I’m currently registered in, can I vote?",
+            "a": "Individuals who move to a new address within the same county should update their information as soon as possible. If you move after the registration deadline, you may vote at the precinct assigned to your old address, but you will be required to complete a new voter registration application.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "I moved from one county to another county in Kansas, how do I vote?",
+            "a": "If you move to a new county in Kansas before the registration deadline, you must complete a new voter registration application. If you move after the registration deadline, you can still vote at the precinct assigned to your old address, but you will be required to complete a new voter registration application.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "I moved to Kansas from another state, when can I vote?",
+            "a": "You should register to vote in Kansas as soon as possible after moving. If 45 days before an election and the deadline to register has passed, you may vote a president-only ballot. To vote a president-only ballot, you must go to your local election office by noon on the day before the election and complete voter registration forms.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "Can I review a sample ballot prior to voting?",
+            "a": "Yes! You can view sample ballots online starting 45 days prior to election or you may request a sample ballot at your local election office or at your polling place. To view sample ballots online, visit: kansasvoterinfo.gov/ (https://kansasvoterinfo.gov/)",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "What if I’m still in line when polls close?",
+            "a": "Stay in line! All voters who are in line when polling locations close are allowed to vote.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "What should I expect when voting in Kansas?",
+            "a": "To vote at a polling place, either on or before Election Day, you can expect to do the following:\n\n- State your legal name\n- Provide photographic identification\n- State your address\n- Sign the poll book\n- Receive your ballot and proceed to a voting booth OR proceed to an electronic voting machine\n- Review the ballot, paying close attention to instructions, then make your selection(s)\n- Review your ballot to make sure it is complete and accurate\n- Cast your ballot\n- Exit the polling place (don’t forget your sticker)",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "What if I make a mistake, can I request another ballot?",
+            "a": "Yes, voters may obtain up to two replacement ballots if there is mismarked or spoiled ballots.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "I live overseas and applied to cast a federal services voter ballot. How long is my application good for?",
+            "a": "Ballot applications from qualified federal service voters are good for the calendar year in which it was submitted.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "How do I get my ballot if I live overseas and cast a ballot under the federal voting assistance program (UOVACA)?",
+            "a": "Voters who participate in the federal voting assistance program choose their preferred method of ballot delivery – mail, fax or email – when they complete their application. We recommend individuals who choose to cast a ballot via email return it to their local election office through an encrypted email.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "Do all Kansas counties have to offer advance in-person voting?",
+            "a": "Yes. State law allows in-person advance voting to begin up to 20 days before election day at county election offices or satellite voting locations. All counties must offer in-person advance voting no later than one week before election day.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "Do I have to show photo ID to advance in-person vote?",
+            "a": "State law requires Kansas voters to show photographic identification when casting a vote in person, this includes voting advance in-person. If the voter does not provide identification or it is not valid, the voter will be issued a provisional ballot.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "What is the difference between all mail ballot elections and advance by mail ballots?",
+            "a": "Kansas only conducts an election entirely by mail, without the use of polling places, in question-submitted elections only. K.S.A. 25-432(d) (https://www.ksrevisor.gov/statutes/chapters/ch25/025_004_0032.html) prohibits all mail elections when a candidate appears on the ballot.\n\nAdvance voting by mail has been allowed to all Kansas voters since 1996. You do not need an excuse to advance vote by mail ballot. However, you do need to apply to have an advanced by mail ballot mailed to you for each election as they are NOT mandatory and are sent to voters by county election offices at the request of the voter.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "Is it safe to cast an advance by mail ballot?",
+            "a": "Kansas has several key security provisions in place for verifying the legitimacy of advance by mail ballots and those who cast them. They include:\n\n- K.S.A. 25-1122(e)(1) (https://www.ksrevisor.gov/statutes/chapters/ch25/025_011_0022.html) requires county election offices compare the signature on the advance by mail ballot application with the signature on voter registration records to verify the voter, and not a third party, requested the advance by mail ballot. If the signatures do not match, the signature may be challenged, and the county election office will contact the voter to verify the signature.\n- Voters must provide the number of their photo identification (e,g., driver’s license) on the advance by mail ballot application. In the event identification information cannot be verified, K.S.A. 25-1122(c) (https://www.ksrevisor.gov/statutes/chapters/ch25/025_011_0022.html) states the applicant must provide a copy of an acceptable form of photographic identification.\n- When a voter has completed their advance by mail ballot, they must sign the outside of the ballot envelope. That signature is then reviewed with voter registration records. If the signatures do not match, the signature may be challenged, and the county election office will contact the voter to verify the signature.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "How can I find out the status of my advance by mail ballot application and/or ballot?",
+            "a": "Voters can call their local election office to check on the status of their advance by mail ballot application and/or ballot. In addition, for the first time, voters can track the status of their advance by mail ballot application and advance by mail ballot online at kansasvoterinfo.gov/ (https://kansasvoterinfo.gov/).",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "I requested a mail-in ballot for the election. Can I vote in person or do I need to fill out my mail-in ballot?",
+            "a": "Voters who requested an advance by mail ballot but choose to cast their ballot in person will be given a provisional ballot to ensure they only vote once.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "What types of photo ID are acceptable in Kansas? Do exemptions exist?",
+            "a": "State law requires voters to show photographic identification when casting a vote in person. If the photo ID has an expiration date on it, the ID must not have expired at the time of voting. An acceptable photo ID does not have to have an expiration date on the document in order to be valid. Acceptable forms of photo ID include:\n\n- A driver’s license or nondriver’s identification card issued by Kansas or by another state or district of the United States;\n- A concealed carry of handgun license issued by Kansas or a concealed carry of handgun or weapon license issued by another state or district of the United States;\n- A United States passport;\n- An employee badge or identification document issued by a municipal, county, state, or federal government office;\n- A military identification document issued by the United States;\n- A student identification card issued by an accredited postsecondary institution of education in the state of Kansas;\n- A public assistance identification card issued by a municipal, county, state or federal government office; and\n- An identification card issued by an Indian tribe.\n\nExemptions exist for individuals 65 years of age or older who may use expired photo IDs or individuals whose religious beliefs prohibit photographic identification. Voters with religious objections may sign an affidavit before the election or at the poll on election day to be exempt.\n\nState photo ID requirements do not apply to military and overseas citizens who vote under the federal Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA); for mail ballot elections; or voters who qualify, apply and are accepted to the permanent advance voting list, as long as they remain on the permanent advance voting list.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "Do I have to provide photo ID for mail ballot elections?",
+            "a": "No. Photo ID requirements do not apply in mail ballot elections. Mail ballot elections are limited to local jurisdictions holding special question-submitted elections.",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "I do not have an approved government-issued photo ID and cannot afford to get one. What are my options?",
+            "a": "Registered voters who do not have an approved government-issued photo ID and would like one to vote may apply for a free nondriver identification card with the Kansas Division of Motor Vehicles. To get a free photo ID, individual must fill out a Certification Requesting Fee Waiver for Nondriver Identification Card (Form DE-VID1 (https://www.ksrevenue.gov/pdf/DE-VID1.pdf) (Español (https://www.ksrevenue.gov/pdf/DE-VID1sp.pdf))). This form is available at all driver’s licenses offices, all county election offices and online.\n\nQ. I tried to get a free nondriver identification card so I can vote but I first need to get a birth certificate to prove my identity and residence. Help!\n\nA. Qualifying individuals who lack proof of identity and want to obtain a free nondriver identification card may get a Kansas birth certificate from the Kansas Office of Vital Statistics at no cost. To qualify, individuals must:\n\n- Not possess and valid photo identification documents under Kansas law\n- Lack any documents necessary to prove their identity\n- Sign an affidavit attesting they do not have a valid photo ID or documents to prove their identity\n- Be registered to vote in Kansas\n- Have been born in Kansas\n\nTo get a free birth certificate to obtain a nondriver identification form, individual must submit the following forms to the Kansas Office of Vital Statistics:\n\n- Application for Certified Copy of Kansas Birth Certificate (Form VS-235 (https://www.kdhe.ks.gov/vital/download/birth_fillable.pdf))\n- Certification Requesting Fee Waiver for Nondriver Identification Card ((Form DE-VID1 (https://www.ksrevenue.gov/pdf/DE-VID1.pdf) (Español (https://www.ksrevenue.gov/pdf/DE-VID1sp.pdf)))",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "I was not born in Kansas and cannot locate an acceptable form that shows proof of my identity but I want to vote in the upcoming election. Money is tight and I cannot afford to pay for a birth certificate in another state. What are my options?",
+            "a": "Individuals born outside of Kansas, who do not have proof of identity and who do not wish to pay to obtain such a document from their home state may apply for a State Voter Identification Document. This document can only be used to vote in Kansas.\n\nTo qualify for a State Voter Identification Document, individuals must:\n\n- Not possess and valid photo identification documents under Kansas law\n- Lack any documents necessary to prove their identity\n- Sign an affidavit attesting they do not have a valid photo ID or documents to prove their identity\n- Be registered to vote in Kansas\n- Have not been born in Kansas",
+            "s": "https://www.sos.ks.gov/elections/election-faq.html",
+            "t": "2026-10-29T22:05:21+00:00"
+        },
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE AN ADVANCE BALLOT?",
+            "a": "In Kansas, all registered voters can apply to vote an advance ballot.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ADVANCE BALLOT?",
+            "a": "You can vote an advance ballot in person or request one be mailed to you.\n\nRequest By Mail: You must complete an application for an advance ballot (https://sos.ks.gov/forms/elections/AV1.pdf) and include your driver’s license number or a copy of your photo identification. You can return the application to your county election office (https://absentee.vote411.org/vote/eoddomestic.htm) by mail, email, or by fax.\n\nIn-Person Advance Voting: You can vote an advance ballot in person at your county election office or a satellite voting location beginning up to 20 days before an election. In-person advance voting ends at noon the day before Election Day. Verify the dates and locations for advance voting with your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm). You must show a valid photo ID. If you do not provide an acceptable photo ID, or if your ID cannot be verified, you may be issued a provisional ballot.\n\nPermanent Advance Voting Status: A person with a permanent illness or disability may submit an application (https://sos.ks.gov/forms/Elections/AV2.pdf) to their county election office for permanent advance voting status. Once a voter obtains permanent status, the county election office automatically sends the voter an advance ballot every election without the voter having to renew the application each time.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ADVANCE BALLOT?",
+            "a": "The last day to request an advance ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)is 7 days before the election. You can return your advance ballot request form through the mail or in person.\n\nAll ballots must be received at the county election office by 7:00 p.m. on Election Day.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ADVANCE BALLOT FOR EACH ELECTION?",
+            "a": "Yes, you must apply for an absentee ballot (advance ballot) for each election. If you have a permanent illness or disability, you may submit an application (https://sos.ks.gov/forms/Elections/AV2.pdf) for permanent advance voting status.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ADVANCE BALLOT?",
+            "a": "All ballots must be received at the county election office by 7:00 p.m. on Election Day. You can sign up to track your advance ballot (https://myvoteinfo.voteks.org/voterview) on your Secretary of State website.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "WHEN ARE ADVANCE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Ballots are mailed to voters starting 20 days before the election until the 4 days before the election. Make sure you apply for an advance ballot before the deadline to receive your ballot in the mail.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY ADVANCE BALLOT?",
+            "a": "To vote by mail, follow these instructions:\n\n- Complete the application for an advance ballot (https://absentee.vote411.org/vote/VoterInformation.htm)\n- Provide either your driver's license number on the ballot application or a copy of your photo ID document with your application\n- Return the application to your county election office  (https://absentee.vote411.org/vote/eoddomestic.htm)before the registration deadline for the next election\n- The ballot will be mailed to you. Vote your ballot. Remember to sign the outside of the ballot envelope. Return your ballot to your county election office\n- All ballots must be received at the county election office by 7:00 p.m. on Election Day.\n- You may request assistance in applying for and casting an advance voting ballot",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY VOTED ADVANCE BALLOT?",
+            "a": "You have a few ways to return your advance ballot:\n\n- By mail: All ballots must be received at the county election office by 7:00 p.m. on Election Day.\n- In Person: Drop off your ballot during voting hours at your Advance Voting Location or Election Day Voting Site. Election workers will direct you to the ballot bag or box inside the voting site.\n- Secure Ballot Drop Box: Available in some counties beginning 20 days before an election. Drop boxes close at 7pm on Election Day.\n\nNote: In Kansas, delivering more than 10 advance mail ballots for others is a crime. Anyone carrying a voter’s ballot must complete an affidavit on the envelope, and violating this law can result in a felony.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ADVANCE BALLOT?",
+            "a": "You can sign up to track your advance ballot (https://myvoteinfo.voteks.org/voterview) on your Secretary of State website.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ADVANCE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "Those who requested an advance ballot but end up voting in person will be given a provisional ballot to ensure they only vote once. If you have any questions, you can find your local county clerk contact info here. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ADVANCE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an advance ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "WHO CAN REGISTER TO VOTE IN KANSAS?",
+            "a": "You can register to vote in Kansas if:\n\n- You are a US citizen\n- You are a resident of Kansas\n- You will be at least 18 years old by the next election\n- You have fully completed your sentence if you were convicted of a felony, including imprisonment, parole, or conditional release",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "WHO CAN VOTE IN KANSAS?",
+            "a": "To vote in Kansas, you must:\n\n- Be registered to vote at least 21 days before the election\n- Be a US citizen\n- Be a Kansas resident\n- Be at least 18 years old by the next election\n- Not be currently serving a sentence for a felony conviction",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
+            "a": "In Kansas, a felony conviction results in the loss of voting rights until the terms of the felony sentence is complete. Your right to vote is restored immediately after you are released from prison and have completed any court-ordered supervision, probation, or parole. The voter registration form includes an affidavit above the signature line attesting that an individual’s right to vote has been restored. Pretrial detention and misdemeanor convictions do not restrict your voting rights.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "a": "You don’t need to have a permanent home to register to vote. If you're experiencing homelessness or don’t have a traditional address, you can still register by describing a place where you stay or spend time. This helps election officials assign you to the correct voting precinct so you get the right ballot.\n\nYou’ll also need to list a mailing address where you can receive election information. This can be a P.O. box, local shelter, outreach center, advocacy organization, or even the home of someone willing to accept mail for you.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN KANSAS?",
+            "a": "Yes. The ID that you need depends on how you register:\n\n- Online: You must have a valid Kansas driver’s license or Kansas non-driver ID.\n- By mail or in person: You must provide a form of identification, but it doesn’t have to be a photo ID. See below",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN KANSAS?",
+            "a": "Online:  (https://www.kdor.ks.gov/apps/voterreg/)\n\n- Kansas driver’s license\n- Kansas non-driver identification card\n\nBy mail or in person:\n\n- Kansas driver’s license number\n- Kansas non-driver ID number\n- Last four digits of your Social Security number\n\nIf you have none of these, you can write “none” on the form",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER?",
+            "a": "- Online: (https://www.kdor.ks.gov/apps/voterreg/) You won’t be able to register without a valid Kansas driver’s license or non-driver ID.\n- By mail or in person: You can still register by writing “none” in the ID box. Your application will be processed as long as the rest of the form is complete.\n\nWhen voting, you need to present a photo ID. If you're a registered voter without an approved government-issued ID, you can apply for a free nondriver ID through the Kansas Division of Motor Vehicles. Learn more here. (https://sos.ks.gov/elections/photo-id.html)\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in Kansas?",
+            "a": "Here is what you need to know to register in Kansas:\n\nThere are three methods of voter registration in Kansas: register in-person, register online (https://www.kdor.ks.gov/Apps/VoterReg/Default.aspx), or mail a printable application (https://www.sos.ks.gov/forms/elections/voterregistration.pdf) to your local county election office.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in Kansas?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in Kansas?",
+            "a": "Kansas requires voters to register at least 21 days before the election. Be sure to check the exact date each year.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in Kansas?",
+            "a": "You must present a photo ID when voting in person in Kansas. This can include a driver’s license, passport, student ID from a state-supported college, or other accepted forms.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "I’m originally from another state, can I still vote in my home state while studying in Kansas?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Kansas ?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO VOTE IN KANSAS?",
+            "a": "You can use any government-issued photo ID, including:\n\n- A driver's license or nondriver's ID card issued by Kansas, or by another state or district in of the US\n- A concealed carry of handgun license issued by Kansas, or a concealed carry of handgun or weapon license issued by another state or district of the US\n- A US passport\n- An employee badge or ID document issued by a municipal, county, state, or federal government office or agency\n- A military ID issued by the US\n- A student ID card issued by an accredited post-secondary institution of education in the state of Kansas.\n- A public assistance ID card issued by a municipal, county, state, or federal government office or agency.\n- An ID card issued by an Indian tribe\n\nEXCEPTIONS AVAILABLE: Persons over 65 may use expired documentation as proof of identity. Also, if your religious beliefs prohibit photographic ID you may be exempt, but you must sign a Declaration of Religious Objection before voting.",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
+            "a": "If you don’t have an approved photo ID, you have options:\n\n- Vote provisionally and then provide acceptable ID to your county election office before the deadline for your vote to count.\n- Apply for a free Kansas nondriver ID card by filling out the Certification Requesting Fee Waiver (Form DE-VID1) at your local DMV or election office.\n- If you lack proof of identity to get a free ID, you may also request a free Kansas birth certificate from the Kansas Office of Vital Statistics.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/kansas",
+            "t": "2026-10-22T19:13:14+00:00"
+        }
+    ]
+}

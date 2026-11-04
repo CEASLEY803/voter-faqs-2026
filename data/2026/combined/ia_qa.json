@@ -1,0 +1,20 @@
+{
+    "state": "ia",
+    "num_questions": 2,
+    "num_answers": 2,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "What is a valid form of ID to show at the polls?",
+            "a": "· Iowa Driver's License\n\n· Iowa Non-Operator's ID\n\n· Military ID\n\n· U.S. Passport\n\n· Tribal ID\n\n· Veteran's ID\n\n· Voter ID Card",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        },
+        {
+            "q": "What about voters who don’t have an ID?",
+            "a": "Any registered voter who does not have a valid driver's license or non-operator's ID issued by the Iowa Department of Transportation will be issued a Voter ID Card for free, automatically, in the mail. This also applies to anyone who registers to vote in the future. Upon receipt of the Voter ID Card, it should be immediately signed. Obtaining the Voter ID Card does not require any further documentation or action by the voter; voters simply need to be registered to vote in the county where they live\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/iowa",
+            "t": "2026-10-22T19:13:07+00:00"
+        }
+    ]
+}

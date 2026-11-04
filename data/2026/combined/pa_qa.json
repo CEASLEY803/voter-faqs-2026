@@ -1,0 +1,404 @@
+{
+    "state": "pa",
+    "num_questions": 66,
+    "num_answers": 66,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "What are my options for voting in the election?",
+            "a": "1. All registered PA voters can cast their ballot by mail.\n\n   1. Apply online today (https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineAbsenteeBegin).\n   2. Applications are available in multiple languages (https://www.pa.gov/agencies/vote/resources/forms-and-documents).\n   3. You do not need an excuse to apply for a mail-in ballot.\n2. Vote at your county election office. (https://www.pa.gov/agencies/vote/voter-support/mail-in-and-absentee-ballot/mail-ballot-before-election-day)\n\n   1. Once your county’s ballots are finalized and printed, you can go to your county election office (https://www.pa.gov/agencies/vote/contact-us/contact-your-election-officials), apply for a mail ballot, vote your ballot, and submit your ballot in the same visit.\n3. Vote in person at your polling place on Election Day.\n\n   1. Polls will be open from 7 a.m. to 8 p.m. on Election Day.\n   2. Find your polling place at vote.pa.gov (https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx)/",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "Am I registered?",
+            "a": "1. You can check your voter registration status online (https://www.pavoterservices.pa.gov/pages/voterregistrationstatus.aspx). You can also contact your county's election and voter registration officials (https://www.pa.gov/agencies/vote/contact-us/contact-your-election-officials), or call 1-877-VOTESPA (1-877-868-3772).\n2. If you are already registered to vote, you do not have to register again in Pennsylvania unless you changed your address, changed your name, or want to change your political party.",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "Do I need to show ID at the polls?",
+            "a": "No. Unless it's your first time voting at a new polling place. If it's your first time voting at a new location, you must bring one of the approved forms of identification (https://www.pa.gov/agencies/vote/voter-support/new-voters). Your ID doesn't need to be a photo ID. There are many forms of non-photo ID that are acceptable.",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "I need help with various voting questions or have language access issues. Who do I call?",
+            "a": "Call the Department of State's election hotline at 1-877-VOTES-PA for assistance. Telephone interpreters are available.",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "how can I help make sure elections run smoothly?",
+            "a": "- Sign up to be a poll worker (https://www.pa.gov/services/vote/apply-to-become-an-election-poll-worker).\n- Check before you share information on social media.\n\n  - Unfortunately, in every election cycle, dishonest sources deliberately spread false information to try to suppress the vote.\n  - They use social media to amplify their disinformation.\n  - Rely only on trusted, official sources of information, such as vote.pa.gov (https://www.pa.gov/agencies/vote) and help inform others.\n  - On social media, look for the department's hashtags - #ReadyToVotePA and #TrustedInfo.\n  - Follow @PAStateDept and @PAStateSec on Twitter and @PADepartmentofState on Facebook.\n- Vote!",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "Can someone else return my ballot?",
+            "a": "1. No. The only exceptions are if you are a voter with a disability (https://www.pa.gov/content/dam/copapwp-pagov/en/vote/resources/documents-and-forms/Authorize-Designated-Agent-for-Mail-in-or-Absentee-Ballot.pdf) and have designated someone, in writing, to deliver your ballot, or if you need an emergency absentee ballot. (https://www.pa.gov/en/agencies/vote/voter-support/mail-in-and-absentee-ballot/emergency-absentee-ballot.html)\n2. Return your own ballot as soon as you receive it. Mail it or deliver it in person to your county board of elections office or other official location designated by your county board of elections.",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "If I applied for a mail-in or absentee ballot in the primary, do I need to reapply for the general election?",
+            "a": "It depends on whether you asked to be an annual voter on your primary ballot application. Check the status of your mail ballot (https://www.pavoterservices.pa.gov/Pages/BallotTracking.aspx).\n\n1. If yes, then you do not need to reapply. If no, then you do.\n2. If you're not sure, contact your county board of elections. (https://www.pa.gov/agencies/vote/contact-us/contact-your-election-officials)",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "Where is my mail-in or absentee ballot?",
+            "a": "1. Check the status of your ballot online (https://www.pavoterservices.pa.gov/Pages/BallotTracking.aspx).\n2. Contact your county election office (https://www.pa.gov/agencies/vote/contact-us/contact-your-election-officials).\n3. If you did not receive or cast your mail ballot, you may request to vote a provisional ballot (https://www.pa.gov/agencies/vote/voter-support/provisional-ballot) at your polling place on Election Day. After county election officials verify that you did not vote by mail, they will count your provisional ballot.",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "What must be included when I return my mail-in or absentee ballot by mail or in person?",
+            "a": "1. Read the instructions carefully and mark your ballot. Be sure to complete the front and back of each page.\n2. Seal your ballot in the yellow envelope marked \"official election ballot.\" Do not make any stray marks on the yellow envelope. Your ballot must be enclosed and sealed in the yellow envelope marked \"official election ballot\" or it will not be counted.\n3. Seal the yellow envelope in the pre-addressed outer return envelope. Sign and write the current date on the voter’s declaration on the outside of the outer return envelope. If you do not complete the declaration on the return envelope your ballot will not be counted.\n4. Return your completed ballot to the county election board. Absentee and Mail-in Ballots must be received by 8 p.m. on election day at your county election board. To ensure your ballot is received by the deadline, return the ballot as soon as possible.",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "Can I receive assistance completing my mail-in or absentee ballot if I need help due to a disability or because I have limited English proficiency?",
+            "a": "Yes. If a voter is unable to complete their mail-in or absentee ballot independently, they may designate someone in writing using the Authorize a Designated Agent Form (https://www.pa.gov/content/dam/copapwp-pagov/en/vote/resources/documents-and-forms/Authorize-Designated-Agent-for-Mail-in-or-Absentee-Ballot.pdf) or a form provided by your county to help them.\n\nPennsylvania has also implemented an accessible remote ballot-marking solution (https://www.pa.gov/agencies/vote/voter-support/accessible-voting/accessible-remote-ballot-marking-solution-for-mail-voting) for mail voting for use by voters with a disability. If you need assistance, you may call 1-877-VOTES-PA (1-877-868-3772).",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "If I don't fill out and return the annual mail ballot application that is mailed to me by my county each February, can I vote a regular ballot at my polling place on Election Day?",
+            "a": "Yes. If you don't want to receive mail ballots for a specific year, just don't return the annual application you receive from your county. You'll be able to vote in person, on Election Day, using a regular ballot.",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "If I don't fill out and return the annual mail ballot application that is mailed by my county in February, will I receive an application the following year?",
+            "a": "Yes. You will receive an application every year until you cancel your annual mail-in or absentee status (https://www.pa.gov/content/dam/copapwp-pagov/en/vote/resources/documents-and-forms/PADOS_PermStatusCancellationForm.pdf) or move to another county and do not request to transfer your status to the new county.",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "Can I return my completed mail-in or absentee ballot at my polling place?",
+            "a": "1. No.\n2. If you received a mail ballot but did not return it, you may surrender your mail ballot and outer return envelope at your polling place (https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx-Place.aspx) and vote a regular ballot.\n3. If you did vote your mail ballot and returned it to your county board of elections, you are not eligible to vote at your polling place. If you believe that you are eligible to vote in person, you can vote by provisional ballot (https://www.pa.gov/agencies/vote/voter-support/provisional-ballot). Your provisional ballot will be reviewed by the county board of elections after Election Day.\n4. If you requested a mail ballot but did not receive it, or you do not have the ballot and outer return envelope to surrender at your polling place, you may vote by provisional ballot (https://www.pa.gov/agencies/vote/voter-support/provisional-ballot) at your polling place.\n5. Remember that it is unlawful to fraudulently vote more than once in the same election.",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "If I move, do I need to update my annual mail ballot voter status?",
+            "a": "Yes. If you move, you should update your address by submitting a voter registration form (https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx). You can check “transfer” on the voter registration form to indicate you would like to maintain your annual mail ballot status. Contact your county board of elections if you have additional questions or need assistance.",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "If I requested to be on the annual mail-in or absentee voter list last year, do I have to apply for a mail-in or absentee ballot this year?",
+            "a": "1. Yes. Voters must apply every year to receive ballots in the mail for the remainder of that year (and through the third Monday in February of the following year). If you are on the annual list, your county board of elections will mail an annual application to you in February of each year. Complete and return that application to receive ballots for each election in which you are eligible to vote that year.\n2. If you're not already on the annual mail-in voter list (https://www.pa.gov/agencies/vote/voter-support/mail-in-and-absentee-ballot/annual-mail-ballot-list), you can request to be placed on it.",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "I'm at the wrong polling place. What should I do?",
+            "a": "You must go to your correct polling place (https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx) to vote. However, if you believe you are eligible to vote at that polling place, you may vote using a provisional ballot (https://www.pa.gov/agencies/vote/voter-support/provisional-ballot).",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "I am at the right polling place but my name isn't in the poll book. Can I still vote?",
+            "a": "Yes. If this happens, you have the right to vote using a provisional ballot. (https://www.pa.gov/agencies/vote/voter-support/provisional-ballot)",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "Is one method of voting more secure than the other methods?",
+            "a": "No.\n\nThe Department of State has confidence in the security of Pennsylvania's election process and mail ballot system.\n\n Additional Details:\n\n Each mail ballot packet sent to a voter has a unique ID number. That same number is also printed on the pre-addressed outer return envelope where the voter must sign. When either type of mail ballot (absentee or no-excuse mail-in) is received and pre-canvassed, the unique ID number is scanned into the statewide system. To issue a second ballot to a voter, the county must first cancel the ballot initially issued to the voter. In other words, each voter can receive only one ballot. If a voter attempts to vote a second ballot, the system will flag that there is already a ballot from that voter.\n\n If a voter returns a mail ballot, their record is marked, and that notation is included in the poll book to ensure that poll workers are aware that the voter's ballot has been cast. The department also updated the poll book format to move the names of voters who have returned their ballots to a separate list at the end of the poll book. Those voters can only vote at a polling place by means of a provisional ballot (https://www.pa.gov/agencies/vote/voter-support/provisional-ballot), which is reviewed by the county after the election. If the county determines that a voter did, in fact, already cast a mail ballot, the voter's provisional ballot will not be counted.",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "Does Pennsylvania send mail ballot applications to voters who have not requested them?",
+            "a": "1. No.\n2. Many voter education and get-out-the-vote organizations send mail ballot information and applications to Pennsylvania voters. For that reason, you may receive multiple applications. Returning more than one application will result in additional workload for the election staff in your county office, but you will still be sent only one ballot.\n3. In addition, voters have reported receiving mail ballots even though they did not apply for them. In nearly all cases, these voters opted to be added to the annual mail ballot (https://www.pa.gov/agencies/vote/voter-support/mail-in-and-absentee-ballot/annual-mail-ballot-list) list when they applied for a mail ballot for the primary. Opting into this list means that your county will send you a ballot for all elections during that calendar year.\n4. If you would like to receive a mail ballot, the Department of State recommends using the official absentee or mail-in ballot application (https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineAbsenteeBegin).",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "Will we know election results the night of the election?",
+            "a": "Counting the hundreds of thousands – sometimes millions – of mail ballots cast in every election takes time. Unlike other states, state law in Pennsylvania prevents counties from even beginning to open ballots until 7 a.m. on Election Day – when those same election officials are managing in-person voting at more than 9,100 polling places.\n\nThat law can only be changed if the Pennsylvania legislature sends a bill to the Governor’s desk to allow counties to open mail ballot envelopes, flatten the ballots, and prepare them to be tallied BEFORE Election Day as most other states already allow.\n\nWhile we know there may be an eagerness to predict the outcomes, counties are prioritizing accuracy and security as they count ballots.\n\nThe results of federal and state elections in Pennsylvania are available on our election results website (https://www.electionreturns.pa.gov/) starting after 8 p.m. on election night.\n\nThe results of county, city, and local elections in Pennsylvania may be found on your county's board of elections website (https://www.pa.gov/agencies/vote/contact-us/contact-your-election-officials).\n\nFinally, when it comes to results and any other election-related information, make sure you are getting your information from trusted sources, such as the Department of State's voting website, vote.pa.gov. (https://www.pa.gov/agencies/vote)",
+            "s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+            "t": "2026-10-29T22:07:11+00:00"
+        },
+        {
+            "q": "Does Pennsylvania allow ballot curing?",
+            "a": "In Pennsylvania, the process for curing ballot issues varies by county.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "What if I have an issue with my absentee or mail-in ballot?",
+            "a": "If you have a problem with your mail-in ballot, please contact your county elections office (https://www.pa.gov/en/agencies/vote/contact-us/contact-your-election-officials.html) to determine your eligibility for a provisional ballot.\n\nIf your mail-in ballot is deemed invalid due to not using the required secrecy envelope or any other procedural error, you have the right to cast a provisional ballot, which must be counted.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "When are provisional ballots counted?",
+            "a": "The deadline for counting provisional ballots is seven days after the election.\n\nYour county board of elections will determine your eligibility based on the election district where you voted. They will contact you about any issues with your provisional ballot at least eight days before the certification of the election.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Can I check the status of my provisional ballot?",
+            "a": "You can check the status of your provisional ballot by calling 1-877-VOTESPA or using your state’s online tool. (https://www.pavoterservices.pa.gov/pages/ballottracking.aspx)",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "What is a ballot drop box?",
+            "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Are drop boxes available in my state?",
+            "a": "Yes, vote-by-mail drop boxes are available in Pennsylvania.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Where can I find ballot drop box locations?",
+            "a": "Pennsylvania voters have options on how to return their mail ballot: by mail, at a drop box, at their county election office, or other officially designated location.\n\nClick here (https://www.pa.gov/agencies/vote/voter-support/mail-in-and-absentee-ballot/return-ballot) to find the ballot return locations in your county.\n\nNote: Voters must return their own ballots. The only exception is for voters with a disability who have assigned someone in writing using the Authorize a Designated Agent Form (https://www.pa.gov/content/dam/copapwp-pagov/en/vote/resources/documents-and-forms/Authorize-Designated-Agent-for-Mail-in-or-Absentee-Ballot.pdf) to deliver their ballot.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Can I track the ballot after placing in the drop box?",
+            "a": "Yes, you can track the status of your ballot request as well as your voted absentee ballot on the Pennsylvania Department of State website. (https://www.pavoterservices.pa.gov/pages/ballottracking.aspx)",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Can I vote before Election Day in Pennsylvania?",
+            "a": "Yes. Pennsylvania does not offer traditional early in-person voting. However, you can vote before Election Day by requesting a mail ballot or by visiting your county election office to request, complete, and return a mail ballot in one visit. Any registered voter can request a mail ballot without providing a reason. If you are voting by mail for the first time, you may need to provide identification. Read more about On-Demand Mail Ballot Voting here. (https://www.pa.gov/agencies/vote/voter-support/mail-in-and-absentee-ballot/mail-ballot-before-election-day)",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Who is eligible to vote in Pennsylvania?",
+            "a": "To be eligible to vote you must be:\n\n- A citizen of the United States for at least one month before the next election\n- A resident of Pennsylvania and the district in which you register and vote for at least 30 days before the next election\n- At least 18 years of age on or before the day of the next election\n\nPlease note to vote in a primary you must be registered and enrolled in a political party.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Can I vote in Pennsylvania if I have a felony conviction?",
+            "a": "In Pennsylvania, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole. Note: This does not apply if you have been convicted of a violation of the Pennsylvania Election Code.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "How do I vote in Pennsylvania if I don’t have a permanent address?",
+            "a": "If you do not have a street address or a permanent residence, use the map on the back of the voter registration form to show where you live or spend most of your time, with landmarks and road names. If you do not receive mail at your residential address, the mailing address on their registration form can be a PO box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for you.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Can students vote in Pennsylvania?",
+            "a": "Yes. Students may register and vote in Pennsylvania if they meet the state's voter eligibility requirements. Students can register using either their school address or their home address, but they may only be registered and vote in one location.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Do I need an ID to register to vote in Pennsylvania?",
+            "a": "If you have a state driver's license, you must provide your driver's license number on your registration form.  (https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx)\n\nIf you do not have a state license you must supply the last 4 digits of your social security number.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "What types of ID are accepted for registration?",
+            "a": "See above.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "What if I don’t have an ID?",
+            "a": "If you do not have a driver’s license or Social Security Number, write none in the space provided for this number.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "When are official election results available in Pennsylvania?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "Official election results will be uploaded on Pennsylvania’s Department of State website (https://www.electionreturns.pa.gov/) as they become available.\n\n  Official Results  (https://www.electionreturns.pa.gov/)",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "What does a poll worker do in Pennsylvania?",
+            "a": "Poll workers help run elections by checking in voters, issuing ballots, assisting voters, operating voting equipment, and helping open and close polling places.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "What qualifications do I need to be a poll worker in Pennsylvania?",
+            "a": "To serve as a poll worker in Pennsylvania, you must:\n\n- Be a registered voter in the county where you wish to serve\n- Be available to work the full Election Day, from before the polls open until after they close\n- Not be a government official or government employee, unless you are a district judge, notary public, or member of the Pennsylvania National Guard\n- Not be a candidate whose name appears on the ballot\n\nPennsylvania also allows eligible 17-year-old high school students to serve as poll workers through the Student Poll Worker Program. Contact your county election office (https://absentee.vote411.org/vote/eoddomestic.htm) for more information about student eligibility.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Are poll workers paid in Pennsylvania?",
+            "a": "Yes. Poll workers are compensated for their service and training. Compensation varies by county and position. Contact your county election office (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "How do I apply to be a poll worker in Pennsylvania?",
+            "a": "You can apply by filling out an interest form online (https://paebrprod.powerappsportals.us/EBR/DOS/Votes-PA-County/) or contacting your county elections office. (https://www.vote411.org/pennsylvania#poll-worker-information)",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Does Pennsylvania offer provisional voting?",
+            "a": "Yes, Pennsylvania offers provisional voting if you meet specific conditions.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "How do I vote a provisional ballot?",
+            "a": "You may vote a provisional ballot if:\n\n- You try to vote in an election district and your name does not appear on the poll book and the elections officials cannot determine your registration.\n- If you do not have an approved form of ID when you appear to vote\n- The election official says you are not eligible to vote.\n\nYou are required to vote by provisional ballot if:\n\n- You're voting as a result of a Federal or State court order.\n- You are voting as a result of an order extending the time established for closing the polls by state law that is in effect 10 days before an election.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "When are provisional ballots counted?",
+            "a": "Provisional ballots are counted 7 days after Election Day.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "How do I check the status of my provisional ballot?",
+            "a": "You can check the status of your provisional ballot using the information provided to you on the provisional ballot identification receipt, call 1-877-VOTES-PA or check online (https://www.pavoterservices.pa.gov/Pages/ProvisionalBallotSearch.aspx). Provide your provisional ballot identification number.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "What voting assistance is available for voters with disabilities?",
+            "a": "The Help America Vote Act requires that election authorities have voting equipment for voters with disabilities to vote privately and independently, and Pennsylvania is no exception.\n\nAny voter who requires assistance to vote by reason of blindness, disability, or inability to read or write may be given assistance by a person of the voter's choice, other than the voter's employer or agent of that employer or officer or agent of the voter's union. The Judge of Elections cannot assist a voter with disabilities.\n\nFor those voters who have a disability or are elderly and assigned to an inaccessible polling place, you may request an Alternative Ballot. An Alternative Ballot may be cast with the county board of elections by 8 p.m. (or the close of polls) on Election Day. You can request an Alternative Ballot is available by:\n\n- Contacting your county board of elections (https://absentee.vote411.org/vote/eoddomestic.htm)\n- By downloading the Alternative Ballot Form (https://www.vote.pa.gov/Voting-in-PA/Pages/Alternative-Ballot.aspx)\n\nApplications for alternative ballots must be submitted to your County Board of Elections no later than 5pm on the Tuesday before Election Day.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "How do I request accommodation or report accessibility issues?",
+            "a": "Should you have any access needs at your polling center, or any questions, call the Disability Rights Pennsylvania at their intake line: 1.800.692.7443.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Can I vote by mail because of my disability?",
+            "a": "Vote-by-mail (absentee voting) is available in Pennsylvania and no excuse is required. You can find more about how to vote by mail here. (https://www.vote411.org/pennsylvania#absentee-ballot-process)\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Does Pennsylvania require employers to give time off to vote?",
+            "a": "No. Pennsylvania law does not require employers to provide time off to vote. If you have questions about your work schedule, talk to your employer and explore your voting options ahead of Election Day.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Do I need ID to vote in Pennsylvania?",
+            "a": "Unless you are a first time voter, you do not need to show any ID to vote a regular ballot on Election Day. First time voters are required to show some form of ID.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "What types of ID can I use to vote in-person in Pennsylvania?",
+            "a": "First time voters are required to show some form of ID, but it does not need to be a photo ID. Acceptable forms of ID are:\n\n- Pennsylvania driver's license or PENNDOT ID card\n- ID issued by any Commonwealth agency\n- ID issued by the US Government\n- US Passport\n- US armed Forces ID\n- Student ID\n- Employee ID\n- Confirmation issued by the County Voter Registration Office\n- Non-photo ID issued by the Commonwealth that shows name and address\n- Non-photo ID issued by the US Government that shows name and address\n- Firearm permit\n- Current utility bill, bank statement, paycheck or government check that shows name and address",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "What types of ID can I use to vote absentee in Pennsylvania?",
+            "a": "Registered Pennsylvania voters can apply for a mail-in or absentee ballot online (https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineAbsenteeBegin) with a valid PA driver's license, PennDOT-issued photo ID, or the last 4 digits of their Social Security number. If you do not have any of these, other forms of identification (https://www.pa.gov/agencies/vote/voter-support/mail-in-and-absentee-ballot#accordion-dd009c8253-item-4b3fbec842) may be accepted.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "What if I don’t have an acceptable ID?",
+            "a": "If you are a first-time voter and do not have acceptable identification at the polls, you may vote using a provisional ballot. (https://www.vote411.org/pennsylvania#provisional-voting) Election officials will review your eligibility before your ballot is counted.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Can I use my student ID to vote in Pennsylvania?",
+            "a": "Yes. A student ID, including a digital student ID, is an acceptable form of identification for first-time voters voting in person.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "What is the deadline to register to vote in Pennsylvania?",
+            "a": "- Online registration deadline: 15 days before Election Day\n- Register by mail deadline: Received 15 days before Election Day\n- In-person registration deadline: 15 days before Election Day",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "How can I register to vote in Pennsylvania?",
+            "a": "- Register online (https://www.vote411.org/register)\n- By mail (https://www.pa.gov/content/dam/copapwp-pagov/en/vote/resources/documents-and-forms/Voter_Registration_Application_English.pdf)\n- In person at your county voter registration office.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "How can I check my voter registration status?",
+            "a": "You can verify your voter registration status using Pennsylvania’s voter information tool. (https://www.pavoterservices.pa.gov/pages/voterregistrationstatus.aspx)",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Does Pennsylvania have online voter registration?",
+            "a": "Yes! Use our online registration tool (https://www.vote411.org/register) to complete your application",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Is same-day voter registration available in Pennsylvania?",
+            "a": "No, Pennsylvania does not have same-day voter registration.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Can I pre-register to vote?",
+            "a": "Yes, you can pre-register at age 17 if you’ll be 18 years old by Election Day.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "Who is eligible to register in Pennsylvania?",
+            "a": "Check if you’re eligible to register here (https://www.vote411.org/pennsylvania#eligibility-requirements).",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "What types of voting machines does Minnesota use?",
+            "a": "The voting systems used in Pennsylvania are Optical Scan, and Direct Recording Electronic (DRE) and Paper Ballots.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "What is optical scan voting?",
+            "a": "With optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\n\n- With a pen or pencil, you fill in a little box, circle, or space between two arrows.\n- When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\n- Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        },
+        {
+            "q": "What is Direct Recording Electronic Voting?",
+            "a": "Direct Recording Electronic (DRE) is the newest system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.\n\nThere are many variations of DREs because many companies are inventing new ones, and many cities, counties, and states are trying them out.\n\n- Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.\n- Some of these devices will show all candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure).\n- On other DREs, the screen is set up to show pages. There will probably be one thing on which to vote on each screen or page. For example, on one screen or page, you might vote for the president. Then you might move to the next page to vote for a senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for.\n- Other devices have a keypad, and some have a keyboard, so you can write in the name of someone you want to vote for.\n- You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.\n\nWhat are Paper Ballots:\n\nPaper ballots are one of the oldest ways of voting in America. They are still used in a few places on Election Day. When you come to the polling place, you will get a paper ballot from the poll worker. You take it to the voting booth, and use a pen or pencil to mark a box next to your candidate and issue choices. You then drop the marked ballot into a sealed ballot box.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/pennsylvania",
+            "t": "2026-10-22T19:13:50+00:00"
+        }
+    ]
+}

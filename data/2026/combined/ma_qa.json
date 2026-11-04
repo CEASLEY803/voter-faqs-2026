@@ -1,0 +1,86 @@
+{
+    "state": "ma",
+    "num_questions": 13,
+    "num_answers": 13,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "Do I have to vote by mail?",
+            "a": "No. In-person voting is still available to anyone who does not want to vote by mail.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "t": "2026-10-30T09:57:58+00:00"
+        },
+        {
+            "q": "How soon do I need to apply?",
+            "a": "As soon as possible! Your application must reach your local election office by November 1, but mail can take up to 1 week to be delivered, so the sooner you apply, the more time you will have to return your ballot and make sure it counts.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "t": "2026-10-30T09:57:58+00:00"
+        },
+        {
+            "q": "If I request a mail-in ballot, can I change my mind and vote in person?",
+            "a": "Once your ballot has been returned and accepted by your local election official, you cannot take it back or vote again. If you request a mail-in ballot but you do not return it to your local election official, you can vote in person during the early voting period or on Election Day.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "t": "2026-10-30T09:57:58+00:00"
+        },
+        {
+            "q": "Is voting by mail secure?",
+            "a": "Yes. Before your local election official can send you a ballot, they must confirm you are a voter and record your application. When your local election official receives your ballot, they will check to make sure you have signed the ballot envelope and compare the signature to the one they have on file. This is important, because ballots must be rejected if the envelope is not signed. If your ballot has been accepted, you will be checked off on the list of voters and your ballot will be securely stored by the local election official until it can be counted.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "t": "2026-10-30T09:57:58+00:00"
+        },
+        {
+            "q": "What is the deadline to return my mail-in ballot?",
+            "a": "In order for your ballot to be counted, it must be postmarked by November 8, 2022 and received no later than November 12, 2022. The postal service recommends mailing your ballot back at least one week before Election Day.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "t": "2026-10-30T09:57:58+00:00"
+        },
+        {
+            "q": "How can I check if my ballot was received?",
+            "a": "You can check the status of your ballot online at www.VoteInMA.com (http://www.voteinma.com). This shows whether your application has been received, the date the local election official mailed your ballot to you, and the date your ballot reaches the local election office.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "t": "2026-10-30T09:57:58+00:00"
+        },
+        {
+            "q": "Are all Vote by Mail ballots counted?",
+            "a": "All ballots received on time will be counted if they are properly executed. Remember to sign your ballot envelope so your ballot can be counted! All ballot counting is transparent and open to public observation.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "t": "2026-10-30T09:57:58+00:00"
+        },
+        {
+            "q": "When can I vote in person?",
+            "a": "You can vote in person during the early voting period or on Election Day. The early voting period will begin on October 22 and end on November 4. You can check the dates, times and locations at www.VoteInMA.com (http://www.voteinma.com).\n\nOn Election Day, November 8, polling places will be open from 7 a.m. until 8 p.m. Visit www.VoteInMA.com (http://www.voteinma.com) to find your polling place. You may also call the Elections Division at 1-800-462-VOTE (8683) for help finding your polling place.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "t": "2026-10-30T09:57:58+00:00"
+        },
+        {
+            "q": "How do I find out what offices and candidates are on my ballot?",
+            "a": "Sample ballots as well as instruction cards are posted at the polls on Election Day. You will also be able to view a sample ballot at www.VoteInMA.com (http://www.voteinma.com) in October.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "t": "2026-10-30T09:57:58+00:00"
+        },
+        {
+            "q": "What should I do if I registered to vote but my name is not on the voting list?",
+            "a": "If you registered to vote, but your name is not on the voting list, ask the election officer in charge of the polling place to check your registration with the city or town clerk to see if you may be registered in another precinct in that municipality. If they still can’t find your name, you may cast a provisional ballot at the polling place. After the election, the local election official will search for records to confirm your voter registration. If your eligibility is confirmed, your ballot will be counted. If your eligibility cannot be confirmed, your ballot will remain sealed in an envelope.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "t": "2026-10-30T09:57:58+00:00"
+        },
+        {
+            "q": "What if I make a mistake on my ballot?",
+            "a": "If you make a mistake on your ballot, you may request a new one. You may request up to two new ballots.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "t": "2026-10-30T09:57:58+00:00"
+        },
+        {
+            "q": "Can I bring materials into the polling place?",
+            "a": "Yes, you may bring materials into the voting booth. You can bring pre-printed brochures or pamphlets or your own notes, but you cannot display those materials while in the polling location. You must take any materials with you when you leave the voting booth.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+            "t": "2026-10-30T09:57:58+00:00"
+        },
+        {
+            "q": "Are You Registered to Vote?",
+            "a": "To choose any of these voting options, you first have to be registered to vote.\n\nVisit www.VoteInMA.com (https://www.sec.state.ma.us/divisions/elections/elesplash.htm) to check that your information is up to date, especially if you have moved since the last election.\n\nIf you have a Massachusetts driver’s license, you can register or update your information at the same website.\n\nIf you do not have a Massachusetts driver’s license, you can register to vote using a paper form, either by mail or in person at your local election office or early voting location.\n\nYou must be registered to vote by Saturday, October 24, 2026, in order to vote in this election.\n\nYou can register:\n\n- Online until 11:59 p.m. on October 24\n- By mail, with a form postmarked by October 24\n- In person, by 5 p.m. on October 24\n\n◃ Main\n\n (https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-information-for-voters/main.htm)\n\nOffices on the Ballot ▹\n\n (https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-information-for-voters/offices.htm)",
+            "s": "https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-Information-for-voters/2026-voting-options.htm",
+            "t": "2026-10-30T09:57:44+00:00"
+        }
+    ]
+}

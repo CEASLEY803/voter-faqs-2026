@@ -1,0 +1,290 @@
+{
+    "state": "wa",
+    "num_questions": 47,
+    "num_answers": 47,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "When are ballots mailed?",
+            "a": "Your ballot is mailed at least 18 days before each election. Your packet will include a ballot, a security sleeve for your voted ballot, and a return envelope with pre-paid postage. If you are a registered voter and do not receive your ballot, contact your county elections office. (https://www.sos.wa.gov/node/97)",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "t": "2026-10-29T22:12:09+00:00"
+        },
+        {
+            "q": "How can I learn more about the measures and/or candidates that appear on my ballot?",
+            "a": "Washington has many ways to help voters become informed:\n\n VoteWA.gov (https://votewa.gov/) – your online voters’ guide made for your ballot.\n\nState Voters’ Pamphlet – mailed to every residence in Washington before the November General Election.\n\n- PDFs and audio files are available online or you can subscribe to our USB program (https://www.sos.wa.gov/request-audio-voters-pamphlet-usb). If you are unable to locate an accessible pamphlet call (800) 448-4881 (tel:8004484881) or email [email protected] (https://www.sos.wa.gov/cdn-cgi/l/email-protection#8ff9e0fbeafdfcffeee2ffe7e3eafbcffce0fca1f8eea1e8e0f9).\n\nPrimary Voters' Pamphlet - sent by your county elections office (https://www.sos.wa.gov/node/97) before the August Primary.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "t": "2026-10-29T22:12:09+00:00"
+        },
+        {
+            "q": "When is the latest I can turn in my completed ballot?",
+            "a": "Return your ballot to an official ballot drop box by 8 p.m. on Election Day. Find drop box locations at VoteWA.gov (https://votewa.gov/).\n\nIf you need to mail your ballot, we recommend mailing it more than a week before Election Day. Ballots returned too late cannot be counted.\n\nSign in to VoteWA.gov (https://votewa.gov/) to check your ballot status. You can also text VOTE to 868392 to get text alerts. Please allow 3-5 business days for your county to receive your ballot.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "t": "2026-10-29T22:12:09+00:00"
+        },
+        {
+            "q": "Why do I need to sign my envelope?",
+            "a": "Your county elections office reviews your signature and compares it to your voter registration record. They will contact you if there's a problem with your signature. If you are unable to sign the declaration, make a mark in front of two witnesses and have them sign in the designated spaces.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "t": "2026-10-29T22:12:09+00:00"
+        },
+        {
+            "q": "Can I track my ballot?",
+            "a": "Yes. Sign in to VoteWA.gov (https://voter.votewa.gov/WhereToVote.aspx) to check your ballot status.\n\nYou can see when your ballot was mailed, received, accepted or challenged. Text VOTE to 868392 to get text alerts.\n\nIf you need help, contact your county elections office (https://www.sos.wa.gov/node/97).",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "t": "2026-10-29T22:12:09+00:00"
+        },
+        {
+            "q": "Can I vote in person?",
+            "a": "Yes. If you need assistance, each county opens an accessible voting center beginning 18 days before Election Day and ending at 8 p.m. Election Day. Locate your nearest voting center by checking VoteWA.gov (https://voter.votewa.gov/WhereToVote.aspx) or contacting your county elections office (https://www.sos.wa.gov/node/97).\n\nYou can return your mail ballot in person to a county elections office or voting center. You can also get a replacement ballot if needed. Your returned ballot will be processed the same way as a ballot returned by drop box or by mail.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "t": "2026-10-29T22:12:09+00:00"
+        },
+        {
+            "q": "What if I’m away from home during an election?",
+            "a": "Update your mailing address at VoteWA.gov (https://voter.votewa.gov/WhereToVote.aspx) or contact your county elections office (https://www.sos.wa.gov/node/97) to have your ballot forwarded to a temporary address.\n\nVoters away at college (https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voters-away-college)\n\nSeasonal resident (Snowbird) (https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/seasonal-resident-snowbird)\n\nMilitary and overseas voters (https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters)",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "t": "2026-10-29T22:12:09+00:00"
+        },
+        {
+            "q": "What if I move?",
+            "a": "If you move within Washington, update your address at VoteWA.gov (https://voter.votewa.gov/WhereToVote.aspx) or contact your county elections office (https://www.sos.wa.gov/node/97).\n\nIf you leave Washington but still consider yourself a Washington resident, you may update your mailing address to follow you anywhere in the world.\n\nIf you’d like to vote elsewhere, fill out a voter registration cancellation form (https://www.sos.wa.gov/sites/default/files/2023-07/VoterRegistrationCancellationForm_English.pdf) and mail it to your county elections office.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "t": "2026-10-29T22:12:09+00:00"
+        },
+        {
+            "q": "How do I get a replacement ballot?",
+            "a": "Just ask! Contact your local county elections office (https://www.sos.wa.gov/elections/voters/voter-registration/county-elections-offices) if you need a new ballot or did not receive the original ballot. Remember, your county may only accept one ballot and will verify your signature.\n\nYou can also print a replacement ballot at VoteWA.gov (https://voter.votewa.gov/WhereToVote.aspx).",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "t": "2026-10-29T22:12:09+00:00"
+        },
+        {
+            "q": "How do provisional ballots work in Washington?",
+            "a": "You can register in person on Election Day and get a regular ballot, so provisional ballots are not common. Counties issue provisional ballots when they need to check your eligibility to participate in the election.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "t": "2026-10-29T22:12:09+00:00"
+        },
+        {
+            "q": "I made a mistake! How do I change my vote?",
+            "a": "If you make a mistake, follow the instructions on your ballot to correct it.\n\nIf you’ve already turned in your ballot, you cannot change your choices.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "t": "2026-10-29T22:12:09+00:00"
+        },
+        {
+            "q": "Will my ballot count if I don’t vote on everything?",
+            "a": "Yes. You can vote in all or some of the contests on your ballot. The votes you cast will be counted.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "t": "2026-10-29T22:12:09+00:00"
+        },
+        {
+            "q": "Will my ballot count if I forget to use the security sleeve?",
+            "a": "Yes. Your elections office will securely process your ballot even if you forget the security sleeve.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "t": "2026-10-29T22:12:09+00:00"
+        },
+        {
+            "q": "How does the elections office secure my ballot?",
+            "a": "Securing Your Vote (https://www.sos.wa.gov/elections/voters/securing-your-vote)\n\nHow is my ballot counted? (English (https://www.sos.wa.gov/sites/default/files/2025-07/EN-2025%20Elections%20Outreach%201-pagers_How%20is%20my%20ballot%20counted.pdf), Spanish,  (https://www.sos.wa.gov/sites/default/files/2025-07/SP-2025%20Elections%20Outreach%201-pagers_How%20is%20my%20ballot%20counted.pdf)Chinese (https://www.sos.wa.gov/sites/default/files/2025-07/CH-2025%20Elections%20Outreach%201-pagers_How%20is%20my%20ballot%20counted.pdf), Vietnamese (https://www.sos.wa.gov/sites/default/files/2025-07/VI-2025%20Elections%20Outreach%201-pagers_How%20is%20my%20ballot%20counted.pdf))\n\nPath of the Ballot (English (https://www.sos.wa.gov/sites/default/files/2023-10/VBM_in_WA_8.5x11.pdf), Spanish (https://www.sos.wa.gov/sites/default/files/2025-03/VBM_in_WA_8.5x11_SP.pdf))",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "t": "2026-10-29T22:12:09+00:00"
+        },
+        {
+            "q": "When are election results final?",
+            "a": "Results are unofficial until the election is certified:\n\n- 10 days after special elections and presidential primaries,\n- 14 days after primaries and\n- 21 days after general elections.\n\nUnofficial election results are released on election night after 8 p.m. and are updated as additional ballots are counted.\n\nImage\n\nFor more information, see our webpage on USPS and Election Mail Resources (https://www.sos.wa.gov/usps-and-election-mail-resources).",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+            "t": "2026-10-29T22:12:09+00:00"
+        },
+        {
+            "q": "How do I qualify as a Future Voter?",
+            "a": "- Be at least 16 years old\n- A U.S. citizen\n- A Washington resident",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "t": "2026-10-29T22:12:10+00:00"
+        },
+        {
+            "q": "How do I sign up as a Future Voter?",
+            "a": "- Online at VoteWA.gov (https://weiapplets.sos.wa.gov/myvote/?Org=OSPI) using your Washington driver's license, permit, ID or Social Security number.\n- Mail in a paper form (PDF) (https://www.sos.wa.gov/sites/default/files/2026-01/VRF_English_OSPI.pdf).\n- In person at your county elections office (https://www.sos.wa.gov/node/97) or when you get your Washington driver's license, permit, or ID at the Department of Licensing.",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "t": "2026-10-29T22:12:10+00:00"
+        },
+        {
+            "q": "What if I don't have a driver's license?",
+            "a": "Use the last four (4) digits of your Social Security number to sign up using a paper form (PDF) (https://www.sos.wa.gov/sites/default/files/2026-01/VRF_English_OSPI.pdf) or at VoteWA.gov.",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "t": "2026-10-29T22:12:10+00:00"
+        },
+        {
+            "q": "When can I vote?",
+            "a": "If you are a 17-year-old who will be 18 by the November General Election, you will receive a ballot in the mail to vote in the Primary.",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "t": "2026-10-29T22:12:10+00:00"
+        },
+        {
+            "q": "When can I sign a petition for a ballot initiative or referendum?",
+            "a": "You’ll be able to sign petitions after your 18th birthday!",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "t": "2026-10-29T22:12:10+00:00"
+        },
+        {
+            "q": "What if I turn 18 right before an election?",
+            "a": "If your address has not changed, you can expect to receive a mailed ballot approximately two weeks before Election Day. Contact your county elections office (https://www.sos.wa.gov/node/97) for assistance and be ready to vote!\n\nA 17-year-old who will be 18 by the November General Election can vote in the Primary.",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "t": "2026-10-29T22:12:10+00:00"
+        },
+        {
+            "q": "What if I move, go away to college, leave the country, or join the military?",
+            "a": "We can mail your ballot anywhere in the world, but your residential address must remain in Washington. You may not vote in more than one place.\n\nIf you move within Washington, submit a new registration form to update your information.\n\n- Away at college — submit a new registration form with your updated mailing address.\n- Overseas — submit a new registration form with your updated mailing address and mark Overseas Status.\n- Military — submit a new registration form with your updated mailing address and mark \"Military Status\".",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "t": "2026-10-29T22:12:10+00:00"
+        },
+        {
+            "q": "What if I have a conviction in juvenile court?",
+            "a": "You do not lose the right to vote for a misdemeanor conviction or a conviction in juvenile court.\n\nFor more information about voting after a felony conviction, see Felony Convictions and Voting Rights (https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/felony-convictions-and-voting-rights).",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "t": "2026-10-29T22:12:10+00:00"
+        },
+        {
+            "q": "Is my information private?",
+            "a": "Yes, your information is protected while underage. Once you are eligible to vote you become registered and voter registration info is public.",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "t": "2026-10-29T22:12:10+00:00"
+        },
+        {
+            "q": "What if I'm in the Address Confidentiality Program (ACP)?",
+            "a": "Call ACP at 360-753-2972 and they will send you a form and help you stay safe.\n\nIf you are in the Address Confidentiality Program (ACP), signing up to vote will be different for you. You can be a Protected Records Voter (PRV) and have your address information kept out of the VoteWA database.\n\n Resources for Teachers\n\nSign up (https://mailchi.mp/sos.wa.gov/k12) to follow Future Voter news and resources\n\n- OSPI Teacher Resources (https://www.oercommons.org/courseware/lesson/72597/overview)\n- Classroom Guide to Registering Voters (PDF) (https://www.sos.wa.gov/sites/default/files/2023-08/ClassroomGuideRegistration.pdf)\n- Voter Registration Forms (https://www.sos.wa.gov/elections/voters/voter-registration/print-voter-registration-form)\n- Bookmarks: Color (PDF) (https://www.sos.wa.gov/sites/default/files/2023-11/FV_Bookmarks.pdf), Black & White (PDF) (https://www.sos.wa.gov/sites/default/files/2023-11/FV_Bookmarks_bw.pdf)\n- Poster, Letter (PDF) (https://www.sos.wa.gov/sites/default/files/2023-05/fv_poster_letter.pdf)\n- Poster, Tabloid (PDF) (https://www.sos.wa.gov/sites/default/files/2023-05/fv_poster_tabloid.pdf)\n- Elections results and data (https://www.sos.wa.gov/elections/data-research/election-data-and-maps/election-results-and-voters-pamphlets)",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+            "t": "2026-10-29T22:12:10+00:00"
+        },
+        {
+            "q": "What is a top-two primary?",
+            "a": "Washington’s top-two primary in August is a type of election that narrows down the list of candidates for the general election in November.\n\nThe presidential primary is not part of the top-two primary.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "t": "2026-10-29T22:12:18+00:00"
+        },
+        {
+            "q": "How does the top-two primary work?",
+            "a": "The two candidates with the most votes will appear on the general election ballot even if they have the same party preference.\n\nYou can vote for any candidate even if you do not prefer the same political party.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "t": "2026-10-29T22:12:18+00:00"
+        },
+        {
+            "q": "What is a party preference?",
+            "a": "Candidates for partisan office may state a preference for a political party, which appears on ballots and in voters' pamphlets.\n\nCandidates can describe the party they prefer when they file for office; they can also choose to state no party preference.\n\nA candidate's preference does not imply that the candidate is nominated or endorsed by the party, or that the party approves of or associates with that candidate.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "t": "2026-10-29T22:12:18+00:00"
+        },
+        {
+            "q": "Which offices are affected?",
+            "a": "The top-two primary applies to all offices except:\n\n- President and Vice President;\n- Political Party Precinct Committee Officer (PCO); or\n- Charter Review or Freeholder.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "t": "2026-10-29T22:12:18+00:00"
+        },
+        {
+            "q": "How does this affect nonpartisan offices?",
+            "a": "Candidates for nonpartisan positions cannot state a party preference. Elections for nonpartisan offices, such as city council or judge, move directly to the general election if two or fewer candidates file.\n\nThe two candidates in a nonpartisan race who receive the most votes in the primary are the only candidates allowed to advance to the general election.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "t": "2026-10-29T22:12:18+00:00"
+        },
+        {
+            "q": "If only one or two candidates file for an office, do they still have a primary?",
+            "a": "For partisan office, yes. There is still a primary even if only one or two candidates file.\n\nFor nonpartisan office, the candidates will only appear in the general election.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "t": "2026-10-29T22:12:18+00:00"
+        },
+        {
+            "q": "Will there be both a Democrat and a Republican in each race on the ballot at the general election?",
+            "a": "Not necessarily. No party is guaranteed a spot on the general election ballot. The two candidates who appear on the ballot at the general election are the two who received the most votes in the primary.\n\nThese candidates might prefer the same party, different parties, or not state a preference. It’s possible for all candidates in a race to have declared the same party preference.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "t": "2026-10-29T22:12:18+00:00"
+        },
+        {
+            "q": "What is the difference between a top-two primary and the primary elections in other states?",
+            "a": "Most other states in the country conduct nominating primaries in which voters select each party's nominee.\n\nIn Washington’s top-two primary, any candidate can file for office and appear on the primary ballot. The two candidates with the most votes will advance to the general election.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "t": "2026-10-29T22:12:18+00:00"
+        },
+        {
+            "q": "How did the top-two primary become law?",
+            "a": "The top-two primary was passed by voters in 2004 as Initiative 872 and received almost 60% of the vote.\n\nIn 2005, before the new law was implemented, the Washington state Democratic, Republican, and Libertarian parties sued in federal court, arguing that the law allowed anyone to appear on the ballot as a candidate for a political party without that party’s consent.\n\nThe lower courts imposed an injunction prohibiting the state from implementing the new primary, but in March 2008, the U.S. Supreme Court upheld the new law. Washington state used the new primary for the first time in the 2008 Primary and General Elections.\n\nHistory of the Washington State Primary (https://www.sos.wa.gov/elections/data-research/history-laws-and-litigation/history-washington-state-primary)",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "t": "2026-10-29T22:12:18+00:00"
+        },
+        {
+            "q": "Can I write in a name that’s not on the ballot?",
+            "a": "Yes. Each race on the ballot has a write-in line for you to write in the name of a candidate.\n\nCandidates must submit a declaration of write-in candidacy to have officials tally their votes. Officials only tally individual write-in votes if the total number of write-in votes is high enough to make a difference in the race.\n\nWrite-in Candidacy FAQ (https://www.sos.wa.gov/elections/candidates/frequently-asked-questions/write-candidates)",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "t": "2026-10-29T22:12:18+00:00"
+        },
+        {
+            "q": "How do I change my political party affiliation?",
+            "a": "Voters in Washington do not choose a party when registering to vote. If you want to become a member of a political party, contact the party directly.",
+            "s": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+            "t": "2026-10-29T22:12:18+00:00"
+        },
+        {
+            "q": "When can I register and request a ballot?",
+            "a": "Normal state registration deadlines do not apply to military and overseas voters due to federal law.\n\nThe last day to register and request a ballot is Election Day. Your signed ballot declaration serves as both registration and confirmation of eligibility.",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+            "t": "2026-10-29T22:12:35+00:00"
+        },
+        {
+            "q": "How do I register to vote?",
+            "a": "When registering, please indicate you are in the military or living overseas.\n\nYou must provide a Washington residential address—your last Washington address or the address of a family member.\n\nYour mailing address can be anywhere in the world.\n\nYou can register in these ways:\n\n- Online using VoteWA (https://voter.votewa.gov/portal2023/login.aspx) - you must have a Washington state ID, driver’s license, or a Social Security number.\n- By mail - print and return a paper form (https://www.sos.wa.gov/elections/voters/voter-registration/print-voter-registration-form).\n- In person - fill out your form at your county elections office (https://www.sos.wa.gov/elections/voters/voter-registration/county-elections-offices).\n\nPaper forms can be mailed, emailed or faxed to your county elections office (https://www.sos.wa.gov/elections/voters/voter-registration/county-elections-offices).\n\nIf you do not have a Washington ID, you may use the Federal Voting Assistance Program (https://www.fvap.gov/).",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+            "t": "2026-10-29T22:12:35+00:00"
+        },
+        {
+            "q": "How can I receive my ballot?",
+            "a": "You can get your ballot by:\n\n- Mail\n- Email\n- Fax\n\nIf you don’t choose an option, a ballot will automatically be mailed to you.\n\nYou may be able to get your ballot as early as 90 days before the election.\n\nIf your ballot doesn’t arrive or you register close to Election Day, request one right away. Specify whether you would like to receive your ballot by mail, email or fax.\n\nContact your county elections office (https://www.sos.wa.gov/elections/voters/voter-registration/county-elections-offices) to:\n\n- Request a ballot or a replacement ballot;\n- Change how you receive your ballot (for example, by email instead of postal mail); or\n- Update your voter registration record (for example, update your mailing address).\n\nIf you think your ballot won’t arrive in time, you can use a Federal Write-In Absentee Ballot (FWAB) (https://www.fvap.gov/fwab-privacy-notice)— a backup ballot available online, at U.S. embassies and consulates, or through Voting Assistance Officers.",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+            "t": "2026-10-29T22:12:35+00:00"
+        },
+        {
+            "q": "Where can I find information about what is on my ballot?",
+            "a": "Washington has many ways to help you learn about the measures and candidates on your ballot:\n\n- VoteWA  (https://voter.votewa.gov/portal2023/login.aspx)– Personalized information for your ballot.\n- State Online Voters’ Guide (https://www.sos.wa.gov/elections/data-research/election-results-and-voters-pamphlets/current-election-online-voters-guide) – Information on all federal and state candidates and statewide measures. For local information, contact your county elections office (https://www.sos.wa.gov/elections/voters/voter-registration/county-elections-offices).\n\nTo request printed elections material, contact your county elections office (https://www.sos.wa.gov/elections/voters/voter-registration/county-elections-offices).",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+            "t": "2026-10-29T22:12:35+00:00"
+        },
+        {
+            "q": "How do I return my ballot?",
+            "a": "You may return your ballot by mail, email or fax.\n\nBy mail\n\nSign and date your declaration no later than Election Day.\n\nThe ballot must be received by your county elections office (https://www.sos.wa.gov/elections/voters/voter-registration/county-elections-offices) by these deadlines after Election Day:\n\n- November General: within 20 days,\n- August Primary: within 13 days,\n- Special Elections: within 9 days,\n- Presidential Primary: within 9 days.\n\nBy email or fax\n\nYou can take a clear and legible picture of your ballot packet pages or scan them.\n\nYour ballot must be received by your county elections office by 8 p.m. Pacific Time on Election Day.\n\nReturn the entire ballot packet:\n\n- declaration and signature sheet\n- cover sheet\n- ballot",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+            "t": "2026-10-29T22:12:35+00:00"
+        },
+        {
+            "q": "How do I know if my ballot was received?",
+            "a": "Go to VoteWA.gov (https://voter.votewa.gov/portal2023/login.aspx), log in, and open the \"Your Ballot & Voting Materials\" tab.\n\nThis page may take time to update.",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+            "t": "2026-10-29T22:12:35+00:00"
+        },
+        {
+            "q": "What is an Accessible Voting Unit?",
+            "a": "Accessible voting units (AVUs) help people with disabilities vote privately and independently.\n\nAVUs must be wheelchair-accessible and give the voter privacy.\n\n- Your ballot appears on a monitor while you select choices by touching the screen, using a select wheel, or by using a tool.\n- You can use headphones to listen to the words and instructions on your ballot.\n- Most machines also have a sip-and- puff tools.",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voters-disabilities",
+            "t": "2026-10-29T22:12:41+00:00"
+        },
+        {
+            "q": "Where can I find Accessible Voting Units?",
+            "a": "Voting centers have accessible voting equipment ready starting 18 days before Election Day, until 8 p.m. on Election Day.\n\nContact your county elections office (https://www.sos.wa.gov/node/97) for more information.\n\nVoter dates and deadlines (https://www.sos.wa.gov/elections/elections-calendar/dates-and-deadlines)",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voters-disabilities",
+            "t": "2026-10-29T22:12:41+00:00"
+        },
+        {
+            "q": "Can I get help with my ballot?",
+            "a": "If you cannot fill out a ballot because of a disability, you may choose someone you trust to help you vote. You can also ask two election workers to assist you and mark your choices as you direct them.",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voters-disabilities",
+            "t": "2026-10-29T22:12:41+00:00"
+        },
+        {
+            "q": "What if I have a legal guardian?",
+            "a": "If you have a legal guardian, you may still be allowed to vote Guardianship papers will say whether you have the right to vote. Only a court order can declare you unable to vote.",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voters-disabilities",
+            "t": "2026-10-29T22:12:41+00:00"
+        },
+        {
+            "q": "How do I receive a ballot?",
+            "a": "American Sign Language Video: Voting in Washington and why your signature is important (https://youtu.be/x7tur6GzTVw)",
+            "s": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voter-eligibility",
+            "t": "2026-10-29T22:12:44+00:00"
+        }
+    ]
+}

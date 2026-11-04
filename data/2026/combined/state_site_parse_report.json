@@ -1,0 +1,1716 @@
+[
+    {
+        "state": "ak",
+        "url": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+        "final_url": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ak/ak-a060106e2b.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 11,
+        "baseline_records": 24,
+        "flags": [
+            "11 records, well below the 24 the baseline had for this URL"
+        ]
+    },
+    {
+        "state": "ak",
+        "url": "https://www.elections.alaska.gov/military-overseas-and-college-voters/",
+        "final_url": "https://www.elections.alaska.gov/military-overseas-and-college-voters/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ak/ak-0b3fea8b94.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 5,
+        "flags": [
+            "1 records, well below the 5 the baseline had for this URL"
+        ]
+    },
+    {
+        "state": "ak",
+        "url": "https://www.elections.alaska.gov/voter-information/",
+        "final_url": "https://www.elections.alaska.gov/voter-information/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ak/ak-f3b154ffc6.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 5,
+        "baseline_records": 3,
+        "flags": []
+    },
+    {
+        "state": "al",
+        "url": "https://www.sos.alabama.gov/alabama-votes/faqs",
+        "final_url": "https://www.sos.alabama.gov/alabama-votes/faqs",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/al/al-a168c44e4d.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 20,
+        "baseline_records": 20,
+        "flags": []
+    },
+    {
+        "state": "ar",
+        "url": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information/",
+        "final_url": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ar/ar-2672269c98.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 4,
+        "baseline_records": 4,
+        "flags": []
+    },
+    {
+        "state": "az",
+        "url": "https://azsos.gov/elections",
+        "final_url": "https://azsos.gov/elections",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/az/az-b0eb4315fa.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 13,
+        "baseline_records": 13,
+        "flags": []
+    },
+    {
+        "state": "ca",
+        "url": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+        "final_url": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ca/ca-08fc225766.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 57,
+        "baseline_records": 57,
+        "flags": []
+    },
+    {
+        "state": "co",
+        "url": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-579ef28a50.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 22,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "ct",
+        "url": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+        "final_url": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ct/ct-a754ff575d.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 7,
+        "baseline_records": 6,
+        "flags": []
+    },
+    {
+        "state": "ct",
+        "url": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
+        "final_url": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ct/ct-bcc13b8159.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 5,
+        "baseline_records": 5,
+        "flags": []
+    },
+    {
+        "state": "ct",
+        "url": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+        "final_url": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ct/ct-1124c37383.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 13,
+        "baseline_records": 4,
+        "flags": []
+    },
+    {
+        "state": "ct",
+        "url": "https://portal.ct.gov/sots/election-services/faq/faq---voter-identification",
+        "final_url": "https://portal.ct.gov/sots/election-services/faq/faq---voter-identification",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ct/ct-ec7378d8b5.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 4,
+        "baseline_records": 4,
+        "flags": []
+    },
+    {
+        "state": "ct",
+        "url": "https://portal.ct.gov/sots/election-services/voter-information/homeless-voter-fact-sheet",
+        "final_url": "https://portal.ct.gov/sots/election-services/voter-information/homeless-voter-fact-sheet",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ct/ct-a63cba3201.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 7,
+        "baseline_records": 3,
+        "flags": []
+    },
+    {
+        "state": "ct",
+        "url": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote",
+        "final_url": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ct/ct-45904cb85f.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 5,
+        "baseline_records": 3,
+        "flags": []
+    },
+    {
+        "state": "ct",
+        "url": "https://portal.ct.gov/sots/election-services/voter-information/voter-registration-information",
+        "final_url": "https://portal.ct.gov/sots/election-services/voter-information/voter-registration-information",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ct/ct-3aa3134762.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 2,
+        "baseline_records": 2,
+        "flags": []
+    },
+    {
+        "state": "ct",
+        "url": "https://portal.ct.gov/sots/election-services/voter-information/party-affiliation",
+        "final_url": "https://portal.ct.gov/sots/election-services/voter-information/party-affiliation",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ct/ct-fde440da1b.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 2,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "ct",
+        "url": "https://portal.ct.gov/sots/election-services/election-day-registration/election-day-registration",
+        "final_url": "https://portal.ct.gov/sots/election-services/election-day-registration/election-day-registration",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ct/ct-38842d3518.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 1,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "de",
+        "url": "https://elections.delaware.gov/voter/pdfs/Pollbook%20FAQs.pdf",
+        "final_url": "https://elections.delaware.gov/voter/pdfs/Pollbook%20FAQs.pdf",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/de/de-624afe02d0.pdf",
+        "capture_method": "requests",
+        "parser": "pdf",
+        "records": 3,
+        "baseline_records": 3,
+        "flags": []
+    },
+    {
+        "state": "de",
+        "url": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+        "final_url": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/de/de-c44f35f445.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 26,
+        "baseline_records": 25,
+        "flags": []
+    },
+    {
+        "state": "de",
+        "url": "https://elections.delaware.gov/voter/VotingFAQ.html",
+        "final_url": "https://elections.delaware.gov/voter/VotingFAQ.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/de/de-6d756c0e12.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 23,
+        "baseline_records": 23,
+        "flags": []
+    },
+    {
+        "state": "de",
+        "url": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
+        "final_url": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/de/de-a84cc3ccfe.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 14,
+        "baseline_records": 12,
+        "flags": []
+    },
+    {
+        "state": "de",
+        "url": "https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html",
+        "final_url": "https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/de/de-5d0542754c.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 6,
+        "baseline_records": 5,
+        "flags": []
+    },
+    {
+        "state": "de",
+        "url": "https://elections.delaware.gov/voter/avr.html",
+        "final_url": "https://elections.delaware.gov/voter/avr.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/de/de-27c1754776.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 6,
+        "baseline_records": 14,
+        "flags": [
+            "6 records, well below the 14 the baseline had for this URL"
+        ]
+    },
+    {
+        "state": "de",
+        "url": "https://elections.delaware.gov/public/faq/",
+        "final_url": "https://elections.delaware.gov/public/faq/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/de/de-080e9c160f.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 0,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "fl",
+        "url": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-voting/",
+        "final_url": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-voting/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/fl/fl-881885aa44.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 23,
+        "baseline_records": 25,
+        "flags": []
+    },
+    {
+        "state": "fl",
+        "url": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-campaign-finance/",
+        "final_url": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-campaign-finance/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/fl/fl-98747ea1ee.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 21,
+        "baseline_records": 21,
+        "flags": []
+    },
+    {
+        "state": "fl",
+        "url": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-voter-registration/",
+        "final_url": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-voter-registration/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/fl/fl-591cac4966.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 16,
+        "baseline_records": 16,
+        "flags": []
+    },
+    {
+        "state": "fl",
+        "url": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-minor-political-parties/",
+        "final_url": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-minor-political-parties/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/fl/fl-57ac3709df.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 14,
+        "baseline_records": 14,
+        "flags": []
+    },
+    {
+        "state": "fl",
+        "url": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-elections/",
+        "final_url": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-elections/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/fl/fl-d1a2197b35.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 11,
+        "baseline_records": 12,
+        "flags": []
+    },
+    {
+        "state": "fl",
+        "url": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-candidates/",
+        "final_url": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-candidates/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/fl/fl-a522dbc9bb.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 9,
+        "baseline_records": 9,
+        "flags": []
+    },
+    {
+        "state": "fl",
+        "url": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-political-committees/",
+        "final_url": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-political-committees/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/fl/fl-3638b7b97f.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 8,
+        "baseline_records": 8,
+        "flags": []
+    },
+    {
+        "state": "fl",
+        "url": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-campaign-advertising/",
+        "final_url": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-campaign-advertising/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/fl/fl-2cd6418aa3.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 5,
+        "baseline_records": 5,
+        "flags": []
+    },
+    {
+        "state": "ga",
+        "url": "https://sos.ga.gov/page/elections-faq",
+        "final_url": "https://sos.ga.gov/page/elections-faq",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ga/ga-f0e791c1f3.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 46,
+        "baseline_records": 50,
+        "flags": []
+    },
+    {
+        "state": "hi",
+        "url": "https://elections.hawaii.gov/voting/voting-in-hawaii/",
+        "final_url": "https://elections.hawaii.gov/voting/voting-in-hawaii/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/hi/hi-846391a365.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 11,
+        "baseline_records": 21,
+        "flags": []
+    },
+    {
+        "state": "hi",
+        "url": "https://elections.hawaii.gov/register-to-vote/registration/",
+        "final_url": "https://elections.hawaii.gov/register-to-vote/registration/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/hi/hi-5bf270f2e6.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 14,
+        "flags": [
+            "1 records, well below the 14 the baseline had for this URL"
+        ]
+    },
+    {
+        "state": "hi",
+        "url": "https://elections.hawaii.gov/voting/voters-with-a-felony-conviction/",
+        "final_url": "https://elections.hawaii.gov/voting/voters-with-a-felony-conviction/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/hi/hi-5a1d76c986.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 6,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "hi",
+        "url": "https://elections.hawaii.gov/voting/voters-requiring-assistance/",
+        "final_url": "https://elections.hawaii.gov/voting/voters-requiring-assistance/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/hi/hi-6074b76a31.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 5,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "hi",
+        "url": "https://elections.hawaii.gov/voting/military-and-overseas-voters/",
+        "final_url": "https://elections.hawaii.gov/voting/military-and-overseas-voters/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/hi/hi-f34925c814.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 3,
+        "flags": [
+            "1 records, well below the 3 the baseline had for this URL"
+        ]
+    },
+    {
+        "state": "hi",
+        "url": "https://elections.hawaii.gov/voting/houseless-voter-2/",
+        "final_url": "https://elections.hawaii.gov/voting/houseless-voter-2/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/hi/hi-d18106d25d.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 2,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "hi",
+        "url": "https://elections.hawaii.gov/voting/college-students/",
+        "final_url": "https://elections.hawaii.gov/voting/college-students/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/hi/hi-7e36e457fa.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 1,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "ia",
+        "url": "https://sos.iowa.gov/voters/military-and-overseas-civilian-voters",
+        "final_url": "https://sos.iowa.gov/voters/military-and-overseas-civilian-voters",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ia/ia-ec5164d8cc.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 0,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "ia",
+        "url": "https://sos.iowa.gov/elections-and-voting-faqs",
+        "final_url": "https://sos.iowa.gov/elections-and-voting-faqs",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ia/ia-cd22f0e9d9.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 0,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "id",
+        "url": "https://voteidaho.gov/frequently-asked-questions/",
+        "final_url": "https://voteidaho.gov/frequently-asked-questions/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/id/id-7548b84429.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 37,
+        "baseline_records": 37,
+        "flags": []
+    },
+    {
+        "state": "in",
+        "url": "https://www.in.gov/sos/elections/voter-information/register-to-vote/",
+        "final_url": "https://www.in.gov/sos/elections/voter-information/register-to-vote/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/in/in-0e7fc59ee1.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 4,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "in",
+        "url": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/absentee-voting/",
+        "final_url": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/absentee-voting/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/in/in-8bf8e5f4f0.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 4,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "in",
+        "url": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/provisional-ballots/",
+        "final_url": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/provisional-ballots/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/in/in-5bba770f54.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 3,
+        "baseline_records": 3,
+        "flags": []
+    },
+    {
+        "state": "ks",
+        "url": "https://www.sos.ks.gov/elections/election-faq.html",
+        "final_url": "https://www.sos.ks.gov/elections/election-faq.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ks/ks-2d3b87ad51.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 24,
+        "baseline_records": 24,
+        "flags": []
+    },
+    {
+        "state": "ky",
+        "url": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+        "final_url": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ky/ky-3c141b7b15.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 11,
+        "baseline_records": 11,
+        "flags": []
+    },
+    {
+        "state": "ky",
+        "url": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+        "final_url": "https://elect.ky.gov/Voters/Pages/Voter-Registration-Drives.aspx",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ky/ky-6f5e083c5e.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 8,
+        "baseline_records": 10,
+        "flags": []
+    },
+    {
+        "state": "ky",
+        "url": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+        "final_url": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ky/ky-8e8c0e8d57.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 8,
+        "baseline_records": 9,
+        "flags": []
+    },
+    {
+        "state": "ky",
+        "url": "https://elect.ky.gov/Voters/Pages/Voter-Rights.aspx",
+        "final_url": "https://elect.ky.gov/Voters/Pages/Voter-Rights.aspx",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ky/ky-fb2fb86be8.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 3,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "ky",
+        "url": "https://elect.ky.gov/Voters/Pages/Military-or-Overseas-Voters.aspx",
+        "final_url": "https://elect.ky.gov/Voters/Pages/Military-or-Overseas-Voters.aspx",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ky/ky-f48c4ff2c8.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 1,
+        "flags": []
+    },
+    {
+        "state": "la",
+        "url": "https://sos.la.gov/elections-voting/voter-registration-faqs",
+        "final_url": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/la/la-89e35dd72a.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 20,
+        "baseline_records": 19,
+        "flags": []
+    },
+    {
+        "state": "la",
+        "url": "https://sos.la.gov/elections-voting/absentee-voting-faqs",
+        "final_url": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/la/la-fe3010235a.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 24,
+        "baseline_records": 25,
+        "flags": []
+    },
+    {
+        "state": "la",
+        "url": "https://sos.la.gov/elections-voting/voting-early-faqs",
+        "final_url": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/la/la-d9ba59ddcd.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 20,
+        "baseline_records": 20,
+        "flags": []
+    },
+    {
+        "state": "la",
+        "url": "https://sos.la.gov/elections-voting/voting-on-election-day-faqs",
+        "final_url": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/la/la-4db7d584dd.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 20,
+        "baseline_records": 20,
+        "flags": []
+    },
+    {
+        "state": "la",
+        "url": "https://sos.la.gov/elections-voting/provisional-voting-faqs",
+        "final_url": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/la/la-ff25cdefc1.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 9,
+        "baseline_records": 9,
+        "flags": []
+    },
+    {
+        "state": "md",
+        "url": "https://elections.maryland.gov/voting/index.html",
+        "final_url": "https://elections.maryland.gov/voting/index.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/md/md-041b9dbe58.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 6,
+        "baseline_records": 23,
+        "flags": [
+            "6 records, well below the 23 the baseline had for this URL"
+        ]
+    },
+    {
+        "state": "me",
+        "url": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+        "final_url": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/me/me-8f4cc7a9e4.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 33,
+        "baseline_records": 33,
+        "flags": []
+    },
+    {
+        "state": "mi",
+        "url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+        "final_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mi/mi-336ebe7117.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 77,
+        "baseline_records": 73,
+        "flags": []
+    },
+    {
+        "state": "mi",
+        "url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+        "final_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mi/mi-0251820a81.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 23,
+        "baseline_records": 24,
+        "flags": []
+    },
+    {
+        "state": "mi",
+        "url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+        "final_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mi/mi-c2c2a2e273.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 4,
+        "baseline_records": 24,
+        "flags": [
+            "4 records, well below the 24 the baseline had for this URL"
+        ]
+    },
+    {
+        "state": "mi",
+        "url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+        "final_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mi/mi-8d82b27e20.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 17,
+        "baseline_records": 17,
+        "flags": []
+    },
+    {
+        "state": "mi",
+        "url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+        "final_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mi/mi-afa1ab2fa2.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 15,
+        "baseline_records": 9,
+        "flags": []
+    },
+    {
+        "state": "mi",
+        "url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+        "final_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mi/mi-855857bc5d.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 6,
+        "baseline_records": 7,
+        "flags": []
+    },
+    {
+        "state": "mn",
+        "url": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+        "final_url": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mn/mn-652631b6cc.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "mn",
+        "url": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+        "final_url": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mn/mn-eaff577b02.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "mn",
+        "url": "https://www.sos.mn.gov/elections-voting/register-to-vote/common-registration-questions/",
+        "final_url": "https://www.sos.mn.gov/elections-voting/register-to-vote/common-registration-questions/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mn/mn-114e9851a5.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 9,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "mn",
+        "url": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-a-college-student/",
+        "final_url": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-a-college-student/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mn/mn-c3cf7144bd.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 7,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "mn",
+        "url": "https://www.sos.mn.gov/elections-voting/register-to-vote/automatic-voter-registration/",
+        "final_url": "https://www.sos.mn.gov/elections-voting/register-to-vote/automatic-voter-registration/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mn/mn-350a069255.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 5,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "mn",
+        "url": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-in-a-residential-facility/",
+        "final_url": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-in-a-residential-facility/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mn/mn-dd9c8bfa5b.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "mn",
+        "url": "https://www.sos.mn.gov/elections-voting/register-to-vote/i-have-a-criminal-record/",
+        "final_url": "https://www.sos.mn.gov/elections-voting/register-to-vote/i-have-a-criminal-record/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mn/mn-fa0c7c2c62.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "mn",
+        "url": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-homeless/",
+        "final_url": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-homeless/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mn/mn-067bb7ef13.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 0,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "mn",
+        "url": "https://www.sos.mn.gov/elections-voting/register-to-vote/i-fear-for-my-personal-safety/",
+        "final_url": "https://www.sos.mn.gov/elections-voting/register-to-vote/i-fear-for-my-personal-safety/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mn/mn-53db93cbd1.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 0,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "mn",
+        "url": "https://www.sos.mn.gov/elections-voting/register-to-vote/",
+        "final_url": "https://www.sos.mn.gov/elections-voting/register-to-vote/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mn/mn-2bb9f9373f.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "mo",
+        "url": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+        "final_url": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mo/mo-8080f5a951.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 6,
+        "baseline_records": 7,
+        "flags": []
+    },
+    {
+        "state": "mo",
+        "url": "https://www.sos.mo.gov/elections/goVoteMissouri/votereg",
+        "final_url": "https://www.sos.mo.gov/elections/goVoteMissouri/votereg",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mo/mo-9955cf2b44.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 6,
+        "baseline_records": 6,
+        "flags": []
+    },
+    {
+        "state": "mo",
+        "url": "https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions",
+        "final_url": "https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mo/mo-647bf0554a.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 6,
+        "baseline_records": 6,
+        "flags": []
+    },
+    {
+        "state": "mo",
+        "url": "https://www.sos.mo.gov/elections/goVoteMissouri/votingrights",
+        "final_url": "https://www.sos.mo.gov/elections/goVoteMissouri/votingrights",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mo/mo-e8562387b4.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 4,
+        "baseline_records": 5,
+        "flags": []
+    },
+    {
+        "state": "ms",
+        "url": "https://www.sos.ms.gov/elections-voting/election-faqs",
+        "final_url": "https://www.sos.ms.gov/elections-voting/election-faqs",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ms/ms-786e4039e9.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 5,
+        "baseline_records": 5,
+        "flags": []
+    },
+    {
+        "state": "mt",
+        "url": "https://sosmt.gov/elections/faq/",
+        "final_url": "https://sosmt.gov/elections/faq/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/mt/mt-8fda0781e4.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 12,
+        "baseline_records": 13,
+        "flags": []
+    },
+    {
+        "state": "nc",
+        "url": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+        "final_url": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nc/nc-15034ca201.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 35,
+        "baseline_records": 35,
+        "flags": []
+    },
+    {
+        "state": "nc",
+        "url": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+        "final_url": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nc/nc-a34983ad34.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 16,
+        "baseline_records": 16,
+        "flags": []
+    },
+    {
+        "state": "nc",
+        "url": "https://www.ncsbe.gov/registering/faq-voter-registration",
+        "final_url": "https://www.ncsbe.gov/registering/faq-voter-registration",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nc/nc-e5820acfb8.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 14,
+        "baseline_records": 14,
+        "flags": []
+    },
+    {
+        "state": "nc",
+        "url": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+        "final_url": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nc/nc-751d9f92ab.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 7,
+        "baseline_records": 7,
+        "flags": []
+    },
+    {
+        "state": "nc",
+        "url": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+        "final_url": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nc/nc-61729dffb2.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 6,
+        "baseline_records": 6,
+        "flags": []
+    },
+    {
+        "state": "nc",
+        "url": "https://www.ncsbe.gov/registering/national-voter-registration-act-nvra",
+        "final_url": "https://www.ncsbe.gov/registering/national-voter-registration-act-nvra",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nc/nc-6f303e651e.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 4,
+        "baseline_records": 4,
+        "flags": []
+    },
+    {
+        "state": "nc",
+        "url": "https://www.ncsbe.gov/registering/how-register/voter-registration-deadlines",
+        "final_url": "https://www.ncsbe.gov/registering/how-register/voter-registration-deadlines",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nc/nc-6332def2f9.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 2,
+        "baseline_records": 2,
+        "flags": []
+    },
+    {
+        "state": "nc",
+        "url": "https://www.ncsbe.gov/candidates/filing-candidacy",
+        "final_url": "https://www.ncsbe.gov/candidates/filing-candidacy",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nc/nc-6eacacb093.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 1,
+        "flags": []
+    },
+    {
+        "state": "nc",
+        "url": "https://www.ncsbe.gov/about-elections/electoral-college",
+        "final_url": "https://www.ncsbe.gov/about-elections/electoral-college",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nc/nc-ae0143d069.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 1,
+        "flags": []
+    },
+    {
+        "state": "nc",
+        "url": "https://www.ncsbe.gov/voting/vote-early-person",
+        "final_url": "https://www.ncsbe.gov/voting/vote-early-person",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nc/nc-821f3ecb64.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 7,
+        "baseline_records": 1,
+        "flags": []
+    },
+    {
+        "state": "nc",
+        "url": "https://www.ncsbe.gov/voting/vote-person-election-day",
+        "final_url": "https://www.ncsbe.gov/voting/vote-person-election-day",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nc/nc-f042c86644.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 1,
+        "flags": []
+    },
+    {
+        "state": "nd",
+        "url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/military-and-overseas-us-citizens",
+        "final_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/military-and-overseas-us-citizens",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nd/nd-62d30d039a.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 8,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "nd",
+        "url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote",
+        "final_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nd/nd-653ac58665.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 6,
+        "flags": [
+            "1 records, well below the 6 the baseline had for this URL"
+        ]
+    },
+    {
+        "state": "nd",
+        "url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/absentee-voting",
+        "final_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/absentee-voting",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nd/nd-b39bb74260.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 6,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "nd",
+        "url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/forms-voter-id",
+        "final_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/forms-voter-id",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nd/nd-4a32b6f84e.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 4,
+        "baseline_records": 5,
+        "flags": []
+    },
+    {
+        "state": "nd",
+        "url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota",
+        "final_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nd/nd-2da22d4351.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 2,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "nd",
+        "url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/where-do-i-vote",
+        "final_url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/where-do-i-vote",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nd/nd-5768d6ea77.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 1,
+        "flags": []
+    },
+    {
+        "state": "ne",
+        "url": "https://sos.nebraska.gov/elections/election-day-faq",
+        "final_url": "https://sos.nebraska.gov/elections/election-day-faq",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ne/ne-421c022fc0.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 10,
+        "baseline_records": 10,
+        "flags": []
+    },
+    {
+        "state": "nh",
+        "url": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+        "final_url": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nh/nh-c845b086d4.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 10,
+        "baseline_records": 10,
+        "flags": []
+    },
+    {
+        "state": "nh",
+        "url": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+        "final_url": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nh/nh-777375fd3b.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 7,
+        "baseline_records": 8,
+        "flags": []
+    },
+    {
+        "state": "nh",
+        "url": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+        "final_url": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nh/nh-9f2a6d3487.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 7,
+        "baseline_records": 7,
+        "flags": []
+    },
+    {
+        "state": "nh",
+        "url": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+        "final_url": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nh/nh-029d6fd146.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 9,
+        "baseline_records": 4,
+        "flags": []
+    },
+    {
+        "state": "nh",
+        "url": "https://www.sos.nh.gov/elections/voting-disabilities",
+        "final_url": "https://www.sos.nh.gov/elections/voting-disabilities",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nh/nh-b008d65a04.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 5,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "nj",
+        "url": "https://www.nj.gov/state/elections/vote-faq.shtml",
+        "final_url": "https://www.nj.gov/state/elections/vote-faq.shtml",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nj/nj-f11d04f4a8.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 31,
+        "baseline_records": 33,
+        "flags": []
+    },
+    {
+        "state": "nv",
+        "url": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+        "final_url": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nv/nv-d3bda4b7f7.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 107,
+        "baseline_records": 79,
+        "flags": []
+    },
+    {
+        "state": "ny",
+        "url": "https://elections.ny.gov/frequently-asked-questions",
+        "final_url": "https://elections.ny.gov/frequently-asked-questions",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ny/ny-0f2ec9f10d.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 20,
+        "baseline_records": 20,
+        "flags": []
+    },
+    {
+        "state": "ok",
+        "url": "https://oklahoma.gov/elections/faqs.html",
+        "final_url": "https://oklahoma.gov/elections/faqs.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ok/ok-4a445ff989.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 51,
+        "baseline_records": 51,
+        "flags": []
+    },
+    {
+        "state": "ok",
+        "url": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+        "final_url": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ok/ok-50be7ea644.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 19,
+        "baseline_records": 20,
+        "flags": []
+    },
+    {
+        "state": "ok",
+        "url": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+        "final_url": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ok/ok-6923749d24.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 15,
+        "baseline_records": 18,
+        "flags": []
+    },
+    {
+        "state": "or",
+        "url": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+        "final_url": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/or/or-952c5f1f3c.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 20,
+        "baseline_records": 19,
+        "flags": []
+    },
+    {
+        "state": "pa",
+        "url": "https://www.pa.gov/en/agencies/vote/voter-support/elections-faqs",
+        "final_url": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/pa/pa-2b90a45b5f.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 20,
+        "baseline_records": 34,
+        "flags": []
+    },
+    {
+        "state": "ri",
+        "url": "https://vote.sos.ri.gov/Elections/Administration",
+        "final_url": "https://vote.sos.ri.gov/Elections/Administration",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ri/ri-5a8a8eb1ac.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 9,
+        "baseline_records": 9,
+        "flags": []
+    },
+    {
+        "state": "ri",
+        "url": "https://vote.sos.ri.gov/Voter/VoterFaq",
+        "final_url": "https://vote.sos.ri.gov/Voter/VoterFaq",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ri/ri-eca94409f4.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 8,
+        "baseline_records": 8,
+        "flags": []
+    },
+    {
+        "state": "sc",
+        "url": "https://scvotes.gov/voters/voter-faq/",
+        "final_url": "https://scvotes.gov/voters/voter-faq/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/sc/sc-2d62df1c8f.html",
+        "capture_method": "requests",
+        "parser": "site:scvotes.gov",
+        "records": 32,
+        "baseline_records": 23,
+        "flags": []
+    },
+    {
+        "state": "sd",
+        "url": "https://sdsos.gov/elections-voting/upcoming-elections/Myths-vs-Facts-and-FAQS/faqs.aspx",
+        "final_url": "https://sdsos.gov/elections-voting/upcoming-elections/Myths-vs-Facts-and-FAQS/faqs.aspx",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/sd/sd-097af7c58d.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 8,
+        "baseline_records": 8,
+        "flags": []
+    },
+    {
+        "state": "tn",
+        "url": "https://sos.tn.gov/elections/faqs",
+        "final_url": "https://sos.tn.gov/elections/faqs",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/tn/tn-c9fd85dc53.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 49,
+        "baseline_records": 50,
+        "flags": []
+    },
+    {
+        "state": "tx",
+        "url": "https://www.votetexas.gov/faq/index.html",
+        "final_url": "https://www.votetexas.gov/faq/index.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/tx/tx-42b3bb7c5b.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 27,
+        "baseline_records": 69,
+        "flags": [
+            "27 records, well below the 69 the baseline had for this URL"
+        ]
+    },
+    {
+        "state": "va",
+        "url": "https://www.elections.virginia.gov/registration/election-voter-faq/",
+        "final_url": "https://www.elections.virginia.gov/registration/election-voter-faq/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/va/va-10a89cbeae.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 19,
+        "baseline_records": 19,
+        "flags": []
+    },
+    {
+        "state": "vt",
+        "url": "https://sos.vermont.gov/elections/voters/voter-faqs/",
+        "final_url": "https://sos.vermont.gov/elections/voters/voter-faqs",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/vt/vt-fe5b96b6fc.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 13,
+        "baseline_records": 13,
+        "flags": []
+    },
+    {
+        "state": "wa",
+        "url": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+        "final_url": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/wa/wa-30e515b0f1.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 15,
+        "baseline_records": 13,
+        "flags": []
+    },
+    {
+        "state": "wa",
+        "url": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+        "final_url": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/future-voter-program",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/wa/wa-ff9e54fa89.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 10,
+        "baseline_records": 10,
+        "flags": []
+    },
+    {
+        "state": "wa",
+        "url": "https://www.sos.wa.gov/elections/voters/helpful-information/top-2-primary-faqs-voters",
+        "final_url": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/wa/wa-5630c90633.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 11,
+        "baseline_records": 10,
+        "flags": []
+    },
+    {
+        "state": "wa",
+        "url": "https://www.sos.wa.gov/elections/voters/helpful-information/voting-assisted-living-facilities",
+        "final_url": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voting-assisted-living-facilities",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/wa/wa-8c93177961.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 7,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "wa",
+        "url": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+        "final_url": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/military-and-overseas-voters",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/wa/wa-0935b944a7.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 6,
+        "baseline_records": 5,
+        "flags": []
+    },
+    {
+        "state": "wa",
+        "url": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voters-disabilities",
+        "final_url": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voters-disabilities",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/wa/wa-4c14ada4c2.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 4,
+        "baseline_records": 3,
+        "flags": []
+    },
+    {
+        "state": "wa",
+        "url": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/felony-convictions-and-voting-rights",
+        "final_url": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/felony-convictions-and-voting-rights",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/wa/wa-e4d0671034.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 2,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "wa",
+        "url": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voter-eligibility",
+        "final_url": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/voter-eligibility",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/wa/wa-7d1c094c44.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 1,
+        "flags": []
+    },
+    {
+        "state": "wv",
+        "url": "https://sos.wv.gov/elections/Pages/FAQs.aspx",
+        "final_url": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/wv/wv-abe6c430af.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 53,
+        "baseline_records": 52,
+        "flags": []
+    },
+    {
+        "state": "wy",
+        "url": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+        "final_url": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/wy/wy-3e42a3ec19.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 52,
+        "baseline_records": 49,
+        "flags": []
+    },
+    {
+        "state": "il",
+        "url": "https://www.elections.il.gov/Main/FAQ.aspx",
+        "final_url": "https://www.elections.il.gov/Main/FAQ.aspx",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/il/il-7a55a9d5e9.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 65,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "nm",
+        "url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+        "final_url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nm/nm-0f49624530.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 20,
+        "baseline_records": 20,
+        "flags": []
+    },
+    {
+        "state": "nm",
+        "url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+        "final_url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nm/nm-6ea152dca5.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 12,
+        "baseline_records": 9,
+        "flags": []
+    },
+    {
+        "state": "nm",
+        "url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+        "final_url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nm/nm-05c45bda4c.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 6,
+        "baseline_records": 6,
+        "flags": []
+    },
+    {
+        "state": "nm",
+        "url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+        "final_url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nm/nm-4dc3aa478c.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 8,
+        "baseline_records": 8,
+        "flags": []
+    },
+    {
+        "state": "nm",
+        "url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/early-voting-in-person/",
+        "final_url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/early-voting-in-person/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nm/nm-37f6b56e35.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 1,
+        "flags": []
+    },
+    {
+        "state": "nm",
+        "url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/provisional-voting/",
+        "final_url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/provisional-voting/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nm/nm-12a2e957aa.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 2,
+        "baseline_records": 2,
+        "flags": []
+    },
+    {
+        "state": "nm",
+        "url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/military-and-overseas-voters/",
+        "final_url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/military-and-overseas-voters/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nm/nm-1d42519e49.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 1,
+        "flags": []
+    },
+    {
+        "state": "nm",
+        "url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+        "final_url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nm/nm-2e98fea1ad.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 12,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "nm",
+        "url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/",
+        "final_url": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/nm/nm-c8ac9a9667.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 5,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "oh",
+        "url": "https://www.ohiosos.gov/elections/frequently-asked-questions",
+        "final_url": "https://www.ohiosos.gov/elections/frequently-asked-questions",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/oh/oh-f269a20bae.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 19,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "ut",
+        "url": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+        "final_url": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ut/ut-365a786e3a.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 7,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "ut",
+        "url": "https://vote.utah.gov/learn-about-registering-to-vote/",
+        "final_url": "https://vote.utah.gov/learn-about-registering-to-vote/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ut/ut-933bb7d03b.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 6,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "ut",
+        "url": "https://vote.utah.gov/voter-registration-portal/",
+        "final_url": "https://vote.utah.gov/voter-registration-portal/",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ut/ut-1e11e6474c.html",
+        "capture_method": "requests",
+        "parser": "general",
+        "records": 3,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "wi",
+        "url": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+        "final_url": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/wi/wi-6acfe19526.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 16,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "wi",
+        "url": "https://elections.wi.gov/faq",
+        "final_url": "https://elections.wi.gov/faq",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/wi/wi-18a4a8fc68.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 135,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "ma",
+        "url": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+        "final_url": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ma/ma-31d00faff9.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 12,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "ma",
+        "url": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-early.htm",
+        "final_url": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-early.htm",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ma/ma-1e7b265a67.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 0,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    },
+    {
+        "state": "ma",
+        "url": "https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-Information-for-voters/2026-voting-options.htm",
+        "final_url": "https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-Information-for-voters/2026-voting-options.htm",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ma/ma-60221fcf43.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 1,
+        "baseline_records": 0,
+        "flags": []
+    },
+    {
+        "state": "ma",
+        "url": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
+        "final_url": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ma/ma-6521d2a1fb.html",
+        "capture_method": "manual browser save",
+        "parser": "general",
+        "records": 0,
+        "baseline_records": 0,
+        "flags": [
+            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+        ]
+    }
+]

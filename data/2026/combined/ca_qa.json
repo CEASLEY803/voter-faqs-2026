@@ -1,0 +1,728 @@
+{
+    "state": "ca",
+    "num_questions": 120,
+    "num_answers": 120,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "Who can register to vote?",
+            "a": "To register to vote in California, you must be:\n\n- A United States citizen and a resident of California,\n- 18 years old or older on Election Day,\n- Not currently serving a state or federal prison term for the conviction of a felony (for more information, please see Voting Rights Restored: Persons with a Prior Felony Conviction (https://www.sos.ca.gov/elections/voting-rights-restored)), and\n- Not currently found mentally incompetent to vote by a court (for more information, please see Voting Rights: Persons Subject to Conservatorship (https://www.sos.ca.gov/elections/voter-registration/conservatorship)).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Who can pre-register to vote?",
+            "a": "To pre-register to vote in California, you must:\n\n- Be 16 or 17 years old, and\n- Meet all of the other requirements to vote.\n\nYou will automatically be registered to vote on your 18th birthday.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "How do I register to vote?",
+            "a": "To register to vote you must complete a voter registration application on paper or online at RegisterToVote.ca.gov (http://registertovote.ca.gov/). When you register online, the system will search the Department of Motor Vehicles (DMV) database for your California driver license or identification card number, date of birth, and last four digits of your social security number. If your information is found and you authorize elections officials' use of your DMV signature, an electronic image of your DMV signature will be added to your voter registration application after you click \"submit\" at the end of the online application. If there is no signature on file with DMV, all of your information will be transmitted to your county elections office; you will just need to click \"print,\" sign the paper application, and mail it. Your county elections official (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) will contact you when your voter registration application is approved or if more information is needed to confirm your eligibility.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Where can I register to vote?",
+            "a": "You may submit your voter registration application online at RegisterToVote.ca.gov (http://registertovote.ca.gov/). You can also pick up a paper application at your county elections office, any Department of Motor Vehicles field office, and many post offices, public libraries, and government offices. To have an application mailed to you, call your county elections office (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) or the Secretary of State's toll-free Voter Hotline at (800) 345-VOTE (8683).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "What is conditional voter registration?",
+            "a": "If you did not register to vote by the 15-day voter registration deadline, in most elections, you may conditionally register to vote and cast a provisional ballot by visiting your county elections office, a vote center, or a designated satellite location during the period of 14 days prior to, and including, Election Day.\n\nOnce your county elections official processes your affidavit of registration, determines your eligibility to register, and validates your information, your registration becomes permanent and your provisional ballot will be counted. For more information, please refer to Same Day Voter Registration (https://www.sos.ca.gov/elections/voter-registration/same-day-reg).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "How do I change my political party?",
+            "a": "In order to change your political party preference, you must re-register to vote. You can re-register to vote by completing a voter registration application online at RegisterToVote.ca.gov (http://registertovote.ca.gov/). When you register online, the system will search the Department of Motor Vehicles (DMV) database for your California driver license or identification card number, date of birth, and last four digits of your social security number. If your information is found and you authorize elections officials' use of your DMV signature, an electronic image of your DMV signature will be added to your voter registration application after you click \"submit\" at the end of the online application. If there is no signature on file with DMV, all of your information will be transmitted to your county elections office; you will just need to click \"print,\" sign the paper application, and mail it. Your county elections official will contact you when your voter registration application is approved or if more information is needed to confirm your eligibility.\n\nYou can also pick up a paper application at your county elections office, any Department of Motor Vehicles field office, and many post offices, public libraries, and government offices. To have an application mailed to you, call your county elections office (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) or the Secretary of State’s toll-free Voter Hotline at (800) 345-VOTE (8683).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Do I need a California driver license or California identification card to apply online? What happens if the Department of Motor Vehicles does not have my signature on file when I try to submit an application online?",
+            "a": "All Californians who are eligible to vote may fill out an online voter registration application at RegisterToVote.ca.gov (http://registertovote.ca.gov/). California military and overseas voters may also use RegisterToVote.ca.gov (http://registertovote.ca.gov/) to fill out an application to register for, and to vote in, any California election; for more information on military and overseas voter registration, visit Military & Overseas Voters (https://www.sos.ca.gov/elections/voter-registration/military-overseas-voters). If you do not have a California driver license or identification card number, but you enter your other information, the website will create a pre-filled voter registration application for you to print, sign, and mail. All of your information will be sent directly to your county elections office (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) so that when your signed application arrives in the mail, the county elections staff will simply add your signature to your voter registration record.\n\nTo register to vote, you must provide:\n\n- A California Driver's License or state ID number, or\n- The last four digits of your Social Security Number (SSN) (if you do not have a CA ID).\n\nIf you don't have either, you can still register. You'll be assigned a unique identifier to validate your registration.\n\nAll numbers are securely verified:\n\n- CA ID numbers are matched with DMV records.\n- SSNs are matched with Social Security Administration records.\n- Unique identifiers are verified by election officials.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Do I need to show ID to vote In California?",
+            "a": "In most cases, NO. California does not generally require voters to show identification at the polls. You may need to show ID only if ALL of the following apply:\n\n- You're voting for the first time in a federal election.\n- You registered by mail or online, and\n- You did not provide your CA ID or SSN when registering.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "What forms of ID are acceptable (if required)?",
+            "a": "You can show photo or non-photo ID, including:\n\n- California Driver's License or State ID card.\n- U.S. Passport\n- Student or Military ID\n- Utility Bill\n- Bank Statement\n- Paycheck or Government Check\n- Official mail from a government agency (e.g., sample ballot booklet).\n\nPoll workers may only request ID if the voter list clearly indicates it's required (e.g., a first-time voter who registered by mail without an ID.\n\nFor more information on the type of identification to use when you vote for the first time, review the complete list of acceptable forms of identification (PDF) (https://elections.cdn.sos.ca.gov/regulations/hava_id_regs_from_barclays_3_3_06.pdf), call the Secretary of State's toll-free voter hotline at (800) 345-VOTE (8683), or contact your county elections official (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices).\n\nIf you are a first-time voter in a federal election and you did not provide this information when you registered, and you plan to:\n\n- Vote by mail: prior to voting your ballot, send a photocopy of your personal identification to your county elections official. If you do not do this prior to voting, you will be contacted by your county elections official upon receipt of your voted ballot to request the required proof of identity. You must provide an acceptable form of identification to your county elections official before they can open your vote-by-mail ballot return envelope. If your identity cannot be verified, your vote-by-mail ballot return envelope will not be opened and your ballot will not be counted.\n- Vote in person: prior to receiving your ballot at your polling location, you may be asked to provide an acceptable form of identification.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "I am eligible to register, but I am in the military, living abroad, or temporarily living outside of California. Can I register to vote online?",
+            "a": "Yes. California military and overseas voters may also use RegisterToVote.ca.gov (http://registertovote.ca.gov/) to fill out a voter registration application to register for, and to vote in, any California election. When filling out an application to register as military or overseas voter, you can choose to have your ballot mailed, faxed, or emailed to you. For more information on military and overseas voter registration, visit Military & Overseas Voters (https://www.sos.ca.gov/elections/voter-registration/military-overseas-voters).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Am I automatically registered to vote when I submit the online application?",
+            "a": "No. The online voter registration application (http://registertovote.ca.gov/) is an easy avenue for submitting your information, but the information you provide in your online application still must be verified by your county elections official (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices). If you have a California driver license or identification card and submit an online voter registration application, the Department of Motor Vehicles is simply sharing a copy of your signature on file so that it can be transferred to your voter registration record. No matter how you turn in your registration application – online or paper – when it comes to determining a person's eligibility to vote, preventing duplicate registrations, and adding a person to California's official voter rolls, all the same safeguards are in place. Your county elections official will contact you when your voter registration application is approved or if more information is needed to confirm your eligibility.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Are voter registration applications available in languages other than English?",
+            "a": "Yes. The California Secretary of State's online application (http://registertovote.ca.gov/) is available in English, Spanish, Chinese, Hindi, Japanese, Khmer, Korean, Tagalog, Thai, and Vietnamese. Paper applications are also available in those same languages. To have an application mailed to you, call your county elections office (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) or the Secretary of State's toll-free Voter Hotline at (800) 345-VOTE (8683).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Can I vote online?",
+            "a": "No. For security reasons, California law prohibits casting a ballot over the Internet. This also means that county elections officials cannot accept marked ballots sent via email. If you are a military and overseas voter (https://www.sos.ca.gov/elections/voter-registration/military-overseas-voters), as defined by the federal Uniformed and Overseas Citizens Absentee Voting Act, you may return your voted ballot to your county elections office (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) only by mail or fax (in certain limited circumstances).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Am I already registered to vote?",
+            "a": "To find out if you are currently registered to vote, please refer to My Voter Status (https://www.sos.ca.gov/elections/registration-status).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "I did not vote in the last election. Do I need to re-register to vote?",
+            "a": "In general, you do not need to re-register because you are registered to vote for as long as you remain at the same address. However, there are cases in which voter registration can be cancelled if a voter has not voted in several consecutive general elections.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "What should I do if I have just moved within California?",
+            "a": "Your voter registration record should always reflect your current residence. If your move is permanent, you can update your California residence address by re-registering online (http://registertovote.ca.gov/) or by submitting a paper voter registration application.\n\nYou can also send a signed letter to your current county elections official (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices), informing them of your move and providing them with your date of birth and current address, even if it is in a different county. However, if you have already updated your residence address at the Department of Motor Vehicles or the U.S. Postal Service, your registration will be automatically updated with your new address.\n\nIf your move is temporary, you can continue to use your prior permanent residence where you were registered to vote as your address for the purpose of voting.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "What should I do if I changed my name?",
+            "a": "If you have legally changed your name, you must re-register (http://registertovote.ca.gov/) to vote so that your voter record reflects your current name. The Secretary of State recommends that before you update your voter record with your current name, you first update your California driver license or identification card with DMV (https://www.dmv.ca.gov/portal/dmv/dmv/dl).\n\nIf you are re-registering online and you have not updated your DMV record with your new name, select \"decline\" on the application when asked to use your DMV signature to register to vote. If you do not decline use of your DMV signature, your application will be rejected by your county elections official because your DMV signature for your prior name will not match your voter signature with your new name. After you decline to use your DMV signature, continue filling in your information. Print, sign, and mail the paper application to your county elections office.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "What is the deadline to register to vote?",
+            "a": "The deadline to register to vote is 15 days prior to Election Day, often called E-15. You must submit the voter registration application (http://registertovote.ca.gov/) by midnight on the registration deadline (https://www.sos.ca.gov/elections/voting-resources/voting-california/election-dates-and-resources) day. A timestamp will be attached to your online voter registration application. If you register to vote using a paper application, it must be postmarked or hand-delivered to your county elections office (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) by E-15. After the registration deadline, in most elections any individual may conditionally register to vote and cast a provisional ballot by visiting their county elections official (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices). For more information, please refer to Same Day Voter Registration (https://www.sos.ca.gov/elections/voter-registration/same-day-reg).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "If I started to fill out the online voter registration application before midnight on E-15 but didn't finish until after midnight, am I too late?",
+            "a": "Yes, you must submit the voter registration application (http://registertovote.ca.gov/) online by midnight on the registration deadline (https://www.sos.ca.gov/elections/voting-resources/voting-california/election-dates-and-resources) day. However, in most elections you may go in person to your county elections office during the 14 days immediately following the registration deadline to conditionally register to vote and vote a provisional ballot. For more information please go to Same Day Voter Registration (Conditional Voter Registration) (https://www.sos.ca.gov/elections/voter-registration/same-day-reg). If you do not conditionally register to vote, your voter registration application will still be processed and, if it is approved, you will be able to vote in future elections.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "I missed the deadline to register to vote. Is there any way I can still vote in this election?",
+            "a": "In most elections, during the period of 14 days prior to Election Day and including Election Day, an individual can go to the office of their county elections official (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) to conditionally register to vote and vote a provisional ballot. For more information, please refer to Same Day Voter Registration (https://www.sos.ca.gov/elections/voter-registration/same-day-reg).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "I registered to vote a while ago but I never got a postcard confirmation from my county elections official. Am I registered?",
+            "a": "You may check the status of your voter registration by visiting My Voter Status (https://www.sos.ca.gov/elections/registration-status) or by contacting your county elections official (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "I submitted a voter registration application through another agency, but my county elections office says I'm not registered. What can I do?",
+            "a": "Give your county elections official (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) any documentation you have to help establish when and where you submitted your voter registration application, such as a receipt with a tracking number or timestamp, or whether you were previously registered to vote elsewhere.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "How can I cancel my California voter registration?",
+            "a": "If you are currently registered to vote in California and would like to cancel your voter registration, you can complete the California Voter Registration Cancellation Request Form (PDF) (https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form.pdf) and submit it to your county elections office (http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/). If you have any questions, you can contact your county elections office or the Secretary of State's Voter Hotline at (800) 345-VOTE (8683).\n\nCalifornia Voter Registration Cancellation Request Form (PDF) (https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form.pdf)\n\n- Spanish (PDF) (https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form-sp.pdf)\n- Chinese (PDF) (https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form-zh.pdf)\n- Hindi (PDF) (https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form-hi.pdf)\n- Japanese (PDF) (https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form-ja.pdf)\n- Khmer (PDF) (https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form-kh.pdf)\n- Korean (PDF) (https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form-ko.pdf)\n- Tagalog (PDF) (https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form-tl.pdf)\n- Thai (PDF) (https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form-th.pdf)\n- Vietnamese (PDF) (https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form-vi.pdf)",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "If I have problems registering to vote or have additional questions who should I contact?",
+            "a": "Call the Secretary of State's toll-free Voter Hotline at (800) 345-VOTE (8683) or contact your county elections office (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices), which is where your voter registration record is maintained. For assistance in other languages, please refer to Contact Information (http://www.sos.ca.gov/administration/contact-information/#elections).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "I want to start a voter registration drive. What do I need to do?",
+            "a": "Read the rules for conducting voter registration drives in California (https://www.sos.ca.gov/elections/publications-and-resources/guide-vr-drives). You may also want to contact the county elections office in the county where you plan to conduct the voter registration drive.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "How many paper voter registration applications can I get if I want to distribute them in my community?",
+            "a": "There is no limit to the number of paper voter registration applications a person may obtain. However, depending on the volume of requests and the number of applications in stock, the Secretary of State or county elections officials (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) may ask requestors to take fewer applications and return later if they need more. The Secretary of State requires the requestor to complete a Statement of Distribution form (https://elections.cdn.sos.ca.gov/vrdis.pdf) and a county elections official may require something similar.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Can an iPad, tablet, or smartphone be used to fill out California's online voter registration application?",
+            "a": "Yes.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "What voter registration applications are approved for use in California?",
+            "a": "There are two acceptable voter registration applications that can be accessed online: the California Secretary of State's RegisterToVote.ca.gov (http://registertovote.ca.gov/) and the National Mail Voter Registration Application (https://www.eac.gov/voters/register-and-vote-in-your-state). Some organizations host websites that encourage voter registration. Some of these websites collect data from people before redirecting them to RegisterToVote.ca.gov (http://registertovote.ca.gov/) or the National Mail Voter Registration Application (this cannot be submitted online; you must print, sign, and mail it to your county elections office (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices)).\n\nYou can also pick up a paper application at your county elections office, any Department of Motor Vehicles field office, and many post offices, public libraries, and government offices. To have an application mailed to you, call your county elections office (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) or the Secretary of State’s toll-free Voter Hotline at (800) 345-VOTE (8683).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Is voter registration information confidential?",
+            "a": "The voter registration rolls are not available to the general public. However, California law allows certain voter information to be released to a member of the California Legislature or U.S. Congress, to any candidate, to any committee for or against a proposed ballot measure, and to any person for election, scholarly, journalistic, or political purpose, or for governmental purposes. Even in these cases, a few items remain confidential and are never provided to any requestor: your social security number, your driver license number, and your signature.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Where can I find voter registration statistics?",
+            "a": "The California Secretary of State publishes voter registration statistics during every election cycle. Reports of Registration (https://www.sos.ca.gov/elections/voter-registration/voter-registration-statistics) contain registration information going back to 1910.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Can the Secretary of State provide race, age and gender statistics for the voting population?",
+            "a": "No. The Secretary of State compiles voter statistics (https://www.sos.ca.gov/elections/voter-registration/voter-registration-statistics) by political party and jurisdictions. The state government does not collect voter race, voter age or voter gender data. You may wish to contact the Public Policy Institute of California (http://www.ppic.org/main/home.asp) or the United States Census Bureau (http://www.census.gov/) for voter demographics.\n\n(return to top) (https://www.sos.ca.gov/elections/frequently-asked-questions#voterreg)",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "How do I find out what my legislative and congressional districts are?",
+            "a": "You may contact your county elections official (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) or refer to \"Who Are My Representatives?\" (https://www.sos.ca.gov/elections/who-are-my-representatives).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "How can I vote a vote-by-mail ballot?",
+            "a": "County elections officials mail vote-by-mail ballots to all active registered voters.\n\nFor more information on voting by mail, see our “Vote-by-Mail Frequently Asked Questions (FAQs) (PDF) (https://elections.cdn.sos.ca.gov/pdfs/trusted-info/vbm-faq.pdf)” document.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "When is the last day to return my voted vote-by-mail ballot?",
+            "a": "Vote-by-mail ballots that are personally delivered must be delivered no later than the close of polls at 8:00 p.m. on Election Day. Vote-by-mail ballots that are mailed must be postmarked on or before Election Day and received by your county elections office no later than 7 days after Election Day. If you are not sure your vote-by-mail ballot will arrive in time if mailed, take it to your county elections office (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) on or before Election Day or to any polling place in your county between 7:00 a.m. and 8:00 p.m. on Election Day.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "How do I turn in my vote-by-mail ballot on Election Day?",
+            "a": "You may return it in person to any polling place in your county or to your county elections office (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) on Election Day. If you are unable to return the ballot yourself, you may designate any person to return the ballot to the elections official or the precinct board at any polling place within the jurisdiction. The ballot must be received by the elections official or the precinct board before the close of the polls at 8:00 p.m. on Election Day in order to be counted.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "What is the Voter's Choice Act?",
+            "a": "The California Voter’s Choice Act (http://www.sos.ca.gov/elections/voters-choice-act/) is a new law (PDF) (https://elections.cdn.sos.ca.gov/vca/sb450-chaptered-legislation.pdf) passed in 2016 that modernizes elections in California by allowing counties to conduct elections under a new model which provides greater flexibility and convenience for voters.\n\nThis election model allows voters to choose how, when, and where to cast their ballot by:\n\n- Mailing every voter a ballot\n- Expanding in-person early voting\n- Allowing voters to cast a ballot at any vote center within their county",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Where is my polling place?",
+            "a": "Your polling place will be printed on the county voter information guide you receive from your county elections official (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) prior to an election. You may also contact your local county elections office for polling place information. If you live in a county that is conducting elections under the California Voter's Choice Act (https://www.sos.ca.gov/california-voters-choice-act), please visit that web page for more information.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "What hours are polling place locations open?",
+            "a": "All polling place locations are open on Election Day from 7:00 a.m. to 8:00 p.m. If you live in a county that is conducting elections under the California Voter's Choice Act (https://www.sos.ca.gov/california-voters-choice-act), please visit that web page for more information.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Why was my precinct/polling place changed?",
+            "a": "Counties try to use the same polling place for each election, so your polling place normally does not change between the primary and the general elections. If the county is conducting smaller local elections where the turnout is likely to be lower, the county may consolidate precincts into fewer polling places.\n\nYou can always determine where your polling place is by looking at the back of your county voter information guide, which you will receive from your county elections official. The back cover contains the name and address of your polling place. You can also call your county elections official (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) to find out where your polling place is located.\n\nIf you live in a county that is conducting elections under the California Voter's Choice Act (https://www.sos.ca.gov/california-voters-choice-act), please visit that web page for more information.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Is there a toll-free telephone number I can call regarding voter information?",
+            "a": "Yes. The Secretary of State has established a toll-free Voter Hotline for requests for voter registration forms and other election materials and to report suspicions of voting or registration irregularities. The number is (800) 345-VOTE (8683). For assistance in other languages, please refer to Contact Information (http://www.sos.ca.gov/administration/contact-information/#elections).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Are election returns for state offices on your website?",
+            "a": "The election results from past statewide elections can be found at Election Results (https://www.sos.ca.gov/elections/prior-elections).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "What can be done to increase voter participation?",
+            "a": "The Secretary of State's office has been working with a wide range of groups throughout the state to increase voter participation. We are always looking for better ways to reach out and engage citizens in the voting process. Our Voter Education and Outreach (https://www.sos.ca.gov/elections/voting-resources/voting-california/help-strengthen-our-democracy) webpage will provide you with information on some of the programs and events we are currently working on.\n\n(return to top) (https://www.sos.ca.gov/elections/frequently-asked-questions#voterreg)",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "What is a voter-nominated office?",
+            "a": "The Top Two Candidates Open Primary Act, which took effect January 1, 2011, created \"voter-nominated\" offices. The Top Two Candidates Open Primary Act does not apply to candidates running for U.S. President, county central committees, or local offices.\n\nMost of the offices that were previously known as \"partisan\" are now known as \"voter-nominated\" offices. Voter-nominated offices are state constitutional offices, state legislative offices, U.S. senate, and U.S. congressional offices. The only \"partisan offices\" now are the offices of U.S. President and county central committee.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "How are primary elections conducted in California?",
+            "a": "All candidates for voter-nominated offices are listed on one ballot and only the top two vote-getters in the primary election – regardless of party preference - move on to the general election. A write-in candidate will only move on to the general election if the candidate is one of the top two vote-getters in the primary election.\n\nPrior to the Top Two Candidates Open Primary Act, the top vote-getter from each qualified political party, as well as any write-in candidate who received a certain percentage of votes, moved on to the general election.\n\nThe Top Two Candidates Open Primary Act does not apply to candidates running for U.S. President, county central committee, or local office.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "How are presidential primary elections conducted in California?",
+            "a": "Qualified political parties in California may hold presidential primaries in one of two ways:\n\n- Closed presidential primary - the party only allows voters indicating a preference for that party to vote for its presidential nominee.\n- Modified-closed presidential primary - in addition to allowing voters indicating a preference for that party to vote for its presidential nominee, the party also allows voters who did not indicate a party preference to vote for its presidential nominee.\n\nIf a qualified political party chooses to hold a modified-closed presidential primary, the party must notify the California Secretary of State no later than the 135th day before Election Day.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "What do party preferences mean when listed with candidates' names on the ballot? What are the qualified political parties and abbreviations of those party names?",
+            "a": "The term \"party preference\" is now used in place of the term \"party affiliation.\" A candidate must indicate his or her preference or lack of preference for a qualified political party. If the candidate has a qualified political party preference, that qualified political party will be indicated by the candidate's name on the ballot. If a candidate does not have a party preference, \"Party Preference: None\" will be indicated by the candidate's name on the ballot.\n\nSimilarly, voters who were previously known as \"decline-to-state\" voters (because they did not have a party affiliation) are now known as having \"no party preference\" or known as \"NPP\" voters.\n\nAbbreviations for the qualified political parties are:\n\n- DEM = Democratic Party\n- REP = Republican Party\n- AI = American Independent Party\n- GRN = Green Party\n- LIB = Libertarian Party\n- PF = Peace & Freedom Party",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "If a candidate receives a majority of the vote (over 50 percent) in the primary election, will there still be a general election?",
+            "a": "Yes. The top two vote-getters move on to the general election regardless of party preference or whether one candidate receives a majority of all votes cast in the primary election. Only candidates running for State Superintendent of Public Instruction or candidates for voter-nominated offices in special elections can win outright by getting a majority of the vote (over 50 percent) in the primary election.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "If there are only two candidates in the primary election, is a general election required?",
+            "a": "Yes. The top two vote-getters move on to the general election regardless of candidate pool size, party preference, or whether one candidate receives the majority of all votes cast in the primary election. Only candidates running for State Superintendent of Public Instruction or candidates for voter-nominated offices in special elections can win outright by getting a majority of the vote (over 50 percent) in the primary election.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Which candidates can run in the general election?",
+            "a": "Candidates running for a voter-nominated office cannot run in the general election without having been one of the top two vote-getters in the primary election (refer to \"What is a voter-nominated office? (https://www.sos.ca.gov/elections/frequently-asked-questions/#voter-nominated)\" above).\n\nAn exception is made if no candidate has been nominated at the primary election for a voter-nominated office. If this occurs, a candidate can use the independent nomination process to run in the general election.\n\nAdditionally, candidates running for the office of U.S. President can run in the general election as either a Presidential Elector using the independent nomination process or a Presidential Elector write-in candidate.\n\nFor more information about running for office, please refer to Candidate Resources (https://www.sos.ca.gov/elections/upcoming-elections).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "Can independent or write-in candidates for voter-nominated offices run in the general election?",
+            "a": "All candidates, including candidates who would have used the former independent nomination process, are allowed to run for a voter-nominated office in a primary election. All primary candidates for a voter-nominated office are listed on a single ballot, and only the two candidates who get the most votes in the primary election will move on to the general election.\n\nHowever, if no candidate has been nominated at the primary election for a voter-nominated office, a candidate can use the independent nomination process to run in the general election.\n\nWrite-in candidates for voter-nominated offices cannot run in the general election, however, they can still run in the primary election. If a write-in candidate is one of the top two vote-getters in the primary election, the candidate can move on to the general election.\n\nCandidates running for the office of U.S. President can run in the general election as either a Presidential Elector using the independent nomination process or a Presidential Elector write-in candidate.\n\n(return to top) (https://www.sos.ca.gov/elections/frequently-asked-questions#voterreg)",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "When is the deadline for initiatives, referenda, and legislative measures to qualify for the ballot and which election ballot will they appear on?",
+            "a": "As a result of Senate Bill 202 (Chapter 558, Statutes of 2011), from July 2011 forward, initiative and referendum measures will only appear on general election ballots.\n\nInitiatives have to qualify 131 days before a general election. Referenda can qualify for the ballot up to 31 days before a general election.\n\nSenate Bill 202 does not affect the placement of legislative measures on the ballot. Legislative measures can still appear on the ballot during any statewide election. Legislative measures must also be placed on the ballot 131 days before an election, unless the legislature passes legislation allowing a specific bill to be placed on the ballot after the 131 day deadline.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "How and when are numbers assigned to state propositions?",
+            "a": "State propositions are generally numbered between 131 and 105 days before an election and are numbered in 10-year cycles starting with the number \"1,\" according to Elections Code section 13117. The current numbering cycle starts with the November 4, 2008, General Election.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "How can I learn more about California's statewide initiative process?",
+            "a": "The Secretary of State's Statewide Ballot Initiative Handbook (https://www.sos.ca.gov/elections/ballot-measures/how-qualify-initiative) contains some very useful information on this topic.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "How many signatures does it take to qualify a statewide initiative?",
+            "a": "The number of signatures required for initiative statutes must be equal to at least 5% of the total votes cast for Governor at the last gubernatorial election. The number of signatures required for initiative constitutional amendments must be equal to at least 8% of the total votes cast for Governor at the last gubernatorial election.",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "How many signatures does it take to qualify a statewide referendum?",
+            "a": "The number of signatures required for referenda must be equal to at least 5% of the total votes cast for Governor at the last gubernatorial election.\n\n(return to top) (https://www.sos.ca.gov/elections/frequently-asked-questions#voterreg)",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "What requirements must a person meet to run for office?",
+            "a": "These requirements are specific to the office and are posted at Candidate Information (https://www.sos.ca.gov/elections/upcoming-elections/candidate-information).",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "When do candidates have to file their various official documents in order to become certified for the next statewide election cycle?",
+            "a": "Please refer to Candidate Information (https://www.sos.ca.gov/elections/upcoming-elections/candidate-information) for information on candidate filing deadlines.\n\n(return to top) (https://www.sos.ca.gov/elections/frequently-asked-questions#voterreg)",
+            "s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
+            "t": "2026-10-29T22:11:49+00:00"
+        },
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE BY MAIL?",
+            "a": "In California, all active registered voters will be mailed a vote-by-mail ballot.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "WHEN ARE BALLOTS MAILED TO ACTIVE REGISTERED VOTERS?",
+            "a": "Ballots are mailed 29 days before an election.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY MAIL BALLOT?",
+            "a": "After you’ve marked your ballot, insert your ballot in the envelope provided. Make sure to sign the envelope by the red “X,” print your address, and date the back of the return envelope. Your signature must match the signature on your voter registration card.\n\nIf you are unable to sign your name on the return envelope, make an X or distinguishing mark by the red “X” on the return envelope, or have someone print your name on the return envelope and sign as a witness.\n\nWatch How to Return Your Completed Vote-by-Mail Ballot (https://www.youtube.com/watch?v=hFH3YZrhBag&feature=youtu.be).",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "HOW CAN I RETURN MY MAIL BALLOT?",
+            "a": "You can return your vote-by-mail ballot by mail or in person.\n\nBy Mail: If you wish to use the mailed ballot instead of voting in person, fill it out and mail it back early, so that it is postmarked no later than Election Day. You do not need a stamp to mail back your ballot in the return envelope provided.\n\nIn Person: You may drop off your ballot at any voting location in your county. Your county will also open secure ballot drop-off locations starting about a month before Election Day. Ballots returned at a secure ballot drop box must be deposited by 8pm on Election Day.\n\nTo vote in person on Election Day, the polls are open from 7 am to 8 pm. You may also be able to vote in person before Election Day. Learn more about early voting options using the state’s resource page (https://caearlyvoting.sos.ca.gov/).",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO SUBMIT MY MAIL BALLOT?",
+            "a": "Your vote-by-mail ballot must be postmarked by Election Day or dropped off in person at any polling place or a ballot drop-box by polls close on Election Day.\n\nAnyone may return your ballot for you, as long as they don’t get paid on a per ballot basis. In order for your ballot to be counted, you must fill out the authorization section found on the outside of your ballot envelope.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED BALLOT?",
+            "a": "You can track the status of your vote-by-mail ballot by visiting the My Voter Status website (https://voterstatus.sos.ca.gov/) or the Where’s My Ballot website (https://california.ballottrax.net/voter/).",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO UPDATE MY MAILING ADDRESS TO RECEIVE A VOTE-BY-MAIL BALLOT?",
+            "a": "The deadline to update your address is 15 days before Election Day.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "HOW DO I GET A REPLACEMENT VOTE-BY-MAIL BALLOT?",
+            "a": "If you don’t receive your ballot in the mail, you’ve lost or destroyed your original ballot, or you’re unable to vote in person at the polls, you may apply for a replacement ballot using this form (https://www.sos.ca.gov/elections/voter-registration/vote-mail%23replacement) or by contacting your County Elections Office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "HOW DO I SUBMIT A LATE VOTE-BY-MAIL REQUEST?",
+            "a": "If you would like to request a vote-by-mail ballot after 7 days before the election, you will need to apply in person at your county elections office.  (https://absentee.vote411.org/vote/eoddomestic.htm)Your county elections office may allow you to apply over the phone; please call them to see if your office allows telephone applications.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "CAN I VOTE IN PERSON EVEN IF I HAVE RECEIVED A VOTE-BY-MAIL BALLOT?",
+            "a": "Yes! Even if you receive your vote-by-mail ballot, you can still vote at a polling place on Election Day as long as you haven’t returned your vote-by-mail ballot yet. Bring your unused vote-by-mail ballot to your local polling place anytime between 7:00 am and 8:00 pm on Election Day and give it to a poll worker, who will exchange it for a polling place ballot you can use instead.\n\nIf you do not bring your vote-by-mail ballot with you, you will not lose your opportunity to vote at a polling place on Election Day. If the poll worker is able to verify that you have not returned your voted ballot, then you will be given a regular ballot. If not, a poll worker will provide you with a provisional ballot, which will be counted after your county elections official has confirmed you are registered to vote in that county and did not vote more than once in that election.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "HOW DO I RECEIVE A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "a": "Overseas citizens and US military personnel need to be registered as a military or overseas voter by completing the California Online Voter Registration (COVR) application (https://registertovote.ca.gov/). For more information, please visit the Overseas Vote Foundations’ website (https://www.overseasvotefoundation.org/overseas-voter-services).\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Does California allow ballot curing?",
+            "a": "Yes, California allows voters to fix an issue with their ballot.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "a": "Election officials will contact you by mail, phone, or email at least eight days before certification if there are issues with your ballot, including details and instructions for corrections.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What is the deadline to cure my ballot?",
+            "a": "The deadline to cure your ballot for a missing or mismatched signature is by 5pm two days before your county certifies the election, which is held no sooner than 28 days after the election.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Can I track my absentee ballot?",
+            "a": "You can check your ballot status using your state’s online tool (https://california.ballottrax.net/voter/).",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What is a ballot drop box?",
+            "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Are drop boxes available in my state?",
+            "a": "Yes, ballot drop boxes are available in California.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Where can I find ballot drop box locations?",
+            "a": "Ballot drop box locations are available on the California Secretary of State (https://caearlyvoting.sos.ca.gov/) website.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Can I track the ballot after placing in the drop box?",
+            "a": "Yes, you can track the status of your ballot by signing up to receive notifications through the “Where’s My Ballot” (https://www.sos.ca.gov/elections/ballot-status/wheres-my-ballot) website.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Can I vote before Election Day in California?",
+            "a": "Yes. California offers early voting. Any registered voter may vote before Election Day.\n\nNote: California conducts elections primarily by mail. County elections officials mail ballots to all active registered voters about a month before the election.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "When does early voting begin and end in California?",
+            "a": "Early voting generally begins 29 days before Election Day and ends the day before Election Day. Dates and hours may vary by county. Contact your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm) for details.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Where can I vote early in California?",
+            "a": "You can vote early by:\n\n- Visiting your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm)\n- Going to an early voting location offered by your county\n- Voting by mail\n\nIn-person early voting locations and hours vary by county. To find a location near you, visit CAEarlyVoting.sos.ca.gov (https://caearlyvoting.sos.ca.gov/) or contact your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Can I vote early by mail?",
+            "a": "Yes. County elections officials mail ballots to all active registered voters about a month before the election. Voting by mail is a form of early voting in California. You can return your ballot by mail or drop it off at an official ballot drop box or voting location (https://caearlyvoting.sos.ca.gov/) before Election Day.\n\nAll valid vote-by-mail ballots are counted in every election in California, regardless of the outcome or closeness of any race.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "WHO CAN REGISTER TO VOTE IN CALIFORNIA?",
+            "a": "You can register to vote in California if you:\n\n- Are a US citizen and a resident of California\n- Are at least 18 years old on Election Day\n- Are not currently serving a state or federal prison sentence for a felony\n- Have not been found mentally incompetent to vote by a court\n\nIf you’re 16 or 17 and meet the other requirements, you can pre-register now and you’ll be automatically registered when you turn 18.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "WHO CAN VOTE IN CALIFORNIA?",
+            "a": "You can vote in California if you are registered to vote and meet the qualifications listed above. You can vote in all statewide and local elections once you're registered.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
+            "a": "In California, if you were convicted of a felony and served time in prison, you can register to vote as soon as you’re released, even if you’re on parole or probation. Learn more. (https://www.sos.ca.gov/elections/voting-rights-restored)",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "a": "In California, every eligible voter, including those experiencing homelessness, has the right to vote. You can register using the address where you spend most of your time, such as a shelter, or by describing your location with nearby cross streets or landmarks. You also need a place where you can receive mail. This helps election officials assign you to the correct voting area and send you the right election materials.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Do I need an ID to register to vote in California?",
+            "a": "No, you are not required to show physical ID to register in California, but you will be asked to provide identifying information on your voter registration application.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What types of ID are accepted for registration?",
+            "a": "When registering to vote, you’ll be asked to provide:\n\n- Your California driver's license number or\n- Your California identification card number or\n- The last four digits of your Social Security number",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What if I don’t have an ID?",
+            "a": "If you don’t have a California driver's license, ID card, or Social Security number, you can leave that space blank on your voter registration form. Your county elections official will assign you a number to use as your voter ID.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "When are official election results available in California?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "Official election results will be uploaded to the California Secretary of State's website (https://www.sos.ca.gov/elections) as they become available.\n\n  Official Results  (https://www.sos.ca.gov/elections/)",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What does a poll worker do?",
+            "a": "A poll worker is a trained election worker who helps voters and supports voting at polling places or vote centers. Poll workers help set up and close voting locations, check in voters, provide voting instructions, assist voters who need help, and help make sure ballots and voting equipment are handled properly so elections run smoothly and securely.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What qualifications do I need to be a poll worker in California?",
+            "a": "To serve as poll worker in California you must be:\n\n- Be a US citizen or legal permanent resident\n- Be at least 18 years of age\n- Be a resident of the precinct\n- Complete required training\n- High school students who are 16 years or older may work if they are in good standing with a GPA of 2.5 and above\n\nCounties train poll workers before each election so they know how to perform their duties and follow the rules for their voting location. Training formats vary by county, but all poll workers must complete required training before working on Election Day.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Are poll workers paid in California?",
+            "a": "Yes. Poll workers are compensated and can earn extra money for serving on Election Day. Pay varies by county (https://www.sos.ca.gov/elections/poll-worker-information) and position.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "How do I apply to be a poll worker in California?",
+            "a": "To apply, visit the statewide poll worker application site at pollworker.sos.ca.gov and complete the application. If you want to work in a specific county or outside the county where you live, contact that county’s elections office (https://www.sos.ca.gov/elections/voting-resources/county-elections-offices) directly.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Does California offer provisional voting?",
+            "a": "Yes, California offers provisional voting.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "How do I vote a provisional ballot?",
+            "a": "You may be asked to vote a provisional ballot if you meet specific criteria, including:\n\n- You believe you are registered to vote even though your name is not on the official voter registration list at the polling place.\n- You signed up to vote by mail but want to vote at your polling place or vote center and you didn't receive or you didn't bring your vote by mail ballot with you, and the election official is unable to verify that you have not returned your vote-by-mail ballot.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "How can I make sure my provisional ballot is counted?",
+            "a": "If you are asked to vote a provisional ballot, it will be counted after election officials confirm you are registered to vote and haven't already voted in that election.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "How can I check the status of my provisional ballot?",
+            "a": "For more information about provisional voting, and information on how to track your provisional ballot, please visit your Secretary of State's website. (https://www.sos.ca.gov/elections/voting-resources/provisional-voting)",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What voting assistance is available for voters with disabilities?",
+            "a": "There are many ways voters with disabilities can cast their ballot.\n\nRemote Accessible Vote-by-Mail\n\nThis allows voters to mark their selections on their ballot by using their own compatible technology to vote independently from their own home. For more information on how to use this option, click here.  (https://www.sos.ca.gov/elections/voting-resources/remote-accessible-vote-mail)\n\nCurbside Voting\n\nThis allows you to park as close as possible to the voting area. Election officials will bring you any voting materials you need to cast your ballot, either on the curb or in your car. Be sure to check if curbside voting is available at your polling or vote center by contacting you county elections office.  (https://absentee.vote411.org/vote/eoddomestic.htm)\n\nAccessible Voting Machines\n\nContact your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm) for details around accessible voting machines in your area.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "How do I request accommodation or report accessibility issues?",
+            "a": "If you have any questions about receiving help in voting, please ask the clerk or inspector at the polling place.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Can I vote by mail because of my disability?",
+            "a": "All voters can cast their ballot from home. For more information on voting by mail, click here.  (https://www.vote411.org/california#vote-by-mail)\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in California?",
+            "a": "Here is what you need to know to register in California:\n\nThere are three methods of voter registration in California: register in-person, register online (https://registertovote.ca.gov/?t=s), or mail a printable application (https://elections.cdn.sos.ca.gov/vrdis.pdf) to your county elections office.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in California?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in California?",
+            "a": "California requires voters to register at least 15 days before the election. Be sure to check the exact date each year.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in California?",
+            "a": "A California voter is not required to show identification. However, if you are voting for the first time, you may be asked to show a form of identification when you go to the polls. This can include a driver’s license, passport, student ID from a state-supported college, or other accepted forms.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "I’m originally from another state, can I still vote in my home state while studying in California?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in California?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "Does California require employers to give time off to vote?",
+            "a": "Yes. California law requires employers to give employees time off to vote if they do not have enough nonworking time while polls are open (Polls are open from 7:00 a.m. to 8:00 p.m). You can take time off at the beginning or end of your work shift, unless you arrange something else with your employer. Up to two hours of voting time off must be paid.\n\nIf you know you will need time off to vote, you must notify your employer at least two working days before the election.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "DO I NEED TO SHOW ID WHEN I VOTE IN CALIFORNIA?",
+            "a": "Most California voters do not need to show ID to vote. However, if you are a first-time voter in a federal election and you did not provide ID information (like a driver's license or Social Security number) when you registered, you may be required to show ID:\n\n- If voting in person, you may be asked to show ID at your polling place.\n- If voting by mail, you may need to send a photocopy of acceptable ID to your county elections official before your vote can be counted.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO VOTE IN CALIFORNIA?",
+            "a": "Acceptable forms of identification include:\n\n- A copy of a recent utility bill\n- The county Voter Information Guide sent to you\n- A document from a government agency\n- A copy of your passport\n- A driver license\n- A California identification card\n- A student ID card\n\nFor a full list or help, visit the Secretary of State’s website (https://www.sos.ca.gov/elections/where-and-how), call (800) 345-VOTE (8683), or contact your county elections office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
+            "a": "If you're voting for the first time in a federal election and didn’t provide ID when you registered, you may be asked to show identification before your vote can be counted.\n\n- Voting in person without ID? You can still cast a provisional ballot. Election officials will verify your identity by comparing the signature on your provisional ballot envelope to the one on your voter registration form. If the signatures match, your ballot will be counted.\n- Voting by mail? You must submit a copy of an acceptable ID to your county elections office before your ballot can be counted. If they don’t receive it in time, your ballot envelope won’t be opened or counted.\n\nThis process applies only to first-time voters in a federal election.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "HOW CAN I REGISTER TO VOTE?",
+            "a": "- Online (http://registertovote.ca.gov/)\n- By mail or in person\n\n  - If you want to register with a paper form, you can get one from your county elections office, library, DMV office, or post office. Complete it fully and send it to your county elections office at least 15 days before the election, either by mail or in person.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "WHO IS ELIGIBLE TO REGISTER IN CALIFORNIA?",
+            "a": "- A United States citizen and a resident of California\n- At least 18 years of age (or will be by the date of the next election)\n- Not currently serving a state or federal prison term for conviction of a felony\n- Not judged by a court to be mentally incompetent to register and vote",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "WHO IS ELIGIBLE TO PRE-REGISTER TO VOTE IN CALIFORNIA?",
+            "a": "You may pre-register to vote if you are at least 16 years old. Your registration will become active once you turn 18.\n\nYou will need to re-register to vote when:\n\n- You move\n- You change your name\n- You wish to change political parties or to register with no party preference\n- You were removed from the registration rolls while in state or federal prison for the conviction of a felony",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "HOW CAN I CHECK MY REGISTRATION STATUS?",
+            "a": "You can verify your voter registration status using California’s voter information tool. (https://voterstatus.sos.ca.gov/)",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "HOW DO I UPDATE MY REGISTRATION IF I MOVE OR HAVE A NAME CHANGE?",
+            "a": "If you are already registered to vote in California and have moved or changed your name, you may update your voter registration by:\n\n- re-registering online or by submitting a paper voter registration application.\n- sending a signed letter to your current county elections official, even if it is in a different county, informing them of your move and providing them with your date of birth and current address.\n- If you have recently updated your address at the DMV or USPS, your voter registration will be automatically updated.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "WHAT IF I MISSED THE REGISTRATION DEADLINE?",
+            "a": "If you missed the registration deadline for an upcoming election, don't worry. In most cases, you can still register to vote and cast a provisional ballot on Election Day. This process is called Same Day Voter Registration.\n\nNot registered? Use our online registration tool (https://www.vote411.org/register) to complete your application!",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What types of voting machines does California use?",
+            "a": "The types of voting equipment used in California are optical scans and ballot marking devices (BMDs).",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What is optical scan voting?",
+            "a": "With optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\n\n- With a pen or pencil, you fill in a little box, circle, or space between two arrows.\n- When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\n- Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        },
+        {
+            "q": "What are Ballot Marking Devices (BMDs)?",
+            "a": "With these systems, the voter is presented with an electronic ballot and the voter makes their choices electronically. This produces a human-readable paper ballot.\n\nSome BMDs mark pre-printed ballots, while others print summaries of voter selections, often with those selections encoded in barcodes or QR codes.\n\nThen, voters either cast their ballots on a separate hand-fed optical scanner or place them in a ballot box to be counted centrally.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/california",
+            "t": "2026-10-22T19:12:56+00:00"
+        }
+    ]
+}

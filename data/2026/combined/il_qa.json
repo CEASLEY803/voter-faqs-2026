@@ -1,0 +1,776 @@
+{
+    "state": "il",
+    "num_questions": 128,
+    "num_answers": 128,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "Are there any costs for businesses?",
+            "a": "The State Board of Elections does not charge any fees for registration services. Businesses do, of course, incur costs for the time and resources required to provide and maintain registration information.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Can I register by mail or e-mail?",
+            "a": "No. Illinois law requires all businesses to register electronically. Any registration information received by mail or e-mail will not be processed.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "How can I look up information on other businesses registered in this program?",
+            "a": "Information about registered businesses is available in the Board's public website here (https://www.elections.il.gov/CampaignDisclosure/BEREP/BusinessRegistration.aspx).",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "How is 'business entity' defined in this Act?",
+            "a": "Business entity is defined in 30 ILCS 500/50-37 as any entity doing business for profit, whether organized as a corporation, partnership, sole proprietorship, limited liability company or partnership, or otherwise.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "How long does it take to get a certificate?",
+            "a": "Certificates are available on-line in .pdf format as soon as registration is complete. There is no limit to the number of copies.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "If my business has completed it electronic registration, will it have to re-register annually?",
+            "a": "No. If a business has registered electronically, that is the only time it will need to register. However, depending upon the circumstances of the individual business, it may have an obligation to keep that registration updated. But as far as creating a new account and re-registering a business, each business can only be registered once.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "If my company is a sole proprietorship and I registered with Revenue using my Social Security Number, will that number be sufficient to register as a Business Entity?",
+            "a": "Yes, if you have registered with Revenue using your Social Security number, you may use that when registering with the Board. In addition, you will need to provide your last name.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Is help available?",
+            "a": "Help is available throughout the website by clicking the Help menu option or by clicking on the \"?\" icon next to the item of interest. In addition, help is available via e-mail or telephone during normal business hours.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Is my business information entered in this website confidential?",
+            "a": "No. Information about the business, affiliated persons, and affiliated organizations/entities is available in searchable form on the Board's public website. There are three exceptions: 1) FEIN, tax ID, and social security number are for verification purposes only and are not disclosed; 2) account names and passwords are private to the registrant and are confidential; and 3) the law prohibits the display of the names of minors in this system on the public website.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Is my business required to register with the Board as a business entity?",
+            "a": "Pursuant to Public Act 95-971, effective January 1, 2009, any business entity meeting the above definition, whose existing State contracts, or whose bids or offers on State contracts exceed $50,000 annually, must electronically register with the State Board of Elections. For questions regarding who is required to register and what is to be reported on the Registration Form, please review Public Act 95-971, as amended by Public Act 96-0848, 97-0411, 97-0895, and 98-1076, the Board rules and regulations, and the Fact Sheet currently posted on the Illinois Procurement Bulletin at https://www.bidbuy.illinois.gov/bso/. For further guidance, please contact the legal counsel for your business entity or refer to the Act and the Administrative Rules found on this site, to assist you in making that determination.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Is there an alternative to typing in my data one affiliated person at a time?",
+            "a": "Yes, for businesses with access to information technology expertise, data may be submitted in an XML file. Click https://berep.elections.il.gov/help/HelpElectronicFile.aspx for detailed instructions.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Once my business has registered, how long must I continue to report changes?",
+            "a": "Illinois law requires that businesses submitting a bid must continue to update from the date of registration to the date after the contract is awarded; changes must be reported within 7 calendar days following such change or no later than a day before the contract is awarded, whichever date is earlier. Businesses with contracts must continue to update for the duration of the term of office of the incumbent officeholder awarding the contract or for a period of 2 years following the expiration or termination of the contract, whichever is longer; changes must be reported on a quarterly basis within 14 calendar days following the last day of January, April, July, and October of each year. If a business with a contract has a pending bid, changes must be reported within 5 business days or no later than a day before the contract is awarded, whichever date is earlier.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What happens if I create an account, activate it by clicking on the link in the e-mail I receive, but then fail to enter a business?",
+            "a": "If you do not add a business entity within 72 hours, the account will be deleted and you will need to recreate your account.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What happens if I create an account, but do not activate it by clicking on the link in the e-mail I receive?",
+            "a": "If your account is not activated within 72 hours, it will be deleted and you will need to recreate your account.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What happens if I try to register and my business name and/or number can't be verified with the Illinois Department of Revenue?",
+            "a": "Look at the information you provided when you registered with Revenue and make sure the name and number are appearing exactly like they did at that time. If that does not work, you may contact (217)782-4141 for assistance.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What if I plan to register for more than one business?",
+            "a": "Only one business can be entered per account. In addition, when creating a user account, the 'user name' and the 'e-mail address' of the user must be unique. You cannot use the same 'user name' or the same 'e-mail address' on more than one account.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What if I don't get the verification e-mail after I create my account?",
+            "a": "Check to see if it may have been interpreted as SPAM, and as a result, was filtered out to a different location. If you are unable to locate it, please contact the Board. The e-mail address can be checked to make sure it is correct and another Activate e-mail may be sent.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What if my business does not have an FEIN, an IBT, or a social security number?",
+            "a": "Please contact the Board at (217)782-4141 for assistance. Documentation will need to be submitted to verify that a business exists. Open and activate an account PRIOR to contacting the Board.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What is an 'affiliated entity' as defined in this Act?",
+            "a": "\"Affiliated entity\" means (i) any corporate parent and each operating subsidiary of the bidding or contracting business entity, (ii) each operating subsidiary of the corporate parent of the bidding or contracting business entity, (iii) any organization recognized by the United States Internal Revenue Service as a tax-exempt organization described in Section 501(c) of the Internal Revenue Code of 1986 (or any successor provision of federal tax law) established by the bidding or contracting business entity, any affiliated entity of that business entity, or any affiliated person of that business entity, or (iv) any political committee for which the bidding or contracting business entity, or any 501(c) organization described in item (iii) related to that business entity, is the sponsoring entity. \"Affiliated entity\" does not include an entity prohibited by federal law from making contributions or expenditures in connection with a federal, state, or local election.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What is an 'affiliated person' as defined in this Act?",
+            "a": "\"Affiliated person\" means (i) any person with any ownership interest or distributive share of the bidding or contracting business entity in excess of 7.5%, (ii) executive employees of the bidding or contracting business entity, and (iii) the spouse of any such persons. \"Affiliated person\" does not include a person prohibited by federal law from making contributions or expenditures in connection with a federal, state, or local election.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What is an 'executive employee' as defined in this Act?",
+            "a": "\"Executive employee\" means (i) the President, Chairman, or Chief Executive Officer of a business entity and any other individual that fulfills equivalent duties as the President, Chairman of the Board, or Chief Executive Officer of a business entity; and (ii) any employee of a business entity whose compensation is determined directly, in whole or in part, by the award or payment of contracts by a State agency to the entity employing the employee. A regular salary that is paid irrespective of the award or payment of a contract with a State agency shall not constitute \"compensation\" under item (ii) of this definition. \"Executive employee\" does not include any person prohibited by federal law from making contributions or expenditures in connection with a federal, state, or local election.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What must I do after I register my business?",
+            "a": "Continually make sure that the registration is accurate. Provide a copy of the registration certificate within 10 days after registration to each affiliated entity or affiliated person. The business must also notify any political committee to which it makes a contribution, at the time of the contribution, that it is registered. Any affiliated entity or affiliated person must also tell a political committee that it is affiliated with a registered business entity.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "When can I enter my data, make changes, or produce a certificate?",
+            "a": "The site is continuously available, 24 hours a day, seven days a week.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "How are Board members selected?",
+            "a": "The Governor appoints four members from his own political party and selects four from a list of nominees submitted to him by the highest ranking official of the opposite political party. Board members serve staggered, four-year terms. They elect a Chair and a Vice Chair of opposite political parties. The Chair and Vice Chair serve two-year terms on a party rotation basis.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "How does the Board function?",
+            "a": "Recommendations for new laws, new interpretations, different procedures, forms, etc., come to the Board from its own staff, election authorities, and a wide variety of other sources. All of these recommendations are thoroughly researched, discussed, and considered for action at open, public meetings. Five members of the Board are necessary to constitute a quorum and five votes are necessary for any action of the Board to become effective.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "How does the State Board deal with charges of voting irregularities and fraud?",
+            "a": "All claims of irregularity or fraud in any Illinois election presented to the Board are carefully and thoroughly investigated. Most often, clarification of the law resolves many of the problems. The Board is not a police agency but has the power to investigate and refer apparent violations to law enforcement agencies. The Board's role is to see that procedures provided for by state law are complied with throughout the state.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "How does the State Board work with the local authorities?",
+            "a": "The State Board works closely in all parts of the state with the election authorities by answering their questions and generally providing the information necessary to conduct elections effectively and in accordance with Illinois law. Ongoing training programs for election authorities are conducted, encouraging an exchange of ideas and information to refine the state's election process.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What about campaign disclosure?",
+            "a": "The Campaign Financing Act covers the public's right to know certain financial information about candidates, elected officials and those individuals and groups who are financially involved in political campaigns. The State Board of Elections supervises the administration of the Illinois act and closely monitors campaign expenditures which appear on reports submitted by candidates and committees as required by law. These reports, detailing contributions and expenditures, give the media and the public information on where candidates received their campaign money and where it is being spent. Board hearings are held if suspected or actual violations of the Campaign Financing Act occur. The Board is authorized to levy fines and turn over evidence of wrongdoing to local prosecutors.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What about election reform?",
+            "a": "Since the State Board is the only organization that has statewide jurisdiction, it is in the unique position of recognizing the differences in election terminology and procedures in various parts of the state. This statewide overview makes it possible for the Board to gather information and offer recommendations to the General Assembly and the Election Laws Commission to simplify and bring uniformity to the election process.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What is its makeup?",
+            "a": "The Board is an 8-member, bipartisan panel consisting of four Republicans and four Democrats, two of each party from Cook County and two of each party from Downstate. Day-to-day agency operations are handled by a full-time, professional staff in Springfield and Chicago offices.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What is the State Board of Elections?",
+            "a": "The State Board of Elections is an independent state agency that was provided for by the 1970 Illinois Constitution to supervise the registration of voters and the administration of elections throughout the state.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What's unique about the Illinois election process?",
+            "a": "Illinois elects more than 40,000 public officials and has well over 6,000 units of local government in the state - more than any other state. A major objective of the State Board is to make election procedures uniform throughout the state so that every voter and every governmental unit has access to the same information and the same rules concerning election procedures.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What does the Board do between elections?",
+            "a": "The Board's supervision of elections in the state not only covers Election Day activities, but all activities prior to and subsequent to every election. The State Board is regularly called upon for guidance and the Board is constantly in the process of collecting information, providing educational materials and programs, and acquiring knowledge necessary to simplify and improve election procedures for Illinois citizens who comprise what is one of the busiest electorates in the country.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "When does the Board meet?",
+            "a": "State law requires that the Board meet at least once per month. Meetings are held in the Springfield and Chicago offices, rotated between the two on a monthly basis. Special meetings and hearings are often necessary.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Who actually conducts elections in Illinois?",
+            "a": "Elections are administered locally by the state's 108 election authorities. These are the county clerks in 100 counties, two county election commission and 6 municipal election commissions. These local authorities are a very important part of Illinois' election process. As part of their many responsibilities they handle local voter registration programs, train election judges, find polling places, arrange for the printing of ballots, oversee Election Day activities, and supervise the vote count at the local level.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Who created it?",
+            "a": "Created by the Illinois General Assembly in 1973, the Board's purpose is to serve as the central authority for all Illinois election law, information and procedures in Illinois.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Are summary totals available on the website?",
+            "a": "Yes, summary totals (https://www.elections.il.gov/CampaignDisclosure/CommitteeListTotalSearches.aspx) are available for all committees, not just those filing electronically.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Are the campaign disclosure forms available on the State Board of Elections website?",
+            "a": "Yes. The forms may be obtained from the State Board of Elections or they may be downloaded (https://www.elections.il.gov/CampaignDisclosure/Forms.aspx) from the Campaign Disclosure Forms section of our website.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Are campaign disclosure manuals and brochures available on the State Board of Elections website?",
+            "a": "Yes. These publications are available from the State Board of Elections. You may download manuals and brochures (https://www.elections.il.gov/CampaignDisclosure/Brochures.aspx) from our site.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Are political contributions to Illinois candidates and political committees tax deductible?",
+            "a": "No.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Can a political committee conduct a raffle or other game of chance to raise campaign funds?",
+            "a": "Yes, if certain requirements are met. If a political committee is on file with our office as a political committee, and has no outstanding civil penalties or unfiled overdue reports, it may submit a notarized raffle application to the Board for approval in order to conduct a raffle. The License Application to Conduct a Raffle (https://www.elections.il.gov/NewDocDisplay.aspx?%2fM0cs48zOKVZyk9eAbpEoxjoGz9b5YaG2pWCtGWIhZLLDJ8HyFpmSfybPSompjha8ZXYhS8h3cM9zR9F0Cs2hMFhBfCLnfajWyCJyFxbNPTtTUhKXoJIhUsPqBupIEYw) is available for download. For each raffle held by a committee, a separate Raffle Report must be filed to document the gross receipts, expense, and net proceeds from the raffle.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Can corporations and unions contribute to Illinois candidates, and if so, what are their filing obligations?",
+            "a": "Corporations and unions may contribute from their treasuries in amounts not to exceed established contribution limits and have no filing obligations. However, if political contributions are solicited by the corporations and unions, filing obligations apply once the $5,000 threshold is met.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Does a committee filing with the Federal Election Commission have any filing obligations with the State of Illinois if it contributes to Illinois state or local candidates?",
+            "a": "If such a committee exceeds the $5,000 filing threshold, it must file a D-1 Statement of Organization (https://www.elections.il.gov/NewDocDisplay.aspx?%2fM0cs48zOKVZyk9eAbpEoxjoGz9b5YaG2pWCtGWIhZLLDJ8HyFpmSfybPSompjha8ZXYhS8h3cM9zR9F0Cs2hMFhBfCLnfajCAmtKvPPFiV8HMS7UG7UKg%3d%3d) with the Illinois State Board of Elections. It is not required to file any other disclosure documents.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Does Illinois have contribution limits?",
+            "a": "Yes, as of January 1, 2011, contribution limits are in effect for all political committees registered with the Illinois State Board of Elections. The limits vary based upon the type of political committee, and if a candidate political committee, the office sought.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Does the Board conduct training sessions in the use of the IDIS program?",
+            "a": "The Board no longer conducts regularly scheduled training sessions, but staff is available to work with anyone one-on-one upon request. For more information contact the State Board of Elections (https://www.elections.il.gov/cdn-cgi/l/email-protection#493e2c2b24283a3d2c3b092c252c2a3d2026273a672025672e263f).",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Does the State Board of Elections provide an electronic filing program?",
+            "a": "Yes, a web-based electronic filing program (IDIS 3.0) is available at no cost and may be accessed through the Board website.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "How can financial information for political committees not filing electronically be obtained?",
+            "a": "All disclosure reports may be viewed in either the Chicago or Springfield offices. Reports may also be obtained by mail by contacting either office. In addition, all reports, statements, and documents filed on paper beginning January 1, 2009 are being scanned and may be viewed on the Board website.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "How is a contribution received by a political committee using a commercial fundraising firm to be reported on the committee's campaign disclosure report?",
+            "a": "The entire amount is reported as a contribution from the original source, not from the fundraising entity; any charge for the use of the service provided shall be reported separately as an expenditure.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "If a candidate funds his campaign entirely with his own personal funds, is he required to file campaign disclosure reports?",
+            "a": "Yes, if he spends more than $5,000.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "If a political committee has not exceeded the mandatory electronic filing threshold, can it voluntarily file its reports electronically?",
+            "a": "Yes, voluntary electronic filing is encouraged.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Is electronically filed data available on the Board of Elections website?",
+            "a": "Yes, the data is available in a searchable format. It may be accessed in a number of ways by selecting from the different search options (https://www.elections.il.gov/CampaignDisclosure/searchoptions.aspx) available. Search tips are provided for each type of search. In addition, all itemized receipts for statewide candidates, legislative candidates, and legislative leadership committees for the period from July 1, 1994 through December 31, 1998, may be searched.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Is electronically filed data downloadable from the Board website?",
+            "a": "Contribution and expenditure data may be downloaded in either a Tab-Delimited Text File or XML file. The data is also available at no cost from the Board on cdrom.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Is IDIS a campaign management system or primarily a record-keeping and report filing program?",
+            "a": "IDIS is primarily a record-keeping and reporting program. Campaign management software is available for purchase from several private vendors.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What is the Code of Fair Campaign Practices?",
+            "a": "It is a voluntary statement that candidates and political committees may file prior to an election stating that they will conduct a positive campaign. State candidates file it with the Board of Elections. Local candidates file it with their local county clerk. The Code of Fair Campaign Practices (https://www.elections.il.gov/NewDocDisplay.aspx?%2fM0cs48zOKUVo8NHFkkNhVwyxu6isYxmvQN1wh92Z01qEuaLXN%2b1bqsKcPxTrmMvTnHq1JL9Di%2fFhXWxVnRW61wjrBEOJhecoDZDQvGTBIBfOVkQSwPckRqxpvYK4lk60qZycf5Rd9kEfwRCeZiA8WK7DzjUJqi1kIhSvSDDZBRCcGacxO7leg%3d%3d) is available for download.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "When is a political committee required to file its disclosure reports electronically?",
+            "a": "Electronic filing is required for all political committees that during a reporting period (i) had at any time a balance or an accumulation of contributions of $10,000 or more, (ii) made aggregate expenditures of $10,000 or more, or (iii) received loans of an aggregate of $10,000 or more. Once a committee exceeds the threshold that requires it to report electronically, it must continue thereafter to report electronically until it dissolves, whether or not its accumulation, receipts or expenditures fall beneath the levels set by statute for mandatory electronic filing.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Who must file campaign disclosure reports?",
+            "a": "Any individual, trust, partnership, committee, association, corporation, or any other organization or group of persons which receives or spends more than $5,000 on behalf of or in opposition to a candidate or question of public policy, meets the definition of a political committee and must comply with all provisions of the Illinois Campaign Financing Act, including the filing of campaign disclosure reports. The $5,000 threshold does not apply to political party committees. In addition, any entity other than a natural person that makes expenditures of any kind in an aggregate amount of more than $3,000 during any 12-month period supporting or opposing a public official or candidate must organize as a political committee.",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Where can I find sample ballots?",
+            "a": "Contact your local election authority. Contact Information can be found here (https://www.elections.il.gov/ElectionOperations/ElectionAuthorities.aspx).",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Can I check my voter registration status by means of the Internet?",
+            "a": "Yes. Visit https://ova.elections.il.gov/RegistrationLookup.aspx",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Can I register to vote by mailing an application to my election office?",
+            "a": "Yes. Under federal law, citizens may apply to register to vote by mailing in an application.  More... (https://www.elections.il.gov/NewDocDisplay.aspx?%2fM0cs48zOKVZyk9eAbpEoxjoGz9b5YaGE%2bEuf7JVd2Tlx2Mybp2RbacEJVh848tnFOLoTd3G4cRsCxSj%2bcrL1MmhG9QsYgJ9XEPk5RBnskXetvBKqlqFjTKgx7qP9eeYvjYVE4PHXwpZnTFFeskkj9bQfLeonJZF)\n\n Requirements to register to vote in Illinois\n\n- Must Be a United States Citizen\n- Must Be at least 18 years of age by Election Day\n- Must have been a resident of the precinct at least 30 days prior to Election Day",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What forms of identification are required when I register to vote?",
+            "a": "Two forms of identification with at least one showing your current residence address is needed when you register in-person.  More... (https://www.elections.il.gov/NewDocDisplay.aspx?%2fM0cs48zOKVZyk9eAbpEoxjoGz9b5YaGE%2bEuf7JVd2Tlx2Mybp2RbacEJVh848tnFOLoTd3G4cRsCxSj%2bcrL1MmhG9QsYgJ9XEPk5RBnskXetvBKqlqFjTKgx7qP9eeYvjYVE4PHXwpZnTFFeskkj9bQfLeonJZF)",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What if I change my name after being registered?",
+            "a": "If you changed your name more than 27 days before the election and did not re-register, you cannot vote - unless you live in the same precinct.  More... (https://www.elections.il.gov/NewDocDisplay.aspx?%2fM0cs48zOKVZyk9eAbpEoxjoGz9b5YaGE%2bEuf7JVd2Tlx2Mybp2RbacEJVh848tnFOLoTd3G4cRsCxSj%2bcrL1MmhG9QsYgJ9XEPk5RBnskXetvBKqlqFjTKgx7qP9eeYvjYVE4PHXwpZnTFFeskkj9bQfLeonJZF)",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "What is \"Grace Period\" registration?",
+            "a": "\"Grace Period\" Registration is an extension of the period of time for a voter to register to vote, or to update their registration information.  More... (https://www.elections.il.gov/NewDocDisplay.aspx?%2fM0cs48zOKVZyk9eAbpEoxjoGz9b5YaGE%2bEuf7JVd2Tlx2Mybp2RbacEJVh848tnFOLoTd3G4cRsCxSj%2bcrL1MmhG9QsYgJ9OAgI8oxP06UUz3N9a%2babH2TsAY3ULa94pWnj7HwRoALh1dif5CSlCA%3d%3d)",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "When can I consider myself officially registered to vote?",
+            "a": "As soon as you receive a voter ID card in the mail, you can consider yourself registered.  More... (https://www.elections.il.gov/NewDocDisplay.aspx?%2fM0cs48zOKVZyk9eAbpEoxjoGz9b5YaGE%2bEuf7JVd2Tlx2Mybp2RbacEJVh848tnFOLoTd3G4cRsCxSj%2bcrL1MmhG9QsYgJ9XEPk5RBnskXetvBKqlqFjTKgx7qP9eeYvjYVE4PHXwpZnTFFeskkj9bQfLeonJZF)",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "When can I register to vote?",
+            "a": "Registration is open year around except during the 27 day period prior to an election and during the 2 day period after each election (1 day after in Chicago).",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "Where can I register to vote?",
+            "a": "- County Clerk's Office\n- Board of Election Commissioner's Office\n- City and Village Offices\n- Township Offices\n- Precinct Committeeman\n- Schools\n- Public Libraries\n- Military Recruitment Offices\n\n The following organizations may be entitled to register people to vote:",
+            "s": "https://www.elections.il.gov/Main/FAQ.aspx",
+            "t": "2026-10-29T22:12:05+00:00"
+        },
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "In Illinois, all registered voters are permitted to vote absentee.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "There are multiple ways to apply for an absentee ballot in Illinois:\n\n1) Permanent Vote-by-mail List:\n\nIf you are a registered voter in Illinois, you may apply to be added to a permanent vote-by-mail (https://www.elections.il.gov/ElectionOperations/VotingByMailList.aspx) list. Submit the completed form to your local elections office. Voters will still have the option to vote-by-mail for a single election. The permanent vote-by-mail application will be available online closer to the next election here (https://www.elections.il.gov/ElectionOperations/VotingByMailAgreement.aspx?T=637878613169921791).\n\n2) Request a One-Time Ballot-by-Mail\n\nTo receive a vote-by-mail ballot for a single election, complete the absentee ballot request form, (https://absentee.vote411.org/vote/VoterInformation.htm) and submit it to your local elections office through the mail, or in person. Contact your county clerk (https://absentee.vote411.org/vote/eoddomestic.htm) if you have more questions.\n\n3) Accessible Absentee Ballot\n\nVoters with print disabilities may receive their vote by mail ballots through electronic transmission, which allows a voter with a print disability to mark and verify their vote by mail ballot using their own assistive technologies. Voters with print disabilities can complete the Accessible Vote by Mail Application (either Permanent or Single Election) and submit it to their local election office. Download the form here (https://www.elections.il.gov/electionoperations/VotingByMail.aspx).",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "You can request an absentee ballot:\n\n- Online / Email: no more than 90 days or less than 5 days before the election\n- In person - no more than 90 days but before 1 day before the election\n- By mail inside the US - no more than 90 days or less than 5 days before the election\n- By mail outside the US - no less than 30 days before the election (to receive the full ballot), or less than 30 days but no more than 10 days before the election to receive the Federal Ballot only\n\nUpon receipt, complete the application. Make certain to include your name, home address, address where you want the ballot to be mailed, and please remember to sign the application.\n\nAfter completing the application, either mail it or hand-deliver it to your election authority. If you return the application in person or complete the application in the election authority's office, you may immediately vote with your absentee ballot in the election authority's office. If you mail the application and it is properly completed, the election authority will mail your absentee ballot to you.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN EARLY MAIL BALLOT EACH YEAR?",
+            "a": "Illinois voters have the option to apply to be added to a permanent vote-by-mail (https://www.elections.il.gov/ElectionOperations/VotingByMailList.aspx) list.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "a": "Voted absentee ballots must be postmarked by Election Day and received within two weeks in order to be counted.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Election officials will start mailing out ballots about 40 days before the election to those who have requested them.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
+            "a": "After receiving your ballot, vote the ballot in secret. Insert the ballot into the envelope provided, seal it, complete and sign the certification on the back, and personally return it or mail it.\n\nYou have the option to authorize, in writing, that a spouse, parent, child, brother, sister, or licensed motor carrier, should deliver the completed absentee ballot to the election authority in sufficient time to be delivered to the polling place on Election Day.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "HOW CAN I RETURN MY ABSENTEE BALLOT?",
+            "a": "You can return your ballot by mail, in person, or a secure ballot drop box, if available. Please contact your local election authority  (https://absentee.vote411.org/vote/eoddomestic.htm)for additional information.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "Some counties have a ballot tracking signup. Please contact your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm) to find out if it’s offered.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "To vote in person if you received an absentee ballot, you must bring your mailed ballot to the election site and turn it in to the election judge. If you do not have the mailed ballot with you, you can vote a provisional ballot.\n\nInstead of using a provisional ballot, some election authorities will allow you to sign an affidavit stating that you have not yet voted or returned your absentee ballot. In that case, you may vote at the precinct on a regular ballot. If your absentee ballot is later returned to the Election Authority, it will not be counted.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Does Illinois allow ballot curing?",
+            "a": "Yes, Illinois allows voters to fix an issue with their ballot.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "a": "You will receive a notice with the reason or reasons your ballot was rejected, and it will let you know if you need to appear before the election authority to show cause as to why your ballot should not be rejected.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "What is the deadline to cure my ballot?",
+            "a": "The deadline to cure (correct) your absentee/mail ballot is 14 days after the election.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "How do I cure my provisional ballot?",
+            "a": "If you voted by provisional ballot, you may submit additional information to your local election officials. Any additional information to show that you are a registered voter or eligible to vote, must be received no later than the close of business the Thursday following Election Day.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Can I track the status of my provisional ballot online?",
+            "a": "You can track the status of your provisional ballot using your state’s online tool (https://www.elections.il.gov/votingandregistrationsystems/provisionalballotsearch.aspx).",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "What is a ballot drop box?",
+            "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Are drop boxes available in my state?",
+            "a": "Yes, vote-by-mail drop boxes are available in Illinois.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Where can I find ballot drop box locations?",
+            "a": "Vote-by-mail drop boxes will be installed in some locations. Check your State Board of Elections (https://www.elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx?T=637368400127347571) website to see if there is a drop box in your jurisdiction.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Can I track the ballot after placing in the drop box?",
+            "a": "No, you can not track your ballot after placing in the drop box.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Can I vote before Election Day in Illinois?",
+            "a": "Yes. Illinois offers early in-person voting, which allows voters to cast their ballot before Election Day.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Who can vote early in Illinois?",
+            "a": "Any registered voter in Illinois may vote early. You do not need an excuse or special reason to vote early.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "When can I vote early in Illinois?",
+            "a": "Early voting in Illinois begins up to 40 days before Election Day and continues through the day before Election Day.\n\nExact start dates and daily hours vary by county and by the type of election. Check with your local election authority (https://absentee.vote411.org/vote/eoddomestic.htm) for specific dates and times.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Where can I vote early in Illinois?",
+            "a": "You can vote early at designated early voting locations in your county. Many counties offer early voting at the county clerk’s office and at additional temporary locations.\n\nLocations and hours vary, so check with your local election authority (https://absentee.vote411.org/vote/eoddomestic.htm) for details.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "WHO CAN REGISTER TO VOTE IN ILLINOIS?",
+            "a": "To register to vote in Illinois, you must:\n\n- Be a US citizen\n- Be at least 18 years old by the next Consolidated or General Election (you may register and vote in a Primary at age 17 if you’ll be 18 by the General Election)\n- Have lived in your precinct for at least 30 days before Election Day",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "WHO CAN VOTE IN ILLINOIS?",
+            "a": "You can vote in Illinois if you:\n\n- Are a registered voter\n- Meet the eligibility requirements (see above)\n- Are not currently incarcerated for a felony or misdemeanor conviction",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
+            "a": "In Illinois, you only lose your right to vote if you are currently incarcerated for a misdemeanor or felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "a": "Yes. Illinois allows individuals without a permanent or fixed home address to register and vote. On the voter registration form, you can draw a map to indicate where you stay. Include details like cross streets, landmarks, or nearby names.\n\nIf you don’t receive mail at your residence location, you must also provide a separate mailing address. This can be a P.O. box, shelter, advocacy group, outreach center, or someone who will accept mail for you.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Do I need an ID to register to vote in Illinois?",
+            "a": "It depends on how you register:\n\n- If you register in person, you must show two forms of ID, and at least one must show your current residence address\n- If you register by mail, you must provide sufficient proof of identity\n- If you register online (https://ova.elections.il.gov/), you will need to provide your Illinois driver’s license or state ID number, the last four digits of your Social Security number, and the issue date of your license or ID",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "What types of ID are accepted for registration?",
+            "a": "Accepted forms of ID include:\n\n- An Illinois driver’s license or state ID number\n- The last four digits of your Social Security number\n- A copy of a valid photo ID\n- A copy of a current utility bill, bank statement, paycheck, government check, or other government document showing your name and address\n\nStudents may also register with a school-issued ID card plus a lease agreement or postmarked mail showing their current address.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "What if I don’t have an ID?",
+            "a": "If you do not have the above ID when you register you will need to provide it before you vote either in person or by mail.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "When are official election results available in Illinois?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "Official election results will be uploaded to the Illinois Board of Elections’ website (https://www.elections.il.gov/electionoperations/votetotalsearch.aspx) as they become available.\n\n  Official Results  (https://www.elections.il.gov/electionoperations/votetotalsearch.aspx)",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "What does a poll worker do in Illinois?",
+            "a": "In Illinois, poll workers are called election judges. They are responsible for administering election procedures in the polling place on Election Day and ensuring the process is fair and conducted according to the law.\n\nElection judges:\n\n- Open and close the polls\n- Are responsible for all election materials\n- Ensure only qualified voters vote and that each voter votes only once\n- Ensure ballots are cast in secret\n- Provide instructions on how to vote when requested\n- Assist voters who cannot read or write English, and voters who are blind or have physical disabilities\n- Maintain order in the polling place\n- Tally votes after polls close and certify the results for the precinct",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "What qualifications do I need to be a poll worker in Illinois?",
+            "a": "To serve as an election judge in Illinois, you must:\n\n- Be a U.S. citizen\n- Be of good character and not required to register under the Sex Offender Registration Act\n- Be able to speak, read, and write English\n\n  - English/Spanish bilingual applicants encouraged to apply\n- Not be a candidate for office in that election\n- Live in and be registered to vote in the precinct where you serve (with limited exceptions allowing service elsewhere within the county)\n- Complete required training",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Are poll workers paid in Illinois?",
+            "a": "Yes. Election judges in Illinois are paid for their service. Compensation varies by county and by election. Many counties also provide additional pay for completing required training.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "How do I apply to be a poll worker in Illinois?",
+            "a": "If you are interested in serving as an election judge, visit your county election authority’s website (https://absentee.vote411.org/vote/eoddomestic.htm) for application details and deadlines.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Does Illinois offer provisional voting?",
+            "a": "Yes, Illinois offers provisional voting.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "How do I vote a provisional ballot?",
+            "a": "You may vote a provisional ballot if you meet specific conditions. An election judge will issue you a provisional ballot at your polling place if:\n\n- Your name does not appear on the official list of eligible voters in that precinct.\n- Your voting status has been challenged and a majority of the judges uphold the challenge.\n- You did not provide an ID when registering by mail and still don't provide an ID on Election Day.\n- A court order extends the time for closing the polls, and you vote during this extended time period.\n- Your name appears on the list of voters who voted during early voting.\n- You admit to receiving a vote-by-mail ballot but did not return the unvoted ballot to the election authority.\n- You tried to register on Election Day but failed to provide the necessary documentation.\n\nBy law, you must vote in your assigned precinct for all votes on your provisional ballot to count.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "How can I check the status of my provisional ballot?",
+            "a": "To find out if your vote was counted, please use your state's provisional ballot tool. (https://www.elections.il.gov/VotingAndRegistrationSystems/ProvisionalBallotSearch.aspx?MID=%2fck8Er0K12Y%3d)",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "What voting assistance is available for voters with disabilities?",
+            "a": "The Help America Vote Act requires that election authorities have voting equipment for voters with disabilities to vote privately and independently, and Illinois is no exception.\n\nThere are options for a seated voting booth, voting assistance from a friend, relative, or two election judges (one from each party), voting by mail, and curbside voting.\n\nLanguage assistance is also available where required.\n\nFor more information on the provisions available for disabled voters, please contact your local election authority (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "How do I request accommodation or report accessibility issues?",
+            "a": "If you have any questions about receiving help in voting, please ask the clerk or inspector at the polling place.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Can I vote by mail because of my disability?",
+            "a": "Vote-by-mail (absentee voting) is available in Illinois and no excuse is required. You can find more about how to vote by mail here (https://www.vote411.org/illinois#absentee-ballot-process).\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in Illinois?",
+            "a": "Here is what you need to know to register in Illinois:\n\nThere are three methods of voter registration in Illinois: register in-person, register online (https://ova.elections.il.gov/), or mail a printable application (https://bit.ly/IL-Mail-In-PDF) to the Illinois Secretary of State.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in Illinois?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in Illinois?",
+            "a": "The deadline to register to vote in Illinois depends on how you register. Online registration closes 16 days before Election Day, and registration by mail must be postmarked 28 days before. Be sure to check the exact date each year. You can also register in person up to and including on Election Day.\n\nIf you register by mail, you’ll need to vote in person the first time unless you’re disabled, in the military, or provided proper ID when registering.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in Illinois?",
+            "a": "An Illinois voter is not required to show identification. However, if you are voting for the first time, you may be asked to show a form of identification when you go to the polls. This can include a driver’s license, passport, student ID from a state-supported college, or other accepted forms.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "I’m originally from another state, can I still vote in my home state while studying in Illinois?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Illinois?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Does Illinois require employers to give time off to vote?",
+            "a": "Yes. Illinois law requires employers to give employees time off to vote on Election Day if their work schedule does not allow enough time to vote while the polls are open. An employee may take up to 2 hours of paid time off to vote.\n\nThe employee must request the time off before Election Day. Employers may specify the hours during which the employee may be absent to vote. If an employee has at least 2 consecutive hours outside of working hours while polls are open, the employer is not required to provide additional time off.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "DO I NEED TO SHOW ID WHEN I VOTE IN ILLINOIS?",
+            "a": "In most cases, no, identification is not required to vote at the polls in Illinois as long as your registration is accurate and up to date. Instead, your signature is verified against the one on file from when you registered. If they do not match, you may be asked to show ID.\n\nHowever, if:\n\n- You registered by mail and did not include ID with your registration,\n- Or you are registering to vote during early voting or on Election Day (grace period registration), you will need to show ID to vote.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE IF ASKED TO SHOW ONE?",
+            "a": "Acceptable forms of ID include:\n\n- A current and valid photo ID\n- A utility bill\n- A bank statement\n- A government check\n- A paycheck\n- A lease or housing contract\n- A student ID along with mail addressed to your current residence\n- Any government document showing your name and current address\n\nAll IDs must show your name and address.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
+            "a": "If you are asked to show ID (for example, because you registered by mail without providing ID) and cannot provide it, you will be asked to vote using a Provisional Ballot. Your eligibility will be verified later by the election authority.\n\n Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "What is the deadline to register to vote in Illinois?",
+            "a": "- Online registration deadline: 16 days before Election Day\n- Register by mail deadline: Postmarked 28 days before Election Day\n- In-person registration deadline: Available up to and including Election Day",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "How can I check my voter registration status?",
+            "a": "You can verify your voter registration status using Illinois’ voter information tool. (https://ova.elections.il.gov/RegistrationLookup.aspx)",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Does Illinois have online voter registration?",
+            "a": "Yes! Use our online registration tool (https://www.vote411.org/register) to complete your application",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Is same-day voter registration available in Illinois?",
+            "a": "Yes, Illinois has same-day voter registration.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Can I pre-register to vote?",
+            "a": "Yes, you can pre-register to vote if you’re at least 16 years old.\n\nTo vote, you must be at least 17 years old by the Primary Election and turn 18 on or by the General or Consolidated Election.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "Who is eligible to register in Illinois?",
+            "a": "Check if you’re eligible to register here (https://www.vote411.org/illinois#eligibility-requirements).",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "What types of voting machines does Illinois use?",
+            "a": "The voting systems used in Illinois are Optical Scan and DRE.\n\nTo find out what voting machine is used in your county, please visit your state's resource. (https://www.elections.il.gov/ElectionOperations/ElectionDayVoting.aspx?MID=Szw0eRrv1dQ%3d&T=637177054543785453)",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "What is optical scan voting?",
+            "a": "With optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\n\n- With a pen or pencil, you fill in a little box, circle, or space between two arrows.\n- When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\n- Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        },
+        {
+            "q": "What is Direct Recording Electronic Voting?",
+            "a": "Direct Recording Electronic (DRE) is the newest system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.\n\nThere are many variations of DREs because many companies are inventing new ones, and many cities, counties, and states are trying them out.\n\n- Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.\n- Some of these devices will show all candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure).\n- On other DREs, the screen is set up to show pages. There will probably be one thing on which to vote on each screen or page. For example, on one screen or page, you might vote for the president. Then you might move to the next page to vote for a senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for.\n- Other devices have a keypad, and some have a keyboard, so you can write in the name of someone you want to vote for.\n- You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/illinois",
+            "t": "2026-10-22T19:13:10+00:00"
+        }
+    ]
+}

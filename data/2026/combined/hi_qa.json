@@ -1,0 +1,86 @@
+{
+    "state": "hi",
+    "num_questions": 13,
+    "num_answers": 13,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "What is ranked-choice voting?",
+            "a": "Ranked-choice voting\" is the method of casting and tabulating votes in which voters rank candidates in order of preference, tabulation proceeds in sequential rounds in which last-place candidates are defeated, and the candidate with the most votes in the final round is elected.\" HRS §§ 11-110(e).\n\nSpecific statutory procedures are followed in each round. HRS §§ 11-110(b)-(d).",
+            "s": "https://elections.hawaii.gov/voting/voting-in-hawaii/",
+            "t": "2026-10-29T22:11:51+00:00"
+        },
+        {
+            "q": "How does ranked-choice voting work?",
+            "a": "If a candidate receives a majority of votes, 50 percent plus one, in the first round, that candidate wins. However, if no candidate receives a majority of votes, the votes of the defeated candidate(s) are redistributed.\n\nIn each round, the candidate with the lowest number of votes is defeated. Those votes are then redistributed as votes for the continuing candidates, counting for the voter’s next ranked candidate in the following round.\n\nThis process of redistributing votes continues until a candidate reaches a majority of the votes.",
+            "s": "https://elections.hawaii.gov/voting/voting-in-hawaii/",
+            "t": "2026-10-29T22:11:51+00:00"
+        },
+        {
+            "q": "How do I vote?",
+            "a": "You must be a registered voter to receive a ballot. Then, you will receive your ballot in the mail. To vote, review the instructions, contests, and candidates on your ballot and make your selections. You can also leave a contest blank and it will not impact your votes.\n\nAfter voting, fold the ballot and slip it into the ballot secrecy sleeve. Insert the ballot secrecy sleeve into your return envelope and be sure to sign. Your ballot cannot be counted without your signature on the return envelope.\n\nReturn your ballot by mail or by dropping it off at a place of deposit. Your voted ballot must be received by your County Elections Divisions by 7:00 pm on Election Day to be counted.",
+            "s": "https://elections.hawaii.gov/voting/voting-in-hawaii/",
+            "t": "2026-10-29T22:11:51+00:00"
+        },
+        {
+            "q": "When can I expect to receive my ballot?",
+            "a": "You should expect to receive your mail ballot packet at least 18 days prior to the election.",
+            "s": "https://elections.hawaii.gov/voting/voting-in-hawaii/",
+            "t": "2026-10-29T22:11:51+00:00"
+        },
+        {
+            "q": "What if I didn’t receive my ballot?",
+            "a": "If you did not receive your ballot, please contact your County Elections Division and they will issue you a replacement ballot.",
+            "s": "https://elections.hawaii.gov/voting/voting-in-hawaii/",
+            "t": "2026-10-29T22:11:51+00:00"
+        },
+        {
+            "q": "What if I make a mistake on my ballot?",
+            "a": "If you make a mistake, misplace, or damage your ballot, you may request for a replacement ballot with your County Elections Division.",
+            "s": "https://elections.hawaii.gov/voting/voting-in-hawaii/",
+            "t": "2026-10-29T22:11:51+00:00"
+        },
+        {
+            "q": "Will my vote still count if I did not vote on all measures and/or candidates?",
+            "a": "Yes, your ballot will still be counted.",
+            "s": "https://elections.hawaii.gov/voting/voting-in-hawaii/",
+            "t": "2026-10-29T22:11:51+00:00"
+        },
+        {
+            "q": "Can I change my mind after I’ve returned the ballot?",
+            "a": "No. Once you return your ballot and is received by the County Elections Division, it is considered cast and you will not be able to receive a new ballot.",
+            "s": "https://elections.hawaii.gov/voting/voting-in-hawaii/",
+            "t": "2026-10-29T22:11:51+00:00"
+        },
+        {
+            "q": "Why do I have to sign the return ballot envelope?",
+            "a": "Your signature on the return envelope enables election officials to verify you as the voter. The signature you provide on the return ballot envelope is verified against the signature on file in your voter registration record. If you do not sign your return ballot envelope, your ballot will not be counted.",
+            "s": "https://elections.hawaii.gov/voting/voting-in-hawaii/",
+            "t": "2026-10-29T22:11:51+00:00"
+        },
+        {
+            "q": "How can I receive my ballot if I’m on vacation or away at college?",
+            "a": "If you will be away during the election you may request for a ballot to be mailed to an alternate address. Simply complete an absentee application and indicate where you would like your ballot to be mailed to.",
+            "s": "https://elections.hawaii.gov/voting/voting-in-hawaii/",
+            "t": "2026-10-29T22:11:51+00:00"
+        },
+        {
+            "q": "Can I still vote in-person?",
+            "a": "Yes, you may vote in-person by visiting any voter service center in your county. Voter service centers are open 10 days through Election Day for in-person voting, same day registration and accessible voting.\n\nLast Updated on May 8, 2026",
+            "s": "https://elections.hawaii.gov/voting/voting-in-hawaii/",
+            "t": "2026-10-29T22:11:51+00:00"
+        },
+        {
+            "q": "How do I check if I am registered to vote?",
+            "a": "You can verify your voter registration online by providing a Hawaii Driver License or Hawaii State ID, and the last four digits of your Social Security Number. You may also contact us at 808-453-VOTE (8683). Neighbor Islands may call toll free at (800) 442-VOTE (8683). Please be prepared to provide name, residence address, and date of birth in order to verify your status.\n\n Do I have to register before each election?\n No, once you have registered to vote, you do not have to re-register for each election. Re-registration is required only if you have moved or legally changed your name.\n\n I recently moved, do I have to update my registration?\nYes, you should update your registration if you have moved or legally changed your name. All registered voters receive a mail ballot packet at their mailing address, so it is important that you update your registration. You can update your registration online, or by submitting a Voter Registration Application.\n\n How do I obtain a document to prove I’m registered to vote in Hawaii?\nTo obtain a voter registration certificate, contact the County Elections Division where you are registered to vote.\n\n I am 16 years old, can I register to vote?\nState law allows for pre-registration at 16 years of age, but you must be 18 years of age by election day to vote.\n\n Will I be notified after registering?\nYou will be mailed a notification postcard verifying your voter registration status prior to the election.\n\n Can I register online?\n Yes, you can register online at olvr.hawaii.gov. A Hawaii Driver License or Hawaii State ID is required to access the online system. If you do not have either form of ID, you may complete a Voter Registration Application and submit it to your County Elections Division.\n\n Is the online registration system secure?\nYes. The online voter registration system is maintained on the Hawaii State Government Private Cloud, which is operated by the Office of Information Management and Technology.\n\nIf you require special assistance (i.e. large print, taped materials, etc.) contact the Office of Elections at 453-VOTE (8683).\n\nLast Updated on September 28, 2026",
+            "s": "https://elections.hawaii.gov/register-to-vote/registration/",
+            "t": "2026-10-29T22:11:52+00:00"
+        },
+        {
+            "q": "Who are UOCAVA Voters?",
+            "a": "- Military members of the United States Uniformed Services\n- Spouses and dependents of military members\n- U.S. citizens living overseas temporarily or indefinitely\n\nUOCAVA voters are U.S. Citizens who reside outside the U.S. (i.e., overseas). They are eligible to receive a ballot from the state/county in which they last resided immediately prior to moving overseas. UOCAVA voters who were born outside of the U.S. are eligible to receive a ballot from the state/county where their parents last resided prior to moving overseas.\n\nUOCAVA voters may register to vote and request an absentee ballot by completing a Federal Post Card Application (FPCA) (https://www.fvap.gov/hawaii). The completed FPCA must be received by the County Elections Division by:\n\nPrimary Election: July 29, 2026\nGeneral Election: October 26, 2026\n\nUOCAVA voters already registered may request for an absentee ballot by completing a Federal Post Card Application (FPCA) (https://www.fvap.gov/hawaii) and submitting it to County Elections Division no later than seven (7) days prior to the election. UOCAVA voters will need to submit an FPCA request for an absentee ballot each election year.\n\nPrimary Election: August 1, 2026\nGeneral Election: October 27, 2026\n\nBallots will be sent out forty-five (45) days prior to the election pursuant to federal law. UOCAVA voters may request to receive their ballot by mail, email, or fax. Voted ballots must be received by the County Elections Division by 7:00 p.m. on Election Day.\n\nPrimary Election: August 8, 2026\nGeneral Election: November 3, 2026\n\nYou may track the status of your ballot by contacting your County Elections Division. (https://elections.hawaii.gov/resources/county-election-divisions/)",
+            "s": "https://elections.hawaii.gov/voting/military-and-overseas-voters/",
+            "t": "2026-10-29T22:11:57+00:00"
+        }
+    ]
+}

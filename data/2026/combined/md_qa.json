@@ -1,0 +1,44 @@
+{
+    "state": "md",
+    "num_questions": 6,
+    "num_answers": 6,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "Who can vote?",
+            "a": "Any registered voter can vote. If you are not registered to vote, learn about how to register (https://elections.maryland.gov/voter_registration/application.html).",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2026-10-29T22:05:42+00:00"
+        },
+        {
+            "q": "When can I vote?",
+            "a": "For the 2026 Gubernatorial General Election:\n\n- You can either vote in person during early voting or on election day or by mail-in ballot (https://elections.maryland.gov/voting/absentee.html).\n- For the 2026 Gubernatorial General Election, early voting (https://elections.maryland.gov/voting/early_voting.html) will be available from Thursday, October 22, 2026 through Thursday, October 29, 2026 (including Saturday and Sunday). Each early voting center will be open continuously from 7 am to 8 pm each day. Anyone in line at 8 pm will be allowed to vote.\n- On election day, Tuesday, November 3, 2026, you must vote at your assigned polling place (https://voterservices.elections.maryland.gov/VoterSearch). All election day polling places are open continuously from 7 am until 8 pm on November 3, 2026. Anyone in line at 8 pm will be allowed to vote.\n\nIf you are unable to vote during early voting or on election day, you may vote by mail-in ballot. Find out more information about mail-in voting (https://elections.maryland.gov/voting/absentee.html).\n\nImportant Note: The law requires the State Board of Elections and each local board of elections to refer to absentee ballots as \"mail-in ballots\" and absentee voting as \"mail-in voting\". Please note that this change in terminology does NOT change the process of mail-in voting.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2026-10-29T22:05:42+00:00"
+        },
+        {
+            "q": "Where should I vote?",
+            "a": "- During early voting (https://elections.maryland.gov/voting/early_voting.html), you can vote at any early voting center in the jurisdiction where you live.\n- On election day, you must vote at your assigned polling place (https://voterservices.elections.maryland.gov/VoterSearch).",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2026-10-29T22:05:42+00:00"
+        },
+        {
+            "q": "How will I cast my vote?",
+            "a": "- During early voting or on election day, you will hand mark a paper ballot. Use the pen provided to fill in the oval next to your choices. You can also mark your ballot electronically. Review your ballot choices, place your voted ballot into the privacy sleeve and take it to the scanner. An election worker will direct you to insert your ballot into the scanning unit to cast your vote. Your ballot will be scanned and dropped into a secure ballot box.\n- There will be instructions available at the early voting centers and election day polling places to familiarize you with the ballot. You may ask an election judge to explain how to vote, but you must cast your vote alone, unless you are unable to do so because you have a disability or are unable to read or write the English language.\n- For mail-in voting (https://elections.maryland.gov/voting/absentee.html) and provisional voting (https://elections.maryland.gov/voting/provisional_voting.html), you will issued a paper ballot. Use a black ink pen to fill in the oval next to your choices. Provisional ballots are returned to the local election office in secure bags on election night. Mail-in and provisional ballots will be scanned at the local election office.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2026-10-29T22:05:42+00:00"
+        },
+        {
+            "q": "I have a disability. Will I be able to vote?",
+            "a": "Yes. All early voting centers and most election day polling places in Maryland are accessible to voters with disabilities.\n\nSee Access by Voters with Disabilities (https://elections.maryland.gov/voting/accessibility.html) for more information.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2026-10-29T22:05:42+00:00"
+        },
+        {
+            "q": "Are election materials available in languages other than English?",
+            "a": "Federal law requires Montgomery County and Prince George's County to provide election materials in Spanish. Non-English materials may be provided in other jurisdictions on a voluntary basis. Contact your local board of elections (https://elections.maryland.gov/about/county_boards.html) to determine what is available in your jurisdiction.\n\nSignificant Need for Language Assistance\n\nUnder Maryland Code, Election Law Article, § 15.5-102(c)-(d), language assistance must be provided by a local board of elections where more than 2% of the citizen voting age population of the county: (i) use a single shared language other than English; and (ii) have limited English proficiency; or more than 4,000 individuals of the citizen voting age population of the county use a single shared language other than English and have limited English proficiency. The State Board of Elections uses this standard to determine where and in what languages a significant need for language assistance in elections exists.\n\nFor the 2026 Gubernatorial Primary and General Elections, SBE used the U.S. Census Bureau's 2019-2023 American Community Survey data to determine what counties met this standard. The chart below lists the counties required to provide language assistance and the languages in which the assistance is required:\n\n    Local Board of ElectionsLanguage     Anne Arundel CountySpanish   Baltimore CitySpanish   Baltimore CountySpanish   Montgomery County  Amharic\n Chinese\n Spanish\n Vietnamese    Prince George's CountySpanish\n\nVoters in these counties can find voting materials in the designated languages above on the local boards of elections' websites. Additionally, each election day and early voting center will have telephonic translation available for voters.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2026-10-29T22:05:42+00:00"
+        }
+    ]
+}

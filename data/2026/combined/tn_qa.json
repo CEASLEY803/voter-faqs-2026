@@ -1,0 +1,302 @@
+{
+    "state": "tn",
+    "num_questions": 49,
+    "num_answers": 49,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "Can I hand deliver my ballot to the election office?",
+            "a": "No. You must return your ballot by mail (USPS, FedEx, UPS, etc.).",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Do I qualify for the permanent absentee list?",
+            "a": "You will receive an application for ballot for each election if your licensed physician signs a statement (http://sharetngov.tnsosfiles.com/sos/election/forms/ss-3023.pdf) stating that, in their judgment, you are medically unable to vote in person. The statement must be filed not less than ten (10) days before the election and signed under the penalty of perjury.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "How can I check the status of my absentee by-mail ballot?",
+            "a": "The Secretary of State’s Absentee By-Mail Ballot Status Tracker (https://tnmap.tn.gov/voterlookup/) tool allows voters to track the status of their absentee by-mail ballot.\n\nYou must mail your ballot in time for your county election commission to receive it no later than the close of polls on Election Day.\n\nYou must return your ballot by mail (USPS, FedEx, UPS, etc.). Hand delivery or handing it to a poll worker during early voting or on Election Day is not permitted.\n\nLearn more about voting absentee by-mail (https://sos.tn.gov/elections/guides/guide-to-absentee-voting).",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Is additional information required to vote absentee by-mail if I am a first-time voter who registered to vote by-mail?",
+            "a": "Unless you are on the permanent absentee voting register, enrolled in the Safe at Home program, or you have previously voted in the county of registration, you must appear in-person to vote in the first election after you have registered by-mail or online at GoVoteTN.gov.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "May I track my absentee ballot?",
+            "a": "Yes. Go to Tennessee’s voter lookup page (https://tnmap.tn.gov/voterlookup/) on the Division of Elections homepage. Enter your information and you will be able to track when the ballot was received by the local county election commission office (http://tnsos.org/elections/election_commissions.php). If you need assistance, contact your local county election commission office.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "What if I do not receive or ruin my ballot and can no longer use it?",
+            "a": "You should notify your county election commission (http://tnsos.org/elections/election_commissions.php).",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "What is the deadline to return my ballot so it can be counted?",
+            "a": "You must mail your ballot in time for your county election commission to receive it no later than the close of polls on Election Day.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "When can I request my ballot?",
+            "a": "You may request an absentee by-mail ballot no earlier than ninety (90) days before the election and no later than ten (10) days before the election. To be processed for the next election, the application must be received by the election commission no later than ten (10) days before the election.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "How do I contact my county election commission?",
+            "a": "Need to register to vote, update your address, submit a change of name request or request a duplicate voter registration card? Contact your local county election commission office (http://tnsos.org/elections/election_commissions.php).",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Where can I find election results?",
+            "a": "Election results can be found here: https://sos.tn.gov/elections/results",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Where do I send a General Election Complaint Form?",
+            "a": "If your complaint does not fall within one of the Title III HAVA categories (https://sos.tn.gov/elections/faqs/does-my-complaint-qualify-title-iii-hava-complaint), you may file a general complaint (https://sos.tn.gov/elections/services/elections-complaint-forms) with the State Coordinator of Elections office (https://sos.tn.gov/pages/contact-us-tennessee-secretary-state) or with the local county election office (http://tnsos.org/elections/election_commissions.php).",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Who are my elected officials?",
+            "a": "Use our GoVoteTN app (https://sos.tn.gov/node/32) to find your elected officials. The GoVoteTN app will also provide you with a sample ballot, early voting locations, Election Day polling location and election results. The GoVoteTN app is available in the Apple store (https://apps.apple.com/us/app/govotetn/id911403464?ls=1), Google Play store (https://play.google.com/store/apps/details?id=com.tnsos.GoVoteTN), and through any browser as a website application (https://web.go-vote-tn.elections.tn.gov/).\n\nYou may find your state legislators here (https://capitol.tn.gov/legislators).",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "How can I download the GoVoteTN app?",
+            "a": "The GoVoteTN app is available for download in the Apple store (https://apps.apple.com/us/app/govotetn/id911403464?ls=1) or the Google Play store (https://play.google.com/store/apps/details?id=com.tnsos.GoVoteTN). You can also access the app through any web browser as a website application (https://web.go-vote-tn.elections.tn.gov/).",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "What is the GoVoteTN app?",
+            "a": "The GoVoteTN app (https://sos.tn.gov/node/32) allows Tennesseans the opportunity to view their sample ballot, locate their polling location and learn about their district.\n\nHighlights of the app include:\n\n- Early voting and Election Day polling locations and hours of operation\n- Candidate list for upcoming election\n- Ability to mark sample ballots for upcoming election\n- Navigation to early voting and Election Day polling locations\n- County election commission information\n- Access online election results through the application",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Does my complaint qualify as a Title III HAVA complaint?",
+            "a": "Title IV of the Help America Vote Act requires each state to establish a state-based administrative complaint procedure. This procedure allows individuals to file a complaint if any person believes that a violation under Title III of the Help America Vote Act has occurred, is occurring or is about to occur.\n\nA violation of Title III would include issues dealing with the following HAVA sections:\n\n- voting system standards\n- provisional voting\n- voter information requirements\n- statewide voter registration database and\n- accessibility for persons with disabilities\n\nIf your complaint does not fall within one of the above categories, you may still file a complaint with your local county election office, the State Coordinator of Elections office or online using a general complaint form.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "What happens if I file a Title III (HAVA) complaint?",
+            "a": "- Complaints must be filed on a Title III HAVA complaint form. Complaint forms may be found at your local county election office, the State Coordinator of Elections office or online.\n- All complaints must be in writing, notarized, signed, and sworn to by the complainant. The complaint may be filed with either the Coordinator of Elections or the local county election office (http://tnsos.org/elections/election_commissions.php).\n- Once a formal complaint is filed, the Coordinator of Elections or designee will decide the resolution of the complaint.\n- A complainant may request a hearing on the record.\n- The Coordinator of Elections or designee will gather information which may include written responses from the parties. Once all the information is gathered, the Coordinator of Elections or designee will determine whether or not there is a violation of Title III.\n- If it is determined that a violation of Title III has occurred, the State shall provide an appropriate remedy in accordance with Title III.\n- If it is determined that no violation of Title III has occurred, the State shall publish the dismissed complaints (https://sos.tn.gov/elections/services/title-iii-complaints) of the procedures.\n- A final determination must be made within 90 days of the complaint being filed. Only the complainant may agree to extend this period of time.\n- If a final determination is not made within 90 days and no extension is granted, the complaint shall be resolved within 60 days through alternative dispute resolution. All previous proceedings, including the record and any correspondence, shall be forwarded to an administrative law judge for alternative dispute resolution.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Where do I send the Title III (HAVA) complaint form?",
+            "a": "A complaint form may be filed with the State Coordinator of Elections office (https://sos.tn.gov/pages/contact-us-tennessee-secretary-state) or with the local county election office (http://tnsos.org/elections/election_commissions.php).",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "How may I receive my absentee ballot?",
+            "a": "Tennessee allows you to receive an absentee ballot by mail or e-mail. Please indicate how you would like to receive your absentee ballot on your request. If you indicate e-mail, provide your e-mail address (on the Form 76 your e-mail address should be provided in Block 2) with the request. If you do not indicate how you want your absentee ballot sent, the absentee ballot will be mailed. Tennessee does not allow you to receive your absentee ballot by fax.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Must I already be a registered voter to vote in Tennessee pursuant to this provision?",
+            "a": "No. If you meet the qualifications to register to vote in Tennessee but have not registered prior to requesting an absentee ballot and you fall into one of the above categories, your application for absentee ballot will be treated as an application for temporary registration.\n\nNormally, an individual who registers to vote by mail must appear in person in the first election the person votes in after such registration becomes effective. This provision is waived in the case of military personnel, their family members, or overseas citizens. However, since this is only a temporary registration, once you are no longer eligible to vote under this provision of the law, you must complete a voter registration form and submit the form to your local county election commission prior to voting in any subsequent election.\n\nIf you are a registered voter prior to requesting an absentee ballot under this provision, the above information does not apply to you.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Must I submit an application for each election in the upcoming year?",
+            "a": "No. The voter will receive absentee ballots for all regularly scheduled elections for the calendar year in which the request is submitted.\n\nNote that it is the voter’s responsibility to keep the local county election office informed of any changes of address. The ballots will be mailed or e-mailed, depending on the choice of the voter, to the address that is originally submitted to the local county election office until further notice from the voter.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "To be counted, when must the voted ballot be received by the county election commission?",
+            "a": "The voted ballot must be received by mail by the close of the polls on election day. If the ballot is rejected, the registered voter will be notified that the ballot was rejected and why the ballot was rejected.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "What if I do not receive or ruin my ballot and can no longer use it?",
+            "a": "If a voter notifies the election commission that he or she has “spoiled” a ballot or has not received the ballot, the election commission shall note on the records that subsequent supplies have been sent and supply the voter with subsequent voting supplies.\n\nAfter timely requesting an official absentee ballot, Armed Forces personnel and overseas voters who feel that there may not be a sufficient amount of time to receive and then return the voted ballot may also use the Federal Write-In Absentee Ballot (FWAB).\n\nInstructions for completing an FWAB, the FWAB ballot and envelopes may be found at FVAP.gov (https://www.fvap.gov/fwab-privacy-notice).\n\nNote: If both ballots are received prior to the close of the polls on election day, the county election commission will count the official ballot it provided to the voter.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "When may a military or overseas individual apply to vote by absentee ballot?",
+            "a": "Applications may be received no earlier than January 1 of the year in which the election is to be held unless the election is to be held less than ninety (90) days after January 1 of the calendar year. In that case, the application may be received no earlier than ninety (90) days before the election and no later than ten (10) days before the election.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Can non-U.S. citizens vote in Tennessee elections?",
+            "a": "No. It is a felony for a non-US citizen to vote in a local, state, or federal race in Tennessee.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "What is the state’s process for reviewing voter rolls to ensure accuracy?",
+            "a": "Under legislation passed in 2011, the Division of Elections verifies citizenship through a cross reference of our entire voter rolls with the information provided by the Department of Safety and Homeland Security to identify non-U.S. Citizens.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "What should Tennesseans do if they would like to report specific instances of suspected voter fraud?",
+            "a": "If you would like to report specific instances of suspected voter fraud, contact our Official Election Hotline at 1.877.850.4959.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Are poll workers paid or volunteers?",
+            "a": "Poll workers are compensated for working at polling places at a rate determined by the county election commission and are also compensated for attending any required training sessions. Poll workers may also choose to volunteer their services, but most are paid.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "How do I become a poll worker?",
+            "a": "If you are interested in becoming a poll worker, apply by filling out an application form (https://pollworkers.govotetn.com/). Poll workers are appointed locally based on need.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "May state employees become poll workers?",
+            "a": "Yes. State employees may become poll workers.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "What are the hours of work?",
+            "a": "Normally poll workers report to work one hour before polls open and leave one hour after the poll closes. Check with your county election commission (https://tnsos.org/elections/election_commissions.php) for more information.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "What are the qualifications to be a poll worker?",
+            "a": "To be a poll worker, a person must:\n\n- Be at least 16 years old\n- Be a registered voter in the county if 18 or older\n- Be able to read and write in the English language\n- Not be supervised by a county or municipal elected official on the ballot\n- Not be a candidate or close relative of a candidate. Close relatives are defined as the spouse, parent, father-in-law, mother-in-law, child, son-in-law, daughter-in-law, grandparent, grandchild, brother, sister, brother-in-law, sister-in-law, uncle, aunt, nephew, or niece of a candidate on the ballot or a write-in candidate\n\nGovernment Employees Who Can Serve as Poll Worker:\n\n- All City, County and Metro employees (unless working directly under the supervision of an elected official on the ballot)\n- State of Tennessee employees\n- Federal employees – consult your Human Resources Department to ensure eligibility\n\nA poll worker shall also:\n\n- Have strong clerical skills\n- Be able to solve problems\n- Be an effective communicator",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "What are the responsibilities of a poll worker?",
+            "a": "Poll workers conduct assigned duties at a polling site during early voting and on Election Day. Duties can include processing voters, explaining how to mark a ballot, use the voting equipment, or counting votes. Other positions at a polling place include a greeter who assists with answering questions and directing voters to the voting area.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "What are the training requirements for poll workers?",
+            "a": "County Election Commissions are required by state law to provide training. This training provides all the necessary information and knowledge to be a successful poll worker.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Where will I be assigned?",
+            "a": "Every effort is made to assign a poll workers to their neighborhood voting site. However, poll workers must be willing to be flexible and consider assignments at other sites in the county based on need.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "If I have a felony conviction, can I vote?",
+            "a": "- View our Restoration of Voting Rights guide (https://sos.tn.gov/elections/guides/restoration-voting-rights)\n- Download a summary handout regarding eligibility to vote after a felony conviction (https://sos-prod.tnsosgovfiles.com/s3fs-public/document/Eligibility%20to%20Vote%20after%20Felony%20Conviction%20%28Rev.%205-25%29.pdf)",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Can I get a free photo ID card even if I have one of the other acceptable forms of photo ID?",
+            "a": "No. If you already have a valid government-issued photo ID for voting purposes, the Department of Safety and Homeland Security will not issue a free photo ID to you.\n\nI can’t afford a copy of my birth certificate, so I can’t get a photo ID. Can I still vote?\n\nYes. If you cannot afford a copy of the documents required to obtain a free photo ID, you may sign a form stating under oath that you are indigent and have been unable to obtain an acceptable photo ID for voting without paying a fee.\n\nI have a driver license, but it doesn’t have a photo. Can I use it to vote?\n\nNo, but if you do not have another form of valid photo ID, the Department of Safety and Homeland Security will reissue your license with your photo for free upon request.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Is an expired photo ID acceptable?",
+            "a": "Yes, as long as it was validly issued by the federal or Tennessee state government and contains the name and photograph of the voter.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Is my photo ID acceptable?",
+            "a": "If you are unsure or have questions about your photo ID, contact your county election commission (http://tnsos.org/elections/election_commissions.php) or the Division of Elections at 1-877-850-4959.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "What ID is required when voting?",
+            "a": "Tennesseans voting early or on Election Day must bring valid photo identification with them to the polls. A driver's license or photo ID issued by the Tennessee Department of Safety and Homeland Security, by Tennessee state government or by the federal government are acceptable even if they are expired. College student IDs are not acceptable.\n\nLearn more about what types of ID are acceptable here (https://sos.tn.gov/node/145) or call the Division of Elections at 1-877-850-4959.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "What if I don’t bring a photo ID to the polling place?",
+            "a": "If you don’t bring a photo ID, you will vote a provisional ballot. You will then have two (2) business days after Election Day to return to the election commission office to show a valid photo ID. Upon returning to the election commission office, the voter will sign an affidavit and a copy of the voter’s photo ID will be made to be reviewed by the counting board.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "What if I don’t have a photo ID?",
+            "a": "You may obtain a free photo ID (https://www.tn.gov/safety/driver-services/photoids.html) to vote from the Department of Safety and Homeland Security at any participating driver service center across the state. You may use the “express service” line at the driver service center to obtain your photo ID to minimize wait times. Visit the Department of Safety and Homeland Security's Voter Photo ID page (https://www.tn.gov/safety/driver-services/helpful-information/photoids.html) for more information.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "What will I need to get a free photo ID from the Department of Safety and Homeland Security?",
+            "a": "You will need:\n\n- Proof of citizenship (such as a birth certificate), and\n- Two proofs of Tennessee residency (such as a voter registration card, a utility bill, vehicle registration or title, or bank statement).\n- If your name differs from that on your primary ID, proof of the changed name (such as a certified marriage certificate, divorce decree, court order, etc.)\n\nLearn more about the required documents at the Department of Safety and Homeland Security's Voter Photo ID page (https://www.tn.gov/safety/driver-services/helpful-information/photoids.html).",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "When can I vote?",
+            "a": "Find your early voting and Election Day polling place and hours in the GoVoteTN app (https://web.go-vote-tn.elections.tn.gov/).",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Where is my nearest driver service center?",
+            "a": "Visit the Department of Safety and Homeland Security's Driver Service Center Locations page (https://www.tn.gov/safety/driver-services/locations.html) for information about locations and hours, closure advisories, and self-service kiosks and online renewal.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Am I registered to vote?",
+            "a": "To determine if you are a registered voter and view your early vote location(s) or your polling location on Election Day, use our Voter Registration Lookup (https://tnmap.tn.gov/voterlookup/) or use the GoVoteTN app (https://sos.tn.gov/node/32). If no record is found, contact your local county election commission (http://tnsos.org/elections/election_commissions.php) to determine the status of your registration.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Can I complete the online voter registration application on an iPad, tablet or smartphone?",
+            "a": "Yes. The system is optimized to work on mobile devices.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Can I register to vote online if I do not have an ID issued by the Tennessee Department of Safety and Homeland Security?",
+            "a": "You will not be able to register online since we will not be able to download your signature.\n\nYou can still register to vote by filling out a paper form (https://sos-prod.tnsosgovfiles.com/s3fs-public/document/ss-3010_4.pdf). Remember that you will need a federal or Tennessee government-issued photo ID when you vote in person.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Can I update my voter registration information through the online voter registration application?",
+            "a": "Yes, you can use the system to update your name or address.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        },
+        {
+            "q": "Can I vote online?",
+            "a": "No. You can vote in person during early voting or on Election Day, or you can absentee  (https://sos.tn.gov/node/37)vote by mail (https://sos.tn.gov/node/37) if you meet certain requirements.",
+            "s": "https://sos.tn.gov/elections/faqs",
+            "t": "2026-10-29T22:40:22+00:00"
+        }
+    ]
+}

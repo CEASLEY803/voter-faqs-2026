@@ -1,0 +1,716 @@
+{
+    "state": "la",
+    "num_questions": 118,
+    "num_answers": 118,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "How do I register to vote?",
+            "a": "Apply online (https://www.sos.la.gov:443/elections-voting/online-voter-registration) to register to vote or make changes to your registration.\n\nApply in person to register to vote at any Registrar of Voters Office (https://voterportal.--environment--.sos.la.gov/registrar) or at any of the following locations:\n\n- Louisiana Office of Motor Vehicles;\n- Public assistance offices and agencies that administer or provide services under the food stamp program, Medicaid program, the Supplemental Food for Women, Infants and Children (WIC) program, the Family Independence Temporary Assistance Program (FITAP) and the Child Case Assistance Program (CCAP);\n- offices that provide state-funded programs primarily engaged in providing services to persons with disabilities;\n- armed forces recruitment offices; and\n- other offices dedicated by rule, which may include public libraries, public schools and local government offices.\n\nApply by mail by downloading the Louisiana Voter Registration Application (https://www.sos.la.gov:443/media/emudgftt/application-to-register-to-vote.pdf), completing it and returning it to your local registrar of voters office. Please note that the list of offices for registrars is included on the form. You may also get the mailing address from this list of Registrar of Voters Office (https://voterportal.--environment--.sos.la.gov/registrar).\n\nFaxed voter registration forms are not accepted. The voter registration form should be addressed and mailed or hand-delivered to the appropriate Registrar of Voters (https://voterportal.--environment--.sos.la.gov/Registrar) in the parish in which you are registering. You must be registered at least 20 days prior to an election if registering through our GeauxVote Online Registration System (https://www.sos.la.gov:443/elections-voting/register-to-vote) with a Louisiana driver's license or Louisiana special ID card or 30 days prior to an election if registering in person or by mail to be eligible to vote in that particular election. Do not mail or otherwise send voter registration forms to the secretary of state elections division. Deadlines requiring receipt in the Registrar of Voters Office may be missed. (If mailing in an application, the application or envelope must be postmarked 30 days prior to the first election in which you seek to vote.)\n\nYou must re-register when you move to a new parish and if you move out of state, you must cancel your voter registration before registering in your new state by writing or calling your registrar of voters in Louisiana.\n\nSee La R.S. 18:114  (http://www.legis.la.gov/Legis/Law.aspx?d=81256), La R.S. 18:116(a-c)  (http://www.legis.la.gov/Legis/Law.aspx?d=81258) and La R.S. 18:135  (http://www.legis.la.gov/Legis/Law.aspx?d=81370) to learn more about voter registration.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "How do I cancel my voter registration?",
+            "a": "To cancel your voter registration, complete a Cancel Voter Registration Form (https://www.sos.la.gov:443/media/vqzdvtt5/cancel-voter-registration-form.pdf) and submit it to the Registrar of Voters (https://voterportal.--environment--.sos.la.gov/registrar) in your parish.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "How do I qualify to register to vote?",
+            "a": "You must:\n\n- be a U.S. citizen;\n- be 17 years old (16 years old if registering in person at the registrar of voters office or at the Louisiana Office of Moter Vehicles), but must be 18 years old to vote;\n- not be under an order of imprisonment for conviction of a felony;\n- not be under a judgment of full interdiction for mental incompetence or partial interdiction with suspension of voting rights;\n- reside in the state and parish in which you seek to register;\n- must be registered at least 20 days prior to an election if registering through our GeauxVote Online Registration System (https://www.sos.la.gov:443/elections-voting/online-voter-registration) with a Louisiana driver's license or Louisiana special ID card or 30 days prior to an election if registering in person or by mail (https://www.sos.la.gov:443/media/emudgftt/application-to-register-to-vote.pdf) to be eligible to vote in that particular election. (If mailing in an application, the application or envelope must be postmarked 30 days prior to the first election in which you seek to vote.)\n\nSee the XIV Amendment of the U.S. Constitution  (https://www.archives.gov/founding-docs/amendments-11-27), the XXVI Amendment of the U.S. Constitution  (https://www.archives.gov/founding-docs/amendments-11-27), La R.S. 18:101  (http://www.legis.la.gov/Legis/Law.aspx?d=81242) and La R.S. 18:102  (http://www.legis.la.gov/Legis/Law.aspx?d=81243) for more information about voter registration qualifications.\n\nVoter registration information on 16 and 17 year olds is confidential and not open to public inspection.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "How much does it cost to register?",
+            "a": "Nothing, registering to vote is a right afforded to you as a United States citizen by the Constitution of the United States.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "How do I get a replacement voter information card?",
+            "a": "You may print your own voter information card by accessing the secretary of state's Voter Portal (https://voterportal.--environment--.sos.la.gov/). Once the portal is open, select, \"Search by Voter\" option and then click the \"Print Voter Registration Card\" link located in the second column of the Quick Links.\n\nYou may also contact your parish Registrar of Voters Office (https://voterportal.--environment--.sos.la.gov/registrar) to request a duplicate voter information card.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "Do I have to be a resident of the state to register?",
+            "a": "Yes, you must qualify to register with a residence address in the parish with a street or rural route address. Post office box addresses and mail center boxes do not qualify. We must know where you live so you are assigned to the proper voting precinct for Election Day.\n\nDisplaced voters: If you were involuntarily displaced to a new parish or state due to a gubernatorially declared emergency, but want to remain registered to vote at your pre-emergency address, you may remain registered there if you have not changed your registration address or filed a homestead exemption on a different residence. You should provide a mailing address, if different from your pre-emergency residence address, to your Registrar of Voters (https://voterportal.--environment--.sos.la.gov/Registrar) to remain an active voter. Also, please see 'If I have more than one address, can I choose which address to use for registering?' for more information regarding homestead exemptions.\n\nSee La R.S. 18:101(B)  (http://www.legis.la.gov/Legis/Law.aspx?p=y&d=81242) to learn more about residency requirements.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "If I have multiple addresses, can I choose which address to use for voter registration?",
+            "a": "Yes, unless you claim a homestead exemption on one of the residences. If you claim a homestead exemption then you must use your homestead exemption address: however, if you do not claim homestead exemption and reside at more than one place in the state with an intention to reside there indefinitely, you may register only at one of the places at which you reside. There is a homestead exception in the law for persons who reside in a nursing home, as defined in La R.S. 40:2009.2  (http://www.legis.la.gov/Legis/Law.aspx?d=97926), or in a veterans' home operated by the state or federal government. They may register and vote at the address where the nursing home or veterans' home is located, even though they have a homestead exemption on their residence.\n\nSee La R.S. 18:101(B)  (http://www.legis.la.gov/Legis/Law.aspx?d=81242) to learn more about homestead exemptions and requirements.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "Changes in voter registration?",
+            "a": "Complete a voter registration application and check to \"Update voter registration\" to change your name, party or address.\n\nIf your name is changed by a judgement of court you are required to file a copy with the registrar of voters.\n\nIf you have moved inside of your parish, notify your parish Registrar of Voters (https://voterportal.--environment--.sos.la.gov/Registrar) of any changes to your registration. Failure to update your residential address may result in an inactive registration status. Inactive voters must verify their residential addresses prior to voting, which may be done on Election Day at the precinct, in person at the registrar's office, online (https://www.sos.la.gov:443/elections-voting/online-voter-registration) or by mail through a voter registration application (https://www.sos.la.gov:443/media/emudgftt/application-to-register-to-vote.pdf).\n\nIf you have moved outside of your parish, you are no longer eligible to remain registered in that parish. You must register in your new parish.\n\nDisplaced voters: If you were involuntarily displaced to a new parish or state due to a gubernatorially declared emergency, but want to remain registered to vote at your pre-emergency address, you may remain registered there if you have not changed your registration address or filed a homestead exemption on a different residence. You should provide a mailing address, if different from your pre-emergency residence address, to your Registrar of Voters (https://voterportal.--environment--.sos.la.gov/Registrar) or online to remain an active voter.\n\nSee La R.S. 18:101(F)  (http://www.legis.la.gov/Legis/Law.aspx?d=81242), La R.S. 18:109  (http://www.legis.la.gov/Legis/Law.aspx?d=81251), La R.S. 18:110  (http://www.legis.la.gov/Legis/Law.aspx?d=81252) and La R.S. 18:111  (http://www.legis.la.gov/Legis/Law.aspx?d=81253) to read more about voter registration changes.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "What documents are needed to register to vote?",
+            "a": "If registering in person at a parish Registrar of Voters Office (https://voterportal.--environment--.sos.la.gov/registrar), you are required to prove age, residency and identity. You must submit your current Louisiana driver's license or Louisiana special identification card, if you have one, or your social security card, birth certificate or other documentation which reasonably and sufficiently establishes your identity, age and residency.\n\nIf you do not have any of these, you may bring a copy of a current and valid photo identification, a copy of a current utility bill, bank statement, government check or government document that includes your name and address.\n\nIf registering at a mandated site, no further proof of identification is required other than whatever proof is required for services received that you have applied for at the public agency. Louisiana mails a verification mailing card to verify the address you have provided when registering by mail.\n\nSee La R.S. 18:101  (http://www.legis.la.gov/Legis/Law.aspx?d=81242), La R.S. 18:101.1  (http://www.legis.la.gov/Legis/Law.aspx?d=410045), La R.S. 18:105  (http://www.legis.la.gov/Legis/Law.aspx?d=81247), La R.S. 18:115(b)(1)  (http://www.legis.la.gov/Legis/Law.aspx?d=81257) and La R.S. 18:116(B)  (http://www.legis.la.gov/Legis/Law.aspx?d=81258) to learn more about what is needed to register to vote.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "Do I have to register prior to each election?",
+            "a": "No, once you are registered in your parish, you will remain registered as an active voter in your parish unless you move. If you move, update your address with your registrar of voters online (https://www.sos.la.gov:443/elections-voting/online-voter-registration), by mail or in person.\n\nAnnually the registrar conducts a canvass by submitting your residence address to the U.S. Postal Service for verification. If your residence address has changed, you will be mailed an Address Confirmation Card. If you do not return the address confirmation card, you will be placed on inactive status. You can activate your status by updating your residence address online, by mail or in person either on Election Day before voting or at the Registrar of Voters Office (https://voterportal.--environment--.sos.la.gov/registrar).\n\nIf you do not update your address and do not vote for a two year period which includes two federal general elections, you may be canceled.\n\nSee La R.S. 18:102  (http://www.legis.la.gov/Legis/Law.aspx?d=81243), La R.S. 18:193  (http://www.legis.la.gov/Legis/Law.aspx?d=81519) and La R.S. 18:196  (http://www.legis.la.gov/Legis/Law.aspx?d=81524) for more information on registration prior to elections and voting.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "Do I have to register again if I moved to another parish in Louisiana?",
+            "a": "Yes, voter registration is not transferable unless you receive an Address Confirmation Card from your registrar of voters during the annual canvass and you complete and return it with your signature requesting to transfer your registration to your new parish.\n\nLouisiana law allows you to vote in your old parish for 3 months or until you register in your new parish, whichever occurs first. You can register online (https://www.sos.la.gov:443/elections-voting/online-voter-registration), in person (https://voterportal.--environment--.sos.la.gov/Registrar) or by mail (https://www.sos.la.gov:443/media/emudgftt/application-to-register-to-vote.pdf).\n\nSee La R.S. 18:193  (http://www.legis.la.gov/Legis/Law.aspx?d=81519), La R.S. 18:196  (http://www.legis.la.gov/Legis/Law.aspx?d=81524) and La R.S. 18:199  (http://www.legis.la.gov/Legis/Law.aspx?d=81528) for more information on moving between parishes.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "How do I cancel my Louisiana voter registration if I moved out of state?",
+            "a": "You may not be registered in more than one state and therefore need to cancel your voter registration in Louisiana when you move to another state. It is not canceled automatically when you register in your new state. To cancel your voter registration, complete a Cancel Voter Registration Form (https://www.sos.la.gov:443/media/vqzdvtt5/cancel-voter-registration-form.pdf) and submit it to your parish Registrar of Voters (https://voterportal.--environment--.sos.la.gov/Registrar) to have your voter registration canceled.\n\nSee La R.S. 18:101(A)  (http://www.legis.la.gov/Legis/Law.aspx?d=81242) for more information on moving out of state.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "Where do I register to vote if I am a college student?",
+            "a": "Students may use their home residence address within the state or their school address for voter registration purposes. Out of state students are allowed to use their school address in Louisiana if they want to be a voter in this state. If they register to vote by mail, they may vote absentee by mail by including a copy of their fee bill or student identification card with their application to vote absentee by mail.\n\nSee La R.S. 18:101(C)  (http://www.legis.la.gov/Legis/Law.aspx?d=81242) and La R.S. 18:1303(B)(2)  (http://www.legis.la.gov/Legis/Law.aspx?d=81337) to learn about voter registration options for full time students.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "What is the deadline to register to vote before an election?",
+            "a": "Louisiana statute requires you to be registered at least 20 days prior to an election if registering through our GeauxVote Online Registration System (https://www.sos.la.gov:443/elections-voting/online-voter-registration) with a Louisiana driver's license or Louisiana special ID card or 30 days prior to an election if registering in person or by mail (https://www.sos.la.gov:443/media/emudgftt/application-to-register-to-vote.pdf) to be eligible to vote in that particular election. However, if the deadline falls on a legal holiday, the registrar will close the registration records on the first day after such holiday which is not a Saturday, Sunday, or other legal holiday. (If mailing in an application, the application or envelope must be postmarked 30 days prior to the first election in which you seek to vote.)\n\nSee La R.S. 18:135(A)(1)  (http://www.legis.la.gov/Legis/Law.aspx?d=81370) to read more about registration deadlines prior to an election.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "Is my residential address important?",
+            "a": "Yes, in order for you to vote on the correct ballot for an election, your registration must have your residential address. Your special districts and elected representatives are determined by your residential address.\n\nSee La R.S. 18:101(B)  (http://www.legis.la.gov/Legis/Law.aspx?p=y&d=81242) to learn more about state residential requirements.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "Felons, how to reinstate suspended voter registration?",
+            "a": "To reinstate your voter registration that was suspended for a felony conviction, you must appear in person at the registrar of voters office and provide documentation from the appropriate correction official showing that you are no longer under an order of imprisonment or, if under such order of imprisonment, that you have not been incarcerated pursuant to the order within the last five years and that you are not under an order of imprisonment related to a felony conviction for election fraud or any other election offense.\n\nThe personal appearance requirement does not apply to a person approved as eligible for the Special Program for Handicapped Voters prior to January 1, 2010, or a person who has submitted to the registrar a current proof of disability from a physician as described in La R.S. 18:177(A)(2)(6)  (http://www.legis.la.gov/Legis/Law.aspx?d=81503).",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "How do I become a Louisiana resident?",
+            "a": "While this question sounds complicated, it is really very simple. If you live in Louisiana and intend for this to be your legal residence, you are a Louisiana resident.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "What are the recognized political parties in the state of Louisiana?",
+            "a": "Louisiana has two (2) major political parties (https://www.sos.la.gov:443/media/b22ne1pj/political-parties-in-louisiana.pdf):\n\n- Democratic, and\n- Republican\n\nLouisiana has two (2) recognized political parties (https://www.sos.la.gov:443/media/b22ne1pj/political-parties-in-louisiana.pdf):\n\n- Green, and\n- Libertarian\n\nAll changes made at least 20 days prior to an election if registering through our GeauxVote Online Registration System (https://www.sos.la.gov:443/elections-voting/online-voter-registration) with a Louisiana driver's license or Louisiana special ID card or 30 days prior to an election if registering in person or by mail (https://www.sos.la.gov:443/media/emudgftt/application-to-register-to-vote.pdf) are effective for that election, otherwise the change cannot become effective until the next election. (If mailing in an application, the application or envelope must be postmarked 30 days prior to the first election in which you seek the change.)\n\nSee La R.S. 18:101(B)  (http://www.legis.la.gov/Legis/Law.aspx?d=81242) and La R.S. 18:135(C)  (http://www.legis.la.gov/Legis/Law.aspx?d=81370) for more information on changing party status on your registration.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "What's the difference between Independent and No Party?",
+            "a": "In Louisiana, No Party affiliation in your registration means you are independent of a party. If you declare your party affiliation as Independent or with the Independent Party you shall have your party affiliation entered as No Party.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "Is my email address public information on my voter registration?",
+            "a": "No, your email address is protected from disclosure along with your social security number, driver’s license number, day and month of your date of birth, and mother’s maiden name.\n\nSee La R.S. 18:154(C)  (http://www.legis.la.gov/Legis/Law.aspx?d=81488) to read about a voter's protected information.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
+            "t": "2026-10-29T22:10:37+00:00"
+        },
+        {
+            "q": "Who can vote absentee?",
+            "a": "In Louisiana you must have a reason to be eligible to vote by mail. Reasons include:\n\n- military or overseas citizens;\n- senior citizens (65+);\n- voters with disabilities;\n- higher education students & professors;\n- religious clergy;\n- voters temporarily absent during early voting and election day;\n- voters who moved to a new parish more than 100 miles from former residence within 30 days of election;\n- persons involuntarily confined to institution;\n- sequestered jurors;\n- voters hospitalized or who expect to be hospitalized during early voting and election day;\n- voters employed upon state waters;\n- voters incarcerated for non-felony with sheriff's certification; and\n- participants in the state's address confidentiality program.\n\nIf you registered to vote online or by mail and you have not previously voted in the parish, you are not eligible to vote absentee and must vote in person the first time, either during early voting or on election day. Exceptions include:\n\n- military or overseas citizens;\n- senior citizens (65+);\n- people who are homebound because of a disability;\n- students, who submit a copy of student ID or fee bill with the request;\n- citizens who appear in the registrar of voters office before the election to verify identity;\n- participants in the state's address confidentiality program; and\n- a person who was registered to vote in another parish and previously voted in the other parish (R.S. 18:115(F)(e))",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "What are the eligible reasons to vote absentee?",
+            "a": "In Louisiana, you must have a reason to be eligible to vote by mail, unless you are a military or overseas voter. There are specific reasons listed below that qualify you to vote by mail. You can submit an application requesting a mail ballot through our online system or you may print and mail an application directly to your registrar of voters.\n\nGENERAL APPLICATION QUALIFICATIONS (REASONS TO APPLY)\n\n- Senior Citizen: If you are 65 years of age or older you may apply through a General Application (https://www.sos.la.gov:443/media/gfdbobmq/general-application-for-absentee-by-mail-ballot.pdf) and, once accepted by the registrar of voters, vote absentee. You may apply for one election or you may apply to automatically receive an absentee ballot for all upcoming elections for the next four years. Once you have opted in to automatically receive absentee ballots, you may opt out at any time by submitting an Absentee Program Opt-Out Form (https://www.sos.la.gov:443/media/4wioz34z/over-65-and-disability-absentee-program-opt-out-form-abm-opt.pdf) or your own written request to your parish Registrar of Voters (https://voterportal.--environment--.sos.la.gov/registrar). You will be removed from the Absentee Program automatically if any ballot mailed to you is returned to the registrar as undeliverable. Beginning in 2029, senior citizens enrolled in the absentee program will need to reapply every four (4) years.\n- Temporarily Absent: If you are temporarily outside of Louisiana or your parish during the early voting period and on election day, or expect to be, you may apply through a General Application (https://www.sos.la.gov:443/media/gfdbobmq/general-application-for-absentee-by-mail-ballot.pdf) and once accepted by the Registrar of Voters, vote by mail. Any person who requests an absentee by mail ballot be mailed to an address within the parish must indicate on the application the dates that they will be outside the territorial limits of the state or absent from the parish.\n- Offshore: If you work or expect to be offshore working during the early voting period and on election day, you may apply through a General Application (https://www.sos.la.gov:443/media/gfdbobmq/general-application-for-absentee-by-mail-ballot.pdf) and once accepted by the Registrar of Voters, vote by mail.\n- Higher Education: If you are a student, instructor or professor located and living outside of your parish of registration, or the spouse/dependent thereof, you may apply through a General Application (https://www.sos.la.gov:443/media/gfdbobmq/general-application-for-absentee-by-mail-ballot.pdf) and once accepted by the Registrar of Voters, vote by mail. If you are a student voting for the first time, you must print and mail your application with a copy of your student ID or fee bill.\n- Clergy: If you are minister, priest, rabbi, or other member of the clergy assigned outside of your parish of registration, or a spouse/dependent, you may apply through a General Application (https://www.sos.la.gov:443/media/gfdbobmq/general-application-for-absentee-by-mail-ballot.pdf) and once accepted by the Registrar of Voters, vote by mail.\n- Moved Out of Parish: If you moved more than 100 miles from the parish seat of your former residence after the voter registration books closed (30 days prior to an election), you may apply through a General Application (https://www.sos.la.gov:443/media/gfdbobmq/general-application-for-absentee-by-mail-ballot.pdf) and once accepted by the Registrar of Voters, vote by mail.\n- Involuntary Confinement: If you are involuntarily confined in an institution for mental treatment outside your parish of registration and you are not interdicted and not judicially declared incompetent, you may apply through a General Application (https://www.sos.la.gov:443/media/gfdbobmq/general-application-for-absentee-by-mail-ballot.pdf) and once accepted by the Registrar of Voters, vote by mail.\n- Hospitalized: If you expect to be hospitalized on election day and did not have knowledge of the hospitalization until after the time for early voting had expired; or you were hospitalized during the time for early voting and you expect to be hospitalized on election day; or you were either hospitalized or restricted to bed by your physician during early voting and on election day, you may apply through a General Application (https://www.sos.la.gov:443/media/gfdbobmq/general-application-for-absentee-by-mail-ballot.pdf) and once accepted by the Registrar of Voters, vote by mail.\n- Incarcerated: If you are incarcerated or expect to be incarcerated in an institution inside or outside of your parish of registration and you are not under an order of imprisonment for conviction of a felony, you may apply through a General Application (https://www.sos.la.gov:443/media/gfdbobmq/general-application-for-absentee-by-mail-ballot.pdf) and once accepted by the Registrar of Voters, vote by mail. You must also submit a certification by the sheriff.\n- Juror: If you will be sequestered on the day of the election, you may apply through a General Application (https://www.sos.la.gov:443/media/gfdbobmq/general-application-for-absentee-by-mail-ballot.pdf) and once accepted by the Registrar of Voters, vote by mail.\n\nDISABLED APPLICATION QUALIFICATIONS (REASONS TO APPLY)\n\nPhysical Disability: If you are physically disabled, you may apply through the Disabled Application (https://www.sos.la.gov:443/media/q1qdumdc/disabled-application-for-absentee-by-mail-ballot.pdf) and if not enrolled, enroll in the disability program (https://www.sos.la.gov:443/elections-voting/disabled-elderly-citizens). Once accepted by the Registrar of Voters, you may request a ballot for one election or you may request to automatically receive an absentee ballot for all upcoming elections. Once you have opted in to automatically receive absentee ballots, you may opt out at any time by submitting an Absentee Program Opt-Out Form (https://www.sos.la.gov:443/media/4wioz34z/over-65-and-disability-absentee-program-opt-out-form-abm-opt.pdf) or your own written request to your parish Registrar of Voters (https://voterportal.--environment--.sos.la.gov/registrar). You will be removed from the Absentee Program automatically if any ballot mailed to you is returned to the registrar as undeliverable.\n\nIf you have not previously provided proof of disability to your parish Registrar of Voters, one of the following must be submitted along with your application:\n\n- a copy of a mobility-impaired identification card issued by the Office of Motor Vehicles;\n- a copy of social security disability benefits, veteran’s disability benefits, paratransit services, benefits from the Office for Citizens with Developmental Disabilities or benefits from Louisiana Rehabilitation Services; or\n- a letter from a physician, optometrist, physician assistant or nurse practitioner certifying your disability.\n\nIn addition to any disability documentation listed above, any voter enrolling in the disability program must also enclose a copy of a photo ID (Louisiana driver’s license, Louisiana special ID card or other photo ID with name and signature) or a letter of oath where you have listed the names and addresses of two persons residing in your precinct who could make oath, if required, to the fact that you are physically disabled.\n\nHomebound: If you are homebound and cannot vote without assistance, you may apply through the Disabled Application (https://www.sos.la.gov:443/media/q1qdumdc/disabled-application-for-absentee-by-mail-ballot.pdf) and, if not enrolled, enroll in the disability program. If you are disabled and homebound and are voting for the first time, your proof of disability must be a physician's letter certifying that you are homebound to exempt you from law that requires that you either register or vote for the first time in person. Otherwise, you may provide proof of disability through any of the documents listed above.",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "What is the vote absentee request deadline?",
+            "a": "For General and Disabled Applications, applicants must request a ballot by 4:30 p.m. CST on the 4th day before election day.\n\nFor Military, Overseas, or Hospitalized Applications: Military personnel and/or their dependents; U.S. citizens residing outside the U.S.; or voters that are hospitalized must request their ballot by 4:30 p.m. CST on the day before election day.",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "How do I apply to vote absentee?",
+            "a": "You may submit an application requesting an absentee ballot through our online system or you may print and mail an application directly to your Registrar of Voters (https://voterportal.--environment--.sos.la.gov/registrar).\n\nPlease be aware of standard mail delivery times and the return ballot deadline when applying for an absentee ballot to ensure your voted ballot is received by the Registrar of Voters (https://voterportal.--environment--.sos.la.gov/registrar) before the deadline. It is recommended that if you are going to request an absentee ballot that you apply as soon as possible, as there is no start date to apply.\n\nDisabled voters, military voters, and overseas voters may be eligible to receive their absentee ballot electronically. Apply online or contact your Registrar of Voters (https://voterportal.--environment--.sos.la.gov/registrar) for additional information.\n\nOnline Application: You may request an absentee ballot by logging in to the Louisiana Voter Portal (https://voterportal.--environment--.sos.la.gov/) and following these steps:\n\n- Click the \"Search By Voter\" button.\n- Type in your First Name, Last Name, Zip Code and Birth Month and Year and then click the \"Submit\" button;\n- Click the \"Request Absentee Ballot\" link found under the Quick Links heading; and\n- Complete requested information and submit.\n\nNote: You must be logged in to the Voter Portal as the voter for whom the request is intended to electronically submit a request for an absentee ballot.\n\nPrint and Mail Application: You may also print an application to request an absentee ballot which you can complete and deliver to your parish Registrar of Voters (https://voterportal.--environment--.sos.la.gov/registrar). Delivery may be by U.S. Postal Service, commercial carrier, hand delivery or fax. No person except the immediate family member of the voter can deliver more than one absentee application per election to the registrar of voters. Select the application that applies to you:\n\n- General Application for Absentee by Mail Ballot (https://www.sos.la.gov:443/media/gfdbobmq/general-application-for-absentee-by-mail-ballot.pdf)\n- Disabled Application for Absentee by Mail Ballot (https://www.sos.la.gov:443/media/q1qdumdc/disabled-application-for-absentee-by-mail-ballot.pdf)\n- Military or Overseas Application for Absentee by Mail Ballot (https://www.sos.la.gov:443/media/dlffbldb/military-overseas-application-for-absentee-by-mail-ballot.pdf)\n- Senior Citizen (65+) Application for Absentee by Mail Ballot (https://www.sos.la.gov:443/media/nbebezck/senior-citizen-application-for-absentee-by-ballot.pdf)\n- Sequestered Juror Application for Absentee by Mail Ballot (https://www.sos.la.gov:443/media/q3jb2pzp/sequestered-juror-application-for-absentee-by-mail-ballot.pdf)\n- Nursing Home Early Voting Program (https://www.sos.la.gov:443/media/it5asgtg/nursing-home-program-app.pdf)\n\nView upcoming election dates (https://www.sos.la.gov:443/elections-voting/election-dates). You will need to list the election dates on your application.",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "How do I vote absentee, enroll in, or opt out of the absentee program?",
+            "a": "If you qualify for voting absentee as a senior citizen or disabled voter, you can opt in to the Absentee Program and receive ballots automatically for each election. If you have previously opted in to receive your absentee ballots automatically, you may opt out at any time. To do so, simply submit an Absentee Program Opt-Out Form (https://www.sos.la.gov:443/media/4wioz34z/over-65-and-disability-absentee-program-opt-out-form-abm-opt.pdf) or your own written request to your parish Registrar of Voters (https://voterportal.--environment--.sos.la.gov/registrar). You will be removed from the Absentee Program automatically if any ballot mailed to you is returned to the registrar as undeliverable. Beginning in 2029, senior citizens enrolled in the absentee program will need to reapply every four (4) years.",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "Where do I get information on voting absentee for military and overseas citizens?",
+            "a": "View voting information for military or overseas voters (https://www.sos.la.gov:443/elections-voting/military-overseas-citizens).",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "Am I guaranteed to receive a ballot if I apply to vote absentee?",
+            "a": "The registrar of voters must verify that you are qualified to vote by mail. If your eligibility cannot be verified, then you will be notified in writing and you will not receive a ballot. See Who can vote by mail? Some reasons your request to vote by mail may be rejected are:\n\n- your request was not received timely (see What is the timeline to vote by mail?);\n- you registered by mail, and you must vote in person the first time, unless an exception applies (see Who can vote by mail?);\n- you applied to vote by mail from a parish or district/precinct where you are not registered to vote or eligible to vote;\n- your application to register to vote was not received timely and therefore, you are not eligible to vote in the election (you must register to vote 30 days before an election in order to vote in the election); or\n- your request was incomplete (you may still vote early or on Election Day).",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "What documents should I expect when voting absentee?",
+            "a": "When voting absentee, check to make sure you have received all of the following from the Registrar of Voters:\n\n1. Official ballot(s) (white paper ballot(s) for either the primary or general election);\n2. Secrecy Envelope (to seal your voted ballot);\n3. Certificate Envelope (to seal your secrecy envelope and certify your information);\n4. Return Envelope (to mail certificate envelope with voted ballot(s) inside the secrecy envelope to the Registrar of Voters); and\n5. Instructions for absentee voting.",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "What documents should I receive if voting absentee as a military or overseas voter?",
+            "a": "When voting absentee, check to make sure you have received all of the following from the Registrar of Voters:\n\n1. Official white paper ballot for the primary election;\n2. Green ranking ballot for the general election (run-offs if there are two (2) or more candidates in a race);\n3. Secrecy Envelope (there will be two if a green ranking ballot is included);\n4. Certificate Envelope (to seal your secrecy envelope and certify your information) (there will be two if a green ranking ballot is included);\n5. Return Envelope (to mail certificate envelope with voted ballot(s) inside the secrecy envelope to the registrar of voters);\n6. Instructions for absentee voting.\n\nIf there are any propositions added to a general election, you may receive a second mailing with a paper ballot for the general election propositions that were not on the green ranking ballot, along with a secrecy envelope, certificate envelope, return envelope, and instructions for absentee voting.",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "Can I receive my ballot via fax?",
+            "a": "If you have received your absentee ballot but you will not have time to return it by mail, you may request that the Registrar of Voters (https://voterportal.--environment--.sos.la.gov/Registrar) send you the documents to return your ballot by fax. The documents include an affidavit and a statement waiving your right to a secret ballot. These documents along with your voted ballot are to be faxed back to the Registrar of Voters.\n\nAdditionally, if you have not yet received your absentee ballot, you can request that the Registrar of Voters also send your ballot by fax.\n\nYour ballot, an affidavit and a statement waiving your right to a secret ballot will be faxed, and you must complete these documents and return them along with your voted ballot, by mail or by fax.",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "What are the instructions to vote absentee for all voters other than military and overseas citizens?",
+            "a": "Instructions for voting absentee for all voters (other than military and overseas citizens):\n\n- View and confirm that you have your correct ballot by logging in to the Louisiana Voter Portal (https://voterportal.--environment--.sos.la.gov/) or downloading the free GeauxVote app on any smartphone or tablet.\n- Mark your ballot - all pages, front and back by completely filling in the oval next to your choice. Pencil, black or blue pen are accepted. Do not make any stray or identifying marks on the ballot. You must mark your own ballot unless you are eligible for assistance. Request a replacement ballot, if necessary.\n- Place voted ballot (all pages) in the Ballot Security Envelope and seal.\n- Place your Ballot Security Envelope into the Certificate Envelope. Section A on the back of the Certificate Envelope will be pre-filled by your Registrar of Voters.\n- Complete Section B on the back of the Certificate Envelope with the following information: voter’s signature, mother’s maiden name (if you do not know your mother’s maiden name, write “unknown”), witnesses' signature, witnesses' printed name, and the address of the witness.\n- Complete Section C: if you are registered for assistance in voting, the person assisting you must also sign the Certificate Envelope, print their name, and fill out the relationship to you. If you are not registered for assistance, leave blank.\n- Place the completed Certificate Envelope inside the Official Ballot Return Envelope and place it in the mail to the Registrar of Voters.\n\nBallot will be counted on election night by the Parish Board of Election Supervisors with a digital scanner or by hand.\n\nImportant Notes:\n\n- To change a vote, use pencil and erase completely. If a black or blue pen was used, request a replacement ballot from your registrar of voters. Only vote for the number of candidates to be elected. For propositions, vote either for or against. If you overvote a race or proposition, your vote will be void.\n- A voter is eligible for assistance if registered to vote as needing assistance, unable to read, or physically disabled including visual impairment. A voter may receive assistance from any person he chooses, except from a CANDIDATE, employer, employer's agent, or union agent. A voter registration application requesting a change for assistance in voting or proof of disability is required to be filed with the registrar of voters either by mail or in person if you become disabled after registering and need assistance in voting, unless assistance is needed because you are unable to read. The person assisting a voter must inform the voter that a signature or mark constitutes certification that all statements on the affidavit are true and correct and subject to fine or imprisonment, or both, for false or incorrect statements. La R.S. 18:1310\n- Your ballot will be counted after comparing the name on your certificate envelope to the list of absentee voters and determining if your ballot is valid. A ballot may be rejected if: (1) it is successfully challenged by a candidate or their representative, a member of the board, or a qualified elector on grounds that the voter is not qualified to vote in the election or precinct or is not the person whose name is shown as being registered to vote; (2) the board has cause to reject the ballot (cause may include failure to fill in any and/or all blanks on the certificate envelope); or (3) the ballot contains a distinguishing mark or feature that allows it to be identified as the voter's ballot.\n\nSee vote absentee (https://www.sos.la.gov:443/elections-voting/ways-to-vote#vote-absentee) for all deadlines.",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "What are the instructions to vote absentee for military and overseas citizens?",
+            "a": "Military and overseas citizens, instructions for absentee voting (NOTE - Not for ballots received electronically (by email). Please refer to the instructions transmitted with your electronic ballot.):\n\n- View and confirm that you have your correct ballot by logging in to the Louisiana Voter Portal (https://voterportal.--environment--.sos.la.gov/) or by downloading the free GeauxVote app on any smartphone or tablet. Primary elections include: (1) Primary election white paper ballot, a ballot security envelope for white paper ballot, a certificate envelope; (2) General election (Green Ranking Ballot), a Ballot Security Envelope for general election green ranking ballot, a Certificate Envelope for general election green ranking ballot; and (3) One Official Ballot Return Envelope addressed to the registrar of voters. General election includes: (1) General election white paper ballot, a Ballot Security Envelope, and a Certificate Envelope for any propositions added to the general election; and (2) One Official Ballot Return Envelope addressed to your Registrar of Voters.\n- Mark your white paper ballot - all pages, front and back. Completely fill in the oval next to your choice. Pencil, black or blue pen are accepted. Do not make any stray or identifying marks on ballot. You must mark your own ballot unless you are eligible for assistance. Request a replacement ballot, if necessary.\n- Place voted ballot (all pages) in the Ballot Security Envelope for white paper ballot and seal.\n- Place the Ballot Security Envelope for white paper ballot inside the Certificate Envelope and seal.\n- Complete Section B on the back of the Certificate Envelope with the following information: voter’s signature, mother’s maiden name (if you do not know your mother’s maiden name, write “unknown”).\n- Complete Section C: if you are registered for assistance in voting, the person assisting you must also sign the Certificate Envelope, print their name, and fill out the relationship to you. If you are not registered for assistance, leave blank.\n- Place the completed Certificate Envelope inside the Official Ballot Return Envelope and place it in the mail to the registrar of voters. (If voting in a General Election (green Ranking Ballot), do not seal until you have completed voting your General Ballot (green Ranking Ballot) and included it in the Return Envelope.\n\nGENERAL ELECTION (green Ranking Ballot) instructions:\n\n- The General Election (green Ranking Ballot) is sent with the Primary Election white paper ballot in order to timely vote in both elections for all candidate races where there are more than two candidates in a race. The deadline to add a proposition or question to the General Election falls after the Primary Election ballots are mailed, and therefore, a General Election white paper ballot may be sent in a separate mailing before the General Election if a proposition or question was added to the election.\n- MARK your General Election (green Ranking Ballot) by preference for each candidate by ranking your candidate choices by placing the number one (1) in the box next to the candidate's name of your first choice, the number two (2) next to the candidate's name of your second choice, and so on until you have completed voting. You may rank all candidates in each race.\n- Place the voted ballot (all pages) in the green Ballot Security Envelope for general election green ranking ballot and seal.\n- Place the green Ballot Security Envelope for general election green ranking ballot inside the green Certificate Envelope and seal.\n- Complete Section B on the back of the green Certificate Envelope with the following information: voter’s signature, mother’s maiden name (if you do not know your mother’s maiden name, write “unknown”).\n- Complete Section C: if you are registered for assistance in voting, the person assisting you must also sign the Certificate Envelope, print their name, and fill out the relationship to you. If you did not receive assistance, leave blank.\n- Place both the Certificate Envelope and the green Certificate Envelope for general election green ranking ballot inside the Official Ballot Return Envelope and mail to your Registrar of Voters.\n\nRETURNING VOTED BALLOT(S) AND COUNTING INFORMATION\n\n- No postage is necessary. (To be mailed without prepayment of postage, the balloting materials must be deposited at a U.S. Post Office, an overseas U.S. Military Post Office (APO/FPO), a Diplomatic Post Office (DPO), or an American Embassy or American Consulate in accordance with DMM 703.8.2.2.\n- Return ballots by mail, commercial courier, hand delivery or by fax (Contact your registrar of voters for fax information or other special return methods).\n\nBallots will be counted election night by the parish board of election supervisors with a digital scanner or by hand. If your first choice candidate is eliminated in the primary, your second choice candidate will receive your vote in the General Election and so on until order of preference is exhausted. If you choose to number only one candidate, and if that candidate does not advance to the General Election, you will NOT have cast a vote for a candidate for that office in the General Election.\n\nIMPORTANT NOTES:\n\n- To change a vote, use pencil and erase completely. If a black or blue pen was used, request a replacement ballot from your registrar of voters. If you will not have time to request a replacement ballot by mail, contact the Registrar of Voters for another delivery method. Only vote for the number of candidates to be elected. For propositions, vote either for or against. If you overvote a race or proposition, your vote will be void.\n- A voter is eligible for assistance if registered to vote as needing assistance, unable to read, or physically disabled including visual impairment. A voter may receive assistance from any person he chooses, except from a CANDIDATE, employer, employer's agent or union agent. A voter registration application requesting a change for assistance in voting or proof of disability is required to be filed with the Registrar of Voters either by mail or in person if you become disabled after registering and need assistance in voting, unless assistance is needed because you are unable to read. The person assisting a voter must inform the voter that a signature or mark constitutes certification that all statements on the affidavit are true and correct and subject to fine or imprisonment, or both, for false or incorrect statements. (La. R.S. 18:1310).\n- Your ballot will be counted after comparing the name on your certificate envelope to the list of absentee voters and determining if your ballot is valid. A ballot may be rejected if: (1) it is successfully challenged by a candidate or their representative, a member of the board, or a qualified elector on grounds that the voter is not qualified to vote in the election or precinct or is not the person whose name is shown as being registered to vote; (2) the board has cause to reject the ballot (cause may include failure to fill in any and/or all blanks on the certificate envelope); or (3) the ballot contains a distinguishing mark or feature that allows it to be identified as the voter's ballot.",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "How is an absentee ballot counted?",
+            "a": "Your vote will be counted election night by the Parish Board of Election Supervisors, via a digital scanner or hand count.\n\nBefore counting begins, your ballot will be verified by first comparing the name on your certificate envelope to the list of absentee ballots and determining if your ballot is valid. A ballot may be rejected if:\n\n- it is challenged successfully by a candidate or their representative, a member of the board, or a qualified elector for grounds of the applicant not being qualified to vote in the election or in the precinct, or not being the person whose name is shown as being registered to vote;\n- the board has cause to reject the ballot (cause may include failure to fill in any and/or all blanks on the certificate envelope); or\n- the ballot contains a distinguishing mark or feature making the ballot susceptible of identification.",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "How will my ballot be counted if I vote absentee as a military and overseas voter?",
+            "a": "A white paper ballot may be counted by optical scan or hand count by the Parish Board of Election Supervisors in accordance with law.\n\nA green ranking absentee ballot for military and overseas citizens to vote in a general election may be counted by the parish board of election supervisors by hand count according to your ranking(s). If your first choice candidate was eliminated in the primary, your second choice candidate will receive your vote and so on until your order of preference is exhausted. If you choose to number only one candidate, and if that candidate does not advance to the general election, you will not have cast a vote for a candidate for that office in the general election.\n\nYour ballot will be counted after first comparing the name on your certificate envelope to the list of absentee voters and determining if your ballot is valid. A ballot may be rejected if it is challenged successfully by a candidate or his representative, a member of the board, or a qualified elector for grounds of the applicant not being qualified to vote in the election or in the precinct, or not being the person whose name is shown as being registered to vote; the board has cause to reject the ballot (cause may include failure to fill in any and/or all blanks on the certificate envelope); or the ballot contains a distinguishing mark or feature making the ballot susceptible to identification.",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "Can I return my absentee ballot by email if I am not a military and overseas citizen?",
+            "a": "No. You may return your absentee ballot by mail, fax, or hand delivery. No person, except the immediate family member of the voter, can deliver more than one absentee application per election to the Registrar of Voters. If you are hand delivering or faxing an absentee ballot, you will be required to sign a statement or form. Please contact your local Registrar of Voters (https://voterportal.--environment--.sos.la.gov/registrar).",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "Can I return my absentee ballot by email if I am a military and overseas citizen?",
+            "a": "There are special provisions for U.S. military or overseas citizens during a time of declared emergency. Please contact your parish Registrar of Voters (https://voterportal.--environment--.sos.la.gov/Registrar) to see if you are eligible to return your absentee ballot by email.",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "Federal write-in absentee ballot (FWAB) information?",
+            "a": "Only a military or overseas citizen who has made a timely application to vote absentee in accordance with Louisiana law and who did not receive an absentee ballot may use the FWAB to vote in federal elections. Only candidates on Louisiana's ballot may be written in on the FWAB.",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "Are write-in candidates allowed in Louisiana?",
+            "a": "No, Louisiana does not allow write-in candidates.",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "Are there any state law prohibitions in voting?",
+            "a": "Louisiana state law prohibits:\n\n- giving or offering to give, directly or indirectly, money or anything of present or prospective value to influence a vote\n- doing any of the following within 600 feet of the entrance of the polling place on election day:\n- knowingly, willfully, or intentionally transmitting or otherwise providing false or misleading information concerning an election from a source disguised as or impersonating the Secretary of State, a Registrar of Voters, a Clerk of Court, or other election official\n- intimidating, deceiving or misinforming, directly or indirectly, any voter or prospective voter in matters concerning voting or nonvoting\n- voting or attempting to vote more than once at an election\n- offering money or anything of apparent present or prospective value or use, directly or indirectly, or engage in any form of intimidation to influence the action or encourage inaction of any election official with regard to the duties of his or her office\n- disobeying any lawful instruction of the registrar, deputy registrars, commissioners or a law enforcement officer assisting at the early voting location or polling place or without lawful authority, obstructing, hindering or delaying any voter on his way to or while returning home from any early voting location or polling place where an election is held or impede a voter from entering or exiting an early voting location or polling place\n- voting or attempting to vote, knowing that you are not qualified, or influencing or attempting to influence another to vote, knowing such voter to be unqualified or the vote to be fraudulent\n- voting or attempting to vote in the name of another or in an assumed or fictitious name, or in any manner other than as provided by the Louisiana Election Code  (http://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent)\n- supplying a false answer or statement to an election official or on any document required by the Louisiana Election Code  (http://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent), or executing an affidavit knowing it to contain false or incorrect information\n- forging the name of another, or using a fictitious name on an affidavit or document required by the Louisiana Election Code  (http://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent)\n- unlawfully, directly or indirectly, possessing, tampering with, breaking, impairing, impeding or otherwise interfering with the maintenance, adjustment, delivery, use or operation of any voting machine or with any paraphernalia connected with or appertaining to the machine\n- voters, election officials, watchers, or persons assisting a voter to allow a ballot to be seen, (except as provided by law), announce the manner in which a person has cast a ballot, place a distinguishing mark on a ballot with intent to make the ballot identifiable or make a false statement concerning a voter's ability to mark a ballot without assistance\n- coercing, compelling or otherwise influencing an assisted voter to cast a vote in a certain way or fail to mark the ballot or vote in the manner dictated by the voter by the person providing assistance\n- signing another voter's name in the precinct register\n- attempting to influence an election official or watcher in the performance of his or her duties\n- appearing in an intoxicated condition or possessing any beverage of alcoholic content\n- voting at the polls on election day if you have voted early or submitted your absentee ballot\n- voting if you have moved more than three months ago to an address outside of the parish or if registered to vote in another parish or state\n- remaining within any early voting location or polling place or within a radius of 600 feet of the entrance of any polling place, except when exercising the right to vote, after having been directed by a commissioner or law enforcement officer to leave the premises or area of an early voting location or polling place\n- carrying or possessing a firearm, except a peace officer in the performance of his or her duties\n- accepting directly, or indirectly anything of economic value, including reimbursement of costs, for the purpose of transporting a voter to an early voting location or polling place, or for driving or being in charge of any motor vehicle being used for such purpose (bus, taxi or licensed transportation are exempt)\n- Participate in any bet or wager that is based upon any contingency whatsoever that arises from an election conducted pursuant to Title 18 including any of the following:",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "Where can I view election laws in Louisiana?",
+            "a": "View the Louisiana Election Code  (http://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent), Title 18 of Louisiana's revised statutes.",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "Are there federal law prohibitions in voting?",
+            "a": "Federal law prohibits:\n\n- No person, whether acting under color of law or otherwise, shall intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for voting or attempting to vote, or intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for urging or aiding any person to vote or attempt to vote, or intimidate, threaten, or coerce any person for exercising any powers or duties under federal law.\n- Knowingly and willfully depriving, defrauding, or attempting to deprive or defraud the residents of Louisiana of a fair and impartially conducted election process by the procurement, casting, or tabulation of ballots that are known by the person to be materially false, fictitious, or fraudulent under the laws of the State of Louisiana in any election for federal office.\n- Conspiring to injure, oppress, threaten, or intimidate any person in the free exercise or enjoyment of the right to vote or because of their having so exercised the right to vote.",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "How do I report fraud or a violation in a federal election?",
+            "a": "To report fraud in a federal election, contact the nearest office of the FBI or your local U.S. Attorney's office. Additionally, you may contact the Election Integrity Division toll-free at 800.722.5305 or the Elections Division toll-free at 800.883.2805.\n\nTo report a federal violation under The Voting Rights Act of 1965, which prohibits racial or language minority discrimination in voting, contact:\n\nChief, Voting Section, Civil Rights Division\nRoom 7254-NWB\nDepartment of Justice\n950 Pennsylvania Ave. NW\nWashington, DC 20530\n\nToll-free: 800.253.3931\n202.307.2767\n\nTo make a complaint under the Americans with Disabilities Act of 1990, contact: Voting Rights Division, Department of Justice toll-free 800.514.0301 (option 7)\n\nTo file a notarized written complaint under the Help America Vote Act, contact: Elections Division toll-free at 800.883.2805.",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "How do I report fraud or a violation in a state or local election?",
+            "a": "To report fraud in an election, contact the Election Integrity Division (\"EID\") toll-free at 800.722.5305, the Elections Division toll-free at 800.883.2805, or contact the nearest office of the FBI or your local U.S. Attorney's office.\n\nTo file a written notarized complaint with the elections division of the Louisiana Department of State, contact:\n\nCommissioner of Elections\nDepartment of State\nP.O. Box 94125\nBaton Rouge, LA 70804-9125",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "Where can I find additional information on voting absentee?",
+            "a": "If you have further questions about voting absentee, please call your parish Registrar of Voters (https://voterportal.--environment--.sos.la.gov/Registrar).",
+            "s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
+            "t": "2026-10-29T22:10:39+00:00"
+        },
+        {
+            "q": "Who can vote early?",
+            "a": "All registered voters may cast a ballot during the early voting period at the Registrar of Voters Office (https://voterportal.--environment--.sos.la.gov/registrar) or at an alternate site designated for early voting (https://www.sos.la.gov:443/elections-voting/ways-to-vote#vote-early-info). You do not need a reason to vote early.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "What are the early voting days and hours?",
+            "a": "The early voting period is from 14 days to seven days before each election, from 8:30 a.m. - 6 p.m. (except Sundays and legal holidays). For presidential elections, the early voting period is from 18 to seven days before the election (except Sundays and legal holidays). One day of early voting will be added to the beginning of the early voting period anytime one or more state holidays (except Sundays) fall within the early voting period.\n\nPersons in nursing homes, veterans' homes or long stay hospitals for a physical disability may apply for the nursing home program (https://www.sos.la.gov:443/elections-voting/disabled-elderly-citizens) to vote during an extended early voting period at their facility.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "Where are the early voting locations?",
+            "a": "At your parish Registrar of Voters Office (https://voterportal.--environment--.sos.la.gov/registrar) or at an alternate site (https://voterportal.--environment--.sos.la.gov/EarlyVoting) designated for early voting.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "Can I vote on election day if I have voted early?",
+            "a": "No, a voter who has voted during the early voting period or voted absentee by mail and their ballot was received by the Registrar of Voters may not vote at the polls on Election Day.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "What are the voters' responsibilities during early voting?",
+            "a": "Voters in Louisiana are responsible to:\n\n- Notify your parish registrar of voters of any changes to your registration. (Failure to update your residential address may result in an inactive registration status. Inactive voters must verify their residential address prior to voting, which may be done on election day at the precinct, in person at the Registrar of Voters’ Office, online at www.GeauxVote.com, or by mail through a voter registration application.)\n- Know which precinct you are registered to vote in, its location, and the hours the polls are open.\n- Provide photo identification, or complete a voter identification affidavit. (Photo ID may be a Louisiana driver’s license, LA Wallet, Louisiana special ID card, a United States military identification card that contains your name and picture, or other generally recognized photo ID that contains your name and signature. You may obtain a free Louisiana special ID card by presenting your voter registration information card to the Office of Motor Vehicles.)\n- Do not bring any campaign literature or wear any campaign apparel to the polls, including placing, wearing, or displaying political signs, campaign apparel, pictures, or other forms of political advertising which advocate for or against any candidate, proposition, or political party appearing on the ballot in the election.\n- Be prepared to timely cast your ballot by reviewing your sample ballot posted at the polling place, or reviewing online before election day at www.GeauxVote.com (https://www.sos.la.gov:443/elections-voting) or on our Voter Portal (https://voterportal.--environment--.sos.la.gov/).\n- Provide or complete necessary documentation when requesting and/or receiving assistance in voting.\n- Inform commissioners if you need instructions, an audio voting keypad, or a page magnifier to assist you in voting.\n- Restore your voting rights after a felony conviction by appearing in person at the Registrar of Voters’ Office, providing the reinstatement documentation, as required by La. R.S. 18:177, and showing documentation that you have either completed your probation or parole, or that you have not been incarcerated pursuant to the order of imprisonment for a felony conviction within the last five years and that the felony conviction was not for election fraud or any other election offenses pursuant to La. R.S. 18:1461.2. If you are disabled and unable to appear in person, you may submit your application and documentation, along with proof of disability, by mail, facsimile, commercial carrier, or hand delivery.\n- Cast your vote within the six minute time limit provided by law, or within twenty minutes if receiving assistance or using the audio voting keypad. If the ballot is lengthy or if it contains complex propositions or constitutional amendments, the commissioners may allocate additional time in an equitable manner.\n- Promptly leave the polling place after voting.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "What are a voter's rights during early voting?",
+            "a": "In Louisiana, you have a right to:\n\n- Vote privately, confidentially and independently in an area that is free from any campaign materials.\n- Ask a commissioner to instruct you on how to operate the voting machine before voting.\n- Have a campaign-free zone 600 feet from the entrance to the polling place that is free from solicitation, intimidation, harassment, confusion, obstruction, undue influence, use of violence, force or threats, or action that impedes your entrance or exit to the polling place.\n\n  - Subject to school board policy, political campaign signs may be erected, displayed, or posted in or on the premises of any public school athletic field or public school gymnasium that is not being used as a polling place if the erection, display, or posting is paid for by a political candidate or political campaign.\n- Vote in a polling place that meets accessibility standards for individuals with disabilities.\n- Receive assistance in casting your ballot, or use the audio ballot if you are unable to read or unable to vote without assistance due to a physical disability, including visual impairment.\n- Use a braille booklet describing the use of the audio ballot, or use a page magnifier that will magnify the face of the voting machine.\n- Go to the front of the line with the person who will be assisting you in voting if you have a visible physical disability or have in your possession a current mobility impairment photo ID card issued by the Office of Motor Vehicles.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "What does an inactive voter mean?",
+            "a": "An inactive status means that your registration address has not been verified by the registrar of voters through the annual canvass of the voter rolls or election mail sent to your registration address has been returned as undeliverable by the postal service to the Registrar of Voters (https://voterportal.--environment--.sos.la.gov/Registrar).\n\nYou may still vote! In order to do so and return to active status, you must verify your residential address prior to voting. You may do this when you vote on election day, in person at the Registrar of Voters Office (https://voterportal.--environment--.sos.la.gov/registrar), online (https://www.sos.la.gov:443/elections-voting/online-voter-registration) or by mail through a voter registration application (https://www.sos.la.gov:443/media/emudgftt/application-to-register-to-vote.pdf). If you verify your address before election day, you must do so at least 30 days before an election for your status to be updated for that election.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "How do I reinstate a suspended voter registration?",
+            "a": "To reinstate your voter registration that was suspended for a felony conviction, you must appear in person at the Registrar of Voters Office (https://voterportal.--environment--.sos.la.gov/registrar) and provide documentation from the appropriate correction official showing that you are no longer under an order of imprisonment or, if under such order of imprisonment, that you have not been incarcerated pursuant to the order within the last five years and that you are not under an order of imprisonment related to a felony conviction for election fraud or any other election offense.\n\nThe personal appearance requirement does not apply to a person approved as eligible for the Special Program for Handicapped Voters prior to January 1, 2010, or a person who has submitted to the registrar a current proof of disability from a physician as described in La R.S. 18:177(A)(2)(6)  (http://www.legis.la.gov/Legis/Law.aspx?d=81503).",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "How do I request assistance in voting during early voting?",
+            "a": "Voters, who have a physical disability or are unable to read, may request assistance in voting when they are registering to vote or when making a change to their voter registration.\n\nThe person providing assistance will fill out a Voter Assistance Form prior to assisting in voting. Voters who need assistance are allowed up to 20 minutes to cast their ballots and may choose to receive the assistance from any person, including a commissioner, with these exceptions:\n\n- a candidate in the election;\n- an employer or employer's agent;\n- a union agent;\n- staff of state-operated facilities for disabled persons (by rule, the Department of Health (LDH) prohibits staff from assisting residents of state-operated facilities for mentally disabled/developmentally disabled persons); and\n- owners, operators, administrators or employees of a nursing home, veterans' home or long stay hospitals for those with physical disabilities may not assist a person in voting.\n\nNo person assisting a voter shall reveal the name of any person for whom the voter voted, any proposition upon which the person voted, or anything which took place while the voter was being assisted.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "What is required to vote?",
+            "a": "Each voter is required to identify themselves by giving their name and address before voting by presenting a Louisiana driver's license, a Louisiana special identification card, LA Wallet digital driver's license, a United States military identification card that contains the voter's name and picture or other generally recognized picture identification card that contains the name and signature of the voter, or by completing a Voter Identification Affidavit (AV-34) if no photo identification is available. A voter without photo ID may vote after completing the affidavit but is subject to challenge by law.\n\nYou may obtain a free Louisiana special identification card by presenting your voter information card to the Office of Motor Vehicles.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "How do I operate voting machines during early voting?",
+            "a": "Louisiana uses the ImageCast® X (or “ICX”) voting system leased from Dominion Voting Systems during early voting. Paper ballots may be used, if necessary. All elections are open to all eligible voters in Louisiana, except for the Presidential Preference Primary (https://www.sos.la.gov:443/elections-voting/types-of-elections) and the state and local party elections (Democratic and Republican State Central Committees and Parish Executive Committees). which are restricted to party registration.\n\nThe voting system is a touchscreen voting machine.   When voting, touch the screen lightly. If you have any questions, please notify the registrar of voters for assistance BEFORE casting your vote. A voter shall make at least one selection in a candidate or proposition election in order to cast a ballot. You are allowed, by law, six minutes to cast your vote or twenty minutes if entitled to assistance or using the audio voting keypad. If the ballot is lengthy or if it contains complex propositions or constitutional amendments, the commissioners may allocate additional time in an equitable manner. After voting, you are required to promptly leave the polling place.   TO CAST A BALLOT:\n\n1. After receiving a VOTER CARD, insert it into the bright yellow card slot located at the bottom of the voting machine and push the card in until it stops. Ask for assistance to insert your voter card if needed.\n2. Select the box for the candidate of your choice, “Yes” or “No” for a proposition or constitutional amendment, and “FOR” or “AGAINST” for a recall question by:\n3. Remove your VOTER CARD and RETURN IT TO THE COMMISSIONER.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "Are write-in candidates allowed during early voting?",
+            "a": "No, Louisiana does not allow for write-in candidates. The only exception is for military and overseas citizens who are voting on a Federal Write-in Absentee Ballot (FWAB) and they may write in the candidate names, but only the candidates that are actually on Louisiana's ballot.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "Are there any state law prohibitions in voting?",
+            "a": "Louisiana state law prohibits:\n\n- giving or offering to give, directly or indirectly, money or anything of present or prospective value to influence a vote\n- doing any of the following within 600 feet of the entrance of the polling place on election day:\n- knowingly, willfully, or intentionally transmitting or otherwise providing false or misleading information concerning an election from a source disguised as or impersonating the secretary of state, a registrar of voters, a clerk of court, or other election official\n- intimidating, deceiving or misinforming, directly or indirectly, any voter or prospective voter in matters concerning voting or nonvoting\n- voting or attempting to vote more than once at an election\n- offering money or anything of apparent present or prospective value or use, directly or indirectly, or engage in any form of intimidation to influence the action or encourage inaction of any election official with regard to the duties of his or her office\n- disobeying any lawful instruction of the registrar, deputy registrars, commissioners or a law enforcement officer assisting at the early voting location or polling place or without lawful authority, obstructing, hindering or delaying any voter on his way to or while returning home from any early voting location or polling place where an election is held or impede a voter from entering or exiting an early voting location or polling place\n- voting or attempting to vote, knowing that you are not qualified, or influencing or attempting to influence another to vote, knowing such voter to be unqualified or the vote to be fraudulent\n- voting or attempting to vote in the name of another or in an assumed or fictitious name, or in any manner other than as provided by the Louisiana Election Code  (http://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent)\n- supplying a false answer or statement to an election official or on any document required by the Louisiana Election Code  (http://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent), or executing an affidavit knowing it to contain false or incorrect information\n- forging the name of another, or using a fictitious name on an affidavit or document required by the Louisiana Election Code  (http://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent)\n- unlawfully, directly or indirectly, possessing, tampering with, breaking, impairing, impeding or otherwise interfering with the maintenance, adjustment, delivery, use or operation of any voting machine or with any paraphernalia connected with or appertaining to the machine\n- voters, election officials, watchers, or persons assisting a voter to allow a ballot to be seen, (except as provided by law), announce the manner in which a person has cast a ballot, place a distinguishing mark on a ballot with intent to make the ballot identifiable or make a false statement concerning a voter's ability to mark a ballot without assistance\n- coercing, compelling or otherwise influencing an assisted voter to cast a vote in a certain way or fail to mark the ballot or vote in the manner dictated by the voter by the person providing assistance\n- signing another voter's name in the precinct register\n- attempting to influence an election official or watcher in the performance of his or her duties\n- appearing in an intoxicated condition or possessing any beverage of alcoholic content\n- voting at the polls on election day if you have voted early or submitted your absentee ballot\n- voting if you have moved more than three months ago to an address outside of the parish or if registered to vote in another parish or state\n- remaining within any early voting location or polling place or within a radius of 600 feet of the entrance of any polling place, except when exercising the right to vote, after having been directed by a commissioner or law enforcement officer to leave the premises or area of an early voting location or polling place\n- carrying or possessing a firearm, except a peace officer in the performance of his or her duties\n- accepting directly, or indirectly anything of economic value, including reimbursement of costs, for the purpose of transporting a voter to an early voting location or polling place, or for driving or being in charge of any motor vehicle being used for such purpose (bus, taxi or licensed transportation are exempt)\n- betting or wagering on an election.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "What are the election laws in Louisiana?",
+            "a": "View the Louisiana Election Code  (http://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent), Title 18 of Louisiana's revised statutes.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "Are there federal law prohibitions in voting?",
+            "a": "Federal law prohibits:\n\n- No person, whether acting under color of law or otherwise, shall intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for voting or attempting to vote, or intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for urging or aiding any person to vote or attempt to vote, or intimidate, threaten, or coerce any person for exercising any powers or duties under federal law.\n- Knowingly and willfully depriving, defrauding, or attempting to deprive or defraud the residents of Louisiana of a fair and impartially conducted election process by the procurement, casting, or tabulation of ballots that are known by the person to be materially false, fictitious, or fraudulent under the laws of the State of Louisiana in any election for federal office.\n- Conspiring to injure, oppress, threaten, or intimidate any person in the free exercise or enjoyment of the right to vote or because of their having so exercised the right to vote.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "Are law enforcement officers allowed at early voting locations?",
+            "a": "Yes, a law enforcement officer may be used by a registrar of voters to maintain order at any location where early voting is conducted. A law enforcement officer may not interfere with the conduct of the election, the voters, or the election officials.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "Are firearms allowed at a polling place?",
+            "a": "No, not even for a concealed carry permit. The only exception is for a peace officer as defined by La R.S. 40:2402(3)(a)  (http://www.legis.la.gov/legis/Law.aspx?d=98233) in the performance of their official duties.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "How do I report fraud or a violation in a federal election?",
+            "a": "To report fraud in a federal election, contact the nearest office of the FBI or your local U.S. Attorney's office. Additionally, you may contact the Election Integrity Division toll-free at 800.722.5305 or the Elections Division toll-free at 800.883.2805.\n\nTo report a federal violation under The Voting Rights Act of 1965, which prohibits racial or language minority discrimination in voting, contact:\n\nChief, Voting Section, Civil Rights Division\nRoom 7254-NWB\nDepartment of Justice\n950 Pennsylvania Ave. NW\nWashington, DC 20530\n\nToll-free: 800.253.3931\n202.307.2767\n\nTo make a complaint under the Americans with Disabilities Act of 1990, contact: Voting Rights Division, Department of Justice toll-free 800.514.0301 (option 7).\n\nTo file a notarized written complaint under the Help America Vote Act, contact: Elections Division toll-free at 800.883.2805.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "How do I report fraud or a violation in a state or local election?",
+            "a": "To report voting fraud, contact the  Election Integrity Division (\"EID\") toll-free at 800.722.5305, the Elections Division toll-free at 800.883.2805 or contact the nearest office of the FBI or your local U.S. Attorney's office.\n\nTo file a written notarized complaint with the Elections Division of the Louisiana Department of State, contact:\n\nCommissioner of Elections\nDepartment of State\nP.O. Box 94125\nBaton Rouge, LA 70804-9125",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "Additional information about early voting?",
+            "a": "If you have further questions about voting early, please call your parish Registrar of Voters (https://voterportal.--environment--.sos.la.gov/Registrar).",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
+            "t": "2026-10-29T22:10:40+00:00"
+        },
+        {
+            "q": "What are the voting hours on election day?",
+            "a": "On SATURDAY elections, the polls are open from 7 a.m. to 8 p.m.\n\nOn TUESDAY elections, the polls are open from 6 a.m. to 8 p.m.\n\nVoters in line at 8 p.m. will be allowed to vote.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "What are the voter's responsibilities on election day?",
+            "a": "Voters in Louisiana are responsible to:\n\n- Notify your parish Registrar of Voters of any changes to your registration. (Failure to update your residential address may result in an inactive registration status. Inactive voters must verify their residential address prior to voting, which may be done on election day at the precinct, in person at the Registrar of Voters’ Office, online at www.GeauxVote.com (https://www.sos.la.gov:443/elections-voting), or by mail through a voter registration application.)\n- Know which precinct you are registered to vote in, its location, and the hours the polls are open.\n- Provide photo identification, or complete a voter identification affidavit. (Photo ID may be a Louisiana driver’s license, LA Wallet, Louisiana special ID card, a United States military identification card that contains your name and picture, or other generally recognized photo ID that contains your name and signature. You may obtain a free Louisiana special ID card by presenting your voter registration information card to the Office of Motor Vehicles.)\n- Do not bring any campaign literature or wear any campaign apparel to the polls, including placing, wearing, or displaying political signs, campaign apparel, pictures, or other forms of political advertising which advocate for or against any candidate, proposition, or political party appearing on the ballot in the election.\n- Be prepared to timely cast your ballot by reviewing your sample ballot posted at the polling place, or reviewing online before election day at www.GeauxVote.com (https://www.sos.la.gov:443/elections-voting) or on our Voter Portal (https://voterportal.--environment--.sos.la.gov/).\n- Provide or complete necessary documentation when requesting and/or receiving assistance in voting.\n- Inform commissioners if you need a braille booklet, audio voting keypad, or page magnifier to assist you in voting.\n- Restore your voting rights after a felony conviction by appearing in person at the Registrar of Voters’ Office, providing the reinstatement documentation, as required by La. R.S. 18:177, and showing that you have either completed your probation or parole, or that you have not been incarcerated pursuant to the order of imprisonment for a felony conviction within the last five years and that the felony conviction was not for election fraud or any other election offenses pursuant to La. R.S. 18:1461.2. If you are disabled and unable to appear in person, you may submit your application and documentation, along with proof of disability, by mail, facsimile, commercial carrier, or hand delivery.\n- Cast your vote within the six minute time limit provided by law, or within twenty minutes if receiving assistance or using the audio voting keypad. If the ballot is lengthy or if it contains complex propositions or constitutional amendments, the commissioners may allocate additional time in an equitable manner.\n- Promptly leave the polling place after voting.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "What are the voter's rights on election day?",
+            "a": "In Louisiana, you have a right to:\n\n- Vote privately, confidentially and independently in an area that is free from any campaign materials.\n- Ask a commissioner to instruct you on how to operate the voting machine before voting.\n- Have a campaign-free zone 600 feet from the entrance to the polling place that is free from solicitation, intimidation, harassment, confusion, obstruction, undue influence, use of violence, force or threats, or action that impedes your entrance or exit to the polling place.\n- Subject to school board policy, political campaign signs may be erected, displayed, or posted in or on the premises of any public school athletic field or public school gymnasium if the erection, display, or posting is paid for by a political candidate or political campaign.\n- Vote in a polling place that meets accessibility standards for individuals with disabilities.\n- Receive assistance in casting your ballot, or use the audio ballot if you are unable to read or unable to vote without assistance due to a physical disability, including visual impairment.\n- Use a braille booklet describing the use of the audio ballot, or use a page magnifier that will magnify the face of the voting machine.\n- Go to the front of the line with the person who will be assisting you in voting if you have a visible physical disability or have in your possession a current mobility impairment photo ID card issued by the Office of Motor Vehicles.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "What does inactive voter status mean?",
+            "a": "An inactive status means that your registration address has not been verified by the registrar of voters through the annual canvass of the voter rolls or election mail sent to your registration address has been returned as undeliverable by the postal service to the Registrar of Voters (https://voterportal.--environment--.sos.la.gov/Registrar).\n\nYou may still vote! In order to do so and return to active status, you must verify your residential address prior to voting. You may do this when you vote on election day, in person at the Registrar of Voters Office (https://voterportal.--environment--.sos.la.gov/registrar), online (https://www.sos.la.gov:443/elections-voting/online-voter-registration) or by mail through a voter registration application (https://www.sos.la.gov:443/media/emudgftt/application-to-register-to-vote.pdf). If you verify your address before election day, you must do so at least 30 days before an election for your status to be updated for that election.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "How do I reinstate a suspended voter registration?",
+            "a": "To reinstate your voter registration that was suspended for a felony conviction, you must appear in person at the registrar of voters office and provide documentation from the appropriate correction official showing that you are no longer under an order of imprisonment or, if under such order of imprisonment, that you have not been incarcerated pursuant to the order within the last five years and that you are not under an order of imprisonment related to a felony conviction for election fraud or any other election offense.\n\nThe personal appearance requirement does not apply to a person approved as eligible for the Special Program for Handicapped Voters prior to January 1, 2010, or a person who has submitted to the registrar a current proof of disability from a physician as described in La R.S. 18:177(A)(2)(6)  (http://www.legis.la.gov/Legis/Law.aspx?d=81503).",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "How do I request assistance in voting?",
+            "a": "Voters who have a physical disability or are unable to read may request assistance in voting when they are registering to vote or when making a change to their voter registration.\n\nThe person providing assistance will fill out a Voter Assistance Form prior to assisting in voting. Voters who need assistance are allowed up to 20 minutes to cast their ballots and may choose to receive the assistance from any person, including a commissioner, with these exceptions:\n\n- a candidate in the election;\n- a commissioner-in-charge;\n- an employer or employer's agent;\n- a union agent;\n- staff of state-operated facilities for disabled persons (by rule, the Department of Health (LDH) prohibits staff from assisting residents of state-operated facilities for mentally disabled/developmentally disabled persons); and\n- owners, operators, administrators or employees of a nursing home, veterans' home or long stay hospitals for those with physical disabilities may not assist a person in voting.\n\nNo person assisting a voter shall reveal the name of any person for whom the voter voted, any proposition upon which the person voted or anything which took place while the voter was being assisted.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "Is a photo ID required in order to vote on election day?",
+            "a": "Each voter is required to identify themselves by giving their name and address to a commissioner and by presenting either a Louisiana driver's license, a Louisiana special identification card, LA Wallet digital driver's license, a United States military identification card that contains the voter's name and picture or other generally recognized picture identification card that contains the name and signature of the applicant. If no photo ID is available, the voter can complete a Voter Identification Affidavit (AV-34) but is subject to challenge by law.\n\nAll registered voters may obtain a free Louisiana special identification card by presenting a voter information card to the Office of Motor Vehicles.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "Where do I go to vote on election day?",
+            "a": "Use the Louisiana Voter Portal (https://voterportal.--environment--.sos.la.gov/) to find where you vote on election day; download the free GeauxVote app (https://voterportal.--environment--.sos.la.gov/mobilelanding.aspx) to your smartphone or tablet to view your polling place for election day; visit GeauxVote (https://www.sos.la.gov:443/elections-voting); call your parish Registrar of Voters Office (https://voterportal.--environment--.sos.la.gov/registrar); or view your polling location on your voter information card received by mail from your Registrar of Voters (https://voterportal.--environment--.sos.la.gov/Registrar).\n\nPolling places change due to being unavailable or due to an emergency. Please check to make sure you go to the correct polling place on election day.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "Where do I find out about polling place changes?",
+            "a": "Polling places may be changed by the parish police jury or council. You will receive a Voter Information Card in the mail from the registrar of voters when your polling place has been changed. You may also go online to review your polling place at the Louisiana Voter Portal (https://voterportal.--environment--.sos.la.gov/) where you also can sign up for a notification by email or text of not only a polling place change but also a notification for an early voting and election day reminder.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "How do I operate voting machines on election day?",
+            "a": "Louisiana uses the AVC Advantage (https://av.sos.la.gov/video/elections/AVC Advantage Voting System/AVC Advantage Voting System.mp4) voting machine on election day. The voting machine is a direct recording electronic machine with a full faced ballot.\n\nOnly one person is allowed to enter a voting machine at a time, unless entitled to assistance or allowing a minor to accompany a parent or legal guardian. In order to cast a vote, you must make at least one selection for either a candidate or vote on a proposition election. You are allowed by law six minutes to cast your vote, or 20 minutes if entitled to assistance or using the audio voting ballot. If the ballot is lengthy or if it contains complex propositions or constitutional amendments, the commissioners may allocate additional time in an equitable manner.\n\nTo vote on the machine, you must select a candidate of your choice or select YES or NO for a proposition by pressing the box to the right of the candidate's name or next to the YES or NO for a proposition. A green x will appear to the left of the box indicating your selection and the green header light for the office or proposition will turn off.\n\nTo change your selection, press the box again. The green x will disappear, the green header light for the candidate or proposition will light back up and you may make a new selection.\n\nIf at any time during voting, you do not understand how to operate the voting machine or you do not believe the voting machine is allowing you to vote on the offices that you are eligible to vote on, step out and notify a commissioner. You must notify a commissioner before you press the CAST VOTE button. Once you have pressed CAST VOTE, button, your vote has been cast and you may not vote again. The CAST VOTE button is a orange button at the bottom right hand side of the voting machine.\n\nOnce you have finished voting, part the curtains with your hands and exit the voting booth. Your vote(s) are electronically recorded and you will hear an audible bell sound and the lights will turn off.\n\nAll elections are open to all eligible voters in Louisiana, except for the Presidential Preference Primary (https://www.sos.la.gov:443/elections-voting/types-of-elections) and the state and local party elections (Democratic and Republican State Central Committees and Parish Executive Committees), and Closed Party primaries, which are limited to party registration.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "Are audio ballots available on voting machines?",
+            "a": "A machine at each precinct provides an audio ballot (https://www.sos.la.gov:443/elections-voting/election-brochures). Any voter may choose to use the audio ballot. If you choose to use the audio ballot, inform the commissioners.\n\nYou are allowed 20 minutes when using the audio ballot and then commissioner is required by law to ask you to complete voting so that other voters may vote. If the ballot is lengthy or if it contains complex propositions or constitutional amendments, the commissioners may allocate additional time in an equitable manner.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "How do I vote if the voting machine fails on election day?",
+            "a": "Louisiana has trained technicians to repair or replace a voting machine that fails on election day. In some small polling places where only one voting machine is available and it fails then you may vote on a paper ballot until the voting machine is repaired or replaced under Louisiana's emergency election day paper ballot procedure.\n\nYou will be allowed to cast your vote(s) on a paper ballot and you will receive instructions to complete the affidavit on the ballot envelope, vote your ballot and seal it in the envelope. If you have any questions about your ballot or how to proceed ask a commissioner for help.\n\nIf you make a mistake or spoil your ballot, seal the spoiled ballot in the envelope provided, write \"spoiled\" and ask a commissioner for a new ballot.\n\nThe paper ballots cast at the polling place shall be counted by the parish board of election supervisors on election night.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "Are write-in candidates allowed in Louisiana?",
+            "a": "No, Louisiana does not allow for write-in candidates. The only exception is for military and overseas citizens who are voting on a Federal Write-in Absentee Ballot (FWAB) and they may write in the candidate names, but only the candidates that are actually on Louisiana's ballot.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "Violations of state law in voting?",
+            "a": "Louisiana state law prohibits:\n\n- giving or offering to give, directly or indirectly, money or anything of present or prospective value to influence a vote\n- doing any of the following within 600 feet of the entrance of the polling place on election day:\n- knowingly, willfully, or intentionally transmitting or otherwise providing false or misleading information concerning an election from a source disguised as or impersonating the secretary of state, a registrar of voters, a clerk of court, or other election official\n- intimidating, deceiving or misinforming, directly or indirectly, any voter or prospective voter in matters concerning voting or nonvoting\n- voting or attempting to vote more than once at an election\n- offering money or anything of apparent present or prospective value or use, directly or indirectly, or engage in any form of intimidation to influence the action or encourage inaction of any election official with regard to the duties of his or her office\n- disobeying any lawful instruction of the registrar, deputy registrars, commissioners or a law enforcement officer assisting at the early voting location or polling place or without lawful authority, obstructing, hindering or delaying any voter on his way to or while returning home from any early voting location or polling place where an election is held or impede a voter from entering or exiting an early voting location or polling place\n- voting or attempting to vote, knowing that you are not qualified, or influencing or attempting to influence another to vote, knowing such voter to be unqualified or the vote to be fraudulent\n- voting or attempting to vote in the name of another or in an assumed or fictitious name, or in any manner other than as provided by the Louisiana Election Code  (http://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent)\n- supplying a false answer or statement to an election official or on any document required by the Louisiana Election Code  (http://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent), or executing an affidavit knowing it to contain false or incorrect information\n- forging the name of another, or using a fictitious name on an affidavit or document required by the Louisiana Election Code  (http://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent)\n- unlawfully, directly or indirectly, possessing, tampering with, breaking, impairing, impeding or otherwise interfering with the maintenance, adjustment, delivery, use or operation of any voting machine or with any paraphernalia connected with or appertaining to the machine\n- voters, election officials, watchers, or persons assisting a voter to allow a ballot to be seen, (except as provided by law), announce the manner in which a person has cast a ballot, place a distinguishing mark on a ballot with intent to make the ballot identifiable or make a false statement concerning a voter's ability to mark a ballot without assistance\n- coercing, compelling or otherwise influencing an assisted voter to cast a vote in a certain way or fail to mark the ballot or vote in the manner dictated by the voter by the person providing assistance\n- signing another voter's name in the precinct register\n- attempting to influence an election official or watcher in the performance of his or her duties\n- appearing in an intoxicated condition or possessing any beverage of alcoholic content\n- voting at the polls on election day if you have voted early or submitted your absentee ballot\n- voting if you have moved more than three months ago to an address outside of the parish or if registered to vote in another parish or state\n- remaining within any early voting location or polling place or within a radius of 600 feet of the entrance of any polling place, except when exercising the right to vote, after having been directed by a commissioner or law enforcement officer to leave the premises or area of an early voting location or polling place\n- carrying or possessing a firearm, except a peace officer in the performance of his or her duties\n- accepting directly, or indirectly anything of economic value, including reimbursement of costs, for the purpose of transporting a voter to an early voting location or polling place, or for driving or being in charge of any motor vehicle being used for such purpose (bus, taxi or licensed transportation are exempt)\n- betting or wagering on an election",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "What are the election laws in Louisiana?",
+            "a": "View the Louisiana Election Code (https://www.sos.la.gov:443/media/oy5jhnk1/election-code.pdf), Title 18 of Louisiana's revised statutes.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "Are there federal law violations in voting?",
+            "a": "Federal law prohibits:\n\n- No person, whether acting under color of law or otherwise, shall intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for voting or attempting to vote, or intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for urging or aiding any person to vote or attempt to vote, or intimidate, threaten, or coerce any person for exercising any powers or duties under federal law.\n- Knowingly and willfully depriving, defrauding, or attempting to deprive or defraud the residents of Louisiana of a fair and impartially conducted election process by the procurement, casting, or tabulation of ballots that are known by the person to be materially false, fictitious, or fraudulent under the laws of the State of Louisiana in any election for federal office.\n- Conspiring to injure, oppress, threaten, or intimidate any person in the free exercise or enjoyment of the right to vote or because of their having so exercised the right to vote.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "Are law enforcement officers allowed at a polling place on election day?",
+            "a": "Yes, a law enforcement officer may be summoned by the commissioners to assist in preserving order, enforcing election laws, or protecting election officials from interference with the performance of their duties.\n\nIn addition, law enforcement officers may be stationed at polling places if their regular work duties are to provide security for the public building where the polling place is located.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "Are firearms allowed at a polling place on election day?",
+            "a": "No, not even for a concealed carry permit. The only exception is for a peace officer as defined by La R.S. 40:2402(3)(a)  (http://www.legis.la.gov/legis/Law.aspx?d=98233) in the performance of their official duties.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "How do I report fraud or a violation in a federal election?",
+            "a": "To report fraud in a federal election, contact the nearest office of the FBI or your local U.S. Attorney's office. Additionally, you may contact the Election Integrity Divsion toll-free at 800.722.5305 or the Elections Division toll-free at 800.883.2805.\n\nTo report a federal violation under The Voting Rights Act of 1965, which prohibits racial or language minority discrimination in voting, contact:\n\nChief, Voting Section, Civil Rights Division\nRoom 7254-NWB\nDepartment of Justice\n950 Pennsylvania Ave. NW\nWashington, DC 20530\n\nToll-free: 800.253.3931\n202.307.2767\n\nTo make a complaint under the Americans with Disabilities Act of 1990, contact: Voting Rights Division, Department of Justice toll-free 800.514.0301 (option 7)\n\nTo file a notarized written complaint under the Help America Vote Act, contact: Elections Division toll-free at 800.883.2805.",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "How do I report fraud or a violation in a state or local election?",
+            "a": "To report fraud in an election, contact the Election Integrity Division toll-free at 800.722.5305, the Elections Division toll-free at 800.883.2805, or contact the nearest office of the FBI or your local U.S. Attorney's office.\n\nTo file a written notarized complaint with the Elections Division of the Louisiana Department of State, contact:\n\nCommissioner of Elections\nDepartment of State\nP.O. Box 94125\nBaton Rouge, LA 70804-9125",
+            "s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
+            "t": "2026-10-29T22:10:42+00:00"
+        },
+        {
+            "q": "What is provisional voting?",
+            "a": "Provisional voting ensures that every U.S. citizen who is eligible to vote in a federal election will be able to do so. Provisional voting was provided for by federal law in the Help America Vote Act (https://www.sos.la.gov:443/elections-voting/federal-voting-laws). A paper provisional ballot is used to allow a person to vote when there is a question about the voter's eligibility. The person must certify that he or she is a registered voter in the parish and eligible to vote in the federal election before casting a provisional ballot. A provisional ballot is a paper ballot that is cast provisionally until election officials can verify the voter's eligibility to vote in the federal election.",
+            "s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "t": "2026-10-29T22:10:43+00:00"
+        },
+        {
+            "q": "When is provisional voting provided in an election?",
+            "a": "Provisional voting applies only to elections for federal office (Presidential Preference Primary, U.S. President, U.S. Senator and/or U.S. Representative). It does not apply to local or state elections. Provisional voting can take place either during early voting or on election day.",
+            "s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "t": "2026-10-29T22:10:43+00:00"
+        },
+        {
+            "q": "Who is a provisional voter?",
+            "a": "A provisional voter during a federal election may be:\n\n- a person whose name does not appear in the precinct register or supplemental register and who is not authorized to vote by Precinct Register Correction (PRC) form;\n- a voter who is challenged and a majority of the commissioners determine that the challenge is valid; or\n- a voter who votes in a federal election during court ordered extended poll hours (federal offices only).",
+            "s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "t": "2026-10-29T22:10:43+00:00"
+        },
+        {
+            "q": "What should I do if I am not on the precinct register on election day?",
+            "a": "If the commissioner cannot find a voter on the precinct register, the voter's name may be on the supplemental precinct register, if one, or there may be an error in the precinct register. The commissioner can call the registrar of voters or the secretary of state for assistance. If there was an error, the voter may be authorized to vote by completion of the Precinct Register Correction (\"PRC\") form.\n\nThe voter may just be at the wrong precinct. The commissioner can assist the voter by looking up their precinct information on either the secretary of state's GeauxVote app (https://voterportal.--environment--.sos.la.gov/mobilelanding.aspx) or through a look up voter registration list that may be provided by the Clerk of Court's Office (https://voterportal.--environment--.sos.la.gov/clerk) in some polling places for this purpose only on Election Day.\n\nAfter completion of a PRC form, the voter signs and then the voter may vote on the voting machine. If a federal election, the voter would not be a provisional voter and therefore votes on the voting machine.\n\nIf there was no error and the person cannot be found at any other precinct in the state and it is a federal election, the person can vote a paper provisional ballot.",
+            "s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "t": "2026-10-29T22:10:43+00:00"
+        },
+        {
+            "q": "How do I vote on a provisional ballot?",
+            "a": "To cast a vote on a paper provisional ballot, you will be given a paper ballot, an envelope with an affidavit and a pencil. A pen may be used to vote your ballot. You must complete the affidavit on the ballot envelope, vote your ballot, place it in the ballot envelope and seal before returning it to the commissioner. The commissioner verifies that the ballot affidavit has been completed and signed by the voter and detaches and gives the voter the ballot stub which contains a number that can be used to track the ballot online. See Provisional Voter Search (https://voterportal.--environment--.sos.la.gov/ProvisionalVoters) to check if your provisional ballot was counted.",
+            "s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "t": "2026-10-29T22:10:43+00:00"
+        },
+        {
+            "q": "Was my provisional ballot counted or rejected?",
+            "a": "A paper provisional ballot in a federal election will be counted by the Parish Board of Election Supervisors if they find:\n\n- you are an eligible voter in the federal election (including the specific federal office on the ballot in the precinct where you cast your vote); and\n- you cast your ballot in the parish in which you are registered; and\n- you have not voted another ballot in the election anywhere in the state.",
+            "s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "t": "2026-10-29T22:10:43+00:00"
+        },
+        {
+            "q": "How do I report fraud or a violation in a federal election?",
+            "a": "To report fraud in a federal election, contact the nearest office of the FBI or your local U.S. Attorney's office. Additionally, you may contact the Elections Integrity Division toll-free at 800.722.5305, the Elections Division toll-free at 800.883.2805.\n\nTo report a federal violation under The Voting Rights Act of 1965, which prohibits racial or language minority discrimination in voting, contact:\n\nChief, Voting Section, Civil Rights Division\nRoom 7254-NWB\nDepartment of Justice\n950 Pennsylvania Ave. NW\nWashington, DC 20530\n\nToll-free 800.253.3931\n202.307.2767\n\nTo make a complaint under the Americans with Disabilities Act of 1990, contact: Voting Rights Division, Department of Justice toll-free 800.514.0301 (option 7)\n\nTo file a notarized written complaint under the Help America Vote Act, contact: Elections Division toll-free at 800.883.2805.",
+            "s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "t": "2026-10-29T22:10:43+00:00"
+        },
+        {
+            "q": "How do I report fraud or a violation in a state or local election?",
+            "a": "To report fraud in an election, contact the Elections Integrity Division toll-free at 800.722.5305, the Elections Division toll-free at 800.883.2805, or contact the nearest office of the FBI or your local U.S. Attorney's office.\n\nTo file a written notarized complaint with the Elections Division of the Louisiana Department of State, contact:\n\nCommissioner of Elections\nDepartment of State\nP.O. Box 94125\nBaton Rouge, LA 70804-9125",
+            "s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "t": "2026-10-29T22:10:43+00:00"
+        },
+        {
+            "q": "How do I find more information on provisional voting?",
+            "a": "If you need additional information about voting a paper provisional ballot during a federal election, please call your parish Registrar of Voters (https://voterportal.--environment--.sos.la.gov/Registrar) or the Secretary of State toll-free at 800.883.2805.",
+            "s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
+            "t": "2026-10-29T22:10:43+00:00"
+        },
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "You must have a reason to vote absentee (vote by mail), unless you are a military or overseas citizen. There are 12 reasons to vote by mail:\n\n- Senior citizen 65 years of age or older\n- A home or a nursing home or veterans' home resident and you have been previously approved for the Disability program, or you are disabled, home bound or a nursing or veterans' home resident and you are submitting current proof of disability with your application. For more information on the Disability Program, click here. (http://www.sos.la.gov/ElectionsAndVoting/Pages/DisabledElderlyCitizens.aspx)\n- A student, instructor, or professor (or spouse or dependents of the following,) in an institution of higher learning located outside the parish.\n- A minister, priest, rabbi, or clergy (or spouse or dependents of the following,) assigned to a religious post outside the parish.\n- A person who is or who expects to be temporarily outside the territorial limits of the state or absent from the parish during early voting and on Election Day.\n- A person who has moved after the registration books closed (30 days prior to an election) to another parish and the new residence is more than 100 miles from the parish of former residence.\n- A sequestered jury member.\n- A person who expects to be hospitalized on Election Day and did not have such knowledge until after early voting week passed.\n- A person who expects to be hospitalized on Election Day and who was hospitalized during early voting.\n- A person who was hospitalized and released prior to an election but who is either hospitalized or restricted to bed during early voting and on Election Day.\n- A person who by virtue of employment or occupation expects to be out of their precinct during early voting and on Election Day.\n- You are involuntarily confined in an institution for mental treatment outside your parish of registration and you are not interdicted and not judicially declared incompetent.\n- You are incarcerated or expect to be incarcerated in an institution inside or outside your parish of registration and you are not under an order of imprisonment for conviction of a felony\n\nTo request a normal absentee ballot by mail, you must complete and return a request for absentee ballot (https://voterportal.sos.la.gov/) indicating the reason you are not able to vote in person absentee or in person on Election Day.\n\nVoters with disabilities, senior citizens and nursing or veteran home residents can apply to the state’s absentee ballot programa here (https://www.sos.la.gov/ElectionsAndVoting/Pages/DisabledElderlyCitizens.aspx).",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR REQUESTING AN ABSENTEE BALLOT?",
+            "a": "- Military, Overseas, or Hospitalized Voters: By 4:30pm CST on the day before Election Day\n- All Others: By 4:30pm CST on the 4th day before Election Day",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT APPLICATION?",
+            "a": "You can return your absentee ballot request form through mail, in person at your local elections office (https://absentee.vote411.org/vote/eoddomestic.htm), or online (https://voterportal.sos.la.gov/).",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
+            "a": "Yes, you must apply separately for each election. You can request an absentee ballot as early as 60 days prior to the election.\n\nVoters with disabilities and voters 65 years old or older may apply to the state’s automatic absentee ballot programs (https://www.sos.la.gov/ElectionsAndVoting/Pages/DisabledElderlyCitizens.aspx).",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR RETURNING A VOTED ABSENTEE BALLOT?",
+            "a": "- Military, Overseas, or Hospitalized Voters: By 8pm CST on Election Day\n- All Others: By 4:30pm CST on the day before Election Day",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Election officials start mailing out absentee ballots 45 days before the election.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "You can sign up to track your absentee ballot (https://voterportal.sos.la.gov/) on your Secretary of State website.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "Those who requested an absentee ballot but end up voting in person may only do so by a provisional ballot. Do not mail a ballot and vote in person. For more information, you can find your local county clerk contact info here (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://absentee.vote411.org/vote/VoterInformation.htm)",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHO CAN REGISTER TO VOTE IN LOUISIANA?",
+            "a": "To register to vote in Louisiana, you must:\n\n- be a US citizen\n- be at least 17 years old (or 16 if registering in person at the Registrar of Voters Office or Louisiana Office of Motor Vehicles)\n- be 18 years old to vote\n- reside in Louisiana and the parish where you’re registering\n- not be under an order of imprisonment for a felony conviction, or if you are:\n- not have been incarcerated in the last five years, and\n- not be imprisoned for election fraud or another election-related offense\n- not be under a judgment of full interdiction for mental incompetence or partial interdiction with suspension of voting rights\n\nYou must register at least:\n\n- 20 days before an election if registering online using the GeauxVote system with a Louisiana driver’s license or special ID card\n- 30 days before an election if registering by mail or in person",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHO CAN VOTE IN LOUISIANA?",
+            "a": "You can vote in Louisiana if you:\n\n- are registered to vote\n- 20 days before an election if registering online using the GeauxVote system with a Louisiana driver’s license or special ID card\n- 30 days before an election if registering by mail or in person\n- are at least 18 years old on or before Election Day\n- meet all other eligibility requirements, including residency and not being disqualified due to a felony conviction or court order",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
+            "a": "In Louisiana, you lose your right to vote if you are convicted of a felony or an election offense. You regain your eligibility upon the completion of your sentence (including parole or probation) or five years after your release from prison, whichever is sooner. Individuals convicted of an election offense will have their rights restored upon completing their sentence, including parole and probation.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "a": "Yes. If you don’t have a traditional or fixed home in Louisiana, you can still register to vote. You’ll need to describe where you stay by drawing a map in the box provided on the voter registration form.\n\n- Show nearby streets and mark an “X” where you usually stay.\n- You can also include dots for nearby places like schools, churches, stores, or landmarks and write their names.\n- You cannot use a P.O. Box as your residence address.\n\nIf you don’t get mail at your residence location, you must also provide a mailing address—this can be a P.O. Box, shelter, or other place where you can receive mail.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN LOUISIANA?",
+            "a": "- Yes, if registering online: (https://voterportal.sos.la.gov/VoterRegistration/Eligibility?isUpdate=False) You must provide a Louisiana driver’s license or Louisiana special ID card.\n- No, if registering by mail or in person: But you must provide other identifying information, such as:\n- The last four digits of your Social Security number (if issued), or\n- Additional documents if neither a Louisiana ID nor SSN is available and you are registering for the first time.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN LOUISIANA?",
+            "a": "Online registration (https://voterportal.sos.la.gov/VoterRegistration/Eligibility?isUpdate=False):\n\n- A valid Louisiana driver’s license or Louisiana special ID card with an audit code. The audit code is a four-digit number labeled AUDIT on the front of the license.\n\nBy mail or in person:\n\n- Last four digits of your Social Security number (if you have one).\n- If you don’t have a Louisiana ID or SSN and are registering by mail for the first time, include a copy of:\n- A current and valid photo ID, or\n- A current utility bill, bank statement, government check, paycheck, or other government document with your name and address.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER?",
+            "a": "If you don’t have a Louisiana driver’s license or Louisiana special ID:\n\n- You can still register using the last four digits of your Social Security number\n- Providing your full Social Security number is optional but preferred, it helps process your registration faster and more accurately\n- If you're registering for the first time and don’t provide a Louisiana ID or SSN, and you're mailing your form, you should also include a document that proves your identity and address, such as:\n- A copy of a valid photo ID\n- A current utility bill, bank statement, government check, paycheck, or another government document with your name and address",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in Louisiana?",
+            "a": "Here is what you need to know to register in Louisiana:\n\nThere are three methods of voter registration in Louisiana: register in-person, register online (http://www.sos.la.gov/ElectionsAndVoting/Pages/OnlineVoterRegistration.aspx), or mail a printable application (https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/ApplicationToRegisterToVote.pdf) to your local registrar of voters' office.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in Louisiana?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in Louisiana?",
+            "a": "In Louisiana, you must register at least 20 days before the election if registering online, or 30 days before if registering by mail or in person. Be sure to check the exact dates each year, as they may vary slightly.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in Louisiana?",
+            "a": "You must present a photo ID when voting in person in Louisiana. This can include a driver’s license, passport, student ID from a state-supported college, or other accepted forms.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "I’m originally from another state, can I still vote in my home state while studying in Louisiana?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Louisiana?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "DO I NEED TO SHOW ID WHEN I VOTE IN LOUISIANA?",
+            "a": "Yes. When you go vote in Louisiana, you must provide a photo identification and state your name and address to the poll worker.",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO VOTE IN LOUISIANA?",
+            "a": "Acceptable photo IDs include:\n\n- A Louisiana driver's license\n- A Louisiana special ID card (you can get one for free at the Office of Motor Vehicles by showing your voter information card).\n- A Louisiana Wallet digital driver's license\n- U.S. military ID that has your name and photo\n- Any other generally recognized picture ID card that contains your name and signature",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
+            "a": "You can still vote by completing a Voter Identification Affidavit at the polls. However, your vote may be challenged under state law, so it’s recommended to bring an acceptable ID if you can.\n\nYou can also get a free Louisiana special ID at the Office of Motor Vehicles if you bring your voter information card.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/louisiana",
+            "t": "2026-10-22T19:13:16+00:00"
+        }
+    ]
+}

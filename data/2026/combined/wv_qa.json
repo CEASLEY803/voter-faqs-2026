@@ -1,0 +1,482 @@
+{
+    "state": "wv",
+    "num_questions": 79,
+    "num_answers": 79,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "How do I find out if I am already registered to vote?",
+            "a": "You may search for your voter registration information by entering your name and date of birth in the Search My Registration / Polling Place (https://apps.sos.wv.gov/Elections/Voter/FindMyPollingPlace) online search.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "How do I register to vote?",
+            "a": "Online: Visit West Virginia's Online Voter Registration Website (https://ovr.sos.wv.gov/Register).\n\nBy mail: Download and complete the West Virginia Voter Registration Application (https://sos.wv.gov/media/418/download?inline) and mail it to your County Clerk (https://sos.wv.gov/west-virginia-county-clerk-directory) or the Secretary of State's Office.\n\nIn person: You may register to vote in person at any of the following locations:\n\n- Your County Clerk's Office (https://sos.wv.gov/west-virginia-county-clerk-directory)\n- The Secretary of State's Office\n- The Division of Motor Vehicles (DMV)\n- Public assistance offices\n- Agencies who serve people with disabilities\n- Marriage license offices\n- Military recruiting agencies\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Can I register to vote online?",
+            "a": "Yes, visit West Virginia's Online Voter Registration Website (https://ovr.sos.wv.gov/Register).\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Do I need identification when I register to vote?",
+            "a": "If you are registering to vote for the first time in West Virginia or your county, and you have not voted in a federal election in this state, you must show a valid ID with your application or the first time you vote. If you mail your application, you may send a copy of a valid ID. We accept the following documents that show your current name and address:\n\n- Valid photo identification\n- Utility bill\n- Bank statement\n- Government check\n- Paycheck\n- Any other official government document\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "What is the quickest way to receive my voter registration card?",
+            "a": "The fastest way to register to vote is to bring your current driver's license or state-issued identification card to your County Clerk's (https://sos.wv.gov/west-virginia-county-clerk-directory) Office. They will give you an application, and you will receive your voter registration card on the spot. If you register any other way, your voter registration card will come in the mail.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "How will I know when my application is processed?",
+            "a": "You will receive notification by mail when your application has been processed by your County Clerk. Call your County Clerk (https://sos.wv.gov/west-virginia-county-clerk-directory) if you have questions about your application.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "How do I change or update my voter registration?",
+            "a": "You may update your information online or by mail (https://ovr.sos.wv.gov/Register/Landing). You may also fill out another Voter Registration Application at your County Clerk's (https://sos.wv.gov/west-virginia-county-clerk-directory) Office or other voter registration location.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "How old must I be to register to vote?",
+            "a": "You must be 17 years old and 18 by the next general election. 17-year-olds may register and vote in primary elections if they turn 18 before the next general election.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Do I need to be a United States Citizen before I register to vote?",
+            "a": "Yes, you must be a natural born or naturalized citizen of the United States to register to vote.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Is someone with a developmental disability allowed to register to vote?",
+            "a": "Yes, a person with a developmental disability is allowed to register to vote, unless he or she has been ruled mentally incompetent by a court of law.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Is someone with a mental health disorder allowed to register to vote?",
+            "a": "Yes, a person with a mental health disorder is allowed to register to vote, unless he or she has been ruled mentally incompetent by a court of law.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Is someone convicted of a crime allowed to register to vote?",
+            "a": "Misdemeanor Conviction: A person convicted of a misdemeanor is eligible to register to vote and cast a ballot in any West Virginia election.\n\nFelony Conviction: A person may not register to vote or cast a ballot while serving a sentence, which includes any period of incarceration, parole, and probation, following a conviction for either (1) a felony, (2) treason, or (3) bribery in an election. However, once the sentence is fully served and the person is \"off papers,\" he or she may re-register to vote and participate in the next West Virginia election.\n\nFor information about re-registering after you complete your sentence, see our Felon Voting Rights brochure (https://sos.wv.gov/media/466/download?inline).\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "May I use a PO Box address as my residence address on my application?",
+            "a": "No, you must have the address where you live on your voter registration. If the US Postal Service does not deliver mail to your residence address, please contact your County Clerk (https://sos.wv.gov/west-virginia-county-clerk-directory) for instructions.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Is there a deadline for registering to vote?",
+            "a": "To vote in the next election, you must register at least 21 days before the date of the election.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Will my voter registration information stay private?",
+            "a": "Most voter information is public record, but the law says we must keep your sensitive information private. No one will release your social security number, driver's license or state ID number, telephone number, or email address.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "May homeless people register to vote?",
+            "a": "Yes, if a person has no permanent residence but lives in the county, he or she may use the address of a shelter, assistance center, or family member.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "How do I cancel my voter registration?",
+            "a": "You may cancel your voter registration by sending a written request to your County Clerk (https://sos.wv.gov/west-virginia-county-clerk-directory). Be sure to sign your request.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "How do I cancel the voter registration of a deceased family member?",
+            "a": "If you are the parent, legal guardian, child, sibling, or spouse of a voter who has passed away, you may cancel his or her voter registration by completing the Affidavit for Voter Registration Cancellation of Deceased Voter (https://sos.wv.gov/media/419/download?inline) and submitting it by mail or in person to your County Clerk (https://sos.wv.gov/west-virginia-county-clerk-directory).\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "How can I help other people register to vote?",
+            "a": "You can request up to 200 voter registration forms from the Secretary of State's Office. If you want more than 10 forms, you must fill out the Request for West Virginia Voter Registration Forms (https://sos.wv.gov/media/417/download?inline). Return the form to the Secretary of State's Office in person or by mail. You may also email your form to elections@wvsos.gov (mailto:elections@wvsos.gov).\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Can I apply to vote absentee electronically as a voter with a physical disability?",
+            "a": "Please visit the Voters with Physical Disabilities Absentee Voting Information (https://sos.wv.gov/voters-disabilities) page to see eligibility requirements and how to apply to vote absentee electronically.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "When is the next election?",
+            "a": "Primary Election: Held on the second Tuesday in May of each even-numbered year.\n\nGeneral Election: Held on the Tuesday following the first Monday in November of each even-numbered year.\n\nContact your Municipal Recorder/Clerk for local election dates.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "When and where do I vote?",
+            "a": "Election Day: 6:30 a.m. to 7:30 p.m. at your polling place. Find your polling place (https://apps.sos.wv.gov/Elections/Voter/FindMyPollingPlace).\n\nEarly Voting period: Voters may vote early at the county courthouse, an annex, or a designated community voting location during normal business hours beginning the 13th day before the election to the 3rd day before the election. Early voting will also be conducted between 9 a.m. and 5 p.m. on the last 2 Saturdays before the election. Prior to the start of early voting, current early voting locations will be posted at GoVoteWV.com (https://sos.wv.gov/govotewv).\n\nRemember that on Election Day you must vote at your assigned polling location. If the polling place is not accessible to you because of a disability, contact your County Clerk (https://sos.wv.gov/elections/Pages/CountyClerkDirectory.aspx) as soon as possible to arrange for voting at another location.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "What happens at the polling place?",
+            "a": "1. You will check in with the poll workers at the registration table (there may be a line).\n2. The poll worker will ask you to state your name and address and will ask for your ID: Acceptable forms of ID (https://sos.wv.gov/be-registered-and-ready).\n\n   First-time voters: Your poll worker may ask for any of the following forms of identification which include your current residential address:\n\n   - Valid photo identification\n   - Utility bill\n   - Bank statement\n   - Government check\n   - Paycheck\n   - Any other official government document\n3. The poll worker will show your name and address on the list of voters and ask you to verify your information and sign. If you have moved outside of your precinct but in the same county, call your County Clerk's Office (https://sos.wv.gov/west-virginia-county-clerk-directory) to find out your new polling place.\n\n   Voting a provisional ballot: If the poll workers do not find your name in the poll book, or find that you may otherwise be ineligible to vote, they must offer you a provisional ballot. If you vote a provisional ballot because you did not show ID, present your ID at your County Clerk's Office (https://sos.wv.gov/west-virginia-county-clerk-directory) before canvass and your ballot will be counted.\n4. A poll worker will take you to the voting booth where you will vote your ballot. Voters with disabilities: learn about accessible voting at the polling place (https://sos.wv.gov/media/453/download?inline).\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Do I need to provide identification if I vote absentee?",
+            "a": "If your first time voting will be absentee by mail, you must send a copy of one of the forms of valid ID with your ballot. If you have previously voted in person in a federal election, ID is not required when voting an absentee ballot. You can find acceptable forms of ID here (https://sos.wv.gov/be-registered-and-ready).\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "My poll workers said my ballot would be provisional. What does that mean?",
+            "a": "If the poll workers do not find your name in the poll book, or they find that you may otherwise be ineligible to vote, they must offer you a provisional ballot. If you vote a provisional ballot because you did not show ID, just present your ID at your County Clerk's Office before canvass and your ballot will be counted. If you vote a provisional ballot for any other reason, and the Board of Canvassers find that you are eligible and registered, your ballot will be counted. Your provisional ballot will stay private through the entire process. You may track the status of your provisional ballot by calling our toll-free number or your County Clerk's Office (https://sos.wv.gov/west-virginia-county-clerk-directory).\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Who is running for office?",
+            "a": "You may view a current list of candidates here: Candidate Listing (https://apps.sos.wv.gov/elections/candidate-search/).\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Who are the current elected officials?",
+            "a": "Find who is currently serving in federal, state, legislative, and judicial offices, along with their term information: Current Office Holders (https://sos.wv.gov/media/460/download?inline).\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Are polling places accessible to voters with disabilities?",
+            "a": "During statewide elections, all polling places in West Virginia have at least one voting machine that is accessible to voters with disabilities. During county-wide elections, there must be at least one accessible voting machine available in the county. If your polling location is not accessible to you, contact your County Clerk (https://sos.wv.gov/west-virginia-county-clerk-directory). Learn more about voting with disabilities (https://sos.wv.gov/media/453/download?inline).\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Can someone help me vote my ballot?",
+            "a": "Yes, you may bring someone to assist you or two poll workers can help you vote your ballot. Reasons for receiving assistance in voting include blindness, disability, advanced age, or the inability to read and write. Just ask your poll worker.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Does West Virginia have absentee voting or vote by mail?",
+            "a": "West Virginia has absentee voting by request, which means voters who need to vote by mail must first submit an application to their county clerk. Learn more about absentee voting (https://sos.wv.gov/absentee-voting-information).\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "I cannot make it to the polls. Can I vote by mail?",
+            "a": "If you cannot make it to your polling place during Early Voting or on Election Day, you may be able to vote by mail. Learn more about absentee voting (https://sos.wv.gov/absentee-voting-information).\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "How do I vote as a member of uniformed services on active duty, their spouse or dependent, or a citizen residing overseas?",
+            "a": "Uniformed service members on active duty inside or outside of the United States, their spouses and dependents, and citizens residing outside of the United States that consider West Virginia their last place of residence may vote by mail or electronically. You may start applying for a ballot beginning January 1st of each election year. Visit our Absentee Voting Information (https://sos.wv.gov/absentee-voting-information) page to download an application and learn more about your voting opportunities.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "I will be in the hospital on Election Day. How can I vote?",
+            "a": "If you are in the hospital on Election Day, two election officials can bring you an emergency absentee ballot. You or a family member should contact your County Clerk (https://sos.wv.gov/west-virginia-county-clerk-directory) no earlier than the 7th day before the election and no later than noon on Election Day. Application for Voting an Emergency Absent Voter's Ballot (https://sos.wv.gov/media/423/download?inline).\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "I am in the Address Confidentiality Program. How can I vote?",
+            "a": "If you are a participant in the Address Confidentiality Program (ACP), call 866.767.8683 (tel:8667678683) or 304.558.6000 (tel:3045586000) and ask to speak with our ACP staff.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "I have a permanent disability that prevents me from going to the polling place. How can I vote?",
+            "a": "If you have a permanent, physical disability that prevents you from going to the polling place, you may apply to your County Clerk (https://sos.wv.gov/west-virginia-county-clerk-directory) to receive a ballot by mail for every election: Permanent Absentee Voter Application (https://sos.wv.gov/media/423/download?inline).\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "How do I vote absentee electronically as a qualified voter with a physical disability?",
+            "a": "The Physical Disabilities Absentee Voting Information (https://sos.wv.gov/voters-physical-disabilities-absentee-voting-information) page details the eligibility requirements and how to apply and cast your ballot through this method.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "I applied for an absentee ballot. When will my County Clerk send my ballot?",
+            "a": "Your County Clerk (https://sos.wv.gov/west-virginia-county-clerk-directory) begins mailing ballots by the 46th day before the election.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "What is the deadline for applying for an absentee ballot?",
+            "a": "Your County Clerk (https://sos.wv.gov/west-virginia-county-clerk-directory) must receive your application by the sixth day before the election.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "What is the deadline for sending my absentee ballot?",
+            "a": "If you mail your ballot, it must be postmarked by Election Day and your County Clerk must receive it by the start of canvass (five days after the election, excluding Sundays). If you or someone else hand-delivers your ballot, your County Clerk (https://sos.wv.gov/west-virginia-county-clerk-directory) must receive it by the day before the election.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "I sent my absentee ballot. How do I know if my County Clerk receives it?",
+            "a": "You may use our web application to find out the status of your ballot (https://apps.sos.wv.gov/Elections/Voter/AbsenteeBallotTracking).\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Which political parties are recognized in West Virginia?",
+            "a": "A political party becomes recognized in West Virginia when its candidate for governor receives at least one percent of votes cast for governor in the previous general election (WV Code §3-1-8). We now have five recognized political parties:\n\n- Democratic — www.wvdemocrats.com (http://www.wvdemocrats.com/)\n- Libertarian — www.lpwv.org (http://www.lpwv.org/)\n- Mountain — mountainpartywv.net (https://mountainpartywv.net/)\n- Republican — www.wvgop.org (http://www.wvgop.org/)\n- Constitution — www.constitutionpartywv.com (https://www.constitutionpartywv.com/)\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "What does it mean to become a recognized political party?",
+            "a": "Recognized political parties may nominate candidates for the general election in the primary election or by convention. Everyone else may only appear on the general election ballot by collecting signatures. Recognized political parties also elect people to form executive committees.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "What are primary elections and conventions?",
+            "a": "The primary election is an election for the recognized political parties to nominate candidates for offices on the general election ballot. We also elect judges, party executive committee members, board of education members, and soil conservation supervisors in the primary election. A party may also choose to hold a convention to nominate candidates instead of by the primary election. You should contact your political party to find out how they choose to nominate their candidates.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Do I have to register with one of the recognized political parties?",
+            "a": "No, you may register as any political party or with no party. Just check \"other\" on your voter registration form and write in your party, or check \"unaffiliated\" if you do not wish to register with a party.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "What are minor, independent, and third parties?",
+            "a": "People often call political parties that have not gained recognized status minor, independent, or third party.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "How do people not affiliated with a recognized political party run for office?",
+            "a": "A person may run for office as a political party that does not have recognized status or as no party by collecting signatures to appear on the general election ballot.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "How do I register in a political party?",
+            "a": "You may register in a political party when you register to vote. On the voter registration form, check the box beside the party you want or check \"other\" and write in your party. If you do not want to register with a party, check the box beside \"unaffiliated.\"\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Does my political party matter in the primary election?",
+            "a": "Your party matters because it determines which ballot you can vote on.\n\n- If you are registered with one of the recognized political parties (Constitution, Democratic, Libertarian, Mountain, or Republican), you can vote only that party's ballot or the non-partisan ballot if your party does not have one.\n- If you are registered with another party or with no party, you can ask the poll worker if any of the recognized parties allow you to vote their ballot. If not, you will get the non-partisan ballot.",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Learn more here: Which Ballot May I Vote?",
+            "a": "Questions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Will all of the recognized political parties have a ballot in the primary election?",
+            "a": "Not always. The recognized political parties may also nominate candidates for the general election by convention. For example, in 2014 the Libertarian Party hosted their nominating convention on March 8 rather than participating in the primary election. For this reason, voters registered as Libertarian received a non-partisan ballot in the primary election.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Does my political party matter in the general election?",
+            "a": "No, every registered voter receives the same ballot in the general election. You will have the chance to vote for candidates from all of the political parties.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "How do I change my political party?",
+            "a": "You may change your political party by completing a new voter registration application (https://ovr.sos.wv.gov/Register/Landing).\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "Are there any deadlines for changing my political party?",
+            "a": "You may change your political party on your voter registration at any time, but keep in mind that your political party matters at the primary election. For your new party to apply at the next primary election, you must make your change at least 21 days before the election. If you make the change later, it will apply at the next primary election.\n\nThere are more rules for candidates. If you want to file for nomination as a candidate in the Democratic, Libertarian, Mountain, or Republican parties, you must register as that party no less than 60 days before filing.\n\nQuestions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+            "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+            "t": "2026-10-29T22:07:44+00:00"
+        },
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "You may submit an absentee ballot application if you meet any of the following criteria:\n\n- Attending school\n- Illness, injury or other medical reason\n- Traveling outside the county for business or personal reasons\n- Incarcerated or serving home confinement for misdemeanor, and legally registered to vote\n- Work hours and distance from county seat\n- Work assignment requires living temporarily outside the county (4 years or less)\n- Service as election or appointed or federal official requires living temporarily outside country\n- If the early voting, or Election Day polling locations are inaccessible\n- If you are attending college or another place of education or training\n\nTo download the absentee ballot application, use your state's resource. (https://sites.omniballot.us/54/absentee/app/home)",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "HOW DO I VOTE ABSENTEE?",
+            "a": "There are a few absentee ballot options in West Virginia for those who meet the criteria:\n\n1. Absentee Ballot: Complete and submit an absentee ballot application. Download it from your state's resource. (https://sites.omniballot.us/54/absentee/app/home)\n2. Emergency Absentee Voting: If you're in a hospital or other health care facility on Election Day or are a poll worker appointed to a precinct other than your own after Early Voting you can apply for emergency absentee voting (https://sos.wv.gov/FormSearch/Elections/Voter/Application%20for%20Voting%20an%20Emergency%20Absent%20Voter&apos;s%20Ballot.pdf). Some counties allow for emergency absentee voting in other situations, so be sure to check with your County Clerk for more information.\n3. Permanent Absentee Voting: If you are a participant in the West Virginia Secretary of State's Address Confidentiality Program or you have a permanent, physical disability that prevents you from going to a polling place, you can apply for permanent absentee voting. (https://sos.wv.gov/FormSearch/Elections/Voter/Special%20Absentee%20List%20Form.pdf)\n4. Electronic Absentee for Voters with Certain Physical Disabilities: Voters with physical disabilities that prevent them from voting in person and from voting paper ballots without assistance may request to receive and return their ballots electronically. For more information, review the state’s Electronic Absentee Informational Flye (https://sos.wv.gov/elections/Documents/EAV%20Fact%20Sheet.pdf)r.\n5. In-Person Voting After Requesting Absentee: If you requested an absentee ballot but didn’t use it, you can vote in person by surrendering the unvoted ballot at the polling place. If you don’t surrender it, you’ll have to vote provisionally.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR REQUESTING AN ABSENTEE BALLOT?",
+            "a": "The last day to request an absentee ballot  (https://sites.omniballot.us/54/absentee/app/home)is 6 days before the election.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT APPLICATION?",
+            "a": "You can return your absentee ballot request form through the mail, in person, or scanned as an attachment to an email. Just be sure to include your proof of ID no matter how you return the request form.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
+            "a": "Yes, you must apply separately for each election. The application period begins not earlier than January 1 of an election year or 84 days preceding the election, whichever is earlier.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "a": "You can deliver your voted ballot by mail or in person:\n\n1) Mailed ballots must be postmarked by Election Day and received no later than 5 days after Election Day to be counted.\n\n2) Hand-delivered ballots must be received no later than the day before Election Day.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Election officials start mailing out absentee ballots 6 weeks before the election.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": "You can sign up to track your absentee ballot (https://services.sos.wv.gov/Elections/Voter/AbsenteeBallotTracking) on your Secretary of State website.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "If you requested an absentee ballot but end up voting in person, you must surrender their absentee ballots before receiving a regular ballot; otherwise, you must vote by a provisional ballot. Do not mail a ballot and vote in person. For more information, you can find your local county clerk contact info here. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/vote/home.htm)\n\n  Request your Ballot  (https://sites.omniballot.us/54/absentee/app/home)",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "WHO CAN REGISTER TO VOTE IN WEST VIRGINIA?",
+            "a": "To register to vote in West Virginia, you must be:\n\n- A resident of West Virginia and the county where you register\n- A U.S. citizen\n- At least 17 years old and will be 18 years old by the next General Election\n- Not currently under conviction for a felony, including probation or parole, or a court ruling of mental incompetence",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "WHO CAN VOTE IN WEST VIRGINIA?",
+            "a": "You can vote in West Virginia elections if you:\n\n- Are a registered voter\n- Are at least 18 years old on or before election day\n- Have not been convicted of a felony, election-related crime, or treason without completing your sentence (including probation or parole)",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "CAN I VOTE IN WEST VIRGINIA IF I HAVE A FELONY CONVICTION?",
+            "a": "In West Virginia, you lose your voting rights if you are convicted of a felony, an election offense, or treason. You can register to vote once you have completed your sentence, including probation, or parole. Pretrial detention and misdemeanor convictions that didn’t involve an election or voting do not restrict your voting rights.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "CAN I REGISTER AND VOTE IN WEST VIRGINIA IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "a": "Yes. You do not need a permanent or traditional residence to register. You may describe a specific location that identifies your residence (such as an intersection, park, or shelter location) so that election officials can assign you to the correct precinct. You can also use a P.O. box, shelter, advocacy group, or another trusted mailing address to receive election mail.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN WEST VIRGINIA?",
+            "a": "Yes, in most cases. To register:\n\n- Online: You must have a West Virginia driver’s license or state ID and the last four digits of your Social Security number.\n- By mail or in person: You must provide either your West Virginia DMV ID number or the last four digits of your Social Security number. If you have neither, you must write “NONE,” and a voter ID number will be assigned.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN WEST VIRGINIA?",
+            "a": "- Online registration requires:\n\n  - West Virginia driver’s license or state ID and\n  - Last four digits of your Social Security number\n- Paper form (by mail or in person) requires:\n\n  - Either your WV DMV ID number or the last four digits of your Social Security number\n  - If you have neither, write “NONE” and a voter ID number will be assigned to you\n\nAdditional ID Requirements for First-Time Voters\n\nIf you are registering for the first time in West Virginia (or the first time in a county) and have never voted in a federal election in the state, you must also provide proof of identity and residence. You can submit one of the following with your registration form or show it the first time you vote:\n\n- A current and valid photo ID, or\n- A current:\n- Utility bill\n- Bank statement\n- Government check\n- Paycheck\n- Other government document that includes your name and current residence address",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER IN WEST VIRGINIA?",
+            "a": "- If registering online, you must have both a WV driver’s license or ID and the last four digits of your SSN. If not, you’ll need to fill out the form online, print it, and submit it by mail or in person.\n- If registering by mail or in person and you don’t have a DMV ID or SSN, you can write “NONE” on the form to be assigned a voter ID number.\n- If you're a first-time voter in West Virginia and don’t provide a copy of acceptable ID with your registration, you will be required to show ID the first time you vote.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in West Virginia?",
+            "a": "Here is what you need to know to register in West Virginia:\n\nThere are three methods of voter registration in West Virginia: register in-person, register online (https://ovr.sos.wv.gov/Register/Landing), or mail a printable application (https://sos.wv.gov/FormSearch/Elections/Voter/mail%20in%20voter%20registration%20application.pdf) to your county clerk (https://sos.wv.gov/elections/Pages/CountyClerkDirectory.aspx).",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in West Virginia?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in West Virginia?",
+            "a": "West Virginia requires voters to register at least 21 days before the election. Be sure to check the exact date each year.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in West Virginia?",
+            "a": "You must present a photo ID when voting in person in West Virginia. This can include a driver’s license, passport, student ID, or other accepted forms.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "I’m originally from another state, can I still vote in my home state while studying in West Virginia?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in West Virginia?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "DO I NEED TO SHOW ID WHEN I VOTE IN WEST VIRGINIA?",
+            "a": "Yes. All voters in West Virginia must present a valid, unexpired form of photo ID when voting in person during early voting or on Election Day.\n\nExceptions:\n\n- This rule does not apply to absentee-by-mail voters\n- Voters who meet certain criteria (listed under exceptions below) may vote without showing ID.\n- First-time voters who registered by mail and did not submit ID must show one of the specific forms of ID listed for first-time voters.\n- If you are 65 or older, an expired ID is acceptable as long as it was not expired on your 65th birthday.",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "WHAT TYPES OF ID CAN I USE TO VOTE IN WEST VIRGINIA?",
+            "a": "The following forms of ID are acceptable at the polling place:\n\n- WV driver’s license or state-issued ID\n- Driver’s license from another state\n- US passport or passport card\n- Employee ID with photo issued by local, state, or federal government\n- Student ID with photo from a WV institution of higher education or a WV high school\n- US military ID with photo\n- Voter registration card with photo issued by a WV county clerk or the WV Secretary of State\n- An ID issued by the DMV without a photo for voters who swear and affirm that they belong to recognized religious communities that prohibit them from being photographed\n\nAdditional ID rules for first-time voters (voting for the first time in WV or a county):\n\nIf you didn’t show ID when registering, you must show a document with your name and current residential address the first time you vote. This applies whether you vote in person or by mail:\n\nAccepted forms include:\n\n- Valid photo ID\n- Utility bill\n- Bank statement\n- Government check\n- Paycheck\n- Any other official government document",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        },
+        {
+            "q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN WEST VIRGINIA?",
+            "a": "If you don't have an acceptable ID, you have three options:\n\n1. Bring someone with you: An adult who has known you for at least 6 months can confirm your identity if they:\n2. Show a valid photo ID with their name and address\n3. Sign a sworn statement at the polling place\n4. Be recognized by a poll worker: If a poll worker has known you for at least 6 months, you don’t need to show ID or provide a signed statement.\n5. Live in a licensed state care facility that is your polling place: Residents voting at their care facility do not need to show ID.\n\nIf none of the above apply you can still vote using a provisional ballot. To have your vote counted, show your ID at your County Clerk’s Office (https://absentee.vote411.org/vote/eoddomestic.htm) before canvass (within a few days after the election).\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/west-virginia",
+            "t": "2026-10-22T19:14:09+00:00"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "state": "ne",
+    "num_questions": 11,
+    "num_answers": 11,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "Where do I vote?",
+            "a": "Each voter must cast his/her ballot at his/her assigned polling place. If you do not know the location of your polling place, contact your county clerk/election commissioner (https://sos.nebraska.gov/elections/election-officials-contact-information), or check Voterview (https://www.votercheck.necvr.ne.gov/voterview/).\n\nWhenever you register or re-register to vote, your county clerk/election commissioner will inform you of your polling place location. Your voting card informs you not only of your polling place, but also your voting districts.\n\n11 counties conduct all elections completely by-mail. They are:\n\n- Boone\n- Cedar\n- Cherry\n- Clay\n- Dawes\n- Dixon\n- Garden\n- Knox\n- Merrick\n- Morrill\n- Stanton\n\nVoters in these counties will automatically receive their ballots in the mail before Election Day. Voters in by-mail precincts who wish to vote in-person may vote at their county election official's office on Election Day.",
+            "s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "t": "2026-10-29T22:06:53+00:00"
+        },
+        {
+            "q": "What time will the polls open?",
+            "a": "The polls are open from 8 a.m. to 8 p.m. in the Central Time Zone and from 7 a.m. to 7 p.m. in the Mountain Time Zone.",
+            "s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "t": "2026-10-29T22:06:53+00:00"
+        },
+        {
+            "q": "Do I need a voting card or my ID in order to vote?",
+            "a": "All statewide and special elections require voter ID.\n\nFor more information, please visit our Voter ID page (https://sos.nebraska.gov/voter-id).",
+            "s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "t": "2026-10-29T22:06:53+00:00"
+        },
+        {
+            "q": "Am I able to vote if I did not re-register?",
+            "a": "Registered voters who moved from one residence to another in the same county, or who changed their name and remained in the same county will be allowed to vote at the polling place designated for their new residence.\n\nThese voters may be asked to cast a Provisional Ballot upon completing a certification and new registration form.\n\nPersons casting Provisional Ballots may check to see if their ballot was counted. They can check seven business days after the election by visiting Votercheck (https://www.votercheck.necvr.ne.gov/voterview/) or calling toll free 1-888-727-0007. Provisional Ballots are counted only if the information the voter provided on their certification forms was verified.\n\nPersons moving from one county in Nebraska to another county in Nebraska must re-register in their new county in order to be eligible to vote.",
+            "s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "t": "2026-10-29T22:06:53+00:00"
+        },
+        {
+            "q": "How does a person vote?",
+            "a": "Registered voters go to their assigned polling place where there will be three or more poll workers at a table checking voters in. Voters will be asked for their name and the residence address where they are living. In primary elections, voters will also be asked to name their party. Upon verifying the voter's information, the election workers will provide the voter with their ballot(s) assigned to persons living in their district and instructions on how to cast a ballot.\n\nIn Nebraska, all counties use optical scan ballots; so voters are instructed to darken the oval completely, not to erase or cross out and return to the table if they have spoiled their ballot and need a new one. Ballots are tabulated at the precinct level using DS200’s in 1/5 of our counties and centrally counted in larger counties using a DS450 or a DS850.",
+            "s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "t": "2026-10-29T22:06:53+00:00"
+        },
+        {
+            "q": "Can voters receive assistance in voting?",
+            "a": "Voters who cannot read, are blind or have a physical disability may request assistance in marking their ballots. The voter may have a friend or relative assist them or the voter may request the assistance of two election board workers one each of a different party.\n\nIn addition, a ballot marking device call the ExpressVote is available to assist voters at every polling place. The ExpressVote allows the voter to have all contests and candidates read to them through headphones. Or the voter can choose to enlarge the print making it easier to view. In addition, it provides a touch screen voters may use if desired which will then print the voter's selection on the paper ballot that was issued to them by the Receiving Board. The ExpressVote prints out the paper ballot and does not record how a voter voted. The paper ballot can be reinserted into the ExpressVote where the voter's choices can be reviewed if desired. Reinserting the paper ballot does not allow the voter to change their choices. Once finished, the ballot is deposited in the ballot box with all other ballots to be counted.",
+            "s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "t": "2026-10-29T22:06:53+00:00"
+        },
+        {
+            "q": "If I'm registered as nonpartisan, can I vote in primary elections?",
+            "a": "Yes, if you are registered as nonpartisan there are still races you can vote on. There are many state and local races that are nonpartisan such as State Legislature, State Board of Education, Board of Regents, etc.\n\nAdditionally, nonpartisans may at the time of receiving their ballot request a ballot for federal races only (Senate and House of Representatives) of one recognized political party. If a political party chooses to allow nonpartisan voters to vote in their primary, a nonpartisan voter may request at the time of receiving their ballot that they would like the full ballot for one of the political party who opened up their primary.\n\nFor more information on voting in primary elections as a nonpartisan, including which recognized parties have opened up their primary to nonpartisans, please visit our \"How nonpartisan voting works in Nebraska primary elections\" page (https://sos.nebraska.gov/elections/how-nonpartisan-voting-works-nebraska-primary-elections).",
+            "s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "t": "2026-10-29T22:06:53+00:00"
+        },
+        {
+            "q": "Can I campaign at my polling place?",
+            "a": "No one may campaign, hand out political literature, or circulate petitions within 200 feet of a polling place. Bringing buttons, hats, pencils, pens, shirts, signs, or stickers containing a candidate's name, likeness, logo, symbol or a ballot measure's number, title, subject matter, logo, or symbol into the polling place on Election Day is against the law.\n\nPersons may call their County Election Official (https://sos.nebraska.gov/elections/election-officials-contact-information) or the Nebraska Secretary of State’s Office Election Division at (888) 727-0007 (toll free) or (402) 471-2555 to report problems.",
+            "s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "t": "2026-10-29T22:06:53+00:00"
+        },
+        {
+            "q": "How do I become an election worker?",
+            "a": "Contact your county election official's office (https://sos.nebraska.gov/elections/election-officials-contact-information) to learn more about working elections.\n\nBecome an Election Worker (https://sos.nebraska.gov/sites/default/files/doc/elections/election%20worker%20brochure.pdf)",
+            "s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "t": "2026-10-29T22:06:53+00:00"
+        },
+        {
+            "q": "How can I become a poll watcher?",
+            "a": "If you are a registered voter of Nebraska or a person representing a state-based, national, or international election monitoring organization, you are eligible to be appointed as a poll watcher. A candidate or a spouse of a candidate on the ballot is not eligible to be appointed as a poll watcher.\n\nPoll watchers can be appointed by:\n\n- Any recognized political party in Nebraska\n- A candidate for election who is not affiliated with a political party (nonpartisan)\n- An organization of persons interested in a question on the ballot\n- A nonpartisan organization interested in Nebraska's elections and the elective process\n\nPoll watchers are not appointed by state or local election officials.\n\nPoll watchers must wear a poll watcher's credential either approved or provided to them by the county election commissioner, county clerk or Secretary of State. Such credential shall include the poll watcher's name and the name of the person or organization who appointed the poll watcher and cannot contain any campaign materials for or against any candidate, political party or ballot question.\n\nWhen poll watchers arrive at a polling place, they shall display their official credential to the precinct inspector or precinct receiving board and sign the register of poll watchers. Poll watchers may watch and observe the performance in and around the polling place and be present during all proceedings at the polling place during an election held under the Election Act. Poll watchers may protest any aspect of the conduct of the election by presenting their protest to the election commissioner, county clerk, or Secretary of State. Poll watchers may not protest or involve themselves in the election process including interacting with poll workers and/or voters.",
+            "s": "https://sos.nebraska.gov/elections/election-day-faq",
+            "t": "2026-10-29T22:06:53+00:00"
+        },
+        {
+            "q": "Do I need an ID to register to vote in Nebraska?",
+            "a": "Some registration methods in Nebraska may ask for additional information to help election officials verify your registration.\n\nOnline (https://www.nebraska.gov/apps-sos-voter-registration/): You will be asked to enter your Nebraska driver’s license or state ID number. If you do not have one, you can register using a paper form instead.\n\nIn person (https://absentee.vote411.org/vote/eoddomestic.htm): You can register at your county election office. You do not need to bring an ID or other documents to register in person. If you do not have a Nebraska driver’s license or state ID, you may provide the last four digits of your Social Security number instead.\n\nBy mail (https://sos.nebraska.gov/voter-forms): If you are registering to vote in Nebraska for the first time by mail, including a copy of a photo ID or a document showing your name and current address dated within the last 60 days can help avoid delays. Examples include a utility bill, bank statement, government check, paycheck, or other government document.",
+            "s": "https://www.vote411.org/nebraska",
+            "t": "2026-10-22T19:13:35+00:00"
+        }
+    ]
+}

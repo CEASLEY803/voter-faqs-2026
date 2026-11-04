@@ -1,0 +1,104 @@
+{
+    "state": "ut",
+    "num_questions": 16,
+    "num_answers": 16,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "1. Will I receive a ballot in the mail?",
+            "a": "If you are an active registered voter, then yes, you will automatically receive a ballot in the mail. Click this link to check if you are an active registered voter. (https://secure.utah.gov/voterreg/index.html)\n\nYour county clerk will mail ballots between October 13, 2026 and October 27, 2026. If you are registered to vote in San Juan County, your ballot may be mailed sooner. If you do not receive a ballot shortly after this time, immediately contact your county clerk’s office. (https://vote.utah.gov/county-clerk-contact-information/)",
+            "s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+            "t": "2026-10-29T22:09:54+00:00"
+        },
+        {
+            "q": "2. When can I expect my mail ballot to arrive?",
+            "a": "County clerks will mail ballots between October 13, 2026 and October 27, 2026. If you are registered to vote in San Juan County, your ballot may be mailed sooner. If you do not receive your ballot shortly after this time period, immediately contact your county clerk’s office.",
+            "s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+            "t": "2026-10-29T22:09:54+00:00"
+        },
+        {
+            "q": "3. When do I need to mail my ballot?",
+            "a": "Your mail ballot must received by the clerk’s office on or before 8:00 p.m. on Election Day, November 3, 2026. Ballots received after November 3, 2026 will not be counted. You can also drop your ballot off at a drop box location before 8:00 p.m. on Election Day. Find drop box locations near you. (https://votesearch.utah.gov/voter-search/search/search-by-address/how-and-where-can-i-vote)",
+            "s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+            "t": "2026-10-29T22:09:54+00:00"
+        },
+        {
+            "q": "4. How do I receive a ballot if I am in the military or living outside of the United States?",
+            "a": "If you are an active military member, a spouse or dependent of an active military member, or an individual living outside of the United States, you have several options to receive and send your ballot. Visit this page for more information (https://vote.utah.gov/military-and-overseas-voters/).",
+            "s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+            "t": "2026-10-29T22:09:54+00:00"
+        },
+        {
+            "q": "5. How do I track my ballot?",
+            "a": "You can sign up to receive notifications on the status of your ballot at BallotTrax (https://ballottrax.utah.gov/voter/). You can also track the status of your mail ballot by visiting this page. (https://votesearch.utah.gov/voter-search/search/search-by-voter/track-mail-ballot)",
+            "s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+            "t": "2026-10-29T22:09:54+00:00"
+        },
+        {
+            "q": "6. Can my mail ballot be forwarded?",
+            "a": "No. Mail ballots cannot be forwarded in the mail. If you need to change your address, please submit a new voter registration form.",
+            "s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+            "t": "2026-10-29T22:09:54+00:00"
+        },
+        {
+            "q": "7. Do I need a stamp for my mail ballot?",
+            "a": "Some counties offer prepaid postage on your ballot envelope, and other counties do not. Refer to the instructions that are included in your ballot.\n\nIf your county does not offer prepaid postage and you cannot obtain a stamp, your county may offer drop box locations. To view drop box locations in your county, enter your address at this link. (https://votesearch.utah.gov/voter-search/search/search-by-address/how-and-where-can-i-vote) Another option is to place your ballot in the mail without postage, and the Postal Service will still deliver your ballot to your county clerk’s office.\n\nCan’t find the information you are looking for? Contact the Lieutenant Governor’s Office at [email protected] (https://vote.utah.gov/cdn-cgi/l/email-protection) or 801-538-1041.",
+            "s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+            "t": "2026-10-29T22:09:54+00:00"
+        },
+        {
+            "q": "1. How can I register to vote?",
+            "a": "For the November 3rd, 2026 Regular General Election, your county clerk must receive your registration by 5:00 pm on Friday, October 23rd, 2026. You can register using any of the following methods:\n\n- Online: Register at voter.utah.gov (https://secure.utah.gov/voterreg/index.html?fromLocation=).\n- By Mail or Email: Complete a paper registration form (https://vote.utah.gov/wp-content/uploads/2024/01/State-of-Utah-Voter-Registration-Form.pdf). Find your clerk here. (https://vote.utah.gov/contact-your-county-election-officials/)\n- In-Person: Visit your county clerk’s office (https://vote.utah.gov/contact-your-county-election-officials/).\n\nIf you miss the deadline, you may still register in person at an early voting location or on Election Day with two forms of identification.",
+            "s": "https://vote.utah.gov/learn-about-registering-to-vote/",
+            "t": "2026-10-29T22:09:55+00:00"
+        },
+        {
+            "q": "2. What are the requirements to register?",
+            "a": "To register to vote in Utah, you must meet all of the following criteria:\n\n- A U.S. Citizen\n- A resident of Utah for at least 30 days before the election\n- 18 years old on or before Election Day; or",
+            "s": "https://vote.utah.gov/learn-about-registering-to-vote/",
+            "t": "2026-10-29T22:09:55+00:00"
+        },
+        {
+            "q": "3. Am I considered a resident of Utah?",
+            "a": "You are considered a resident if your primary home is in Utah and you intend to stay here permanently or indefinitely. For registration purposes, you must be a resident for at least 30 days immediately preceding Election Day.",
+            "s": "https://vote.utah.gov/learn-about-registering-to-vote/",
+            "t": "2026-10-29T22:09:55+00:00"
+        },
+        {
+            "q": "4. I have a felony. Can I register to vote?",
+            "a": "Yes. If you are a convicted felon, you can register and vote unless you are currently serving a jail or prison sentence. Rights are restored upon parole, probation, or completion of incarceration.",
+            "s": "https://vote.utah.gov/learn-about-registering-to-vote/",
+            "t": "2026-10-29T22:09:55+00:00"
+        },
+        {
+            "q": "5. I am a college student living away from home. Where do I register?",
+            "a": "You should register at the address you consider your permanent residence—this can be either your home address or your school address.",
+            "s": "https://vote.utah.gov/learn-about-registering-to-vote/",
+            "t": "2026-10-29T22:09:55+00:00"
+        },
+        {
+            "q": "6. Is my voter registration information shared with third parties?",
+            "a": "Voter registration records are public information by law, but sensitive data is strictly protected.\n\nVoters eligible for the Withheld category include:\n\n- Victims (or potential victims) of domestic or dating violence\n- Law enforcement officers\n- Individuals protected by a court order\n- Members of the armed forces\n\n  📄 Download the Withholding Request Form  (https://vote.utah.gov/wp-content/uploads/2023/06/At-risk-Designation-Request-Form.pdf)\n\nAny information you provide for purposes of voter registration may be subject to verification through the USCIS Systematic Alien Verification for Entitlements (SAVE) program.\n\nNeed additional help? Contact the Lieutenant Governor’s Office at 801-538-1041.",
+            "s": "https://vote.utah.gov/learn-about-registering-to-vote/",
+            "t": "2026-10-29T22:09:55+00:00"
+        },
+        {
+            "q": "Am I considered a resident of Utah?",
+            "a": "You are considered a resident if your primary home is in Utah and you intend to stay here permanently or indefinitely. For registration purposes, you must be a resident for at least 30 days immediately preceding Election Day.",
+            "s": "https://vote.utah.gov/voter-registration-portal/",
+            "t": "2026-10-29T22:09:56+00:00"
+        },
+        {
+            "q": "I have a felony. Can I register to vote?",
+            "a": "Yes. If you are a convicted felon, you can register and vote unless you are currently serving a jail or prison sentence. Rights are restored automatically upon parole, probation, or completion of incarceration.",
+            "s": "https://vote.utah.gov/voter-registration-portal/",
+            "t": "2026-10-29T22:09:56+00:00"
+        },
+        {
+            "q": "I am a college student living away from home. Where do I register?",
+            "a": "You should register at the address you consider your permanent residence—this can be either your home address or your school address, but you may only be registered in one location.\n\n Is my voter registration information shared with third parties? Protected Data\n\nVoter registration records are considered public information and a list of voters is available to the public upon request. However, there are two categories of privacy for your record: Public and At-Risk.\n\nProtected Information: Regardless of your category, your Social Security Number, Driver’s License or State ID number, email address, full date of birth, phone number, and signature are strictly private and never given to the public.\n\nPublic Category: Under Utah Code 63G-2-201, public voter lists include your name, physical and mailing addresses, year of birth, party affiliation, and vote history (not how you voted).\n\nAt-Risk Category: Recently amended by SB 153, certain voters may have their personally identifiable information anonymized from public requests. Eligible voters include:\n\n- Victims (or potential victims) of domestic violence or dating violence\n- Law enforcement officers\n- Individuals protected by a protective or protection order\n- Members of the armed forces\n- Public figures\n- A person who resides with any of the individuals listed above\n\nDownload the At-Risk Designation Request Form (PDF) (https://vote.utah.gov/wp-content/uploads/2023/06/At-risk-Designation-Request-Form.pdf). For more information, please contact your county clerk.\n\nNotice re Verification of Voter registration information: Any information you provide for purposes of voter registration may be subject to verification through the USCIS Systematic Alien Verification for Entitlements (SAVE) program.\n\nNeed additional help? Contact the Lieutenant Governor’s Office at 801-538-1041.",
+            "s": "https://vote.utah.gov/voter-registration-portal/",
+            "t": "2026-10-29T22:09:56+00:00"
+        }
+    ]
+}

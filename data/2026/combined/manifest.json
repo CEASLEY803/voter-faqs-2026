@@ -1,0 +1,488 @@
+{
+    "year": 2026,
+    "baseline_year": 2024,
+    "built_at": "2026-11-04T21:12:21+00:00",
+    "vote411_batch": "data/2026/batches/20261022T201244360248Z",
+    "state_site_batch": "data/2026/state_sites/20261029T220403252970Z",
+    "state_site_parser_version": 1,
+    "record_order": "state-site records first, then Vote411 records; the s field gives each record's source",
+    "counts": {
+        "ak": {
+            "state_site": 17,
+            "vote411": 38,
+            "total": 55
+        },
+        "al": {
+            "state_site": 20,
+            "vote411": 20,
+            "total": 40
+        },
+        "ar": {
+            "state_site": 4,
+            "vote411": 33,
+            "total": 37
+        },
+        "az": {
+            "state_site": 13,
+            "vote411": 68,
+            "total": 81
+        },
+        "ca": {
+            "state_site": 57,
+            "vote411": 63,
+            "total": 120
+        },
+        "co": {
+            "state_site": 0,
+            "vote411": 19,
+            "total": 19
+        },
+        "ct": {
+            "state_site": 43,
+            "vote411": 41,
+            "total": 84
+        },
+        "de": {
+            "state_site": 78,
+            "vote411": 9,
+            "total": 87
+        },
+        "fl": {
+            "state_site": 107,
+            "vote411": 65,
+            "total": 172
+        },
+        "ga": {
+            "state_site": 46,
+            "vote411": 60,
+            "total": 106
+        },
+        "hi": {
+            "state_site": 13,
+            "vote411": 0,
+            "total": 13
+        },
+        "ia": {
+            "state_site": 0,
+            "vote411": 2,
+            "total": 2
+        },
+        "id": {
+            "state_site": 37,
+            "vote411": 26,
+            "total": 63
+        },
+        "il": {
+            "state_site": 65,
+            "vote411": 63,
+            "total": 128
+        },
+        "in": {
+            "state_site": 3,
+            "vote411": 28,
+            "total": 31
+        },
+        "ks": {
+            "state_site": 24,
+            "vote411": 26,
+            "total": 50
+        },
+        "ky": {
+            "state_site": 28,
+            "vote411": 50,
+            "total": 78
+        },
+        "la": {
+            "state_site": 93,
+            "vote411": 25,
+            "total": 118
+        },
+        "ma": {
+            "state_site": 13,
+            "vote411": 0,
+            "total": 13
+        },
+        "md": {
+            "state_site": 6,
+            "vote411": 0,
+            "total": 6
+        },
+        "me": {
+            "state_site": 33,
+            "vote411": 67,
+            "total": 100
+        },
+        "mi": {
+            "state_site": 142,
+            "vote411": 54,
+            "total": 196
+        },
+        "mn": {
+            "state_site": 26,
+            "vote411": 63,
+            "total": 89
+        },
+        "mo": {
+            "state_site": 22,
+            "vote411": 0,
+            "total": 22
+        },
+        "ms": {
+            "state_site": 5,
+            "vote411": 2,
+            "total": 7
+        },
+        "mt": {
+            "state_site": 12,
+            "vote411": 29,
+            "total": 41
+        },
+        "nc": {
+            "state_site": 94,
+            "vote411": 70,
+            "total": 164
+        },
+        "nd": {
+            "state_site": 6,
+            "vote411": 20,
+            "total": 26
+        },
+        "ne": {
+            "state_site": 10,
+            "vote411": 1,
+            "total": 11
+        },
+        "nh": {
+            "state_site": 33,
+            "vote411": 43,
+            "total": 76
+        },
+        "nj": {
+            "state_site": 31,
+            "vote411": 27,
+            "total": 58
+        },
+        "nm": {
+            "state_site": 67,
+            "vote411": 63,
+            "total": 130
+        },
+        "nv": {
+            "state_site": 107,
+            "vote411": 60,
+            "total": 167
+        },
+        "ny": {
+            "state_site": 20,
+            "vote411": 65,
+            "total": 85
+        },
+        "oh": {
+            "state_site": 19,
+            "vote411": 62,
+            "total": 81
+        },
+        "ok": {
+            "state_site": 85,
+            "vote411": 0,
+            "total": 85
+        },
+        "or": {
+            "state_site": 20,
+            "vote411": 0,
+            "total": 20
+        },
+        "pa": {
+            "state_site": 20,
+            "vote411": 46,
+            "total": 66
+        },
+        "ri": {
+            "state_site": 17,
+            "vote411": 0,
+            "total": 17
+        },
+        "sc": {
+            "state_site": 32,
+            "vote411": 47,
+            "total": 79
+        },
+        "sd": {
+            "state_site": 8,
+            "vote411": 2,
+            "total": 10
+        },
+        "tn": {
+            "state_site": 49,
+            "vote411": 0,
+            "total": 49
+        },
+        "tx": {
+            "state_site": 27,
+            "vote411": 62,
+            "total": 89
+        },
+        "ut": {
+            "state_site": 16,
+            "vote411": 0,
+            "total": 16
+        },
+        "va": {
+            "state_site": 19,
+            "vote411": 64,
+            "total": 83
+        },
+        "vt": {
+            "state_site": 13,
+            "vote411": 29,
+            "total": 42
+        },
+        "wa": {
+            "state_site": 47,
+            "vote411": 0,
+            "total": 47
+        },
+        "wi": {
+            "state_site": 151,
+            "vote411": 57,
+            "total": 208
+        },
+        "wv": {
+            "state_site": 53,
+            "vote411": 26,
+            "total": 79
+        },
+        "wy": {
+            "state_site": 52,
+            "vote411": 0,
+            "total": 52
+        }
+    },
+    "flagged_pages": [
+        {
+            "state": "ak",
+            "url": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "flags": [
+                "11 records, well below the 24 the baseline had for this URL"
+            ]
+        },
+        {
+            "state": "ak",
+            "url": "https://www.elections.alaska.gov/military-overseas-and-college-voters/",
+            "flags": [
+                "1 records, well below the 5 the baseline had for this URL"
+            ]
+        },
+        {
+            "state": "co",
+            "url": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "ct",
+            "url": "https://portal.ct.gov/sots/election-services/voter-information/party-affiliation",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "ct",
+            "url": "https://portal.ct.gov/sots/election-services/election-day-registration/election-day-registration",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "de",
+            "url": "https://elections.delaware.gov/voter/avr.html",
+            "flags": [
+                "6 records, well below the 14 the baseline had for this URL"
+            ]
+        },
+        {
+            "state": "de",
+            "url": "https://elections.delaware.gov/public/faq/",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "hi",
+            "url": "https://elections.hawaii.gov/register-to-vote/registration/",
+            "flags": [
+                "1 records, well below the 14 the baseline had for this URL"
+            ]
+        },
+        {
+            "state": "hi",
+            "url": "https://elections.hawaii.gov/voting/voters-with-a-felony-conviction/",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "hi",
+            "url": "https://elections.hawaii.gov/voting/voters-requiring-assistance/",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "hi",
+            "url": "https://elections.hawaii.gov/voting/military-and-overseas-voters/",
+            "flags": [
+                "1 records, well below the 3 the baseline had for this URL"
+            ]
+        },
+        {
+            "state": "hi",
+            "url": "https://elections.hawaii.gov/voting/houseless-voter-2/",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "hi",
+            "url": "https://elections.hawaii.gov/voting/college-students/",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "ia",
+            "url": "https://sos.iowa.gov/voters/military-and-overseas-civilian-voters",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "ia",
+            "url": "https://sos.iowa.gov/elections-and-voting-faqs",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "in",
+            "url": "https://www.in.gov/sos/elections/voter-information/register-to-vote/",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "in",
+            "url": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/absentee-voting/",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "ky",
+            "url": "https://elect.ky.gov/Voters/Pages/Voter-Rights.aspx",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "md",
+            "url": "https://elections.maryland.gov/voting/index.html",
+            "flags": [
+                "6 records, well below the 23 the baseline had for this URL"
+            ]
+        },
+        {
+            "state": "mi",
+            "url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "flags": [
+                "4 records, well below the 24 the baseline had for this URL"
+            ]
+        },
+        {
+            "state": "mn",
+            "url": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-homeless/",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "mn",
+            "url": "https://www.sos.mn.gov/elections-voting/register-to-vote/i-fear-for-my-personal-safety/",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "nd",
+            "url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/military-and-overseas-us-citizens",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "nd",
+            "url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote",
+            "flags": [
+                "1 records, well below the 6 the baseline had for this URL"
+            ]
+        },
+        {
+            "state": "nd",
+            "url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/absentee-voting",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "nd",
+            "url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "nh",
+            "url": "https://www.sos.nh.gov/elections/voting-disabilities",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "tx",
+            "url": "https://www.votetexas.gov/faq/index.html",
+            "flags": [
+                "27 records, well below the 69 the baseline had for this URL"
+            ]
+        },
+        {
+            "state": "wa",
+            "url": "https://www.sos.wa.gov/elections/voters/helpful-information/voting-assisted-living-facilities",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "wa",
+            "url": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/felony-convictions-and-voting-rights",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "ma",
+            "url": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-early.htm",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        },
+        {
+            "state": "ma",
+            "url": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
+            "flags": [
+                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            ]
+        }
+    ],
+    "parse_report": "state_site_parse_report.json"
+}

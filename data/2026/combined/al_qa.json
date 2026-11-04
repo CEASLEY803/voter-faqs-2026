@@ -1,0 +1,248 @@
+{
+    "state": "al",
+    "num_questions": 40,
+    "num_answers": 40,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "Why should I vote?",
+            "a": "For your voice to be heard, every Alabamian should vote.\n\nVoting is fundamental to our constitutional republic, and your civic participation is critical to our success as a state.\n\nYou can find the link to register to vote or update your registration online here (https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action).\n\nYou can find information about upcoming elections in your area here (https://www.sos.alabama.gov/alabama-votes/voter/upcoming-elections).",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "I turned in a voter registration application. Am I registered to vote?",
+            "a": "Just because you turned in a voter registration application does not necessarily mean you are registered to vote. Once your application has been processed by your local Board of Registrars, you should receive an acknowledgement from the Registrars indicating the status of your application. This acknowledgement will usually be a voter identification card confirming that you are registered to vote. However, if your application was incomplete, you may receive a letter requesting additional information to complete your application. If you are unsure about the status of your application, you can always call your local Board of Registrars (http://sos.alabama.gov/alabama-votes/board-of-registrars-all-counties) or visit our Polling Place and Registration Status (https://myinfo.alabamavotes.gov/) page.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "I turn 18 after the voter registration deadline but before the election. Can I vote in the election?",
+            "a": "Yes. As long as you turn 18 on or before election day, even if your birthday is after the voter registration deadline, you can apply for voter registration and participate in that election (as long as you meet other voter qualifications). Please note that you must turn your voter registration application in before the 14-day close for voter registration.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "How can I become involved in the electoral process as a high school or college student?",
+            "a": "Alabama Act 2019-476 allows eligible high school and college students to intern as unpaid student poll workers. Students must be recommended by their principal or other school official and must be at least 16 years of age at the time of the election.\n\nFor the full list of requirements and the application, follow the link here (https://www.sos.alabama.gov/student-poll-worker-internship).",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "I have moved from one part of the country to another and want to vote. What should I do?",
+            "a": "You must contact the Board of Registrars and submit an update to your voter registration record. Remember, where you live determines who represents you. To be sure you are voting on candidates in the correct district, it is important that you vote in the correct precinct.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "I have moved from one county to another and want to vote. What should I do?",
+            "a": "When you move across county lines, you must register to vote in your new county of residence. Voter registration does not automatically follow you from one county to another.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "It's the day before the election. I forgot to register to vote. Is it too late?",
+            "a": "Yes, it is too late to register to vote for that election. To participate in an election, you must submit your application before registration closes for that election. Registration is closed during the fourteen days prior to an election and on election day.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "What if I make a mistake marking my ballot?",
+            "a": "If you have not already placed your ballot in the electronic tabulator or ballot box, you may ask a poll worker for another ballot. The poll worker will spoil your first ballot so that it cannot be counted or reused.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "Are candidates allowed to campaign outside my polling place?",
+            "a": "Yes, electioneering or campaigning is permitted outside the polling place. However, this activity must not be closer than 30 feet to the entrance of the polling place. If the polling place is located in a room within a building, the campaigning must not be closer than 30 feet to the entrance of the building.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "Can a candidate assist me in marking my ballot?",
+            "a": "Yes, if you ask the candidate to help you. The only people who cannot assist a voter are the voter’s employer, an agent of the voter’s employer, or an officer or agent of the voter’s union.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "Can I wear campaign buttons or t-shirts with political advertisements into the polling place?",
+            "a": "Yes. However, you should not loiter or leave any campaign materials in the polling place.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "Can I carry a sample ballot into the voting booth?",
+            "a": "Yes. However, you should not leave the sample ballot in the polling place.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "If Constitutional Amendments are included on the ballot, must I vote on them?",
+            "a": "No. You are not required to vote on constitutional amendments. Similarly, you are not required to vote in all races on the ballot. Participation is your choice.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "In a Primary Election, am I allowed to vote for the Constitutional Amendments only?",
+            "a": "Yes. In fact, if you choose not to participate in nominating candidates for either political party, you can request a constitutional amendment ballot that contains only the proposed constitutional amendments.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "When I voted in the Primary Election, I was asked to declare a political party preference. Why is that?",
+            "a": "In Alabama, the primary election is part of the nominating process for a political party. It is used to select who will represent a party in the general election. You are required to choose one political party’s primary over another because you cannot participate in the nomination of both parties’ candidates. However, in the general election, you may split your ticket and vote for candidates from each political party.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "What happens if I do not want to declare a political party preference at the Primary Election?",
+            "a": "If you choose not to declare a political preference at the primary election, you will not be eligible to vote in any political party’s primary election. You are, however, still eligible to vote on any proposed constitutional amendments that are up for a vote.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "I voted in my political party's Primary Election. My party is not having a runoff. Can I vote in the other party's runoff?",
+            "a": "No. In 2017, the Alabama Legislature passed Act 2017-340. The act prohibits a person from voting in one political party's primary election and voting in a different political party's primary runoff election. Therefore, if you vote in a primary election and want to vote in a primary runoff election, you must vote in the primary runoff election of the same political party that you chose in the primary election. However, if you did not vote in a political party's primary election and would like to vote in the primary runoff election, you may choose which political party's primary runoff election you would like to vote in.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "Can I take photographs or videotape inside my polling place?",
+            "a": "Each voter has a right to cast a ballot in secrecy and in private. The U.S. Department of Justice has advised that photography or videotaping inside a polling place does not serve any useful purpose and may instead actually intimidate voters who are exercising their right to vote. However, voters are permitted to take a picture of or with their ballot, as long as they do not disclose the content of any other voter's ballot or disrupt the voting process.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "Can I take a cell phone into my polling place?",
+            "a": "Yes. However, use of the phone in the polling place should not disturb other voters or disrupt the polling place. If your cell phone has a camera, you cannot take photographs or film video inside the polling place. Each voter has a right to cast a ballot in secrecy and in private. The U.S. Department of Justice has advised that photography or videotaping inside a polling place does not serve any useful purpose and may instead actually intimidate voters who are exercising their right to vote.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "I do not see my question on this page. What do I do now?",
+            "a": "If your question is not addressed on this page, please call the Elections Division at 1-800-274-8683 or 334-242-7210.",
+            "s": "https://www.sos.alabama.gov/alabama-votes/faqs",
+            "t": "2026-10-29T22:04:07+00:00"
+        },
+        {
+            "q": "What is a ballot drop box?",
+            "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "Are drop boxes available in my state?",
+            "a": "No, ballot drop boxes are not available in Alabama. You may hand-deliver your ballot to the Absentee Election Manager’s office in your county. You can look up the address of your county Absentee Election Manager office here (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "Do I need an ID to register to vote in Alabama?",
+            "a": "The ID you need to complete your registration varies depending on how you complete the registration process, either by mail or online.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "What types of ID are accepted for registration?",
+            "a": "To register to vote by mail (https://www.sos.alabama.gov/sites/default/files/voter-pdfs/nvra-2.pdf) you must provide one of the following:\n\n- Alabama driver’s license\n- Alabama non-driver’s ID number\n- Social Security number\n\nTo register to vote online (https://www.alabamainteractive.org/sos/voter_registration/instructions.action) you need one of the following:\n\n- Alabama driver’s license\n- Alabama non-driver’s ID\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "When are official election results available in Alabama?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "Official results will be released on the Alabama Secretary of State's website (https://www.sos.alabama.gov/alabama-votes) as they become available.\n\n  Official Results  (https://www2.alabamavotes.gov/electionnight/statewideresultsbycontest.aspx?ecode=1001000)",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "Does Alabama offer provisional voting?",
+            "a": "Yes, Alabama offers provisional voting.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "How do I vote a provisional ballot?",
+            "a": "You will vote by provisional ballot if you meet certain criteria. That criteria is:\n\n- Your name is not on the poll list\n- You were issued an absentee ballot\n- You are voting during a court ordered poll extension\n- You are challenged by an inspector\n- You do not have appropriate voter ID\n- You are ineligible for the primary runoff election",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "How can I make sure my provisional ballot is counted?",
+            "a": "You will be given a receipt with information on how to verify the status of your provisional ballot. If you have any questions, please contact your local elections office. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "What voting assistance is available for voters with disabilities?",
+            "a": "You have several accessible voting options.\n\nHandicap-accessible voting machines are at every polling site in Alabama and are available whenever polls are open.\n\nIf you are disabled or over the age of 70 you may move to the front of the line at the polling place, just ask a poll worker to move you.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "How do I request accommodation or report accessibility issues?",
+            "a": "You may request assistance at the polling place from anyone except your employer, an agent of your employer, or an officer or agent of your union. If you need help, you may ask a poll worker to assist you.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "Can I vote by mail because of my disability?",
+            "a": "Absentee voting starts 55 days before the election. Each county has at least one handicap accessible voting machine to assist voters with disabilities with absentee voting.\n\nIf you meet the criteria (https://www.vote411.org/alabama#absentee-ballot-process) to receive an absentee ballot by mail you may vote from home. If you are permanently disabled you may vote absentee on an on-going basis. You must apply (https://www.sos.alabama.gov/sites/default/files/DCAVA%20App%20Fillable.pdf) to receive an absentee ballot for all county, state and federal elections, and have the application signed and notarized by your primary physician. There is a separate application (https://www.sos.alabama.gov/sites/default/files/DCAVA%20Muni%20App%20Fillable.pdf) for municipal elections. The application is good for all elections during the calendar year, or if the cycle spans multiple years the application is good for the entire election cycle.\n\nYou must apply for an absentee ballot annually if you wish to receive a ballot.\n\nVoters who need assistance in completing or returning their absentee ballot due to blindness, disability, or inability to read or write may select any person to assist them, except their employer, an agent of their employer, or an officer or agent of their union.\n\n For more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in Alabama?",
+            "a": "Here’s what you need to know to register in Alabama or update your voter registration information:\n\nYou may submit an application online (https://www.alabamainteractive.org/sos/voter_registration/), download and mail (https://www.sos.alabama.gov/sites/default/files/voter-pdfs/nvra-2.pdf) a completed registration form, or request (https://www.sos.alabama.gov/contact/online_voter_form_request) that a form be sent to your address.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in Alabama?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you can vote in the correct district.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in Alabama?",
+            "a": "The deadline to register to vote in Alabama, whether online, by mail (postmarked), or in person, is 15 days before Election Day. Be sure to check the exact date each year.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in Alabama?",
+            "a": "You must present a photo ID when voting in person in Alabama. Accepted IDs include an Alabama driver’s license (physical or digital), U.S. passport, military or tribal ID, a student or employee ID from an Alabama college or university, or a government-issued ID from any state or the federal government. If you don’t have a valid photo ID, you may still vote if two poll workers confirm your identity. Free Alabama photo voter IDs are available through the Secretary of State or your county’s Board of Registrars (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "I’m originally from another state. Can I still vote in my home state while studying in Alabama?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Alabama?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "q": "What types of voting machines does Alabama use?",
+            "a": "The voting system used in Alabama is Optical Scan.\n\nWhat is optical scan voting?\n\nWith optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\n\n- With a pen or pencil, you fill in a little box, circle, or space between two arrows.\n- When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\n- Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/alabama",
+            "t": "2026-10-22T19:12:51+00:00"
+        }
+    ]
+}

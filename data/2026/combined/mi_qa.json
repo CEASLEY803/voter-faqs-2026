@@ -1,0 +1,1184 @@
+{
+    "state": "mi",
+    "num_questions": 196,
+    "num_answers": 196,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "Am I notified after I submit a voter registration application?",
+            "a": "Yes. After your voter registration application is processed by your clerk, you will receive a voter identification card that will list your polling place location and your voting districts. This card is for your reference, and you do not need to present it when you go to vote. If you did not receive or lost your card, contact your local clerk for a replacement or visit Michigan.gov/Vote (https://mvic.sos.state.mi.us/Home/Index) to check your registration status.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Are campaign materials, clothing or accessories allowed in a polling place?",
+            "a": "No. Michigan law prohibits the following within 100 feet of a polling place:\n\n- Campaigning for a candidate or ballot measure\n- Wearing or bringing election- or campaign-related clothing or accessories\n- Displaying or wearing candidate or election-related signage\n- Bringing election, campaign, or partisan materials into a polling place\n- Requesting signatures for or signing petitions\n\nMichigan has prohibited the practice of displaying election-related materials at the polls for decades. This includes clothing and buttons as well as materials such as pamphlets, fliers, and stickers. If you go to the polls with a shirt or button bearing election-related images or slogans, you will be asked to cover or remove it.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Are drop boxes safe?",
+            "a": "YES. Michigan drop boxes are made of heavy-duty steel. They are secure, locked, and bolted to the ground. By law, all drop boxes in Michigan have security cameras pointed at them for 24/7 monitoring. Only official clerk staff who have taken a legal oath can collect ballots from drop boxes. Ballots are collected from drop boxes at least once a day.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Are election observers allowed in a polling place?",
+            "a": "Yes. Election observers are allowed in polling places to observe the voting process as permitted by Michigan Election Law. Election observers are not election workers and may not assist voters. Local clerks do not hire election observers.\n\nTypes of election observers include:\n\n- Election challengers: A non-governmental volunteer, typically appointed by a political party or interest group to observe elections. Challengers must display credentials from an approved credentialing organization such as a political party eligible to appear on the ballot.\n- Poll watchers: A non-governmental volunteer who is not credentialed by an approved credentialing organization. A poll watcher's duties are strictly limited to observing from the public viewing area. They may not issue challenges or interrupt the voting process.\n\nLearn more about election observers (https://www.michigan.gov/sos/-/media/Project/Websites/sos/01vanderroest/SOS_ED_2_CHALLENGERS.pdf?rev=735801395d704499b301c6c025dcc970&hash=0714DFEF33943F023091522B38F6495F)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Are firearms allowed in a polling place?",
+            "a": "For information on firearms in a polling place please review the 2025 Secretary of State guidance on Current Voter Intimidation and Firearm Laws.\n\nLegislation to restrict firearms in voting-related locations was signed by the governor in December 2024 and took effect April 2, 2025. Under Public Acts 157 and 158, possession of a firearm is prohibited within 100 feet of a polling place or early voting site when voting is occurring, within 100 feet of an absent voter drop box or clerk’s office for 40 days before the election, or in other voting-related locations, with limited exceptions, including for law enforcement.\n\nOverview of current voter intimidation and firearm laws (https://www.michigan.gov/sos/-/media/Project/Websites/sos/03mcalpine/Overview_of_Current_Voter_Intimidation_and_Firearms_Laws.pdf?rev=09ce923515984509ba51e1a86137a7f1&hash=5B1CBE85B437F5926127419ACC7A7CA0)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Can I return another person's absentee ballot?",
+            "a": "The following individuals are legally permitted to return a voter’s absentee ballot:\n\n- The voter.\n- A member of the voter’s immediate family who has been asked to return the ballot.\n- A person residing in the voter’s household who has been asked to return the ballot.\n- A mail carrier during the course of their official duty.\n- An authorized election official in the voter’s jurisdiction.\n\nIt is a felony in Michigan for a person other than those listed to possess or deliver a ballot regardless of whether it has been voted.\n\nTrack the status of your absentee ballot (https://mvic.sos.state.mi.us/Voter/Index/)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Can I return my ballot in a drop box on Election Day?",
+            "a": "YES. Ballots must be in the drop box by 8 p.m. on Election Day to be counted.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Can I return someone else’s ballot to a drop box?",
+            "a": "You can only return someone else’s ballot if that person lives in your household, is a member of your immediate family, or your caregiver.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Can I use any drop box to return my ballot?",
+            "a": "NO. You must use your assigned drop box – you can find your drop box at mi.gov/vote (https://www.michigan.gov/vote).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Can someone vote twice using an absentee ballot?",
+            "a": "No. Michigan uses a secure voter records database, called the Qualified Voter File, that tracks when a voter has submitted a ballot. This ballot information is used by local clerks and election workers to prevent the issuance of duplicate ballots.\n\n Each time a ballot is issued, the ballot number and the name of the voter it is issued to is recorded in the QVF. If a voter requests a second ballot, the entry for the first ballot would be flagged, and the clerk would invalidate the first ballot before issuing a new ballot.\n\n Voters who have cast an absentee ballot and then choose to vote at an early voting site, or at the polls on Election Day, will be turned away.\n\nLearn more about election security in Michigan (https://www.michigan.gov/sos/elections/security)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Can voters who have already cast their ballot early change their vote?",
+            "a": "If you would like to change your vote after returning your completed and signed absentee ballot to your local clerk's office, your written and signed request must be received by your local clerk’s office by 5 p.m. the second Friday before Election Day.\n\nVoters who wish to vote in person after obtaining an absentee ballot can do so at their early voting site or Election Day polling place if they have not already returned their absentee ballot. Voters may either submit their voted absentee ballot for tabulation at the early voting site or Election Day polling place or they may “spoil” their absentee ballot and be issued a new ballot\n\nIf you have already cast your ballot at an early voting or election day polling location, your vote cannot be changed.\n\nLocate your local clerk's office. (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk)\n\nTrack the status of your absentee ballot (https://mvic.sos.state.mi.us/Voter/Index/).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Can I use a camera in the polls?",
+            "a": "Voters can take a picture of their own ballot in the voting booth. For the privacy and security of neighboring voters, voters are prohibited from holding their ballot up for a selfie and/or photo. Voters may, however, take selfies outside of the polling location and are encouraged to do so.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Can I vote a \"split\" ticket?",
+            "a": "In Michigan, voters can only vote in one party column and cannot \"split\" their ticket (i.e., vote in more than one party column) if voting in a presidential (March) or statewide (August) primary.\n\nVoters may “split” their ticket in the general election (November). Per the passage of Proposal 18-3 in 2018, Michigan voters also have the option to vote straight-ticket by selecting the option on the side of their ballot with partisan races. Voting straight ticket does not automatically include selections on non-partisan side of the ballot.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Can Michigan residents in jail or prison still vote?",
+            "a": "According to state law, eligible citizens who are not currently serving a sentence in jail or prison are eligible to register and vote in Michigan. Citizens who are eligible can vote if they:\n\n- Are a Michigan resident, a U.S. citizen, and at least 18 years old\n- Have a past conviction\n- Are on probation or on parole\n- Are in or out of jail or prison while awaiting arraignment or trial",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Can voters be challenged based on home foreclosures?",
+            "a": "The compilation of home foreclosure information alone does not provide sufficient reason to challenge a person's voting status. In fact, the Michigan Republican and Democratic parties agree that so-called foreclosure lists do not provide a reasonable basis to challenge voters.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Do I need a REAL ID-compliant driver’s license or ID in order to vote?",
+            "a": "No. You will be asked for photo identification at your polling location when you vote in person; however, your identification does not need to be REAL ID-compliant for you to vote.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Does a political party preference have to be declared when registering to vote?",
+            "a": "No. Michigan voters do not register by party affiliation.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Do I need my voter registration card in order to vote?",
+            "a": "No. As long as you are in the correct polling location, your name will appear on the registration list supplied to your precinct.\n\nThe voter identification card is for your reference and is not required to vote. If you did not receive or have lost your voter identification card, contact your local clerk for a replacement, or visit Michigan.gov/Vote (https://mvic.sos.state.mi.us/Home/Index) to check your registration status.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Do I need to show identification in order to vote?",
+            "a": "Voters will be asked to present an acceptable photo ID, including:\n\n- Michigan driver's license or state-issued ID card\n- Driver's license or personal identification card issued by another state\n- Federal or state government-issued photo identification\n- U.S. passport\n- Military ID with photo\n- Educational institution ID\n- Tribal identification card with photo\n\nThe ID does not need to include the voter’s address.\n\nPlease note that voters who do not have an acceptable form of ID or failed to bring it with them to the polls still can cast a ballot and will be asked to sign a brief affidavit stating that they're not in possession of a photo ID.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "How can I access candidate and campaign finance records?",
+            "a": "Candidate and campaign finance records are accessed through the campaign finance searchable database (https://www.michigan.gov/sos/elections/disclosure/cfr).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "How can I help register people to vote?",
+            "a": "Anyone can help register eligible citizens to vote in Michigan. Guidance and materials for hosting a voter registration drive (https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Toolkit/Posters-flyers/Elections_VoterRegistrationDriveGuidelines.pdf) are available at Michigan.gov/VoterEducation (https://www.michigan.gov/sos/elections/voter-education-resources).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "How can I request election-related documents?",
+            "a": "To obtain copies, please submit a written request to:\n\nMichigan Department of State\n Bureau of Elections\n PO Box 20126\n Lansing, Michigan 48901-0726\n\nEmail: Elections@Michigan.gov (mailto:Elections@Michigan.gov)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "How do I submit a change of address for my voter registration?",
+            "a": "Under Michigan's motor vehicle and voter registration laws, when a voter updates the address on their voter registration, their address on their driver's license or state ID will also be updated. Additionally, if a change of address for a license or state ID is submitted to the Michigan Department of State, the address on the voter's voter registration will also be updated.\n\nLearn more about Michigan driver’s licenses or IDs (https://www.michigan.gov/sos/license-id/license-and-id)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "How can I track the status of my absentee ballot application?",
+            "a": "You can track when your local clerk mails your absentee ballot and when it is received by their office online.\n\nLocate your local clerk's office (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk)\n\nTrack the status of your application (https://mvic.sos.state.mi.us/Voter/Index/)\n\nYou can also sign up to receive electronic notification on ballot status on Michigan.gov/Vote (https://mvic.sos.state.mi.us/) while updating your voter registration, when registering to for the first time vote, or when submitting an online ballot application.\n\nNOTE: If you chose to vote your absent ballot in person at an Early Voting or Election Day location, this information will not update on Michigan.gov/Vote (https://mvic.sos.state.mi.us/) or send a notification if you are subscribed to notifications. Ballot tracking is limited to absent voter ballot and ballot application activity.\n\nTracking your absentee ballot instructions (https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Absentee-Ballot/Tracking-your-absentee-ballot.pdf?rev=f5b4bfec829c49cc9166f110ff3a6894&hash=1BE1DB94B31469764C76F3F95D6A249D)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "How can I contact the Bureau of Elections?",
+            "a": "The Bureau of Elections is located on the first floor of the Richard H. Austin Building (formerly the Treasury Building) at 430 W. Allegan St., in downtown Lansing. Access is available through the north side and south side entrances. All guests must register at the security desk before proceeding to the Bureau of Elections. The entrance to the Bureau is located in the northeast corner of the lobby.\n\nRegular mail for the Bureau of Elections should be addressed to:\n\nMichigan Department of State\n Bureau of Elections\n PO Box 20126\n Lansing, MI 48901-0726\n\nThe mailing address for overnight or express deliveries is:\n\nMichigan Department of State\n Bureau of Elections\n Richard H. Austin Building - First Floor\n 430 W. Allegan\n Lansing, MI 48918\n\nYou may also contact the Bureau by:\n\n Fax: 517-335-3235\n\nOr email us at:\n\nElection Division: Elections@michigan.gov (mailto:Elections@michigan.gov)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "How can I register to vote by mail?",
+            "a": "Complete the mail-in voter registration form (https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-Forms/Voter-Registration-Form-English.pdf?rev=c75e0dd77d1647deb1f5f9da30a5b6f9&hash=F5922C3C531FAEB794CAC26E59594094) and mail it to the address indicated on the form.\n\nIf you have never voted in Michigan and register by mail, you may be subject to an additional identification requirement provided under federal law. The identification requirement can be met by providing your Michigan driver’s license number or last four digits of your Social Security number on the mail-in form or sending a copy of any current and valid photo identification or a copy of a paycheck, government check, utility bill, bank statement or a government document which lists your name and address with the registration form. If you do not fulfill this requirement at the time of registration, you may provide one of the previously listed items at the polls on Election Day to complete the process. If you vote by mail, you may provide a copy of one of the previously listed items with your absentee ballot application or absentee ballot.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "How does the voter ID requirement affect me if I vote with an absentee ballot?",
+            "a": "If obtaining your absentee ballot in person, you will be requested to show photo ID. If you are not in possession of photo ID, you sign an affidavit stating you are not in possession of photo ID. If applying for an absentee ballot by mail, you will sign the application return envelope and your local clerk will verify the signature on the return envelope against the signature on file for you.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "How do I determine where I go to vote?",
+            "a": "To confirm your designated polling location, visit Michigan.gov/Vote (https://mvic.sos.state.mi.us/Home/Index). Registered Michigan voters who move within 60 days of the election may still vote at their previous address if they have not registered to vote at their new address before the election.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "How do I find current and past election results?",
+            "a": "The Bureau of Elections provides past election results, reports, statistics, and data by year online (https://www.michigan.gov/sos/elections/election-results-and-data). Local election results are available through each county clerk’s office (https://www.michigan.gov/sos/elections/election-results-and-data/candidate-listings-and-election-results-by-county).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "How do I get an absentee ballot?",
+            "a": "Registered Michigan voters may request an absentee ballot by submitting an absentee ballot application online at Michigan.gov/Vote, by mail, or in person at their local clerk’s office. To avoid the potential for mailing delays, voters who choose to request an absentee ballot are encouraged to submit their absentee ballot application no later than two weeks before Election Day. Voters may also request an absentee ballot in person at their local clerk’s office through 4 p.m. on the Monday before an election.\n\nUpon receiving your absentee ballot application, your local clerk’s office should check the signature on your application against the one recorded on your voter registration record. Once the signature is verified, the clerk’s office will issue your absentee ballot. To track your absentee ballot application and absentee ballot visit Michigan.gov/Vote (https://mvic.sos.state.mi.us/Home/Index).\n\nAfter receiving your absentee ballot, you have until 8 p.m. on Election Day to complete and sign the ballot and return it to your local clerk's office, who will again verify that the signature on the ballot return envelope matches your signature on file.\n\nPlease note: If you receive assistance completing your absentee ballot, the person who helped you must sign the designated space on the return envelope before your ballot can be submitted to the clerk’s office. Only you, a family member or person residing in your household, a mail carrier, or deputized election official is authorized to deliver your signed absentee ballot to your clerk's office.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "How do I learn more about the Michigan Election canvassing process?",
+            "a": "The bipartisan boards of canvassers at the county and state level are required by law to affirm the will of the people as demonstrated by the number of votes cast for each candidate in an election. Each board is comprised of two Republicans and two Democrats. Michigan law provides the county canvassers 14 days to examine everything that transpired in the elections in jurisdictions in their counties, and then certify the results and the election. The State Board of Canvassers subsequently must vote to certify all the county elections. There are a number of procedural checks-and-balances that ensure that elections are secure, and all eligible votes are accurately counted. Residents interested in learning more about canvassing and elections in Michigan are encouraged to become an election inspector by contacting their local clerk or Democracy MVP (https://www.michigan.gov/sos/elections/pollworker).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "How do I register to vote?",
+            "a": "Michigan residents who are at least 16 years old, a U.S. citizen, and are not currently serving a sentence in jail or prison may preregister or register to vote online, by mail, at a self-service station, or at a Secretary of State office no later than two weeks before Election Day. Eligible citizens can register to vote or update their voter registration up to and on Election Day in person at their local clerk’s office.\n\n- Online at Michigan.gov/Vote: Register to vote online (https://mvic.sos.state.mi.us/RegisterVoter/Index) with their Michigan driver’s license, state ID, or last four digits of their Social Security Number (SSN4).\n- By mail: Download, print, and complete an application (https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-Forms/Voter-Registration-Form-English.pdf) to register to vote and return the application to the local clerk’s office. This form is also offered in large print.\n- Self-service station: Voter registration is offered when completing a transaction at Secretary of State self-service stations across Michigan. Locate a self-service station at miselfservicestation.com (https://miselfservicestation.com/?utm_source=MI&utm_medium=Website&utm_campaign=kiosk).\n- At a Secretary of State office: Eligible citizens will be registered to vote automatically anytime they complete a Michigan driver’s license or ID transaction.\n- At the local clerk’s office: To locate your local clerk’s office, visit Michigan.gov/Vote (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk).\n\nAdditionally, several state agencies and military recruitment centers also provide voter registration services.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "I don’t have a Michigan license or ID, but I am a Michigan resident. Can I still register to vote while I’m out of state?",
+            "a": "If you are eligible and have a valid Michigan license or state ID number, you can register to vote online at Michigan.gov/Vote. If you are unable to preregister or register online, you can contact your local clerk to preregister/register.\n\n Go to Michigan.gov/Vote (https://mvic.sos.state.mi.us/)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "I just moved to Michigan and there is an upcoming election. Can I register to vote?",
+            "a": "You can register to vote at your local clerk’s office through Election Day. You must be a resident of your city or township for at least 30 days prior to the election, a U.S. citizen, at least 18 years old when you will vote, and not currently serving a sentence in jail or prison.\n\n If it is an Election Day, after registering to vote, you can vote with an absentee ballot at the clerk’s office or visit your polling place.\n When registering, you must show proof of your address. The document must include your name and current address, and can be a digital copy. Acceptable documents include:\n\n- Michigan license or ID\n- Current utility bill\n- Bank statement\n- Paycheck or government check\n- Other government document",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "I am considering becoming a poll worker. How can I find out more?",
+            "a": "Poll workers are called \"election inspectors\" in Michigan. To find out how to become an election inspector and other ways to help, visit Michigan.gov/DemocracyMVP (https://www.michigan.gov/sos/elections/pollworker).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "If I return my ballot in a drop box, how can I know it was counted?",
+            "a": "Voters can track the status of their mail ballots at mi.gov/vote (https://www.michigan.gov/vote).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "If I’m currently registered to vote, can I request an absentee ballot on Election Day?",
+            "a": "No, if the voter is already registered to vote at their current address, they are not eligible to request an absentee ballot on Election Day. In emergency situations only, a voter may apply for an absentee ballot from their local clerk's office as late as 4 p.m. on Election Day.\n\nCheck your voter registration status (https://mvic.sos.state.mi.us/Voter/Index)\n\nLearn more about emergency voting (https://www.michigan.gov/sos/elections/voting/vote-on-election-day#Emergency)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "If I will be temporarily outside the United States during the elections, will I still be able to vote?",
+            "a": "Registered Michigan voters can still vote with an absentee ballot while temporarily residing outside the United States. To request an absentee ballot, complete and submit an absentee ballot application to your local clerk to have the ballot mailed to you overseas.\n\nIf you are already outside of the United States, you may use the Federal Postcard Application (FPCA) form to register to vote and request an absentee ballot. The FPCA forms are distributed through U.S. embassies and military bases.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "I moved and need to update my voter registration record. How do I do that?",
+            "a": "To update your voter registration, complete a change of address application online, by mail, at a Secretary of State office, or at your local clerk’s office:\n\n- Online: Update your voter registration and address online at Michigan.gov/Vote (https://mvic.sos.state.mi.us/Home/Index) or through Online Services (https://dsvsesvc.sos.state.mi.us/TAP/_/).\n- By mail: Submit a Change of Address form (https://www.michigan.gov/sos/-/media/Project/Websites/sos/27lawensn/ed109pg.pdf?rev=bac7e7fd60da41b6a7b325ba6601465c&hash=30B3F855C5ABE6B9FFA30F01AC5CE12B) to the Michigan Department of State.\n- In person: Update your voter registration in person at any Secretary of State office or at your local clerk’s office.\n\nMichigan voters must use the same residential address for voter registration and their driver’s license/ID. Consequently, if you change your address on your driver’s license or ID, it will automatically apply to your voter registration, and vice-versa. Therefore, if the residence address you provide when registering to vote differs from the address shown on your license or ID, the Secretary of State will automatically change your license or ID address to match your address on your voter registration. The Michigan Department of State will mail you a corrected change of address sticker for your standard license or ID, or a new enhanced state ID or driver’s license with your updated address.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Is my voter record available to the public?",
+            "a": "All voter registration records are public documents and can be obtained through the Freedom of Information Act (FOIA).\n\nThe following voter information is not made available to the public:\n\n- Driver's license or state ID number\n- Month and day of birth\n- Phone number\n- Email address\n\nAdditionally, the identity or type of office that initially received the voter’s registration and information regarding an individual’s refusal to register to vote are not public record.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Must I vote the entire ballot?",
+            "a": "You are not required to vote the entire ballot. You may pick and choose the races or ballot questions for which you want to vote. Skipping sections of the ballot does not invalidate your ballot.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What are my options for absentee voting if I have a disability?",
+            "a": "Voters with a disability who require assistance in completing their absentee ballot application may receive assistance from another person, provided that the person assisting the voter is not the voter's employer, agent of that employer or an officer or agent of a union to which the voter belongs. The individual who provided the assistance must input their information in the provided space on the absentee ballot application.\n\n Voters with disabilities can also request an accessible absentee ballot by submitting an accessible absentee ballot application online at Michigan.gov/Vote (https://mvic.sos.state.mi.us/). When requesting an accessible absentee ballot, the voter will be emailed an electronic ballot and can mark the ballot on an electronic device, using their own assistive technology, and print and mail or otherwise return the ballot to their local clerk by 8 p.m. on Election Day.\n\n Voters can also download an accessible application to vote absentee and submit it to their local clerk’s office by mail, email, or in person. Or they may visit their local clerk’s office to request an absentee ballot in person.\n\nLocate your local clerk's office (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk)\n\n Accessible absentee ballot application (https://mi.omniballot.us/sites/26/absentee/app/home)\n\n Learn more about accessible voting in Michigan (https://mvic.sos.state.mi.us/Home/AccessibleVoting)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What do I do if I haven't gotten a notice, but wish to cancel my registration?",
+            "a": "If you want to cancel your voter registration immediately but you haven’t received a notice, you can contact your clerk (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk) in writing and request that your registration be canceled.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What do I do if I receive a notice of cancellation?",
+            "a": "If you receive a notice of cancellation for your own voter registration, you can respond to the notification by mail or online in the following ways:\n\n- Request your voter registration be canceled. If you select this option, your voter registration will be canceled immediately.\n- Update your voter registration. If you have moved, you can update your voter registration to your new address.\n- Vote or request an absent voter ballot in an upcoming election. This will keep your voter registration active, and your registration will not be canceled.\n- Do nothing. If you don’t respond and don’t have any voting activity, your registration will be canceled after the second federal (even year November) election from the time the notice is sent.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What do I do if I receive election mail for someone who no longer lives there?",
+            "a": "If you receive election mail for someone who no longer lives at your address, you have the opportunity to assist the U.S. Postal Service and your local clerk in updating the voter rolls. You should write “no longer at this address” on the piece of mail and put it back in the mailbox. The U.S. Postal Service will then notify your local clerk that election mail for that registered voter has been returned as undeliverable. The clerk will then send a notice of cancellation which will result in that registration being canceled after two federal elections have passed.\n\nIf someone at the residence is deceased, you can write “deceased” on the piece of mail and put it back in the mailbox. If a family member in your residence has died, you can also contact your clerk (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk) in writing and inform them that the family member is deceased. You can also send an obituary or death notice to the clerk, who can use this information to cancel the voter registration, so your household no longer receives election mail for the person who has passed away.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What do I do if my registration has been canceled, but I want to vote?",
+            "a": "If your registration has been canceled but you still want to vote in Michigan, you will need to re-register. You can register to vote online or through any method of voter registration up to 15 days before an election. Within 14 days of an election, including on Election Day, you can register to vote at your city or township clerk’s office with residency verification. For more information, go to registering to vote (https://www.michigan.gov/sos/elections/voting/register-to-vote).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What documents may be accepted for proof of Michigan residency when registering to vote in person?",
+            "a": "If you hand-deliver your application, the staff person helping you will take your form and ask you to provide photo identification. If you do not have an acceptable form of photo identification, you will be asked to sign an Affidavit of Voter not in Possession of Picture Identification.\n\nIf you have never registered to vote in Michigan and choose to mail in your application, you will need to meet an identification requirement. This means you must:\n\n- Enter your driver's license number or state ID number where requested on the form, or\n- Send a copy of one of the following forms of identification with your application:\n\n  - A photocopy of your driver's license or state ID, or\n  - A photocopy of a paycheck stub, utility bill, bank document, or government document that lists both your name and your address.\n\nIf you are unable to fulfill this requirement at the time of registration, you may provide one of the previously listed items at the polls on election day to complete the process.\n\nNever send an original document.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What happens after the clerk receives my absentee ballot?",
+            "a": "Completed and signed absentee ballots received by local clerks are securely stored until they are processed and tabulated. Ballot storage containers used within each municipality must be approved by the bi-partisan county election commission.\n\nLocate your local clerk's office (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What happens to ballots submitted by someone who is deceased by Election Day?",
+            "a": "Michigan uses death data from the Social Security Administration Master Death Index to regularly remove the names of individuals who are deceased from the Qualified Voter File, a secure voter records database. Local clerks may also identify deceased individuals in their communities and remove that individual’s record.\n\n If a living voter casts an absentee ballot prior to Election Day and the clerk learns they have died before the ballot is tabulated, the deceased voter’s ballot is rejected and will not be counted. This procedure regularly results in the rejection of thousands of ballots during statewide and federal elections.\n\n There are safeguards in place to ensure an absentee ballot cannot be voted on behalf of another individual (deceased or otherwise), including a signature match performed on the signed absentee ballot envelope.\n\nLearn more about election security in Michigan (https://www.michigan.gov/sos/elections/security)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What if I am voting and my ID lists an outdated address?",
+            "a": "As part of Michigan’s motor vehicle and voter registration laws, when a registered voter updates their voter registration address, the voter’s driver’s license or state ID address is also updated.\n\nTo update voter registration, voters must “re-register” using updated information. Please view the voter registration section for options on how to register. Deadlines for voter registration also apply to individuals updating their voter registration.\n\nLearn more about updating voter registration (https://www.michigan.gov/sos/elections/voting/register-to-vote)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What if I’m issued a provisional ballot?",
+            "a": "A provisional ballot is a ballot requiring additional steps or information to confirm a voter’s eligibility to vote before the ballot can be counted.\n\nA provisional ballot may be issued to a voter at a polling place if:\n\n- Their name does not appear on the list at the polling place.\n- They are at the wrong polling location.\n- They are voting for the first time and are unable to provide a valid form of identification.\n\nAfter casting a provisional ballot, a voter has 6 days to provide appropriate ID documentation to their city or township clerk.\n\nIf election officials can verify that a voter is registered to vote in the appropriate jurisdiction, the provisional ballot will count. A provisional ballot is rejected if a voter is not registered to vote or failed to provide proper identification and proof of residency.\n\nNotice to voters who receive a provisional ballot (https://www.michigan.gov/sos/-/media/Project/Websites/sos/01vanderroest/Fed_ID_Req_Notice_New.pdf?rev=a431a73034df4e27962871f265446e5f&hash=AEF56730DDCD1B02FF4E462624622753)\n\nTrack the status of your ballot (https://mvic.sos.state.mi.us/)\n\nLocate your local clerk's office (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What if my ballot is challenged, or I receive a challenge to my eligibility?",
+            "a": "Election challengers, who are election observers, have the right to issue a challenge to a voter's eligibility to vote at the polls. The challenge must be based on good reason to suspect a violation of election law has occurred, usually based on prior knowledge about a voter's ineligibility.\n\nChallengers may not issue a challenge for the purpose of delaying the voting process, based on race or appearance of a voter, or based on political affiliation or the voter’s ballot selection.\n\nA permissible challenge will be examined further by election workers and the local clerk. This process may require the voter to confirm certain information to verify their eligibility under oath at their polling place. If a voter confirms their eligibility under oath, they will be issued a ballot that is marked as challenged. The voter may also need to take additional steps after voting to verify their eligibility and will be contacted by their local clerk with instructions.\n\nIf a voter whose eligibility is permissibly challenged refuses to take the oath or answer questions designed to verify the voter’s eligibility, the challenge is accepted, and the voter cannot cast a ballot.\n\nTrack the status of your ballot (https://mvic.sos.state.mi.us/)\n\nLocate your local clerk's office (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What is voter intimidation and what if I experience it at my polling place?",
+            "a": "It is unlawful for a person to attempt, through menace or other means, to influence another person in how to vote, or to deter or interrupt another person in voting at an election. Federal statute prohibits threatening, intimidating, and coercing voters.\n\nVoter intimidation may include:\n\n- People who aren't poll workers or election administrators asking for personal documentation\n- Photographing or videotaping voters at an early voting site, a polling place, a clerk’s office, or a ballot drop box\n- Disseminating false or misleading election information\n- Blocking the entrance to a polling place, early voting site, clerk’s office, or ballot drop box\n- Directly questioning voters\n\nIndividuals witnessing or experiencing voter intimidation should report it at their polling place to an election worker, or to their local clerk. You may also contact the voter protection hotline at:\n\n- English: 866-OUR-VOTE / 866-687-8683\n- Spanish: 888-VE-Y-VOTA / 888-839-8682\n- Arabic: 844-YALLA-US / 844-925-5287\n- Bengali, Cantonese, Hindi, Korean, Mandarin, Tagalog, Urdu, and Vietnamese: 888-API-VOTE / 888-274-8683",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What prevents one person from voting in another person's name?",
+            "a": "In Michigan, local clerks are trained in signature verification by the Michigan Bureau of Elections. Local clerks must review and compare the signature on each absentee ballot to the signature on the return envelope, and to the voter’s signature on record to confirm its validity. The signature on record for a voter is typically the signature provided on a Michigan driver’s license or state ID, or as provided on the voter registration application.\n\n Ballots are rejected when they lack a matching signature, and voters are given an opportunity to cure a missing or non-matching signature.\n\n Voting in another person’s name is illegal and charges are brought against people who attempt to apply for a ballot in someone else’s name. Anyone with evidence of voter fraud should report it to law enforcement in writing for investigation.\n\nLearn more about election security in Michigan (https://www.michigan.gov/sos/elections/security)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What should I do if my ID is expired at a polling place?",
+            "a": "A voter may use an expired Michigan driver's license or state ID as a valid form of photo ID. However any other type of photo ID (such as a driver's license from another state, photo ID issued by a local government or educational institution, etc.) must be current, and cannot be used as a valid form of photo ID if expired. To vote, a voter would be required to sign an affidavit stating the voter is not in possession of a valid photo ID.\n\nLearn about renewing an ID (https://www.michigan.gov/sos/all-services/license-or-id-renewal)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What should voters do if they have not received their absentee ballot by mail within two weeks before Election Day?",
+            "a": "Voters who have submitted their absentee ballot application are encouraged to track their request online at Michigan.gov/Vote (https://mvic.sos.state.mi.us/) to ensure their local clerk’s office received their request. The website will also securely track when a local clerk’s office sends an absentee ballot to the voter by mail and when the clerk has received the ballot back from the voter.\n\nVoters who have not received their absentee ballot as Election Day approaches are encouraged to visit Michigan.gov/Vote (https://mvic.sos.state.mi.us/) to confirm their voter registration information and address is up to date. If they confirm this is the case, they may contact their local clerk’s office to check on the status of their absentee ballot application and requested ballot.\n\nVoters may also request an absentee ballot in person at their city or township clerk’s office up until 4 p.m. the Monday before Election Day.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What will be on my ballot?",
+            "a": "Voters may view their sample ballot at Michigan.gov/Vote (https://mvic.sos.state.mi.us/Home/Index).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What functions does the Bureau of Elections perform?",
+            "a": "The Bureau of Elections is responsible for:\n\n- Administering the state's election and campaign finance law\n- Providing information about registering to vote (https://mvic.sos.state.mi.us/Home/RegisterToVote) and voting\n- Providing oversight and training to local election officials\n- Assisting candidates running for statewide offices with the requirements for filing nominating petitions, affidavits of identity and campaign finance reports\n- Administering the Michigan Electronic Reporting and Tracking System, which allows candidates to file campaign finance reports electronically\n- Administering the Campaign Finance Database (https://www.michigan.gov/sos/elections/disclosure/cfr/committee-search/intro/welcome-to-the-michigan-campaign-finance-searchable-database), which allows the public to access campaign finance reports\n- Maintaining the state's Qualified Voter File, an electronic database of registered voters\n- Administering the state's casino disclosure (https://www.michigan.gov/sos/elections/disclosure/casino) and lobbyists disclosure (https://www.michigan.gov/sos/elections/disclosure/lobby) laws\n- Providing support to the Board of State Canvassers (https://www.michigan.gov/sos/elections/bsc)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What hours are the polls open on Election Day?",
+            "a": "The polls are open from 7 a.m. to 8 p.m. for all elections. Voters who are in line at their polling location by 8 p.m. on Election Day may still wait in line to vote.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What is an emergency absentee ballot and how would I get one?",
+            "a": "You may make an emergency request for an absentee ballot if you cannot attend the polls on Election Day due to an emergency occurring at or after 5 p.m. the Friday before an election. If you experience one of the following emergencies during this time, you may request an emergency absentee ballot:\n\n- You have become physically disabled\n- A family death or illness requires you to leave your community for the entire time the polls are open on Election Day\n- You have been quarantined or hospitalized\n- You have been incarcerated but are not currently serving a sentence in jail or prison\n\nThose who qualify for an emergency absentee ballot should contact their local clerk for assistance. All absentee ballots must be returned to the clerk's office by 8 p.m. on Election Day in order to be tabulated.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "What is the deadline for registering to vote in an election?",
+            "a": "Per the passage of Proposal 3 in 2018, Michigan now allows same-day voter registration, meaning that eligible citizens can register and vote up to and on Election Day. Voters may register or update their voter registration in person at their city or township clerk’s office through 8 p.m. on Election Day.\n\nEligible citizens can register to vote or update their voter registration online, by mail, at a self-service station, or at a Secretary of State office up to two weeks before Election Day. Voters must register to vote or update their voter registration in person at their local clerk’s office in the 14 days before an election and on Election Day.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "When are absentee ballots processed?",
+            "a": "Absentee ballots take time to securely process and count. To ensure timely results, many states allow clerks a week or more to process absentee ballots prior to Election Day. For example, Florida allows clerks to process absentee ballots for one month before an election.\n\n In Michigan, cities and townships with a population of 5,000 residents or more may establish an Absentee Voter Counting Board (AVCB) to process and tabulate absentee ballots during any of the eight days before an election between the hours of 7 a.m. and 8 p.m. Cities and townships, regardless of population, can establish an AVCB to process and tabulate absentee ballots on the Monday before an election between the hours of 7 a.m. and 8 p.m.\n\nLearn more about election security in Michigan (https://www.michigan.gov/sos/elections/security)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "When are drop boxes available?",
+            "a": "Drop boxes are available 40 days before an election, 24 hours a day, 7 days a week.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "When is the deadline to request an absentee ballot for the November general election?",
+            "a": "Voters can request an absentee ballot online up until 5 p.m. on the Friday before Election Day or may request one in person at their city or township clerk’s office up until 4 p.m. on the Monday before Election Day. Information for all local Michigan clerks is available on Michigan.gov/Vote (https://mvic.sos.state.mi.us/).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "When voting, how is my signature verified?",
+            "a": "Local city and township clerks are trained in signature verification by the Michigan Bureau of Elections. Local clerks review and compare the signature on each absentee ballot to the signature on the return envelope, and to the voter’s signature on record to confirm its validity. The signature on record for a voter is typically the signature provided on a Michigan driver’s license or state ID, or as provided on the voter registration application.\n\n If a local clerk determines that a signature is not valid, the ballot is rejected, and the clerk must promptly notify the voter of the rejection.\n\n Locate your local clerk's office (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk)\n\n Track the status of your absentee ballot (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk)\n\n Learn more about election security in Michigan (https://www.michigan.gov/sos/elections/security)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "When will I get my absentee ballot in the mail?",
+            "a": "Voters can securely track the mailing and receipt of their absentee ballot application and absentee ballot at Michigan.gov/Vote. Voters can contact their local clerk’s office with questions about the mailing or receipt of their application or absentee ballot.\n  (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk)\n\nLocate your local clerk's office (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk)\n\n Track the status of your absentee ballot (https://mvic.sos.state.mi.us/Voter/Index/)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "When is the absentee ballot due?",
+            "a": "After receiving your absentee ballot, you have until 8 p.m. on Election Day to complete the ballot and return it to the clerk's office. Your ballot will not be counted unless your signature is on the return envelope and matches your signature on file. If you received assistance voting the ballot, then the signature of the person who helped you must also be on the return envelope. Only you, a family member or person residing in your household, a mail carrier, or election official is authorized to deliver your signed absent voter ballot to your clerk's office.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "When is the Bureau of Elections office open?",
+            "a": "The office is open from 8 a.m. to 5 p.m., Monday through Friday, excluding state holidays.\n\nThe City of Lansing provides both metered parking and public parking ramps (https://www.lansingmi.gov/167/Parking-Services). Metered parking is available along the south side of Allegan Steet and throughout the downtown area.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Where can I learn about the types of voting equipment that will be at my polling place?",
+            "a": "Information about election administration in Michigan is available at Michigan.gov/ElectionSecurity (https://www.michigan.gov/sos/elections/security).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Where do I send the absentee ballot once I've filled it out?",
+            "a": "Please return it to your local clerk's office by mail, in person, or at a designated absentee drop box in your city or township. Visit Michigan.gov/Vote (https://mvic.sos.state.mi.us/Home/Index) for to locate your city or township clerk if the information is not present on the return envelope.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Who are my elected officials at the state and federal levels?",
+            "a": "It's easy to find out who your representatives are at the state and federal levels:\n\nMichigan State Representative: House.Michigan.gov (https://www.house.mi.gov)\n\nMichigan State Senator: Senate.Michigan.gov (http://senate.michigan.gov)\n\nU.S. Congressperson: House.gov (https://www.house.gov/)\n\nU.S. Senators: Senate.gov (https://www.senate.gov/)\n\nMichigan’s executive branch (Governor, Lieutenant Governor, Secretary of State, and Attorney General): Michigan.gov/SOM/Government (https://www.michigan.gov/SOM/Government)\n\nMichigan's judicial branch: Michigan.gov/SOM/Government (https://www.michigan.gov/SOM/Government)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Who can register to vote in Michigan?",
+            "a": "To register to vote in Michigan you must be:\n\n- A resident of Michigan and the city or township where you are applying to register to vote for at least 30 days before Election Day.\n- A citizen of the United State of America\n- At least 18 years of age (by Election Day).\n- Not serving a sentence in jail or prison.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Who qualifies for an absentee ballot?",
+            "a": "Due to the passage of the statewide ballot proposal 18-3 in 2018, all eligible and registered voters in Michigan may now request an absentee ballot without providing a reason.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Why did I receive a voter registration application for someone else in the mail?",
+            "a": "Organizations like political parties, special interest groups and non-profit organizations frequently send absent voter ballot applications in the mail, sometimes using outdated voter registries and mailing addresses. If a voter receives election mail from a previous resident, they should write “Not at address” on the piece of mail and return to USPS.\n\n Local clerks who are responsible for providing absentee ballots to registered voters will only provide an absentee ballot to a registered voter if they have completed and submitted an absentee ballot application.\n  (https://www.michigan.gov/sos/elections/security)\n\nLearn more about election security (https://www.michigan.gov/sos/elections/security)\n\n Learn more about voter cancellation procedures and what to do with election mail from previous residents (https://www.michigan.gov/sos/elections/voting/voters)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Why is there a two-election waiting period before cancelling registrations for voters who move?",
+            "a": "Both state and federal law require election officials to wait two federal elections before cancelling the registration of voters where the election official has received initial information that the person may have moved. The waiting period is required because sometimes the initial information suggesting that someone has moved does not mean they have actually changed their voting residency. For example, mail may be returned as undeliverable by mistake and the voter actually lives at the address. Or, someone may have changed their address for one purpose (such as a temporary work assignment, school, or military service) but they actually wish to continue voting in Michigan.\n\nIn addition, some voters who live in foreign countries may not have a U.S. address and they use their last U.S. address for voting residency purposes. Therefore, it is possible that someone who used to live at your residence is still legally using that address as their voting residence in Michigan, even though the person is currently living in a foreign country.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Will redistricting change where I vote?",
+            "a": "The Michigan Independent Citizens Redistricting Commission was established by voters in 2018 to redraw Michigan’s state house, senate, and congressional districts. These new maps will be in use for the 2022 statewide primary and general elections. The maps will be in place for the next 10 years.\n\nInformation about changes to polling place locations and updated voter registration cards will be provided to voters by their city or township clerk. Voters can also find their voting precinct by visiting Michigan.gov/Vote (https://mvic.sos.state.mi.us/Home/Index) and selecting “Where is my polling place” under the topic “Your voter information.”",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Will the Bureau of Elections copy documents for me?",
+            "a": "Yes, the Bureau of Elections can make copies of public documents. There is a fee of $0.25 per page, which must be paid before the request can be filled. Bureau of Elections can only accept cash, check, or money orders.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+            "t": "2026-10-29T22:05:44+00:00"
+        },
+        {
+            "q": "Are early voting election workers paid?",
+            "a": "Yes. Workers are paid at the rate determined by the local clerk or the jurisdiction conducting early voting.\n\nRegistered voters can sign up to serve as a paid election worker at Michigan.gov/DemocracyMVP (https://www.michigan.gov/sos/elections/pollworker).\n\nLearn more about the responsibilities of election inspectors (poll workers) (https://www.youtube.com/watch?v=1rGVm5mIAtQ).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "Are election observers, such as poll watchers and challengers, allowed in an early voting site?",
+            "a": "Yes. Election observers are an important part of the electoral process to ensure transparency and properly run elections. Volunteer election challengers and poll watchers may observe the voting process at early voting sites as permitted by Michigan election law. All election observers must strictly adhere to proper standards and procedures. (https://www.michigan.gov/sos/-/media/Project/Websites/sos/01vanderroest/SOS_ED_2_CHALLENGERS.pdf?rev=735801395d704499b301c6c025dcc970&hash=0714DFEF33943F023091522B38F6495F)\n\nLearn about the appointment, rights and duties of election challengers and poll watchers (https://www.michigan.gov/sos/-/media/Project/Websites/sos/01vanderroest/SOS_ED_2_CHALLENGERS.pdf?rev=735801395d704499b301c6c025dcc970&hash=0714DFEF33943F023091522B38F6495F).\n\nLearn the difference between election inspectors, poll watchers, and challengers (https://www.youtube.com/watch?t=84&v=1rGVm5mIAtQ&feature=youtu.be&themeRefresh=1).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "Can I change my vote after voting early?",
+            "a": "Once a ballot has been inserted into a tabulator, it cannot be changed.\n\nVoters who complete and submit an absent voter ballot by mail, in person at a local clerk’s office, or via drop box, have the option to change their vote by spoiling their original ballot and requesting a new one:\n\n- The deadline for spoiling a returned absentee ballot is 5 p.m. on the second Friday before the election.\n- The deadline for spoiling an unreturned absentee ballot and receiving another by mail is the Friday immediately before the election at 5 p.m.\n- The deadline to spoil and receive another in-person absentee ballot is the day before the election at 4 p.m.\n\nVoters who insert their absentee ballot into a tabulator at an early voting site cannot spoil their ballot or change their vote.\n\nLearn more about absentee voting and spoiling a ballot (https://www.michigan.gov/sos/elections/voting/absentee-voting).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "Can I register to vote at an early voting site?",
+            "a": "It is recommended that voters be registered to vote at their current address prior to visiting an early voting site. Voter registration is available online at Michigan.gov/Vote. Within 14 days of an election, voters must visit their local clerk’s office and provide proof of residency to register to vote.\n\nEarly voting sites do not offer voter registration. However, if an early voting site is located at a clerk’s office or satellite office, voters may register to vote on site at the clerk’s office, and cast a ballot at the early voting site. Contact your local clerk’s office or visit their website to learn more.\n\nLearn more about voter registration (https://mvic.sos.state.mi.us/Home/RegisterToVote).\n\nFind your clerk's information (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "Can I vote early if I have a disability?",
+            "a": "All voters, including voters with disabilities, have the right to vote in person at an early voting site, at a polling place, or by using a standard or accessible absentee ballot.\n\nEarly voting sites feature at least one Voter Assist Terminal (VAT), a ballot-marking device that can be used by any voter. VATs also provide assistive tools for voters with visual, hearing, mobility, or other disabilities.\n\nAccessible curbside voting is also available at early voting sites. Voters may contact their local election clerk to request curbside voting. Voters may need to send someone into the early voting site to request curbside voting on their behalf. An election official will then bring the ballot outside for the voter to complete.\n\nLook up voter assist terminal equipment by county (https://mvic.sos.state.mi.us/VotingMachineVendor/Index).\n\nLearn more about accessible voting (https://www.michigan.gov/sos/resources/accessibility-and-accommodations).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "Can I vote early with an absentee ballot?",
+            "a": "Yes. Voters can request an absentee ballot and submit it prior to Election Day by mail, in person at their local clerk’s office, or by drop box.\n\nVoters who no longer wish to use their absentee ballot and who would prefer to vote early in person should bring their absentee ballot to surrender at their early voting site. After surrendering their absentee ballot, a new ballot is issued to complete and submit on-site.\n\nVoters can bring their absentee ballots to an early voting site to insert into a tabulator. The election inspector must verify that voters with absentee ballots are in the correct location and that they have the correct ballot number. Once the election inspector has confirmed this information, the voter can insert a completed absentee ballot into the tabulator, just like at a polling place on Election Day.\n\nLearn more about absentee voting (https://www.michigan.gov/sos/elections/voting/absentee-voting).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "Can someone vote twice by voting early and later submitting an absentee ballot?",
+            "a": "No. The Qualified Voter File, a secure voter records database, receives regular updates of a voter’s ballot activity. If a voter submits two separate ballots, the system indicates a vote has already been submitted, and the second ballot is not issued.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "Do I need a photo ID to vote at an early voting site?",
+            "a": "Voters should remember to bring an acceptable form of photo identification to an early voting site or to the polls on Election Day. However, a photo ID is not required to cast a ballot. Voters without a photo ID, or voters who forgot to bring their photo ID, can still vote after signing an Affidavit of Voter Not in Possession of Picture Identification.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "Do other states have early voting?",
+            "a": "Yes. In fact, many states have some form of early voting. This includes states with smaller populations such as Delaware, North Dakota, and West Virginia as well as larger states like Florida, Illinois, New York, and Texas.\n\nFor more information, visit the National Conference of State Legislature’s brief on early in-person voting (https://www.ncsl.org/elections-and-campaigns/early-in-person-voting).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "How are clerks trained for early voting?",
+            "a": "Clerks receive training on early voting procedures at in-person training sessions and through online training modules provided by the Michigan Bureau of Elections.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "How are early voting ballots organized after they have been submitted?",
+            "a": "On Election Day, ballots at a polling place are stored by individual precincts. An early voting site, however, can accommodate voters from several different precincts, cities, and townships, with ballots from several precincts inserted into a single tabulator.\n\nTo accommodate voters from multiple precincts, tabulators at early voting sites are programmed to count ballots from different precincts and to record the results by each voter’s individual precinct.\n\nAll ballots submitted in Michigan, whether at an early voting site, a polling place, or by absentee voting, are retained and available for review during the post-election canvass, recount, and audit processes.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "How are early voting ballots retained after the election?",
+            "a": "All paper ballots submitted in Michigan, whether at a polling place, an early voting site, or through absentee voting, are retained in secure, sealed ballot containers after the election. Each seal has a unique number that is recorded in the poll book by a team of bipartisan election workers.\n\nMichigan election law requires the secure handling of paper ballots. Once early voting is complete and a ballot container is sealed, the seal cannot be broken until the canvass, recount, or audit process begins. An unbroken seal ensures that ballots are in the same condition they were on Election Day.\n\nFollowing the election material security period and after the conclusion of any recounts or audits, early voting ballots are kept for the required retention period with all other voted ballots.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "How are the location and number of early voting sites determined?",
+            "a": "At least one early voting site must be available to all voters in every city and township.\n\nLocal clerks select the number and location of early voting sites that work best for their community by examining the area’s population density, site accessibility, and expected voter turnout.\n\nLocal clerks may also partner with other cities and townships, or their county, to run an early voting site together.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "How do I know if my community has early voting for a local election?",
+            "a": "Early voting is provided for local elections (non-federal or statewide elections) at the discretion of the local clerk. Early voting site locations, dates, and hours are available up to 60 days prior to Election Day at Michigan.gov/Vote (https://mvic.sos.state.mi.us/). You can also contact your local clerk’s office for more information.\n\nFind your local clerk’s information (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "How is double voting prevented at early voting sites?",
+            "a": "Each early voting site accesses the Qualified Voter File, a secure voter records database that sends and receives regular updates of a voter’s ballot activity. Ballot information entered at any early voting site or at a local clerk’s office is regularly uploaded to prevent the issuance of duplicate ballots.\n\nThis means that if a voter has already submitted an absentee ballot or an early voting ballot, this information is flagged for election workers to prevent double voting. If a voter submits an absentee ballot, and then votes at an early voting site, only one ballot will be counted\n\nIf a voter submits an absentee ballot, and then votes at an early voting site, then the absentee ballot is rejected and does not count.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "How is early voting different from absentee voting?",
+            "a": "Both early in-person voting and absentee voting allow voters to cast a ballot prior to Election Day. However, there are key differences between the two methods of voting.\n\nEarly voting allows voters to cast a ballot similar to how they would do so at a polling place on Election Day. Voters are issued a ballot and can complete it and personally insert it into the tabulator at their early voting site.\n\nAbsentee voting allows voters to request a ballot by mail, online, or in person at their local clerk’s office. Voters can complete their absentee ballot at home or at their local clerk’s office and submit it in an envelope by mail, in person, or by drop box. After an absentee ballot is received, it is verified by the local clerk and tabulated by election inspectors.\n\nNew in 2024, absentee voters now have the option to take their completed absentee ballot to their early voting site or their polling place on Election Day (not available in Detroit) and insert it directly into the tabulator.\n\nAbsentee voters also have the flexibility to “spoil” their ballot, or change their vote, after it has been submitted in certain circumstances.\n\nLearn more about absentee voting. (https://www.michigan.gov/sos/elections/voting/absentee-voting)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "If I’m in line to vote when an early voting site closes, can I still vote?",
+            "a": "Yes. During each day of the early voting period, eligible voters waiting in line when an early voting site closes have the right to stay in line and cast a ballot.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "Is my early voting ballot secret?",
+            "a": "Yes, every voter has the right to a secret ballot.\n\nAt early voting sites, voters insert their completed ballot into a tabulator, just like at a polling place on Election Day. To protect voter privacy, once a ballot has been inserted into a tabulator, it cannot be traced back to an individual voter.\n\nBallots inserted in the tabulator are sealed in secure containers each night during the early voting period. After polls close on Election Day, all ballots submitted at an early voting site are totaled and reported, along with the vote totals from absentee and Election Day ballots.\n\nThe use of cameras and recording devices in early voting sites is not allowed. However, voters may take a photo of their own ballot while in the voting booth, with nothing else included in the photo. Local clerks may also allow news or media organizations to film quick, panning shots of polling places, but must exclude any voter personal information.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "What is an early voting site?",
+            "a": "An early voting site is like a polling place where voters can cast a ballot prior to Election Day, during the early voting period. Voters from more than one precinct, city, or township may be assigned to a single, shared early voting site.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "What steps are taken to ensure early voting is secure?",
+            "a": "Steps taken to ensure secure voting include the following:\n\n☑ Voting equipment used to tabulate ballots are certified by the bipartisan Board of State Canvassers and tested by local election officials before use during early voting.\n\n☑ All voters are checked in at their early voting site to make sure they are registered to vote, and that they have not already voted, before they are issued a ballot.\n\n☑ The early voting electronic pollbook prevents double voting by providing regular updates on voter activity, reflecting when a voter has cast a ballot or been issued an absentee ballot.\n\n☑ Bipartisan groups of election inspectors run early voting sites under the supervision of local clerks.\n\n☑ Voters cast their ballot using paper ballots which are then stored in secure, sealed ballot containers.\n\n☑ Precinct results from ballots cast at early voting sites are not posted until after polls close at 8 p.m. on election night so that no early election results are known or made public.\n\n☑ All early voting site results are reviewed by the bipartisan Board of County Canvassers before certification. Early voting ballots are available for recounts and audits like all other ballots.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "When are early voting ballots counted?",
+            "a": "At early voting sites, voters insert their completed ballot into a tabulator, just like in an Election Day polling place. Ballots inserted into the tabulator are sealed in secure containers every night during the early voting period.\n\nAfter polls close at 8 p.m. on Election Day, all ballots submitted at an early voting site are totaled and reported, along with the vote totals from absentee and Election Day ballots. Results are posted on local election websites.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "When does early voting start?",
+            "a": "In statewide and federal elections, the mandatory early voting period begins the second Saturday prior to Election Day and ends the Sunday before an election. However, communities may decide to provide additional days of early voting for those elections and may also decide to offer early voting for local elections. Under state law, communities can optionally offer early voting beginning the 29th day before the election. Beginning in 2026, communities may provide early voting on the Monday before Election Day.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "Where do I find my early voting site?",
+            "a": "Voters may only cast a ballot at their assigned early voting site(s). They can look up their assigned early voting site(s) up to 60 days prior to Election Day at Michigan.gov/Vote (https://mvic.sos.state.mi.us/Voter/Index#early-voting-search-section).\n\nSome voters may only have one assigned early voting site, while others may have several locations to choose from.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
+            "t": "2026-10-29T22:05:47+00:00"
+        },
+        {
+            "q": "How does the system work?",
+            "a": "Everyone who applies for a driver’s license or state ID must come to a Secretary of State office in person with official documents proving they live in Michigan and that they’re in the country legally. See the list of documents here: Proof of legal presence (https://www.michigan.gov/sos/all-services/first-time-license-or-id?tab=0).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "t": "2026-10-29T22:05:49+00:00"
+        },
+        {
+            "q": "How do you know people’s documents are real?",
+            "a": "Our customer service staff verify all noncitizen documents with the federal SAVE system (https://www.uscis.gov/save/about-save/about-save) to make sure they are up to date.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "t": "2026-10-29T22:05:49+00:00"
+        },
+        {
+            "q": "If voter registration is automatic, how do you know noncitizens aren’t also getting registered?",
+            "a": "The state’s computer system will not allow our staff to register anyone to vote without valid U.S. citizenship documents, even if they come back later and change their address. There is no way for our staff members to override the computer system on purpose or to accidentally register a noncitizen.\n\nLearn more about AVR in Michigan: Register to vote (https://www.michigan.gov/sos/elections/voting/register-to-vote)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "t": "2026-10-29T22:05:49+00:00"
+        },
+        {
+            "q": "What role do federal election monitors serve?",
+            "a": "Federal election monitors are a normal part of the election process. They observe polling places on election day in locations across the country chosen by the U.S. Department of Justice based on “information of possible voting rights problems.”\n\nElection monitors, unless allowed inside by local clerk, generally observe from outside the physical boundaries of the polling place established under state law. In Michigan, it is 100 feet from a polling place’s entrance.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
+            "t": "2026-10-29T22:05:49+00:00"
+        },
+        {
+            "q": "Can I register to vote if I have a criminal record?",
+            "a": "Yes, returning citizens and individuals with a felony or misdemeanor conviction can register to vote in Michigan as long as they are not actively serving a sentence in jail or prison. Michiganders detained pretrial or pre-sentencing can also register to vote.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "t": "2026-10-29T22:05:53+00:00"
+        },
+        {
+            "q": "Can I register to vote if I'm a college or university student?",
+            "a": "Yes, students attending a college or university in Michigan can register to vote in Michigan. Michiganders attending a college or university outside of Michigan can also register to vote in Michigan. Please visit the student voter page (https://www.michigan.gov/sos/resources/communities/students) for more information.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "t": "2026-10-29T22:05:53+00:00"
+        },
+        {
+            "q": "Can my organization use an API to set-up our own online voter registration form?",
+            "a": "Organizations interested in registering voters using a customized registration form directly on their website may wish to set up an application programming interface (API). Groups with electronic voter registration programs can now securely connect to the online voter registration system through an API, which allows data to be transferred securely.\n\nOrganizations may also set up a unique URL linking to the state’s online voter registration application. This unique URL will allow organizations to track the number of registrations made through the link.\n\nOrganizations interested in using the API to register voters through the state’s online voter registration portal can do so after completing a security review and working to ensure compatibility with the state’s platform. Those unable to use the API can instead obtain a unique URL to share with those registering to direct them to Michigan’s online voter registration website.\n\nFor more information about the API process, please email Elections@Michigan.gov (mailto:Elections@Michigan.gov).\n\nView printable voter registration applications (https://www.michigan.gov/sos/elections/voting/voters)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "t": "2026-10-29T22:05:53+00:00"
+        },
+        {
+            "q": "How are deceased individuals removed from the voter rolls?",
+            "a": "When someone dies, their death record information is sent to the Social Security Administration and added to the Master Death Index. Based on listings of deceased individuals from the Social Security Administration and in the Master Death Index Report, the Michigan Department of State cancels the matching voter registrations.\n\nCounty clerks also inform city or township clerks when they process death records for an individual registered to vote in that city or township. Although the vast majority of these deceased individuals are also identified through the Master Death Index, county clerks quite often can inform municipal clerks before notice arrives from the Michigan Department of State. This is useful in the days leading up to elections, to allow the registrations of voters who become deceased to be canceled more quickly.\n\nCity or Township clerks can also cancel registrations when they have personal knowledge and official documentation that a registered voter has died. For example, the city or township clerk may have an obituary, local death notice, or a written notification from next of kin.\n\nMichigan also receives information from the ERIC program about Michigan voters who have died.\n\nThere are additional inactive registrations in the registered voter database, the Qualified Voter File (QVF), for voters who may have died or moved, but for whom death or residency information was never received by election officials. If an election official receives returned undeliverable mail for these individuals, the registration will be canceled two federal election cycles after the notification is sent unless the voter responds or has voting activity.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "t": "2026-10-29T22:05:53+00:00"
+        },
+        {
+            "q": "How are registered voter rolls maintained in Michigan?",
+            "a": "Michigan’s list of registered voters is maintained on the Qualified Voter File, a database developed by the state of Michigan and maintained by municipal and county clerks and the Bureau of Elections. The Qualified Voter File contains the names of all individuals registered to vote in Michigan. It also contains the names of individuals with canceled registrations, who are no longer eligible to vote in Michigan. The Qualified Voter File is constantly updated whenever a new voter registers, a voter updates his or her registration information (such as an address), or a voter’s registration is canceled.\n\nVoter registrations are cancelled primarily for one of four reasons:\n\n- A voter moves away from their voting jurisdiction.\n- A voter dies.\n- A voter registration is identified as a duplicate.\n- A voter requests that his or her registration be canceled.\n\nLearn more about voter registration procedures (https://www.michigan.gov/sos/elections/voting/voters)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "t": "2026-10-29T22:05:53+00:00"
+        },
+        {
+            "q": "How do I know if I'm already registered to vote?",
+            "a": "Voters can check their voter registration status and make sure their information is up to date at Michigan.gov/Vote (https://mvic.sos.state.mi.us/) or by calling or visiting their city or township clerk. Find your local clerk information at Michigan.gov/Vote (https://mvic.sos.state.mi.us/).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "t": "2026-10-29T22:05:53+00:00"
+        },
+        {
+            "q": "How does the ERIC program help Michigan maintain its voter rolls?",
+            "a": "Michigan receives information from the Electronic Registration Information Center (ERIC), a bipartisan group of states and Washington, DC, who share voter registration data with each other for the purpose of keeping voter rolls complete, up to date, and accurate.\n\nWhen Michigan receives information through the ERIC program that a voter has registered in another state more recently than their activity in Michigan, the Bureau of Elections uses this as initial information that the voter may have moved. The Bureau sends a notice of cancellation to the voter’s address in Michigan. After the notice is sent, the voter must present the necessary updated documentation to be able to vote. If the voter does not present necessary eligibility documentation, the voter will remain inactive until the cancellation occurs.\n\nIf the voter does not have any voting activity in Michigan by the second even-year federal election following the notice, the voter's Michigan voter registration is canceled.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "t": "2026-10-29T22:05:53+00:00"
+        },
+        {
+            "q": "If I register to vote on Election Day, what are my options for voting?",
+            "a": "Voters who register to vote on Election Day have the following options to cast a ballot:\n\n- Request an absentee ballot at their clerk's office immediately after registering to vote. The voter will be issued a ballot to complete and submit on the spot. If you are a same-day registrant voter in Ann Arbor, East Lansing, or Grand Rapids, you have the additional option to take your same-day voter registration receipt to an Election Day Vote Center to receive and cast a ballot.\n- Visit their assigned polling place to cast a ballot. Polls close at 8 p.m. on Election Day.\n\nSo long as an eligible resident is in line at their clerk’s office by 8 p.m., they may register to vote and cast an absentee ballot. Similarly, if a newly registered voter is in line to vote at their polling place by 8 p.m., they may cast a ballot.\n\nLearn more about how to vote in Michigan (https://www.michigan.gov/sos/elections/voting)\n\nLookup your clerk’s office (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "t": "2026-10-29T22:05:53+00:00"
+        },
+        {
+            "q": "What are the requirements to run a voter registration drive?",
+            "a": "In Michigan, there is no age, citizenship or residency requirement to run or assist with a voter registration drive.\n\nVoter registration drives may not compensate individuals registering persons to vote based on the total number of persons registered, or the total number of persons registered to vote in a particular political party. Violation of this provision of Michigan law is a felony.\n\nVoter registration drives may not compensate individuals or provide any incentive considered “payment” for registering to vote or for voting. Violation of this provision of Michigan law is a felony.\n\nIndividuals registering persons to vote may not fill in any missing or incomplete information on a registration form themselves.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "t": "2026-10-29T22:05:53+00:00"
+        },
+        {
+            "q": "What happens after I submit my voter registration application?",
+            "a": "Upon receipt of an eligible voter’s registration application, clerks will process the application and the applicant’s name will be added to the Qualified Voter File, the official list of registered voters in Michigan. The applicant will then be sent a voter information card. This card contains useful information for voters but is not required to vote.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "t": "2026-10-29T22:05:53+00:00"
+        },
+        {
+            "q": "What if I move to a new address after registering to vote?",
+            "a": "Voters who have moved to a new address in Michigan should update their voter registration address. To do this, voters must “re-register” using updated information by selecting one of the registration options listed in this section (in person, by mail, or online). Deadlines for voter registration also apply to individuals updating their voter registration.\n\nAs part of Michigan’s automatic voter registration law, when a registered voter updates their voter registration address, the voter’s Michigan driver’s license or Michigan state ID address is also updated. Similarly, when a registered voter updates their Michigan driver's license or Michigan state ID address, their voter registration address will also be updated.\n\nVoters have moved out of state and wish to cancel their registration can make a written request to their city or township clerk that their registration record be canceled.\n\nLookup your clerk’s office (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "t": "2026-10-29T22:05:53+00:00"
+        },
+        {
+            "q": "What if I received a notice of cancellation for my voter registration?",
+            "a": "If a voter receives a notice of cancellation in the mail for their own voter registration, they can respond to the notification by mail or online (https://mvic.sos.state.mi.us/CancellationNotice/Index/) in one of the following ways:\n\n- Request their voter registration be canceled.\n- Update their voter registration.\n- Vote or request an absent voter ballot. This will keep a voter’s voter registration active and the record will not be canceled.\n- Do nothing. By not responding and not voting in upcoming elections, the voter registration will be canceled.\n\nIf an individual’s registration has been canceled but they still want to vote in Michigan, they will need to re-register using one of the registration options listed in the voter registration (https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote#HowToRegister) section. Deadlines for voter registration also apply to individuals re-registering.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "t": "2026-10-29T22:05:53+00:00"
+        },
+        {
+            "q": "What if I'm a new Michigan resident and want to register to vote?",
+            "a": "Welcome to Michigan! New residents can register to vote and must be a resident of their city or township for at least 30 days by Election Day to vote in that election.\n\nIn general, voters do not need a photo ID to register to vote, however, some first-time registrants who register to vote by mail may need to provide some form of ID.\n\nFor more information, visit our first-time voters page (https://www.michigan.gov/sos/elections/voting/first-time-voters).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "t": "2026-10-29T22:05:53+00:00"
+        },
+        {
+            "q": "What if I'm in the military or live overseas and I want to register to vote?",
+            "a": "Military and overseas voters who are Michigan residents can register to vote. Please visit the military and veterans voter page (https://www.michigan.gov/sos/resources/communities/military-and-veterans) for more information.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "t": "2026-10-29T22:05:53+00:00"
+        },
+        {
+            "q": "What is a satellite clerk’s office?",
+            "a": "A satellite clerk's office is an office that offers services at an alternate location to the main clerk’s office, and is run by the local clerk and their staff. Satellite offices expand access to voter information and resources locally in communities across Michigan.\n\nSatellite offices are typically located in densely populated areas or on university campuses. Opening a satellite office is left to the discretion of local clerks, and hours of operation of a satellite office may differ from the hours of the main clerk’s office.\n\nVoters may contact their local clerk or look up their voter information online at Michigan.gov/Vote (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk) to learn if their jurisdiction offers a satellite office.\n\nLook up your clerk’s office (https://mvic.sos.state.mi.us/Voter/Index/#yourclerk)\n\nLook up your voter information (https://mvic.sos.state.mi.us/Voter/Index/)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "t": "2026-10-29T22:05:53+00:00"
+        },
+        {
+            "q": "What is the process for registering voters?",
+            "a": "There are a few formats for registering voters during a drive, as listed in the Registering to Vote section. The most popular methods for voter registration drives are printed voter registration applications and online voter registration.\n\nPrinted applications are available in several languages, as well as a large print option. Individuals registering persons to vote may not fill in any missing or incomplete information on a registration form themselves. All completed applications must be received by a local clerk’s office, or postmarked if mailed, at least 15 days prior to Election Day. Be sure to look up a voter’s address to ensure the application is sent to the correct clerk’s office.\n\nFor more tips on running a successful voter registration drive, check out these nonpartisan voter registration drive guides:\n\n- Planning a Voter Registration Drive, League of Women Voters (https://www.lwv.org/blog/planning-voter-registration-drive)\n- Host a Voter Registration Drive, Rock the Vote (https://www.rockthevote.org/get-involved/help-register-voters/)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "t": "2026-10-29T22:05:53+00:00"
+        },
+        {
+            "q": "Where can I view voter registration statistics?",
+            "a": "Voter registration statistics, including a list of registered voters by county and the total number of inactive voter registrations to be canceled in future years, are available at the following link.\n\nView voter registration statistics (https://mvic.sos.state.mi.us/VoterCount/Index)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
+            "t": "2026-10-29T22:05:53+00:00"
+        },
+        {
+            "q": "Can a U.S. citizen currently in the military or overseas register to vote in Michigan if they have never lived in the state or country?",
+            "a": "Yes, U.S. citizens who have never lived in the U.S. may register to vote in Michigan if they:\n\n- Have a parent, legal guardian, or spouse whose last permanent residence (home) was located in Michigan, and\n- Have not registered to vote in another state",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "t": "2026-10-29T22:05:55+00:00"
+        },
+        {
+            "q": "Can military and overseas voters submit their ballots electronically?",
+            "a": "While Michigan voters serving overseas or living abroad can elect to receive their absentee ballot electronically by email, online, or by fax, only eligible military members—defined as members of a uniformed service on active duty or members of the merchant marine who are absent from the United States and do not expect to return before an election—can return their ballots electronically. For other voters, all completed absentee ballots must be returned by mail under current Michigan law. Guidance on mailing a completed absentee ballot from an overseas address is available at fvap.gov (http://www.fvap.gov/).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "t": "2026-10-29T22:05:55+00:00"
+        },
+        {
+            "q": "How can Michiganders overseas register to vote to participate on Election Day?",
+            "a": "Michiganders who are overseas can register to vote by downloading and completing a Federal Post Card Application (FPCA) or by registering online at Michigan.gov/Vote (https://mvic.sos.state.mi.us/). After returning this postcard to their local clerk by email, fax, or mail, they will be registered to vote and will receive an absentee ballot by email, fax, or mail.\n\nContact information for all local Michigan clerks can be found at:\n\nMichigan.gov/Vote (https://mvic.sos.state.mi.us/)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "t": "2026-10-29T22:05:55+00:00"
+        },
+        {
+            "q": "How can military and overseas voters ensure their absentee ballot is received by Election Day?",
+            "a": "Except for eligible military members, state law requires registered Michigan voters abroad to return their absentee ballots by mail. So long as their ballots are valid, have a matching signature, are postmarked no later than Election Day, and are received within 6 days after Election Day, they will be tabulated. The Michigan Department of State advises Michigan voters overseas to request and return their absentee ballot as early as possible. Eligible military members may return their ballots electronically or by mail. To securely track an absentee ballot and ensure it is received, voters should visit:\n\nMichigan.gov/Vote (https://mvic.sos.state.mi.us/)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "t": "2026-10-29T22:05:55+00:00"
+        },
+        {
+            "q": "How can registered Michigan voters overseas confirm they will receive an absentee ballot in time for Election Day?",
+            "a": "Any registered Michigan voter serving or living abroad who has registered and requested to vote by absentee ballot any time after November of the previous year, will be mailed an absentee ballot for all of the current year’s elections. Those who have not yet requested an absentee ballot may do so by downloading and completing a Federal Post Card Application (FPCA) from the Federal Voting Assistance Program website and return it to their local clerk’s office via email, mail, or fax.\n\nOverseas voters can verify their Michigan voter registration information and confirm whether they are registered to receive an absentee ballot by visiting Michigan.gov/Vote (https://mvic.sos.state.mi.us/). Once there, voters can track the status of their absentee ballot application and the mailing of their absentee ballot, as well as view contact information for their local clerk’s office in the event follow-up is required.\n\nMichigan.gov/Vote (https://mvic.sos.state.mi.us/)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "t": "2026-10-29T22:05:55+00:00"
+        },
+        {
+            "q": "How can registered Michigan voters serving in the military or living abroad request an absentee ballot?",
+            "a": "Registered Michigan voters serving or living abroad can request an absentee ballot be sent to them by email, fax, or postal mail by downloading and completing a Federal Post Card Application (FPCA) from the Federal Voting Assistance Program website, fvap.gov (https://www.fvap.gov/), or by completing the Michigan Absent Voter Ballot Application. Eligible military members who wish to electronically return their ballot must include their Department of Defense Common Access Card (CAC) signature on their application. There is a place for attaching the signature on the Michigan Absent Voter Ballot Application, and the CAC signature can be attached in section 7 on the FPCA. The voter should also attach their handwritten signature to the FPCA in or near section 7 of the FPCA. Once completed, voters should mail, fax, or scan and email their application to their local clerk’s office.\n\nTo avoid possible postal delays, the Michigan Department of State advises that Michigan voters overseas return their FPCA application to their local clerk’s office by email or fax, rather than by mail, in order to receive their absentee ballot in time.\n\nExplore military and overseas voting (https://www.michigan.gov/sos/elections/voting/military-and-overseas-voters)\n\nRegistered voters in Michigan using a Michigan Absent Voter Ballot Application have the option to join the permanent absentee ballot list and will receive an absentee ballot in every election going forward. However, MOVE voters must complete a Michigan Absent Voter Ballot Application or FCPA every year to ensure that they are sent a ballot early enough to allow for overseas mail. Applications that are received after the November election will apply to all of the next year's elections.\n\nOnce an absentee ballot application has been submitted, voters can securely track the status of their absentee ballot application and mailing of their absentee ballot online at Michigan.gov/Vote (https://mvic.sos.state.mi.us/). Please note, absentee ballot applications must be received no later than 2 p.m. on the Saturday before Election Day in order to vote on Election Day.\n\nMichigan.gov/Vote (https://mvic.sos.state.mi.us/)",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "t": "2026-10-29T22:05:55+00:00"
+        },
+        {
+            "q": "How do I sign up for electronic delivery and electronic return?",
+            "a": "Military and overseas voters request electronic delivery on their absent voter ballot application by providing their email address, and if applying using the FPCA, indicating a preference to receive a link to the ballot portal by email.\n\nEligible members who are authorized to return their voted ballots electronically must request electronic delivery on their absent voter ballot application, and must use the paper Michigan Absent Voter Ballot Application (https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-Forms/Absent-Voter-Ballot-Application-Fillable.pdf?rev=0de9dcd3f16149ae9138037ecd56159d&hash=C06C28C392129D88FFCC54BCFFA714E3) or the Federal Post Card Application (https://www.fvap.gov/uploads/fvap/forms/fpca.pdf) because eligible members must also include their Common Access Card (CAC) signature on the application to qualify for electronic return. (The online absent voter application does not allow inclusion of the Common Access Card signature).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "t": "2026-10-29T22:05:55+00:00"
+        },
+        {
+            "q": "How do military and overseas voters access the portal to receive their ballots?",
+            "a": "Military and overseas voters will receive an email when their ballot is ready. The email will provide each voter with personalized portal access instructions to validate their identity and sign into the portal.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "t": "2026-10-29T22:05:55+00:00"
+        },
+        {
+            "q": "How does the portal protect the security of the ballots?",
+            "a": "The portal utilizes state-of-the-art security technology and practice to guarantee that all ballots are private and correct. Each ballot is encrypted in private on the voter’s device before transmission and is transmitted back to the elections office using an encrypted connection. The cryptography used by the portal provides assurance that the selections made by the voter are received by the election official with integrity, and the encryption of the ballot before and during transit ensures that no one can see the ballot’s contents as it travels from the voter’s computer to the elections office.\n\nEnhanced Voting, the vendor that the department works with to maintain the portal, conducts annual third-party penetration tests, routine internal security audits and scans, and has received both SOC 2 Type II and RABET-V verifications for the security of its products. Additionally, the portal supports CAC authentication for its users eligible for electronic return. This allows voters to easily log in using identity verification technology developed by the U.S. Department of Defense, one of the highest standards of digital identity to date.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "t": "2026-10-29T22:05:55+00:00"
+        },
+        {
+            "q": "How is the Michigan Department of State ensuring the security of the absentee ballot process for Michigan voters overseas to reduce the risk for voter fraud?",
+            "a": "Registered Michigan voters serving overseas and living abroad are subject to the same signature verification requirements as Michigan voters in the United States. A voter’s signature must match their recorded signature in the Qualified Voter File in order to be issued an absentee ballot.\n\nAdditionally, as is the case for all Michigan voters, only one ballot may be tabulated for a military or overseas voter. Michigan’s election system has a robust structure of checks and procedures to ensure no Michigan voter can cast a ballot twice. Michigan has implemented several measures to strengthen election security and integrity which have since consistently resulted in accurate and secure election results. More information about election security measures in Michigan is available on our website (https://www.michigan.gov/sos/elections/security).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "t": "2026-10-29T22:05:55+00:00"
+        },
+        {
+            "q": "If an overseas Michigan voter does not receive their absentee ballot in time to return it to their local clerk by Election Day, can their vote still be counted?",
+            "a": "Military servicemembers, their families, and civilians overseas who are registered Michigan voters and are concerned they may not receive their absentee ballot in time may complete a Federal Write-In Absentee Ballot (FWAB) and return it to their local clerk’s office by mail. The FWAB is available online at fvap.gov (http://www.fvap.gov/) and serves as a backup ballot in case the regular absentee ballot does not reach the local clerk’s office in time. The FWAB will also serve as voter registration for Michiganders abroad who are eligible to register to vote and request an absentee ballot for future elections.\n\nIf both the FWAB emergency ballot and the requested absentee ballot are returned to the clerk in time, only the requested ballot will be tabulated.\n\nOverseas voters can download a FWAB and view instructions on completing and returning the write-in absentee ballot by visiting the Federal Voting Assistance Program website. Write-in absentee ballots must be returned by mail to the voter’s local clerk.\n\nPlease note, all valid absentee ballots with a matching signature that are postmarked by Election Day and received within 6 days after Election Day will be tabulated.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "t": "2026-10-29T22:05:55+00:00"
+        },
+        {
+            "q": "What is the difference between the process for “eligible members” and all other military and overseas voters?",
+            "a": "All military and overseas voters who have selected to receive their ballot electronically will receive their ballot through the portal, and will have the option to either print a blank ballot to mark it by hand or mark their ballot in the portal and then print it, and will then mail their completed ballot back to their clerk.\n\nAll “eligible members” who have selected electronic delivery and return will similarly receive their ballot through the portal, will mark their ballot in the portal, and will have the additional option to return their ballot electronically using the portal. Eligible members will be required to use their Common Access Card signature to electronically return their voted ballot.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "t": "2026-10-29T22:05:55+00:00"
+        },
+        {
+            "q": "What is the Electronic Delivery and Return Portal (EDARP)?",
+            "a": "EDARP is a secure portal through which clerks can send ballots electronically to MOVE voters (also known as UOCAVA voters). All voters receiving their ballots through the portal can vote their ballot inside the portal. Eligible members, defined as members of a uniformed service on active duty or members of the merchant marine who are absent from the United States and do not expect to return before an election, can return their ballots electronically through the portal. Other overseas voters will print their voted ballot and mail it back to their clerk.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "t": "2026-10-29T22:05:55+00:00"
+        },
+        {
+            "q": "Who will use electronic delivery?",
+            "a": "There is no change to who can use electronic delivery. All military and overseas voters who submit a valid Federal Post Card Application (FPCA) or an absent voter ballot application and include an email address are eligible for electronic delivery. The difference is MOVE voters will now receive their ballot through EDARP instead of in their email.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "t": "2026-10-29T22:05:55+00:00"
+        },
+        {
+            "q": "Why is electronic return of voted ballots allowed and when does it start?",
+            "a": "Public Act 197 of 2022 (https://www.legislature.mi.gov/Bills/Bill?ObjectName=2021-SB-0311) and Public Act 193 of 2023 (https://www.legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0470) require the Michigan Department of State to promulgate rules and establish policies and procedures for the electronic return of voted ballots by eligible military members. As of September 1, 2025, electronic return of voted ballots will be available to eligible military members through the Electronic Delivery and Return Portal (portal). Additionally, the portal will be used to transmit ballots to all military and overseas voters who request electronic ballot delivery. Military and overseas voters are defined by the Military and Overseas Voter Empowerment Act (MOVE) and the Uniformed and Overseas Civilians Absentee Voting Act (UOCAVA).",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
+            "t": "2026-10-29T22:05:55+00:00"
+        },
+        {
+            "q": "What is an uncommitted vote on the presidential primary ballot?",
+            "a": "- Each major party’s candidate list includes the term ‘uncommitted.’ When a voter selects ‘uncommitted’ this implies that they are exercising a ‘party vote’ but are not committed to any of the candidates listed on the ballot. The uncommitted vote position does not rotate like other candidate names and remains in the position above the write-in line.\n- When you choose ‘uncommitted’ you will need to fill in the oval or square next to that selection in order for it to count. If you do NOT fill in the oval or square, your choice will not count.\n\nINSTRUCTIONS: For the office of President, you may vote for a candidate or you may vote \"uncommitted.\"\n\nTO VOTE: Completely darken the oval opposite each choice as shown:\n\n--OR--\n\nTO VOTE: Completely darken the box opposite each choice as shown:",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "t": "2026-10-29T22:05:58+00:00"
+        },
+        {
+            "q": "If I choose ‘uncommitted' on the presidential primary ballot, what happens to my vote?",
+            "a": "- Your vote is counted as ‘uncommitted.’ You may wish to view previous presidential primary data in your county to observe how these votes are tallied and recorded, like that which is provided below.\n- With enough votes cast to ‘uncommitted’ the party can send delegates to the national nominating convention who are not committed to a specific candidate. (MCL 168.619)\n- What the delegates do at the national nominating convention depends upon the political party’s rules.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "t": "2026-10-29T22:05:58+00:00"
+        },
+        {
+            "q": "I would like to write in a candidate on the presidential primary ballot. Can I do that?",
+            "a": "- Yes. Your vote will be counted as a write-in vote for a candidate if that candidate has filed a declaration of intent to run as a write-in candidate by the second Friday prior to the election. Otherwise, it will be considered ‘unresolved’ when it comes to applying the vote to a race.\n\n- To vote for a candidate whose name is not printed on the ballot, write or place the name of that candidate in the blank space provided and completely darken the oval or square next to the name. Do not cast a write-in vote for a candidate whose name is already printed on the ballot for that office.\n- Be careful not to write anywhere outside the space for write-in candidates. Marking your ballot outside the designated spaces or bubbles may spoil the ballot.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "t": "2026-10-29T22:05:58+00:00"
+        },
+        {
+            "q": "What is a spoiled ballot?",
+            "a": "- A spoiled ballot is a ballot that has been marked incorrectly and is not counted by election officials.\n- A ballot might also be over-voted for one or more races. Voters are instructed that they must not vote for more candidates than indicated under each office title. Doing so results in an over-vote and the voter’s selection or selections for that office are not counted. If you do this during early voting or on Election Day and would like to correct this error, you can ask that an election inspector mark your ballot as spoiled. The inspector will then issue you a new ballot.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "t": "2026-10-29T22:05:58+00:00"
+        },
+        {
+            "q": "What if I spoil my absentee ballot?",
+            "a": "- If you would like to spoil an absentee ballot you have returned, please contact your clerk’s office no later than the second Friday prior to an election. They will issue you a new ballot.\n- If you choose not to correct your ballot, your vote in that particular race will not be counted if you vote for more candidates than indicated under each office title. Your selections for other races will be counted.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "t": "2026-10-29T22:05:58+00:00"
+        },
+        {
+            "q": "Why shouldn’t I put a sticker on my ballot instead of writing in a candidate’s name?",
+            "a": "- The use of write-in stickers is not permitted due to the potential to result in damage to the precinct tabulators. Please write in the name instead.",
+            "s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
+            "t": "2026-10-29T22:05:58+00:00"
+        },
+        {
+            "q": "Does Michigan allow ballot curing?",
+            "a": "Yes, Michigan allows voters to fix an issue with their ballot.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "a": "The county clerk will notify you of the ballot issue by phone, email, text message, or mail.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What is the deadline to cure my ballot?",
+            "a": "The deadline to cure (correct) your absentee/ ballot is before 5pm on the 3rd day following the election, by filing out a cure form and returning it in person, by email, or by mail.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Can I track my absentee ballot?",
+            "a": "You can track the status of your absentee/mail ballot using your state’s online tool (https://mvic.sos.state.mi.us/Voter/Index).",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "How do I cure a provisional ballot?",
+            "a": "Voters who cast a provisional ballot due to voter ID must submit their acceptable voter ID in-person at your city or township clerk’s office, by fax, or mail by the 6th calendar day after the election.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What is a ballot drop box?",
+            "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Are drop boxes available in my state?",
+            "a": "Yes, vote-by-mail drop boxes are available in Michigan.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Where can I find ballot drop box locations?",
+            "a": "Every qualified voter in Michigan now has the right to at least one State-funded drop box for every municipality. In larger cities, voters now have the right to at least one drop box for every 15,000 registered voters. Drop boxes are distributed equitably throughout the municipality and are accessible 24 hours a day during the 40 days before an election until 8 pm on Election Day.\n\nBallot drop box locations are now available at Michigan.gov/Vote (https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.michigan.gov%2Fdocuments%2Fsos%2FBallot_Dropbox_Locations_697191_7.pdf%3Futm_source%3DMichiganPolicast&data=05%7C01%7Cmbrown%40lwv.org%7Cf329174bb1e647ed30fb08daa7c0b76f%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C1%7C638006743423964248%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=PxgW4oDBuaYXrCNqWHo%2BV0GY2bwLApUq5G425nfEfGE%3D&reserved=0). Choose “Where are my clerk’s offices?”",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Can I track the ballot after placing in the drop box?",
+            "a": "Yes, you can track your ballot by looking up your on the Secretary of State website (https://mvic.sos.state.mi.us/Voter/Index) and by subscribing to electronic notifications (https://mvic.sos.state.mi.us/Voter/VoterSearch).",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Can I vote before Election Day in Michigan?",
+            "a": "Yes. All registered voters in Michigan can vote before Election Day by voting early in person at an early voting site or by using an absentee ballot.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Do I have to apply to vote early in Michigan?",
+            "a": "No. You do not need to apply to vote early in person. You can go directly to your assigned early voting site during the early voting period.\n\nYou must apply if you want to vote using an absentee ballot (https://www.vote411.org/michigan#absentee-ballot-process), unless you are on the permanent absentee list.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "When can I vote early in Michigan?",
+            "a": "Early in-person voting runs for at least 9 consecutive days, beginning the second Saturday before Election Day and ending the Sunday before Election Day. Some communities may offer additional days.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Where can I vote early in person in Michigan?",
+            "a": "You can find your assigned early voting site up to 60 days before Election Day at Michigan.gov/Vote. (https://mvic.sos.state.mi.us/Voter/Index#early-voting-search-section)",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Who is eligible to vote in Michigan?",
+            "a": "To register to vote in Michigan, you must be:\n\n- A U.S. citizen\n- At least 16 years old to pre-register and at least 17.5 years old to register (you must be 18 years old by Election Day to vote)*\n- A Michigan resident for at least 30 days by Election Day\n- Not currently serving a sentence in jail or prison\n\n*If you are at least 16 years old, you can pre-register to vote and will automatically become an active registered voter when you turn 17.5 years old.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Can I vote in Michigan if I have a felony conviction?",
+            "a": "In Michigan, you cannot vote if you are currently incarcerated for a misdemeanor or felony conviction. Your voting rights are automatically restored when you are released, and you can register to vote right away.\n\nYour voting rights are not affected by pretrial detention, probation, or parole.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "How do I vote if I don’t have a permanent address?",
+            "a": "You can still register and vote in Michigan if you do not have a permanent address. You have the right to vote regardless of housing status. When registering, you can describe or list an address where you usually stay. This can include:\n\n- A shelter address\n- A street corner or park address\n- An address where you receive mail",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Can students vote in Michigan?",
+            "a": "Yes. Students can register and vote in Michigan if they meet all voter eligibility requirements. College and university students can choose to register using either their Michigan home address or their campus address.\n\nYou do not need a Michigan driver’s license or ID to register, but you cannot register online without one. You can still register by mail or in person at your local clerk’s office.\n\nIf you are a student from out of state, you can also choose to vote in your home state using an absentee ballot, but you’ll need to follow your home state’s rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Do I need an ID to register to vote in Michigan?",
+            "a": "It depends on how you register:\n\n- If you register in person, you will be asked to show ID and you must provide one if you have one. If you do not have a photo ID you can sign an affidavit saying that you do not have a photo ID.\n- If you register by mail for the first time in Michigan, you must provide a form of ID.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What types of ID are accepted for registration?",
+            "a": "Accepted forms of ID include:\n\n- A Michigan driver's license or state ID\n- Current Utility Bill\n\nStudents may also register with a school-issued ID card plus a lease agreement or postmarked mail showing their current address.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What if I don’t have an ID?",
+            "a": "If you do not have the above ID when you register you will need to provide it before you vote either in person or by mail.\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "When are official election results available in Michigan?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count a large number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Where can I find official election results?",
+            "a": "Official election results will be uploaded on Michigan’s Secretary of State website (https://mvic.sos.state.mi.us/votehistory/Index) as they become available.\n\n  Official Results  (https://mvic.sos.state.mi.us/votehistory/Index?type=C&electionDate=8-6-2024)",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What does a poll worker do in Michigan?",
+            "a": "Poll workers, also called election inspectors, are trained local workers who help run elections. They may:\n\n- Check in voters and verify registration\n- Issue ballots and explain how to vote\n- Help voters use voting equipment\n- Assist with counting and processing ballots, including absentee ballots",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What qualifications do I need to be a poll worker in Michigan?",
+            "a": "To be an election inspector in Michigan, you must:\n\n- Be at least 16 years old\n- Be a Michigan resident (and a registered voter if you are 18 or older)\n- Not have a felony or election-related conviction\n- Not be a candidate, a candidate’s immediate family member, an election challenger, or a member of the local board of canvassers\n- Disclose a political party affiliation (this is required for staffing balance). Party registration is not a requirement. Affiliating as “independent” or “unaffiliated” is not a legal option for an election inspector.\n\nIf hired, you will receive official training from your local or county clerk on how to run elections and assist voters in accordance with Michigan election law.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Are poll workers paid in Michigan?",
+            "a": "Yes. Poll workers are paid for their work. Pay is set by each city, township, or county, so the amount can vary depending on where you work. For more information, please contact your local election officials. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "How do I apply to be a poll worker in Michigan?",
+            "a": "You can apply by filling out the Democracy MVP Election Inspector Interest Form (https://www.michigan.gov/sos/elections/pollworker/election-worker-intro) at Michigan.gov. After you submit the form, your local clerk may contact you about training and next steps if they are hiring.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility isn’t certain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Does Michigan offer provisional voting?",
+            "a": "Yes, Michigan offers provisional voting.\n\nImportant note about provisional voting:\n\nBefore completing the provisional balloting process because your name does not appear on the registration list, you should consider going in person to your local clerk's office on Election Day to register to vote. After you register, you will be able to vote using a regular ballot that will be counted on Election Day.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "How do I vote a provisional ballot?",
+            "a": "If you’re at the correct polling place but your name does not appear on the registration list, you cannot produce a registration receipt, and you do not re-register on Election Day at your local clerk's office, you may vote a provisional ballot at your polling place.\n\nIn order to get a provisional ballot, you must:\n\n- Complete an Application to Vote form,\n- Complete an affidavit stating that you registered to vote on or before the close of registration for the election, and\n- Respond to questions regarding your identity and residence.\n\nYou may ask election workers for help in filling out these forms.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "When will my provisional ballot be counted?",
+            "a": "If you can provide a photo ID with an address that shows you’re eligible to vote in that polling place, your provisional ballot will be counted on Election Day.\n\nIf not, the ballot will be placed in a provisional ballot security envelope and returned to the clerk’s office. You have six days after Election Day to satisfy the residency and/or identification requirements at their clerk’s office in order for your ballot to be counted.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What voting assistance is available for voters with disabilities?",
+            "a": "The Help America Vote Act requires that election authorities have voting equipment for voters with disabilities to vote privately and independently, and Illinois is no exception.\n\nThere are options for a seated voting booth, voting assistance from a friend, relative, or two election judges (one from each party), voting by mail, and curbside voting.\n\nLanguage assistance is also available where required.\n\nFor more information on the provisions available for disabled voters, please contact your local election authority (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "How do I request accommodation or report accessibility issues?",
+            "a": "If you have any questions about receiving help in voting, please ask the clerk or inspector at the polling place.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Can I vote by mail because of my disability?",
+            "a": "Vote-by-mail (absentee voting) is available in Michigan and no excuse is required. You can find more about how to vote by mail here. (https://www.vote411.org/michigan#absentee-ballot-process)\n\nFor more information, you can utilize the American Association of People With Disabilities (AAPD) (http://www.aapd.com/what-we-do/voting/) resource.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What do I need to register to vote in Michigan?",
+            "a": "Here is what you need to know to register in Michigan:\n\nThere are three ways to register to vote in Michigan: online (https://mvic.sos.state.mi.us/), by mailing a completed application (https://www.michigan.gov/sos/elections/voting/voters#voterreg) to your local clerk, or in person at your city or township clerk’s office (https://ntee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Can I register to vote using my college address in Michigan?",
+            "a": "Yes, if you consider your campus address your residence, you can register to vote there. If you move to a different dorm or off campus, be sure to update your voter registration with your new address so you vote in the correct district.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What’s the deadline to register to vote in Michigan?",
+            "a": "The deadline to register to vote in Michigan online or by mail is 15 days before Election Day. Be sure to check the exact date each year. You can also register in person through Election Day at your city or township clerk’s office.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What form of ID do I need to vote in Michigan?",
+            "a": "Michigan voters are asked to show photo ID at the polls, such as a Michigan driver’s license, U.S. passport, military ID, student ID, or other accepted forms. If you don’t have ID or forget to bring it, you can still vote by signing a simple affidavit, your ballot will still be counted.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "I’m originally from another state—can I still vote in my home state while studying in Michigan?",
+            "a": "Yes, you can vote in your home state using an absentee ballot, but you'll need to follow your home state's rules and deadlines. You can find the rules for your state on VOTE411 or by contacting your state’s election office (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.80770708.201004602.1748545947-889989650.1701105430).",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Michigan?",
+            "a": "Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents’ taxes, or tuition status.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Does Michigan require employers to give time off to vote?",
+            "a": "There is no state law mandating paid or unpaid time off for voting in Michigan, so voters should plan ahead. You can vote early in person, vote by absentee ballot, or vote before or after your work shift on Election Day. Some employers may choose to offer time off, but it is not required by law.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Do I need an ID to vote in Michigan?",
+            "a": "Yes, Michigan requests a photo ID to vote in person. If you don’t have an accepted ID, there are other ways to confirm your identity.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What types of ID can I use to vote in Michigan?",
+            "a": "Voters can meet the photo ID requirement by showing a Michigan driver’s license or state ID. If you do not have a Michigan driver’s license or state ID, you can use any of the following current (not expired) photo IDs:\n\n- Driver’s license or state ID from another state\n- Federal, state, county, or local government-issued photo ID\n- U.S. passport\n- Military ID with photo\n- Student ID with photo from a high school or accredited college or university\n- Tribal ID with photo\n- Veteran’s ID\n- Concealed pistol license\n- Municipal ID",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What if I don’t have an acceptable ID?",
+            "a": "If you do not have a photo ID, you can still vote by signing an affidavit stating you do not have one. Once signed, you will be able to vote a regular ballot that will be counted.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Does mail/absentee voting require ID?",
+            "a": "Any registered voter in Michigan can request an absentee ballot. You do not need to provide a reason.\n\nIf you apply online, you must provide your Michigan driver’s license or state ID number, or the last four digits of your Social Security number.\n\nIf you apply by mail or in person, you do not need to provide these numbers. Instead, your signature will be checked against your voter registration record.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Are student or digital IDs accepted?",
+            "a": "Student IDs are accepted if they include a photo and are from a high school or accredited institution. Digital or mobile IDs are not listed as acceptable forms of identification in Michigan. If you have any questions, please reach out to your local elections official. (https://absentee.vote411.org/vote/eoddomestic.htm)\n\nVoters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What is the deadline to register to vote in Michigan?",
+            "a": "- Online registration deadline: 15 days before Election Day\n- Register by mail deadline: Postmarked 15 days before Election Day\n- In-person registration deadline: Election Day",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "How can I register to vote in Michigan?",
+            "a": "- Online at michigan.gov/voterregistration, (https://nam10.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.mi.gov%2Fvoterregistration&data=05%7C01%7Cmbrown%40lwv.org%7Cf329174bb1e647ed30fb08daa7c0b76f%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C1%7C638006743424120470%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=xOu63qoZfrlqiw%2B%2FD%2FUDMf8j%2F4udpwhDIAGTiNoOSwI%3D&reserved=0) if you have a valid Michigan driver’s license or state ID;\n- At a Secretary of State branch office;\n- At your city or township clerk’s office or your county clerk’s office;\n- At any state agency that provides public assistance or services to people with disabilities;\n- By mailing in a completed voter registration application postmarked no later than the fifteenth day before the election or,\n- Through a voter registration drive.\n\nBeginning on the 14th day before the election and through 8 pm on Election Day, you have one way to register to vote: visit your city or township clerk’s office. You must show proof of where you live.\n\nDocuments must have your name and current address. You can show a digital copy of any document. Acceptable documents include:\n\n- Michigan driver’s license or State ID card\n- Current utility bill\n- Bank statement\n- Paycheck or government check\n- Other government document",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "How can I check my voter registration status?",
+            "a": "You can verify your voter registration status using Michigan’s voter information tool. (https://mvic.sos.state.mi.us/Voter/Index)",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Does Michigan have online voter registration?",
+            "a": "Yes! Use our online registration tool (https://www.vote411.org/register) to complete your application",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Is same-day voter registration available in Michigan?",
+            "a": "Yes, Michigan has same-day voter registration.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Can I pre-register to vote?",
+            "a": "Yes, you can pre-register to vote if you are 16 or 17 years old.\n\nPre-register online, by mail, or automatically at the Secretary of State’s office when applying for a Driver's License, State ID, Graduated Driver’s License or when updating your address.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "Who is eligible to register in Michigan?",
+            "a": "Check if you’re eligible to register here (https://www.vote411.org/michigan#eligibility-requirements).",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What types of voting machines does Michigan use?",
+            "a": "The voting system used in Michigan is Optical Scan.",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        },
+        {
+            "q": "What is optical scan voting?",
+            "a": "With optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\n\n- With a pen or pencil, you fill in a little box, circle, or space between two arrows.\n- When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\n- Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/michigan",
+            "t": "2026-10-22T19:13:23+00:00"
+        }
+    ]
+}

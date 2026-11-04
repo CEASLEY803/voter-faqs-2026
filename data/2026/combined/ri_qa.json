@@ -1,0 +1,110 @@
+{
+    "state": "ri",
+    "num_questions": 17,
+    "num_answers": 17,
+    "contributor": "Cole Easley",
+    "questions": [
+        {
+            "q": "What voting machines are used in Rhode Island?",
+            "a": "In 2015, the Department was tasked with researching, evaluating, and identifying a cost-effective strategy for procuring and implementing 21st century voting technology for use statewide.\n\n The Department involved a diverse group of stakeholders in the selection process and assessed, with input from the Governor’s Commission on Disabilities, the latest voting equipment available on the market.\n\n Election Systems & Software (ES&S) was selected as the vendor for the state’s new voting equipment. The state procured 590 new DS200 optical scan voting machines.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": "2026-10-29T22:40:53+00:00"
+        },
+        {
+            "q": "What security measures are in place for the voting machines?",
+            "a": "The DS200 voting machines are optical scan machines that use paper ballots. These voting machines are not connected to the internet while polls are open and have several layers of redundancy for security.\n\n- After polls close, the voting machine prints the unofficial results from that polling place.\n- Each machine also has an encrypted thumb-drive that stores the unofficial results and scanned images of each of the voted ballots.\n- Unofficial results are then encrypted and modemed to the Board of Elections on election night.\n- All voted ballots are available for auditing/recounts.\n\nThis means results can then be compared with the paper receipt, the scanned images, and the actual paper ballots.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": "2026-10-29T22:40:53+00:00"
+        },
+        {
+            "q": "What are electronic poll books?",
+            "a": "Beginning in 2018, voters statewide will check into their polling place using an electronic poll book.\n\nIn jurisdictions across the U.S., electronic poll books have been proven to reduce voters' wait time and dramatically increase data accuracy and efficiencies at the local boards of canvassers. Jurisdictions in 33 states use electronic poll books.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": "2026-10-29T22:40:53+00:00"
+        },
+        {
+            "q": "What security measures are in place for electronic poll books?",
+            "a": "The electronic poll book system maintains multiple levels of security to ensure confidentiality and integrity of all devices, communications, data, and systems. All traffic to and from the system is encrypted ensuring it is always up to date with the latest encryption standards and supported by industry leading network teams.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": "2026-10-29T22:40:53+00:00"
+        },
+        {
+            "q": "What are Risk Limiting Audits?",
+            "a": "In 2017, Rhode Island became the second state in the country to authorize risk limiting audits. These audits use statistics to determine how many ballots need to be hand-counted to verify Election Day results. The closer the margin of victory, the more ballots will be hand-counted.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": "2026-10-29T22:40:53+00:00"
+        },
+        {
+            "q": "What is the Central Voter Registration System (CVRS)?",
+            "a": "The Rhode Island Central Voter Registration System (CVRS) is the statewide database of registered voters. The CVRS is in a closed network that requires multi factor authentication. Systems that have access are restricted at the network level and further restricted by the individual computer. Additionally, users are restricted by username/password.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": "2026-10-29T22:40:53+00:00"
+        },
+        {
+            "q": "What is Online Voter Registration?",
+            "a": "Rhode Island implemented online voter registration in 2016. Eligible Rhode Islanders may use the system to easily register to vote or update their voter information and their party affiliation. A valid Rhode Island Driver’s License or State ID number is required to use the system.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": "2026-10-29T22:40:53+00:00"
+        },
+        {
+            "q": "What is Automated Voter Registration?",
+            "a": "Automated Voter Registration (AVR) improves the voter registration process, beginning at the DMV, by automatically registering citizens to vote unless they choose to “opt-out” of the process. This means when someone updates their address at the DMV they will also update their voter registration information. This will help eliminate the bloat in our voter rolls that occur from unintentional, duplicate voter registrations, and reduce the potential for voter fraud.\n\nAutomatically updating the voter rolls any time a citizen updates his/her address, initially at the DMV and in the future, at any government agency will help ensure that Rhode Island’s voter rolls are as accurate and up to date as possible.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": "2026-10-29T22:40:53+00:00"
+        },
+        {
+            "q": "Does Rhode Island have early voting?",
+            "a": "Yes. Rhode Islanders can go to a location designated by their city/town on the 20 days before an election and cast a ballot into a voting machine.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": "2026-10-29T22:40:53+00:00"
+        },
+        {
+            "q": "Does Rhode Island have primaries?",
+            "a": "Yes. Political parties will hold primary elections for federal, state, and local offices in September of an election year. Some cities/towns also hold non-partisan primaries. Please contact your local board of canvassers (https://vote.sos.ri.gov/Elections/LocalBoards) for more information.",
+            "s": "https://vote.sos.ri.gov/Voter/VoterFaq",
+            "t": "2026-10-29T22:40:25+00:00"
+        },
+        {
+            "q": "Can I vote in any party primary?",
+            "a": "If you are affiliated with a specific political party, you may only vote in that party’s primary. Unaffiliated, or independent, voters can vote in any party primary.",
+            "s": "https://vote.sos.ri.gov/Voter/VoterFaq",
+            "t": "2026-10-29T22:40:25+00:00"
+        },
+        {
+            "q": "Can I change my party affiliation to vote in another party’s primary?",
+            "a": "You have the option of affiliating with any recognized political party when you register to vote or update your voter registration information. You can do this at any time, but it must be done at least 30 days before voting in a primary. If you do not choose a party affiliation, you will be an unaffiliated voter. Unaffiliated voters can vote in any party primary.",
+            "s": "https://vote.sos.ri.gov/Voter/VoterFaq",
+            "t": "2026-10-29T22:40:25+00:00"
+        },
+        {
+            "q": "Can someone help me if I have questions on marking my ballot?",
+            "a": "Mail Ballot Voter: Call your local board of canvassers (https://vote.sos.ri.gov/Elections/LocalBoards) for any questions or assistance in marking your ballot.\n\n Voters at the polls: A poll worker will explain how to mark your ballot if you ask. The cover of the secrecy folder and the inside wall of the voting booth will also contain instructions on how to mark your ballot.\n\n Per state law, anyone can assist the voter unless they are the voter’s employer or agent of that employer, or an officer or agent of the voter’s union.\n\n You can request the assistance of a bipartisan pair of poll workers. Federal and state laws allow voters who are blind, disabled or unable to read or write to bring a person of their choice into the voting booth. The poll worker will have an affidavit that must be completed.",
+            "s": "https://vote.sos.ri.gov/Voter/VoterFaq",
+            "t": "2026-10-29T22:40:25+00:00"
+        },
+        {
+            "q": "What happens if I vote for too many candidates?",
+            "a": "Mail Ballot Voters: Call the Elections Division at 401-222-2340 to discuss ways to receive a replacement ballot.\n\n Voters at the polls: The voting equipment is programmed to notify you if you vote for more candidates than allowed by law. A poll worker will ask you to remove the ballot and complete several additional ovals on the ballot. Your old ballot is then completely voided and sealed for your voting privacy. You will be given a new ballot and directed to a voting booth to complete it.",
+            "s": "https://vote.sos.ri.gov/Voter/VoterFaq",
+            "t": "2026-10-29T22:40:25+00:00"
+        },
+        {
+            "q": "What should I do if I am listed as an inactive voter?",
+            "a": "Mail Ballot Voters: Returning a mail ballot will affirm your address with your local board of canvassers.\n\n Voters at the polls: If you live at a different address from the one shown on the voting list, or if you are listed as “inactive” because mail sent to your address has been returned by the Post Office as undeliverable, you will need to fill out and sign an additional affirmation form before voting.",
+            "s": "https://vote.sos.ri.gov/Voter/VoterFaq",
+            "t": "2026-10-29T22:40:25+00:00"
+        },
+        {
+            "q": "What races will appear on a ballot?",
+            "a": "View declared candidates for upcoming races (https://vote.sos.ri.gov/Candidates/CandidateSearch).\n\nThe names of the candidates for each federal and state race appear first on the ballot with their party affiliation listed directly beneath their names.\n\nIn most cities/towns, local races will appear next on the ballot. In some races the names of the candidates appear on the ballot along with their party affiliation. Some races are labeled as “non-partisan” or “without party marks or designation”. In those races, the candidate’s party affiliation will not appear on the ballot.\n\nYour ballot may also include races where more than one person is to be elected. In those races, you will see instructions such as “Vote for no more than 2” indicating that you may vote for no more than 2 candidates in that race, “Vote for no more than 3” indicating that you may vote for no more than 3 candidates in that race, and so forth.\n\nThe state constitutional amendments and questions are then listed on the ballot. In most cases, the questions start in the first column on the backside of the ballot. Where applicable, local questions follow the state constitutional amendments and questions and are printed on a yellow background. In some cases, questions will not fit on the backside of the ballot, and you will be issued an additional ballot.",
+            "s": "https://vote.sos.ri.gov/Voter/VoterFaq",
+            "t": "2026-10-29T22:40:25+00:00"
+        },
+        {
+            "q": "If I moved to another state and no longer reside in Rhode Island, how do I cancel my voter registration record?",
+            "a": "If you no longer reside in Rhode Island, you should send a signed letter to the local board of canvassers (https://vote.sos.ri.gov/Elections/LocalBoards) in the city/town where you used to live indicating that you wish to cancel your voter registration record.",
+            "s": "https://vote.sos.ri.gov/Voter/VoterFaq",
+            "t": "2026-10-29T22:40:25+00:00"
+        }
+    ]
+}
