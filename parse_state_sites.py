@@ -15,7 +15,7 @@ from collect_sc import ROOT, load_sources, make_entry, parse_scvotes, source_tex
 from datasets import hostname, load_dataset, normalize_url, record_source
 
 
-PARSER_VERSION = 1
+PARSER_VERSION = 2
 QUESTION_MAX_CHARS = 300
 HEADINGS = {"h1", "h2", "h3", "h4", "h5", "h6"}
 # Elements that hold one question label when their text reads as a question.
@@ -25,7 +25,9 @@ SHORT_CONTAINERS = {"div", "span", "td", "th"}
 # A label tag that wraps any of these is treated as a container instead of a single label.
 BLOCK_TAGS = HEADINGS | {"div", "p", "ul", "ol", "dl", "li", "table", "section", "article", "blockquote", "details", "form"}
 Q_LABEL = re.compile(r"^\s*Q\s*[:.)]\s*", re.I)
-A_LABEL = re.compile(r"^\s*A\s*[:.)]\s*", re.I)
+A_LABEL = re.compile(r"^\s*A(nswer)?\s*[:.)]\s*", re.I)
+# In-page navigation repeated inside answers, such as Vermont's "Return to Top" and North Dakota's "Copy Link".
+NAVIGATION_LINE = re.compile(r"^\s*((back|return) to top|top of page|copy link)\b[^\n]*$", re.I | re.M)
 # Page feedback widgets phrased as questions.
 BOILERPLATE_QUESTION = re.compile(r"^(was this (page|information|content) (helpful|useful)|did you find what you|"
                                   r"is there anything wrong with this page|how can we improve)", re.I)
@@ -189,7 +191,8 @@ def records_from_blocks(blocks, metadata):
         if question is None:
             return
         q = clean_question(source_text([question], url, include_links=False))
-        a = A_LABEL.sub("", source_text(answer_parts, url), count=1).strip()
+        a = NAVIGATION_LINE.sub("", A_LABEL.sub("", source_text(answer_parts, url), count=1))
+        a = re.sub(r"\n{3,}", "\n\n", a).strip()
         # A question with no answer is a table-of-contents entry or a menu item.
         if q and a and (q, a) not in seen:
             seen.add((q, a))

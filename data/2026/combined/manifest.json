@@ -1,10 +1,10 @@
 {
     "year": 2026,
     "baseline_year": 2024,
-    "built_at": "2026-11-04T21:12:21+00:00",
+    "built_at": "2026-11-04T21:18:06+00:00",
     "vote411_batch": "data/2026/batches/20261022T201244360248Z",
     "state_site_batch": "data/2026/state_sites/20261029T220403252970Z",
-    "state_site_parser_version": 1,
+    "state_site_parser_version": 2,
     "record_order": "state-site records first, then Vote411 records; the s field gives each record's source",
     "counts": {
         "ak": {
