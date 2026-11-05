@@ -35,6 +35,23 @@ def vote411_records(batch, state):
     return json.loads(path.read_text(encoding="utf-8"))["questions"] if path.is_file() else []
 
 
+def vote411_extraction(batch, counts):
+    """Describe how this cycle's Vote411 records were extracted, per state, for later comparisons."""
+    versions = set()
+    for state in counts:
+        path = batch / state / "collection_metadata.json"
+        if path.is_file():
+            versions.add(json.loads(path.read_text(encoding="utf-8"))["extraction_version"])
+    return {
+        "methods": {state: "question_headings" if count["vote411"] else "sections_without_questions"
+                    for state, count in counts.items()},
+        "method_basis": "Recorded by collect_vote411.py: one record per published question heading inside each "
+                        "Vote411 section. A page with no question headings yields no records, and its sections "
+                        "are kept as supporting content beside the saved page.",
+        "extraction_versions": sorted(versions),
+    }
+
+
 def build(year, baseline_year, vote411_batch=None, state_site_batch=None, contributor="Cole Easley"):
     """Write data/<year>/combined/ and return its manifest."""
     vote411_batch = Path(vote411_batch or latest_vote411_batch(year)).resolve()
@@ -59,6 +76,13 @@ def build(year, baseline_year, vote411_batch=None, state_site_batch=None, contri
         "state_site_batch": state_site_batch.relative_to(ROOT).as_posix(),
         "state_site_parser_version": PARSER_VERSION,
         "record_order": "state-site records first, then Vote411 records; the s field gives each record's source",
+        "extraction": {
+            "vote411": vote411_extraction(vote411_batch, counts),
+            "state": {"method": "general_parser", "parser_version": PARSER_VERSION,
+                      "method_basis": "parse_state_sites.py: a question is a short block ending in a question mark "
+                                      "or labelled Q:, and its answer runs to the next question or non-question "
+                                      "heading. Per-page parsers and flags are in the parse report."},
+        },
         "counts": counts,
         "flagged_pages": [{"state": page["state"], "url": page["url"], "flags": page["flags"]}
                           for page in parse_report if page["flags"]],
