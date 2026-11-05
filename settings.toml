@@ -1,0 +1,120 @@
+# Settings for comparing collection cycles. Change these instead of the code.
+
+[comparison]
+# How Vote411 records are compared between two cycles.
+#   "auto"      Question by question when both cycles' manifests say the state's Vote411 records
+#               came from question headings; by section otherwise (for example when the earlier
+#               cycle turned each section title into one question, as most 2024 states did).
+#   "section"   Always by section.
+#   "question"  Always question by question.
+vote411_unit = "auto"
+
+# Vote411 sections, with a keyword rule that assigns a record to a section when a cycle's records
+# do not say which section they came from (the 2024 data). Each pattern is a regular expression
+# matched against the record's question in lowercase with punctuation removed. Rules are tried in
+# order and the first match wins, so put narrow rules (such as ID for registration) before broad
+# ones (such as voter ID). Titles match the section headings on the 2026 Vote411 pages.
+
+[[vote411_sections]]
+title = "Ballot Notice and Cure Process"
+pattern = '\bcure\b|fix (any )?issues?|issues? with (my|your)'
+
+[[vote411_sections]]
+title = "Campaign Finance Information"
+pattern = 'campaign (finance|contributions?)|\bcontributions?\b'
+
+[[vote411_sections]]
+title = "Candidate and Ballot Measure Information"
+pattern = '\bcandidates?\b|ballot measures?'
+
+[[vote411_sections]]
+title = "Poll Worker Information"
+pattern = 'poll workers?'
+
+[[vote411_sections]]
+title = "Drop Boxes"
+pattern = 'drop ?box'
+
+[[vote411_sections]]
+title = "Provisional Voting"
+pattern = 'provisional'
+
+[[vote411_sections]]
+title = "Overseas and Military Voters"
+pattern = 'military|overseas|uocava'
+
+[[vote411_sections]]
+title = "Provisions for Voters with Disabilities"
+pattern = 'disabilit|accessib'
+
+[[vote411_sections]]
+title = "Time Off To Vote"
+pattern = 'time off'
+
+[[vote411_sections]]
+title = "Voting Machines"
+pattern = '\bmachines?\b'
+
+[[vote411_sections]]
+title = "Official Election Results"
+pattern = '\bresults?\b'
+
+[[vote411_sections]]
+title = "Student Voting Process"
+pattern = '\bstudents?\b|\bcollege\b'
+
+[[vote411_sections]]
+title = "Ranked Choice Voting"
+pattern = 'ranked'
+
+[[vote411_sections]]
+title = "Registering after Moving"
+pattern = '\bmov(e|ed|ing)\b'
+
+[[vote411_sections]]
+title = "Voter Registration Deadlines"
+pattern = 'deadline.*regist|regist.*deadline'
+
+[[vote411_sections]]
+title = "ID Needed for Voter Registration"
+pattern = '(\bids?\b|identification).*regist|regist.*(\bids?\b|identification|citizenship)'
+
+[[vote411_sections]]
+title = "Voter ID Requirements"
+pattern = '\bids?\b|identification'
+
+[[vote411_sections]]
+title = "Verify Voter Registration"
+pattern = 'verify|registration status|check my registration|am i registered'
+
+[[vote411_sections]]
+title = "Early Voting"
+pattern = 'early (voting|vote)|vote early'
+
+[[vote411_sections]]
+title = "Primary Election Process"
+pattern = '\bprimary\b|\bprimaries\b'
+
+[[vote411_sections]]
+title = "Absentee Ballot Process"
+pattern = 'absentee|by mail|mail ?in\b|mail ballots?'
+
+[[vote411_sections]]
+title = "Vote by Mail"
+pattern = 'vote by mail'
+
+[[vote411_sections]]
+title = "Election Day Voting Hours"
+pattern = '\bhours?\b|polls? (open|close)'
+
+[[vote411_sections]]
+title = "Polling Place Locations"
+pattern = 'polling (place|center|location)|vote centers?|where (do|can|should) i vote|locator|\blocation\b'
+
+[[vote411_sections]]
+title = "Eligibility Requirements"
+pattern = 'eligib'
+
+[[vote411_sections]]
+title = "Election Dates"
+pattern = 'election dates?|important dates|upcoming elections?|when (is|are) the (next )?elections?'

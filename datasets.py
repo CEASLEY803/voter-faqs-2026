@@ -3,6 +3,7 @@
 import json
 from pathlib import Path
 import re
+import tomllib
 from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
 
 from collect_sc import ROOT
@@ -18,6 +19,42 @@ NON_STATE_HOSTS = {
     "ohiovoterrights.org": "Ohio Voter Rights Coalition",
 }
 SOURCES = ("state", "vote411")
+SETTINGS_FILE = ROOT / "settings.toml"
+# How a state's Vote411 records were extracted, as recorded in each cycle's manifest.json:
+#   question_headings           one record per published question heading inside a section
+#   section_titles              one record per section, its title rewritten as a question
+#   mixed                       section titles for some sections, question headings for others
+#   sections_without_questions  the page had no question headings; content kept as sections only
+#   none                        no Vote411 records for the state
+VOTE411_METHODS = ("question_headings", "section_titles", "mixed", "sections_without_questions", "none")
+
+
+def load_settings(path=SETTINGS_FILE):
+    settings = tomllib.loads(Path(path).read_text(encoding="utf-8"))
+    unit = settings["comparison"]["vote411_unit"]
+    if unit not in ("auto", "section", "question"):
+        raise SystemExit(f"{Path(path).name}: vote411_unit must be auto, section or question, not {unit!r}")
+    return settings
+
+
+def vote411_section_rules(settings):
+    return [(rule["title"], re.compile(rule["pattern"])) for rule in settings["vote411_sections"]]
+
+
+def assign_vote411_section(question, rules):
+    """The first section whose keyword rule matches the question, or None."""
+    text = normalize_text(question)
+    return next((title for title, pattern in rules if pattern.search(text)), None)
+
+
+def load_manifest(year):
+    path = dataset_dir(year) / "manifest.json"
+    return json.loads(path.read_text(encoding="utf-8")) if path.is_file() else {}
+
+
+def vote411_method(manifest, state):
+    """The recorded Vote411 extraction method for a state, or 'unknown' if the manifest has none."""
+    return manifest.get("extraction", {}).get("vote411", {}).get("methods", {}).get(state, "unknown")
 
 
 def dataset_dir(year):

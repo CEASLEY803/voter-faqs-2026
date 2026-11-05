@@ -1,0 +1,362 @@
+{
+    "year": 2024,
+    "described_at": "2026-11-05T15:55:57+00:00",
+    "source": {
+        "repository": "https://github.com/ai4society/election-dataset-us",
+        "commit": "27105405530734ac5466826829d0446e48dda079"
+    },
+    "extraction": {
+        "vote411": {
+            "methods": {
+                "ak": "section_titles",
+                "al": "section_titles",
+                "ar": "mixed",
+                "az": "section_titles",
+                "ca": "question_headings",
+                "co": "section_titles",
+                "ct": "section_titles",
+                "de": "section_titles",
+                "fl": "mixed",
+                "ga": "question_headings",
+                "hi": "section_titles",
+                "ia": "section_titles",
+                "id": "mixed",
+                "il": "question_headings",
+                "in": "section_titles",
+                "ks": "section_titles",
+                "ky": "section_titles",
+                "la": "section_titles",
+                "ma": "mixed",
+                "md": "section_titles",
+                "me": "section_titles",
+                "mi": "none",
+                "mn": "section_titles",
+                "mo": "mixed",
+                "ms": "section_titles",
+                "mt": "mixed",
+                "nc": "section_titles",
+                "nd": "section_titles",
+                "ne": "mixed",
+                "nh": "section_titles",
+                "nj": "section_titles",
+                "nm": "none",
+                "nv": "mixed",
+                "ny": "mixed",
+                "oh": "section_titles",
+                "ok": "section_titles",
+                "or": "section_titles",
+                "pa": "none",
+                "ri": "section_titles",
+                "sc": "section_titles",
+                "sd": "mixed",
+                "tn": "mixed",
+                "tx": "question_headings",
+                "ut": "mixed",
+                "va": "mixed",
+                "vt": "section_titles",
+                "wa": "section_titles",
+                "wi": "mixed",
+                "wv": "section_titles",
+                "wy": "mixed"
+            },
+            "method_basis": "Inferred from the records. A record counts as a section title when its wording is used by at least 5 states, or when it is the only record assigned to its section (by the keyword rules in settings.toml) in a state whose records cover at least 10 sections with at most 1.5 records per section. A state is section_titles when at least 90% of its records are section titles, question_headings when at most 10% are, and mixed otherwise.",
+            "evidence": {
+                "ak": {
+                    "records": 23,
+                    "sections_covered": 23,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "al": {
+                    "records": 22,
+                    "sections_covered": 22,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "ar": {
+                    "records": 18,
+                    "sections_covered": 15,
+                    "unassigned_records": 0,
+                    "section_title_share": 0.72
+                },
+                "az": {
+                    "records": 22,
+                    "sections_covered": 22,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "ca": {
+                    "records": 22,
+                    "sections_covered": 9,
+                    "unassigned_records": 3,
+                    "section_title_share": 0.05
+                },
+                "co": {
+                    "records": 23,
+                    "sections_covered": 22,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "ct": {
+                    "records": 22,
+                    "sections_covered": 22,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "de": {
+                    "records": 22,
+                    "sections_covered": 22,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "fl": {
+                    "records": 22,
+                    "sections_covered": 13,
+                    "unassigned_records": 0,
+                    "section_title_share": 0.64
+                },
+                "ga": {
+                    "records": 29,
+                    "sections_covered": 12,
+                    "unassigned_records": 7,
+                    "section_title_share": 0.07
+                },
+                "hi": {
+                    "records": 23,
+                    "sections_covered": 22,
+                    "unassigned_records": 0,
+                    "section_title_share": 0.96
+                },
+                "ia": {
+                    "records": 22,
+                    "sections_covered": 22,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "id": {
+                    "records": 15,
+                    "sections_covered": 13,
+                    "unassigned_records": 0,
+                    "section_title_share": 0.8
+                },
+                "il": {
+                    "records": 103,
+                    "sections_covered": 21,
+                    "unassigned_records": 41,
+                    "section_title_share": 0.0
+                },
+                "in": {
+                    "records": 22,
+                    "sections_covered": 22,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "ks": {
+                    "records": 21,
+                    "sections_covered": 21,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "ky": {
+                    "records": 23,
+                    "sections_covered": 23,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "la": {
+                    "records": 21,
+                    "sections_covered": 21,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "ma": {
+                    "records": 26,
+                    "sections_covered": 19,
+                    "unassigned_records": 3,
+                    "section_title_share": 0.73
+                },
+                "md": {
+                    "records": 22,
+                    "sections_covered": 22,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "me": {
+                    "records": 23,
+                    "sections_covered": 23,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "mi": {
+                    "records": 0
+                },
+                "mn": {
+                    "records": 24,
+                    "sections_covered": 23,
+                    "unassigned_records": 0,
+                    "section_title_share": 0.96
+                },
+                "mo": {
+                    "records": 19,
+                    "sections_covered": 15,
+                    "unassigned_records": 0,
+                    "section_title_share": 0.79
+                },
+                "ms": {
+                    "records": 22,
+                    "sections_covered": 22,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "mt": {
+                    "records": 37,
+                    "sections_covered": 22,
+                    "unassigned_records": 2,
+                    "section_title_share": 0.7
+                },
+                "nc": {
+                    "records": 22,
+                    "sections_covered": 22,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "nd": {
+                    "records": 22,
+                    "sections_covered": 22,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "ne": {
+                    "records": 17,
+                    "sections_covered": 15,
+                    "unassigned_records": 0,
+                    "section_title_share": 0.88
+                },
+                "nh": {
+                    "records": 21,
+                    "sections_covered": 21,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "nj": {
+                    "records": 22,
+                    "sections_covered": 22,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "nm": {
+                    "records": 0
+                },
+                "nv": {
+                    "records": 39,
+                    "sections_covered": 22,
+                    "unassigned_records": 5,
+                    "section_title_share": 0.62
+                },
+                "ny": {
+                    "records": 36,
+                    "sections_covered": 24,
+                    "unassigned_records": 1,
+                    "section_title_share": 0.72
+                },
+                "oh": {
+                    "records": 22,
+                    "sections_covered": 22,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "ok": {
+                    "records": 22,
+                    "sections_covered": 22,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "or": {
+                    "records": 22,
+                    "sections_covered": 21,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "pa": {
+                    "records": 0
+                },
+                "ri": {
+                    "records": 22,
+                    "sections_covered": 22,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "sc": {
+                    "records": 11,
+                    "sections_covered": 11,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "sd": {
+                    "records": 18,
+                    "sections_covered": 16,
+                    "unassigned_records": 0,
+                    "section_title_share": 0.83
+                },
+                "tn": {
+                    "records": 18,
+                    "sections_covered": 16,
+                    "unassigned_records": 0,
+                    "section_title_share": 0.83
+                },
+                "tx": {
+                    "records": 40,
+                    "sections_covered": 13,
+                    "unassigned_records": 11,
+                    "section_title_share": 0.0
+                },
+                "ut": {
+                    "records": 17,
+                    "sections_covered": 15,
+                    "unassigned_records": 0,
+                    "section_title_share": 0.88
+                },
+                "va": {
+                    "records": 49,
+                    "sections_covered": 24,
+                    "unassigned_records": 6,
+                    "section_title_share": 0.47
+                },
+                "vt": {
+                    "records": 21,
+                    "sections_covered": 21,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "wa": {
+                    "records": 22,
+                    "sections_covered": 21,
+                    "unassigned_records": 0,
+                    "section_title_share": 0.95
+                },
+                "wi": {
+                    "records": 12,
+                    "sections_covered": 2,
+                    "unassigned_records": 1,
+                    "section_title_share": 0.17
+                },
+                "wv": {
+                    "records": 22,
+                    "sections_covered": 22,
+                    "unassigned_records": 0,
+                    "section_title_share": 1.0
+                },
+                "wy": {
+                    "records": 18,
+                    "sections_covered": 17,
+                    "unassigned_records": 0,
+                    "section_title_share": 0.89
+                }
+            }
+        },
+        "state": {
+            "method": "not recorded",
+            "method_basis": "Collected by the original project; its extraction method is not documented."
+        }
+    }
+}
