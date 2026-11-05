@@ -3,6 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "vote411_unit_setting": "auto",
+    "vote411_unit": "section",
+    "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
             "status": "same",
@@ -13,7 +16,8 @@
             "current_s": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/provisional-ballots/",
             "answer_status": "changed",
             "answer_similarity": 0.996,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -24,7 +28,8 @@
             "current_s": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/provisional-ballots/",
             "answer_status": "changed",
             "answer_similarity": 0.296,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -33,7 +38,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/provisional-ballots/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -42,7 +48,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/sos/elections/voter-information/register-to-vote/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -51,7 +58,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/sos/elections/voter-information/register-to-vote/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -60,7 +68,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/sos/elections/voter-information/register-to-vote/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -69,7 +78,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/sos/elections/voter-information/register-to-vote/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -78,7 +88,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/absentee-voting/#ABSENTEE_VOTING_BY_MAIL",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -87,7 +98,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/absentee-voting/#ABSENTEE_VOTING_BY_MAIL",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -96,7 +108,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/absentee-voting/#ABSENTEE_VOTING_BY_MAIL",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -105,7 +118,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/absentee-voting/#ABSENTEE_VOTING_BY_MAIL",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -114,7 +128,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/idr/hoosiers-vote/register/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -123,7 +138,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/idr/hoosiers-vote/voting-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -132,7 +148,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/idr/hoosiers-vote/voting-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -141,7 +158,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/idr/hoosiers-vote/voting-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -150,7 +168,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/idr/hoosiers-vote/voting-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -159,7 +178,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/idr/hoosiers-vote/voting-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -168,7 +188,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/idr/hoosiers-vote/voting-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -177,7 +198,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/idr/hoosiers-vote/voting-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -186,7 +208,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/idr/hoosiers-vote/voting-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -195,7 +218,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.in.gov/idr/hoosiers-vote/voting-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -204,457 +228,282 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/provisional-ballots/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
-            "status": "removed",
-            "baseline_q": "How can I request and return an absentee ballot for an upcoming general election?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Absentee Ballot Process",
+            "current_q": "Absentee Ballot Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.572,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What should I do if there's an issue with my absentee or provisional ballot before the election deadline?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Ballot Notice and Cure Process",
+            "current_q": "Ballot Notice and Cure Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.862,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where can I find information on campaign contributions for candidates and ballot measures?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Campaign Finance Information",
+            "current_q": "Campaign Finance Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.777,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where can I access comprehensive details about candidates and ballot measures in the election?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Candidate and Ballot Measure Information",
+            "current_q": "Candidate and Ballot Measure Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.659,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the options and deadlines for submitting my ballot using drop boxes?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Drop Boxes",
+            "current_q": "Drop Boxes",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.374,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When does early voting start and end, and how can I participate in early voting?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Early Voting",
+            "current_q": "Early Voting",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.771,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How can I find out the important dates for upcoming elections?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Election Dates",
+            "current_q": "Election Dates",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.811,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the eligibility criteria to vote in an election?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Eligibility Requirements",
+            "current_q": "Eligibility Requirements",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.607,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What forms of identification are required to register to vote, and how can I prove my citizenship?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "ID Needed for Voter Registration",
+            "current_q": "ID Needed for Voter Registration",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.235,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What types of identification are acceptable at polling places for voting?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voter ID Requirements",
+            "current_q": "Voter ID Requirements",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.443,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When and where will the official election results be available, and how can I track them?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Official Election Results",
+            "current_q": "Official Election Results",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.74,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How can military personnel and overseas citizens register and vote in elections?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Overseas and Military Voters",
+            "current_q": "Overseas and Military Voters",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.904,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the requirements and steps to become a poll worker for an election?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Poll Worker Information",
+            "current_q": "Poll Worker Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.918,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the operating hours of polling places on Election Day?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Election Day Voting Hours",
+            "current_q": "Election Day Voting Hours",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.667,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How can I find the exact location of my designated polling place?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Polling Place Locations",
+            "current_q": "Polling Place Locations",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.741,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How does the primary election process work for affiliated and unaffiliated voters?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Primary Election Process",
+            "current_q": "Primary Election Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.891,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Under what circumstances will I need to cast a provisional ballot, and how is it processed?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Provisional Voting",
+            "current_q": "Provisional Voting",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.938,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What accessible voting options are available for voters with disabilities?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Provisions for Voters with Disabilities",
+            "current_q": "Provisions for Voters with Disabilities",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.968,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the voter registration deadline for the upcoming election, and how can I register online?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voter Registration Deadlines",
+            "current_q": "Voter Registration Deadlines",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.439,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are my rights regarding time off work to vote in elections?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Time Off To Vote",
+            "current_q": "Time Off To Vote",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.791,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How can I verify my voter registration status and address any issues?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Verify Voter Registration",
+            "current_q": "Verify Voter Registration",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.596,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What types of voting machines are used at polling places, and how do they operate?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voting Machines",
+            "current_q": "Voting Machines",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/indiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/indiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.982,
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "current_q": "Student Voting Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT ARE THE ID REQUIREMENTS TO REQUEST AN ABSENTEE BALLOT?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT IS THE DEADLINE FOR REQUESTING AN ABSENTEE BALLOT?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "HOW DO I VOTE IN-PERSON ABSENTEE?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "HOW DO I RETURN MY VOTED ABSENTEE BALLOT?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHO CAN REGISTER TO VOTE IN INDIANA?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHO CAN VOTE IN INDIANA?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN INDIANA?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN INDIANA?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What do I need to register to vote in Indiana?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I register to vote using my college address in Indiana?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What’s the deadline to register to vote in Indiana?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What form of ID do I need to vote in Indiana?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "I’m originally from another state. Can I still vote in my home state while studying in Indiana?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Indiana?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "DO I NEED TO SHOW ID WHEN I VOTE IN INDIANA?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT TYPES OF ID CAN I USE TO VOTE IN INDIANA?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/indiana",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         }
     ]
 }

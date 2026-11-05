@@ -3,6 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "vote411_unit_setting": "auto",
+    "vote411_unit": "question",
+    "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
             "status": "same",
@@ -13,7 +16,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -24,7 +28,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -35,7 +40,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "changed",
             "answer_similarity": 0.808,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -46,7 +52,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -57,7 +64,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -68,7 +76,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "changed",
             "answer_similarity": 0.966,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -79,7 +88,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -90,7 +100,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "changed",
             "answer_similarity": 0.996,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -101,7 +112,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -112,7 +124,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -123,7 +136,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "changed",
             "answer_similarity": 0.853,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -134,7 +148,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "changed",
             "answer_similarity": 0.838,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -145,7 +160,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -156,7 +172,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "changed",
             "answer_similarity": 0.992,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -167,7 +184,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "changed",
             "answer_similarity": 0.964,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -178,7 +196,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -189,7 +208,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -200,7 +220,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -211,7 +232,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -222,7 +244,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -233,7 +256,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "changed",
             "answer_similarity": 0.548,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -244,7 +268,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -255,7 +280,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -266,7 +292,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "changed",
             "answer_similarity": 0.689,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -277,7 +304,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -288,7 +316,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "changed",
             "answer_similarity": 0.694,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -299,7 +328,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -310,7 +340,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -321,7 +352,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "changed",
             "answer_similarity": 0.333,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -332,7 +364,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -343,7 +376,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -354,7 +388,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -365,7 +400,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -376,7 +412,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -387,7 +424,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -398,7 +436,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "changed",
             "answer_similarity": 0.936,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -409,7 +448,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -420,7 +460,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "changed",
             "answer_similarity": 0.977,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -431,7 +472,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "changed",
             "answer_similarity": 0.263,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -442,7 +484,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -453,7 +496,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -464,7 +508,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -475,7 +520,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -486,7 +532,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -497,7 +544,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -508,7 +556,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -519,7 +568,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "changed",
             "answer_similarity": 0.95,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -530,7 +580,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "changed",
             "answer_similarity": 0.803,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -541,7 +592,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -552,7 +604,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -563,7 +616,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -574,7 +628,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -585,7 +640,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -596,7 +652,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -607,7 +664,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -618,7 +676,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -629,7 +688,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "changed",
             "answer_similarity": 0.991,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -640,7 +700,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "changed",
             "answer_similarity": 0.911,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -651,7 +712,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "changed",
             "answer_similarity": 0.999,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -662,7 +724,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -673,7 +736,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -684,7 +748,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -695,7 +760,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -706,7 +772,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -717,7 +784,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -728,7 +796,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -739,7 +808,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -750,7 +820,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -761,7 +832,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -772,7 +844,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -783,7 +856,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -794,7 +868,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -805,7 +880,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -816,7 +892,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -827,7 +904,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -838,7 +916,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -849,7 +928,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -860,7 +940,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -871,7 +952,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -882,7 +964,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -893,7 +976,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -904,7 +988,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -915,7 +1000,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -926,7 +1012,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -937,7 +1024,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -948,7 +1036,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
             "answer_status": "changed",
             "answer_similarity": 0.707,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -959,7 +1048,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -970,7 +1060,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
             "answer_status": "changed",
             "answer_similarity": 0.883,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -981,7 +1072,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -992,7 +1084,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
             "answer_status": "changed",
             "answer_similarity": 0.654,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -1003,7 +1096,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -1014,7 +1108,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -1025,7 +1120,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -1036,7 +1132,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -1047,7 +1144,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -1058,7 +1156,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -1069,7 +1168,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -1080,7 +1180,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -1091,7 +1192,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -1102,7 +1204,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -1113,7 +1216,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -1124,7 +1228,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "answer_status": "changed",
             "answer_similarity": 0.964,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -1135,7 +1240,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -1146,7 +1252,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
             "answer_status": "changed",
             "answer_similarity": 0.954,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -1157,7 +1264,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -1168,7 +1276,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -1179,7 +1288,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "changed",
             "answer_similarity": 0.998,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -1190,7 +1300,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -1201,7 +1312,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -1212,7 +1324,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
             "answer_status": "changed",
             "answer_similarity": 0.948,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -1223,7 +1336,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -1234,7 +1348,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "changed",
             "answer_similarity": 0.98,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -1245,7 +1360,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "changed",
             "answer_similarity": 0.995,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -1256,7 +1372,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -1267,7 +1384,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -1278,7 +1396,8 @@
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1287,7 +1406,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/campaign-finance-and-lobby-disclosure",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1296,7 +1416,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/campaign-finance-and-lobby-disclosure",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1305,7 +1426,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/campaign-finance-and-lobby-disclosure",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1314,7 +1436,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/campaign-finance-and-lobby-disclosure",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1323,7 +1446,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/campaign-finance-and-lobby-disclosure",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1332,7 +1456,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1341,7 +1466,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1350,7 +1476,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1359,7 +1486,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1368,7 +1496,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1377,7 +1506,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1386,7 +1516,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1395,7 +1526,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1404,7 +1536,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1413,7 +1546,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1422,7 +1556,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1431,7 +1566,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1440,7 +1576,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1449,7 +1586,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1458,7 +1596,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1467,7 +1606,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1476,7 +1616,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1485,7 +1626,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1494,7 +1636,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1503,7 +1646,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1512,7 +1656,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1521,7 +1666,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1530,7 +1676,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1539,7 +1686,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1548,7 +1696,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1557,7 +1706,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1566,7 +1716,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1575,7 +1726,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1584,7 +1736,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1593,7 +1746,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1602,7 +1756,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1611,7 +1766,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1620,7 +1776,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1629,7 +1786,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1638,7 +1796,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1647,7 +1806,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1656,7 +1816,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1665,7 +1826,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1674,7 +1836,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1683,7 +1846,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1692,7 +1856,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1701,7 +1866,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1710,7 +1876,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1719,7 +1886,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1728,7 +1896,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1737,7 +1906,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1746,7 +1916,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1755,7 +1926,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1764,7 +1936,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1773,7 +1946,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1782,7 +1956,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1791,7 +1966,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1800,7 +1976,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1809,7 +1986,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1818,7 +1996,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1827,7 +2006,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1836,7 +2016,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1845,7 +2026,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1854,7 +2036,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1863,7 +2046,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1872,7 +2056,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1881,7 +2066,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1890,7 +2076,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1899,7 +2086,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1908,7 +2096,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1917,7 +2106,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1926,7 +2116,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1935,7 +2126,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1944,7 +2136,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1953,7 +2146,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1962,7 +2156,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1971,7 +2166,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1980,7 +2176,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1989,7 +2186,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1998,7 +2196,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2007,7 +2206,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2016,7 +2216,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2025,7 +2226,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2034,7 +2236,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2043,7 +2246,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2052,7 +2256,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2061,7 +2266,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2070,7 +2276,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2079,7 +2286,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2088,7 +2296,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2097,7 +2306,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2106,7 +2316,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2115,7 +2326,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2124,7 +2336,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2133,7 +2346,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2142,7 +2356,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2151,7 +2366,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2160,7 +2376,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2169,7 +2386,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2178,7 +2396,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2187,7 +2406,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2196,7 +2416,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2205,7 +2426,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2214,7 +2436,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2223,7 +2446,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2232,7 +2456,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2241,7 +2466,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2250,7 +2476,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2259,7 +2486,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2268,7 +2496,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2277,7 +2506,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2286,7 +2516,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2295,7 +2526,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2304,7 +2536,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2313,7 +2546,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2322,7 +2556,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2331,7 +2566,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2340,7 +2576,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2349,7 +2586,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2358,7 +2596,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2367,7 +2606,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2376,7 +2616,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -2385,7 +2626,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         }
     ]
 }

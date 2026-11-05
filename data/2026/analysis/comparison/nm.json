@@ -3,6 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "vote411_unit_setting": "auto",
+    "vote411_unit": "question",
+    "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
             "status": "same",
@@ -13,7 +16,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -24,7 +28,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -35,7 +40,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -46,7 +52,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "changed",
             "answer_similarity": 0.859,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -57,7 +64,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -68,7 +76,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -79,7 +88,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -90,7 +100,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -101,7 +112,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -112,7 +124,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "changed",
             "answer_similarity": 0.684,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -123,7 +136,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -134,7 +148,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -145,7 +160,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -156,7 +172,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -167,7 +184,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -178,7 +196,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -189,7 +208,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -200,7 +220,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -211,7 +232,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -222,7 +244,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "answer_status": "changed",
             "answer_similarity": 0.901,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -233,7 +256,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -244,7 +268,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -255,7 +280,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
             "answer_status": "changed",
             "answer_similarity": 0.179,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -266,7 +292,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
             "answer_status": "changed",
             "answer_similarity": 0.649,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -277,7 +304,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -288,7 +316,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -299,7 +328,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -310,7 +340,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -321,7 +352,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -332,7 +364,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -343,7 +376,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -354,7 +388,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -365,7 +400,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -376,7 +412,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -387,7 +424,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -398,7 +436,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
             "answer_status": "changed",
             "answer_similarity": 0.532,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -409,7 +448,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -420,7 +460,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -431,7 +472,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -442,7 +484,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -453,7 +496,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -464,7 +508,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -475,7 +520,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -486,7 +532,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/military-and-overseas-voters/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -497,7 +544,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/early-voting-in-person/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -508,7 +556,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/provisional-voting/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -519,7 +568,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/provisional-voting/",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -530,7 +580,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
             "answer_status": "changed",
             "answer_similarity": 0.745,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -541,7 +592,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
             "answer_status": "changed",
             "answer_similarity": 0.811,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -552,7 +604,8 @@
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
             "answer_status": "changed",
             "answer_similarity": 0.983,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -561,7 +614,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -570,7 +624,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -579,7 +634,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -588,7 +644,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -597,7 +654,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -606,7 +664,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -615,7 +674,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -624,7 +684,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -633,7 +694,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -642,7 +704,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -651,7 +714,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -660,7 +724,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -669,7 +734,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voters-with-disabilities-faqs/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -678,7 +744,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/national-voter-registration-act/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -687,7 +754,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/national-voter-registration-act/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -696,7 +764,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/national-voter-registration-act/",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -705,7 +774,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -714,7 +784,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -723,7 +794,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -732,7 +804,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -741,7 +814,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -750,7 +824,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -759,7 +834,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -768,7 +844,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -777,7 +854,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -786,7 +864,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -795,7 +874,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -804,7 +884,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/semi-open-primaries/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -813,7 +894,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -822,7 +904,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -831,7 +914,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -840,7 +924,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -849,7 +934,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/write-in-candidates/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -858,7 +944,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -867,7 +954,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -876,7 +964,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -885,7 +974,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -894,7 +984,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -903,7 +994,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -912,7 +1004,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -921,7 +1014,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -930,7 +1024,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -939,7 +1034,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -948,7 +1044,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -957,7 +1054,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -966,7 +1064,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -975,7 +1074,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -984,7 +1084,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -993,7 +1094,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1002,7 +1104,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1011,7 +1114,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1020,7 +1124,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1029,7 +1134,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1038,7 +1144,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1047,7 +1154,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1056,7 +1164,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1065,7 +1174,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1074,7 +1184,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1083,7 +1194,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1092,7 +1204,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1101,7 +1214,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1110,7 +1224,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1119,7 +1234,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1128,7 +1244,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1137,7 +1254,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1146,7 +1264,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1155,7 +1274,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1164,7 +1284,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1173,7 +1294,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1182,7 +1304,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1191,7 +1314,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1200,7 +1324,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1209,7 +1334,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1218,7 +1344,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1227,7 +1354,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1236,7 +1364,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1245,7 +1374,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1254,7 +1384,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1263,7 +1394,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1272,7 +1404,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1281,7 +1414,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1290,7 +1424,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1299,7 +1434,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1308,7 +1444,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1317,7 +1454,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1326,7 +1464,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1335,7 +1474,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1344,7 +1484,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1353,7 +1494,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1362,7 +1504,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1371,7 +1514,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1380,7 +1524,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1389,7 +1534,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1398,7 +1544,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1407,7 +1554,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1416,7 +1564,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         }
     ]
 }

@@ -12,7 +12,7 @@ from matplotlib.colors import LinearSegmentedColormap
 
 from collect_sc import ROOT
 from compare_years import compare, write_comparison
-from datasets import SOURCES, dataset_dir, load_dataset, normalize_text, record_source
+from datasets import SOURCES, dataset_dir, load_dataset, load_manifest, load_settings, normalize_text, record_source
 
 
 # Keyword rules applied to normalized question text (lowercase, punctuation removed). Only the
@@ -62,17 +62,27 @@ def per_state_table(baseline, current, details, summary, states):
     rows = []
     for state in states:
         row = {"state": state}
+        vote411_row = by_key[(state, "vote411")]
+        row["vote411_unit"] = vote411_row["unit"]
+        row["vote411_method_baseline"], row["vote411_method_current"] = vote411_row["baseline_method"], vote411_row["current_method"]
         for source in SOURCES:
             stats = dict(by_key[(state, source)])
             stats["same_answer_changed"] = sum(1 for item in details[state] if item["source"] == source
                                                and item["status"] == "same" and item.get("answer_status") == "changed")
             label = "state_site" if source == "state" else "vote411"
-            row[f"baseline_{label}"] = stats["baseline_count"]
-            row[f"current_{label}"] = stats["current_count"]
+            # Record counts are always questions; compared counts are sections when the unit is "section".
+            row[f"baseline_{label}"] = sum(record_source(r) == source for r in baseline.get(state, []))
+            row[f"current_{label}"] = sum(record_source(r) == source for r in current.get(state, []))
+            row[f"compared_baseline_{label}"] = stats["baseline_count"]
+            row[f"compared_current_{label}"] = stats["current_count"]
             for status in ("same", "reworded", "new", "removed"):
                 row[f"{status}_{label}"] = stats[status]
             row[f"answers_changed_{label}"] = stats["answers_changed"]
             row[f"change_rate_{label}"] = change_rate(stats)
+            # How much matched answers (or sections) changed, since a section edited in one word counts as changed.
+            similarities = [item["answer_similarity"] for item in details[state]
+                            if item["source"] == source and "answer_similarity" in item]
+            row[f"mean_answer_similarity_{label}"] = round(sum(similarities) / len(similarities), 3) if similarities else None
         for year_key, dataset in (("baseline", baseline), ("current", current)):
             counts = topic_counts([r for r in dataset.get(state, []) if record_source(r) in SOURCES])
             row[f"topics_covered_{year_key}"] = sum(1 for count in counts.values() if count)
@@ -141,8 +151,12 @@ def chart_change(rows, path, baseline_year, year):
         axis.set_ylim(-0.6, max(len(ranked), 1) - 0.4)
         axis.set_xlim(0, 100)
         axis.set_xlabel("Change rate (%)", color=COLORS["muted"], fontsize=8)
-        axis.set_title(SOURCE_LABELS["state" if label == "state_site" else "vote411"], color=COLORS["text"], fontsize=10, loc="left")
-    figure.suptitle(f"Share of questions not carried over unchanged, {baseline_year} to {year}",
+        title = SOURCE_LABELS["state" if label == "state_site" else "vote411"]
+        if label == "vote411":
+            by_section = sum(r["vote411_unit"] == "section" for r in ranked)
+            title += f" (by section in {by_section} states, by question in {len(ranked) - by_section})"
+        axis.set_title(title, color=COLORS["text"], fontsize=10, loc="left")
+    figure.suptitle(f"Share not carried over unchanged, {baseline_year} to {year}",
                     color=COLORS["text"], x=0.01, ha="left")
     figure.tight_layout()
     figure.savefig(path, dpi=150, facecolor=COLORS["surface"])
@@ -183,8 +197,9 @@ def analyze(year, baseline_year, output, states=None):
     """Run the comparison and the cross-state analysis for the given states; return the per-state rows."""
     baseline, current = load_dataset(dataset_dir(baseline_year)), load_dataset(dataset_dir(year))
     states = sorted(states or current)
-    details, summary = compare(baseline, current, states)
-    write_comparison(output, details, summary, baseline_year, year)
+    settings = load_settings()
+    details, summary = compare(baseline, current, states, load_manifest(baseline_year), load_manifest(year), settings)
+    write_comparison(output, details, summary, baseline_year, year, settings)
     rows = per_state_table(baseline, current, details, summary, states)
     write_csv(Path(output) / "per_state.csv", rows)
     topic_rows = [{"state": r["state"], "year": y, "topic": t, "questions": r[f"{t}_{k}"]}
@@ -192,7 +207,8 @@ def analyze(year, baseline_year, output, states=None):
     write_csv(Path(output) / "topics.csv", topic_rows)
     rankings = sorted(({"state": r["state"], "coverage_rank": r["coverage_rank"], "topics_covered": r["topics_covered_current"],
                         "change_rank_state_site": r["change_rank_state_site"], "change_rate_state_site": r["change_rate_state_site"],
-                        "change_rank_vote411": r["change_rank_vote411"], "change_rate_vote411": r["change_rate_vote411"]}
+                        "change_rank_vote411": r["change_rank_vote411"], "change_rate_vote411": r["change_rate_vote411"],
+                        "vote411_unit": r["vote411_unit"]}
                        for r in rows), key=lambda r: r["coverage_rank"])
     write_csv(Path(output) / "rankings.csv", rankings)
     charts = Path(output) / "charts"

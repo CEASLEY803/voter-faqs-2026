@@ -3,6 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "vote411_unit_setting": "auto",
+    "vote411_unit": "section",
+    "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
             "status": "same",
@@ -13,7 +16,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -24,7 +28,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -35,7 +40,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "changed",
             "answer_similarity": 0.901,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -46,7 +52,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -57,7 +64,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -68,7 +76,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -79,7 +88,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -90,7 +100,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "changed",
             "answer_similarity": 0.951,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -101,7 +112,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "changed",
             "answer_similarity": 0.951,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -112,7 +124,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -123,7 +136,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -134,7 +148,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "changed",
             "answer_similarity": 0.99,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -145,7 +160,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -156,7 +172,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -167,7 +184,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -178,7 +196,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -189,7 +208,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -200,7 +220,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "changed",
             "answer_similarity": 0.978,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -211,7 +232,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "changed",
             "answer_similarity": 0.933,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -222,7 +244,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -233,7 +256,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -244,7 +268,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -255,7 +280,8 @@
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -266,7 +292,8 @@
             "current_s": "https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html",
             "answer_status": "changed",
             "answer_similarity": 0.99,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -277,7 +304,8 @@
             "current_s": "https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -288,7 +316,8 @@
             "current_s": "https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -299,7 +328,8 @@
             "current_s": "https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html",
             "answer_status": "changed",
             "answer_similarity": 0.903,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -310,7 +340,8 @@
             "current_s": "https://elections.delaware.gov/voter/pdfs/Pollbook%20FAQs.pdf",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -321,7 +352,8 @@
             "current_s": "https://elections.delaware.gov/voter/pdfs/Pollbook%20FAQs.pdf",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -332,7 +364,8 @@
             "current_s": "https://elections.delaware.gov/voter/pdfs/Pollbook%20FAQs.pdf",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -343,7 +376,8 @@
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -354,7 +388,8 @@
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -365,7 +400,8 @@
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
             "answer_status": "changed",
             "answer_similarity": 0.997,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -376,7 +412,8 @@
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -387,7 +424,8 @@
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -398,7 +436,8 @@
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
             "answer_status": "changed",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -409,7 +448,8 @@
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -420,7 +460,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -431,7 +472,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -442,7 +484,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -453,7 +496,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -464,7 +508,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -475,7 +520,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -486,7 +532,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -497,7 +544,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -508,7 +556,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -519,7 +568,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -530,7 +580,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -541,7 +592,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -552,7 +604,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -563,7 +616,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -574,7 +628,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -585,7 +640,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -596,7 +652,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -607,7 +664,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -618,7 +676,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -629,7 +688,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -640,7 +700,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -651,7 +712,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -662,7 +724,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -673,7 +736,8 @@
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
             "answer_status": "changed",
             "answer_similarity": 0.784,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -684,7 +748,8 @@
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
             "answer_status": "changed",
             "answer_similarity": 0.833,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -695,7 +760,8 @@
             "current_s": "https://elections.delaware.gov/voter/avr.html",
             "answer_status": "changed",
             "answer_similarity": 0.593,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -706,7 +772,8 @@
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
             "answer_status": "changed",
             "answer_similarity": 0.98,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -717,7 +784,8 @@
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
             "answer_status": "changed",
             "answer_similarity": 0.869,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -728,7 +796,8 @@
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
             "answer_status": "changed",
             "answer_similarity": 0.135,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -739,7 +808,8 @@
             "current_s": "https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html",
             "answer_status": "changed",
             "answer_similarity": 0.933,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -750,7 +820,8 @@
             "current_s": "https://elections.delaware.gov/voter/avr.html",
             "answer_status": "changed",
             "answer_similarity": 0.671,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -761,7 +832,8 @@
             "current_s": "https://elections.delaware.gov/voter/avr.html",
             "answer_status": "changed",
             "answer_similarity": 0.222,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -770,7 +842,8 @@
             "question_similarity": null,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -779,7 +852,8 @@
             "question_similarity": null,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -788,7 +862,8 @@
             "question_similarity": null,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -797,7 +872,8 @@
             "question_similarity": null,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -806,7 +882,8 @@
             "question_similarity": null,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -815,7 +892,8 @@
             "question_similarity": null,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -824,7 +902,8 @@
             "question_similarity": null,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -833,7 +912,8 @@
             "question_similarity": null,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -842,7 +922,8 @@
             "question_similarity": null,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -851,7 +932,8 @@
             "question_similarity": null,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -860,7 +942,8 @@
             "question_similarity": null,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -869,7 +952,8 @@
             "question_similarity": null,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -878,7 +962,8 @@
             "question_similarity": null,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -887,7 +972,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -896,7 +982,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -905,7 +992,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -914,7 +1002,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -923,7 +1012,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -932,7 +1022,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -941,7 +1032,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.delaware.gov/voter/avr.html",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -950,7 +1042,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.delaware.gov/voter/avr.html",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -959,286 +1052,272 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.delaware.gov/voter/avr.html",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the Absentee Ballot Process?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Absentee Ballot Process",
+            "current_q": "Absentee Ballot Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.938,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the Ballot Notice and Cure Process?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Ballot Notice and Cure Process",
+            "current_q": "Ballot Notice and Cure Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#ballot-notice-and-cure-process",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.933,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where can I find Campaign Finance Information?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Campaign Finance Information",
+            "current_q": "Campaign Finance Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#campaign-finance-information",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.872,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where can I find Candidate and Ballot Measure Information?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Candidate and Ballot Measure Information",
+            "current_q": "Candidate and Ballot Measure Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#candidate-and-ballot-measure-information",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.855,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": " What are drop boxes?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Drop Boxes",
+            "current_q": "Drop Boxes",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#drop-boxes",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.699,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When is Early Voting?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Early Voting",
+            "current_q": "Early Voting",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#early-voting",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.875,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "when are the Election Dates?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Election Dates",
+            "current_q": "Election Dates",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#election-dates",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.571,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the Eligibility Requirements?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Eligibility Requirements",
+            "current_q": "Eligibility Requirements",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#eligibility-requirements",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.984,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What ID is Needed for Voter Registration?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "ID Needed for Voter Registration",
+            "current_q": "ID Needed for Voter Registration",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#id-needed-for-voter-registration",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.769,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What ID is Needed for Voting?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voter ID Requirements",
+            "current_q": "Voter ID Requirements",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#id-needed-for-voting",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.974,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When are the Official Results available?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Official Election Results",
+            "current_q": "Official Election Results",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#official-results",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.676,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How do overseas and military voters participate in elections?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Overseas and Military Voters",
+            "current_q": "Overseas and Military Voters",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#overseas-and-military-voters",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.93,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where can I find Poll Worker Information?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Poll Worker Information",
+            "current_q": "Poll Worker Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#poll-worker-information",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.97,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the Polling Place Hours?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Election Day Voting Hours",
+            "current_q": "Election Day Voting Hours",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#polling-place-hours",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.718,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the Polling Place Locator?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Polling Place Locations",
+            "current_q": "Polling Place Locations",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#polling-place-locator",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.972,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the Primary Election Process?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Primary Election Process",
+            "current_q": "Primary Election Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#primary-election-process",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.943,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is Provisional Voting?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Provisional Voting",
+            "current_q": "Provisional Voting",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#provisional-voting",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.988,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the Provisions for Voters with Disabilities?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Provisions for Voters with Disabilities",
+            "current_q": "Provisions for Voters with Disabilities",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#provisions-for-voters-with-disabilities",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.834,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the Registration Deadline?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voter Registration Deadlines",
+            "current_q": "Voter Registration Deadlines",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#registration-deadline",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.467,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Will I have Time Off To Vote?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Time Off To Vote",
+            "current_q": "Time Off To Vote",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#time-off-to-vote",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.893,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How do I Verify my Voter Registration?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Verify Voter Registration",
+            "current_q": "Verify Voter Registration",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#verify-voter-registration",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/delaware",
+            "answer_status": "changed",
+            "answer_similarity": 0.729,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the Voting Machines used?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voting Machines",
+            "current_q": "Voting Machines",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#voting-machines",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is a ballot drop box?",
-            "question_similarity": null,
-            "baseline_s": null,
             "current_s": "https://www.vote411.org/delaware",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Are drop boxes available in my state?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/delaware",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Do I need an ID to register to vote in Delaware?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/delaware",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What if I don’t have an ID?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/delaware",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What voting assistance is available for voters with disabilities?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/delaware",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I request accommodation or report accessibility issues?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/delaware",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I vote by mail because of my disability?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/delaware",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What types of voting machines does Delaware use?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/delaware",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is DRE?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/delaware",
-            "source": "vote411"
+            "answer_status": "changed",
+            "answer_similarity": 0.959,
+            "source": "vote411",
+            "unit": "section"
         }
     ]
 }

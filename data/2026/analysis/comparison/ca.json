@@ -3,6 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "vote411_unit_setting": "auto",
+    "vote411_unit": "question",
+    "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
             "status": "same",
@@ -13,7 +16,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -24,7 +28,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -35,7 +40,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -46,7 +52,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -57,7 +64,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -68,7 +76,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -79,7 +88,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "changed",
             "answer_similarity": 0.683,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -90,7 +100,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "changed",
             "answer_similarity": 0.732,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -101,7 +112,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -112,7 +124,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -123,7 +136,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -134,7 +148,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -145,7 +160,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -156,7 +172,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -167,7 +184,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -178,7 +196,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -189,7 +208,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -200,7 +220,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -211,7 +232,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -222,7 +244,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -233,7 +256,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -244,7 +268,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -255,7 +280,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -266,7 +292,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -277,7 +304,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -288,7 +316,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -299,7 +328,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -310,7 +340,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -321,7 +352,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -332,7 +364,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -343,7 +376,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "changed",
             "answer_similarity": 0.615,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -354,7 +388,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -365,7 +400,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -376,7 +412,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -387,7 +424,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -398,7 +436,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -409,7 +448,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -420,7 +460,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -431,7 +472,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -442,7 +484,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -453,7 +496,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -464,7 +508,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -475,7 +520,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -486,7 +532,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -497,7 +544,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -508,7 +556,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -519,7 +568,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -530,7 +580,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -541,7 +592,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -552,7 +604,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -563,7 +616,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -574,7 +628,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -585,7 +640,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -596,7 +652,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -607,7 +664,8 @@
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -616,7 +674,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -625,7 +684,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -634,7 +694,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -643,7 +704,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.ca.gov/elections/frequently-asked-questions",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -654,7 +716,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -665,7 +728,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -676,7 +740,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -687,7 +752,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -698,7 +764,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -709,7 +776,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -720,7 +788,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -731,7 +800,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -742,7 +812,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -753,7 +824,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -764,7 +836,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "changed",
             "answer_similarity": 0.956,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -775,7 +848,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "changed",
             "answer_similarity": 0.292,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -786,7 +860,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "changed",
             "answer_similarity": 0.69,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -797,7 +872,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -808,7 +884,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -819,7 +896,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -830,7 +908,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -841,7 +920,8 @@
             "current_s": "https://www.vote411.org/california",
             "answer_status": "changed",
             "answer_similarity": 0.849,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -850,7 +930,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/california",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -859,7 +940,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/california",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -868,7 +950,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/california",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -877,7 +960,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/california",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -886,7 +970,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -895,7 +980,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -904,7 +990,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -913,7 +1000,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -922,7 +1010,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -931,7 +1020,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -940,7 +1030,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -949,7 +1040,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -958,7 +1050,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -967,7 +1060,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -976,7 +1070,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -985,7 +1080,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -994,7 +1090,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1003,7 +1100,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1012,7 +1110,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1021,7 +1120,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1030,7 +1130,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1039,7 +1140,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1048,7 +1150,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1057,7 +1160,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1066,7 +1170,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1075,7 +1180,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1084,7 +1190,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1093,7 +1200,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1102,7 +1210,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1111,7 +1220,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1120,7 +1230,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1129,7 +1240,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1138,7 +1250,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1147,7 +1260,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1156,7 +1270,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1165,7 +1280,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1174,7 +1290,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1183,7 +1300,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1192,7 +1310,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1201,7 +1320,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1210,7 +1330,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1219,7 +1340,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1228,7 +1350,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1237,7 +1360,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1246,7 +1370,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1255,7 +1380,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1264,7 +1390,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1273,7 +1400,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1282,7 +1410,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/california",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         }
     ]
 }

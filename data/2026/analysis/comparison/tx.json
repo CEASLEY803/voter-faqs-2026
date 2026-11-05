@@ -3,6 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "vote411_unit_setting": "auto",
+    "vote411_unit": "question",
+    "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
             "status": "same",
@@ -13,7 +16,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -24,7 +28,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -35,7 +40,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "changed",
             "answer_similarity": 0.99,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -46,7 +52,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "changed",
             "answer_similarity": 0.993,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -57,7 +64,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -68,7 +76,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -79,7 +88,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "changed",
             "answer_similarity": 0.996,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -90,7 +100,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -101,7 +112,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "changed",
             "answer_similarity": 0.995,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -112,7 +124,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "changed",
             "answer_similarity": 0.952,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -123,7 +136,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -134,7 +148,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -145,7 +160,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "changed",
             "answer_similarity": 0.986,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -156,7 +172,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "changed",
             "answer_similarity": 0.978,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -167,7 +184,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -178,7 +196,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -189,7 +208,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -200,7 +220,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -211,7 +232,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -222,7 +244,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -233,7 +256,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -244,7 +268,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -255,7 +280,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -266,7 +292,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -277,7 +304,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "changed",
             "answer_similarity": 0.08,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -288,7 +316,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -299,7 +328,8 @@
             "current_s": "https://www.votetexas.gov/faq/index.html",
             "answer_status": "changed",
             "answer_similarity": 0.985,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -308,7 +338,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -317,7 +348,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -326,7 +358,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -335,7 +368,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -344,7 +378,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -353,7 +388,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -362,7 +398,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -371,7 +408,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -380,7 +418,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -389,7 +428,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -398,7 +438,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -407,7 +448,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -416,7 +458,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -425,7 +468,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -434,7 +478,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -443,7 +488,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -452,7 +498,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -461,7 +508,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -470,7 +518,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -479,7 +528,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -488,7 +538,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -497,7 +548,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -506,7 +558,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -515,7 +568,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -524,7 +578,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -533,7 +588,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -542,7 +598,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -551,7 +608,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -560,7 +618,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -569,7 +628,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -578,7 +638,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -587,7 +648,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -596,7 +658,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -605,7 +668,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -614,7 +678,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -623,7 +688,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -632,7 +698,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -641,7 +708,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -650,7 +718,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -659,7 +728,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -668,7 +738,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -677,7 +748,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.votetexas.gov/faq/index.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -688,7 +760,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.668,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -699,7 +772,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.91,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -710,7 +784,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.872,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -721,7 +796,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.335,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -732,7 +808,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.881,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -743,7 +820,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.958,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -754,7 +832,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.89,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -765,7 +844,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.85,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -776,7 +856,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.893,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -787,7 +868,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.288,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -798,7 +880,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.752,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -809,7 +892,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.741,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -820,7 +904,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.915,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -831,7 +916,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.946,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -842,7 +928,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.745,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -853,7 +940,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.931,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -864,7 +952,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.889,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -875,7 +964,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -886,7 +976,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.804,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -897,7 +988,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.056,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -908,7 +1000,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.604,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -919,7 +1012,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.724,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -930,7 +1024,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.721,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -941,7 +1036,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.824,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -952,7 +1048,8 @@
             "current_s": "https://www.vote411.org/texas",
             "answer_status": "changed",
             "answer_similarity": 0.972,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -961,7 +1058,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/texas",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -970,7 +1068,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/texas",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -979,7 +1078,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/texas",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -988,7 +1088,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/texas",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -997,7 +1098,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/texas",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1006,7 +1108,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/texas",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1015,7 +1118,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/texas",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1024,7 +1128,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/texas",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1033,7 +1138,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/texas",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1042,7 +1148,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/texas",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1051,7 +1158,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/texas",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1060,7 +1168,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/texas",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1069,7 +1178,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/texas",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1078,7 +1188,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/texas",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -1087,7 +1198,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/texas",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1096,7 +1208,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1105,7 +1218,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1114,7 +1228,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1123,7 +1238,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1132,7 +1248,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1141,7 +1258,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1150,7 +1268,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1159,7 +1278,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1168,7 +1288,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1177,7 +1298,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1186,7 +1308,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1195,7 +1318,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1204,7 +1328,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1213,7 +1338,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1222,7 +1348,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1231,7 +1358,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1240,7 +1368,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1249,7 +1378,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1258,7 +1388,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1267,7 +1398,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1276,7 +1408,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1285,7 +1418,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1294,7 +1428,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1303,7 +1438,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1312,7 +1448,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1321,7 +1458,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1330,7 +1468,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1339,7 +1478,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1348,7 +1488,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1357,7 +1498,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1366,7 +1508,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1375,7 +1518,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1384,7 +1528,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1393,7 +1538,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1402,7 +1548,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1411,7 +1558,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1420,7 +1568,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/texas",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         }
     ]
 }

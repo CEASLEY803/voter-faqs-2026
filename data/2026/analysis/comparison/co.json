@@ -3,6 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "vote411_unit_setting": "auto",
+    "vote411_unit": "section",
+    "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
             "status": "removed",
@@ -11,7 +14,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -20,7 +24,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -29,7 +34,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -38,7 +44,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -47,7 +54,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -56,7 +64,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -65,7 +74,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -74,7 +84,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -83,7 +94,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -92,7 +104,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -101,7 +114,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -110,7 +124,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -119,7 +134,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -128,7 +144,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -137,7 +154,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -146,7 +164,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -155,7 +174,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -164,7 +184,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -173,7 +194,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -182,7 +204,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -191,7 +214,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -200,364 +224,292 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
-            "status": "reworded",
-            "baseline_q": "What is the deadline to register to vote?",
-            "current_q": "What’s the deadline to register to vote in Colorado?",
-            "question_similarity": 0.844,
+            "status": "same",
+            "baseline_q": "Absentee Ballot Process",
+            "current_q": "Absentee Ballot Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
             "current_s": "https://www.vote411.org/colorado",
             "answer_status": "changed",
-            "answer_similarity": 0.12,
-            "source": "vote411"
+            "answer_similarity": 0.73,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "reworded",
-            "baseline_q": "What types of voting machines are used?",
-            "current_q": "What types of voting machines does Colorado use?",
-            "question_similarity": 0.824,
+            "status": "same",
+            "baseline_q": "Ballot Notice and Cure Process",
+            "current_q": "Ballot Notice and Cure Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
             "current_s": "https://www.vote411.org/colorado",
             "answer_status": "changed",
-            "answer_similarity": 0.064,
-            "source": "vote411"
+            "answer_similarity": 0.902,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "reworded",
-            "baseline_q": "What ID do I need to register to vote?",
-            "current_q": "What do I need to register to vote in Colorado?",
-            "question_similarity": 0.819,
+            "status": "same",
+            "baseline_q": "Campaign Finance Information",
+            "current_q": "Campaign Finance Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
             "current_s": "https://www.vote411.org/colorado",
             "answer_status": "changed",
-            "answer_similarity": 0.16,
-            "source": "vote411"
+            "answer_similarity": 0.865,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the process for voting by mail?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Candidate and Ballot Measure Information",
+            "current_q": "Candidate and Ballot Measure Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.734,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How can I fix issues with my mail-in ballot?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Drop Boxes",
+            "current_q": "Drop Boxes",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.326,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where can I find information about campaign finance?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Early Voting",
+            "current_q": "Early Voting",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.872,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where can I find information about candidates and ballot measures?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Election Dates",
+            "current_q": "Election Dates",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.807,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where are ballot drop boxes located?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Eligibility Requirements",
+            "current_q": "Eligibility Requirements",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.854,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When is early voting available?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "ID Needed for Voter Registration",
+            "current_q": "ID Needed for Voter Registration",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.655,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When are the upcoming election dates?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voter ID Requirements",
+            "current_q": "Voter ID Requirements",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.989,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the eligibility requirements to vote?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Official Election Results",
+            "current_q": "Official Election Results",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.755,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What forms of identification are accepted for voting?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Overseas and Military Voters",
+            "current_q": "Overseas and Military Voters",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.931,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When are official election results released?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Poll Worker Information",
+            "current_q": "Poll Worker Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.97,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How can military and overseas voters cast their ballots?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Election Day Voting Hours",
+            "current_q": "Election Day Voting Hours",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.97,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the requirements to become a poll worker?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Polling Place Locations",
+            "current_q": "Polling Place Locations",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.959,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the voting hours at polling places?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Primary Election Process",
+            "current_q": "Primary Election Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.963,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where can I find my Voter Service and Polling Center location?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Provisional Voting",
+            "current_q": "Provisional Voting",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.974,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How does the primary election process work?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Provisions for Voters with Disabilities",
+            "current_q": "Provisions for Voters with Disabilities",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.312,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When would I need to vote using a provisional ballot?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voter Registration Deadlines",
+            "current_q": "Voter Registration Deadlines",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.92,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What accommodations are available for voters with disabilities?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Time Off To Vote",
+            "current_q": "Time Off To Vote",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.838,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the rules for taking time off work to vote?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Verify Voter Registration",
+            "current_q": "Verify Voter Registration",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.584,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How can I verify my voter registration status?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voting Machines",
+            "current_q": "Voting Machines",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What are the requirements for voting by mail?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/colorado",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/colorado",
+            "answer_status": "changed",
+            "answer_similarity": 0.961,
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What is a ballot drop box?",
+            "current_q": "Student Voting Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/colorado",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Are drop boxes available in my state?",
+            "current_q": "Vote by Mail",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/colorado",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Where can I find ballot drop box locations?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/colorado",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I track the ballot after placing in the drop box?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/colorado",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Do I need an ID to register to vote in Colorado?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/colorado",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What if I don’t have an ID?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/colorado",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "¿Qué asistencia de votación está disponible para votantes con discapacidades?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/colorado",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "¿Cómo puedes solicitar adaptaciones o reportar problemas de accesibilidad?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/colorado",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "¿Puedes votar por correo debido a una discapacidad?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/colorado",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I register to vote using my college address in Colorado?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/colorado",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What form of ID do I need to vote in Colorado?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/colorado",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "I’m originally from another state, can I still vote in my home state while studying in Colorado?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/colorado",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Colorado?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/colorado",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is optical scan voting?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/colorado",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is DRE?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/colorado",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What are hand-counted paper ballots?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/colorado",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         }
     ]
 }

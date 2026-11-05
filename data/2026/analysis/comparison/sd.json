@@ -3,6 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "vote411_unit_setting": "auto",
+    "vote411_unit": "section",
+    "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
             "status": "same",
@@ -13,7 +16,8 @@
             "current_s": "https://sdsos.gov/elections-voting/upcoming-elections/Myths-vs-Facts-and-FAQS/faqs.aspx",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -24,7 +28,8 @@
             "current_s": "https://sdsos.gov/elections-voting/upcoming-elections/Myths-vs-Facts-and-FAQS/faqs.aspx",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -35,7 +40,8 @@
             "current_s": "https://sdsos.gov/elections-voting/upcoming-elections/Myths-vs-Facts-and-FAQS/faqs.aspx",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -46,7 +52,8 @@
             "current_s": "https://sdsos.gov/elections-voting/upcoming-elections/Myths-vs-Facts-and-FAQS/faqs.aspx",
             "answer_status": "changed",
             "answer_similarity": 0.965,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -57,7 +64,8 @@
             "current_s": "https://sdsos.gov/elections-voting/upcoming-elections/Myths-vs-Facts-and-FAQS/faqs.aspx",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -68,7 +76,8 @@
             "current_s": "https://sdsos.gov/elections-voting/upcoming-elections/Myths-vs-Facts-and-FAQS/faqs.aspx",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -79,7 +88,8 @@
             "current_s": "https://sdsos.gov/elections-voting/upcoming-elections/Myths-vs-Facts-and-FAQS/faqs.aspx",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -90,187 +100,260 @@
             "current_s": "https://sdsos.gov/elections-voting/upcoming-elections/Myths-vs-Facts-and-FAQS/faqs.aspx",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the deadline for receiving absentee ballots in South Dakota?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Absentee Ballot Process",
+            "current_q": "Absentee Ballot Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/south-dakota",
+            "answer_status": "changed",
+            "answer_similarity": 0.265,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Who is eligible to vote by absentee ballot, and how can they request one?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Provisions for Voters with Disabilities",
+            "current_q": "Provisions for Voters with Disabilities",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/south-dakota",
+            "answer_status": "changed",
+            "answer_similarity": 0.334,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How can voters confined due to sickness or disability obtain an absentee ballot, and what is the deadline?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Drop Boxes",
+            "current_q": "Drop Boxes",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/south-dakota",
+            "answer_status": "changed",
+            "answer_similarity": 0.845,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where are ballot drop boxes located?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Early Voting",
+            "current_q": "Early Voting",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/south-dakota",
+            "answer_status": "changed",
+            "answer_similarity": 0.655,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When is early voting available?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Eligibility Requirements",
+            "current_q": "Eligibility Requirements",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/south-dakota",
+            "answer_status": "changed",
+            "answer_similarity": 0.434,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the eligibility requirements to vote?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "ID Needed for Voter Registration",
+            "current_q": "ID Needed for Voter Registration",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/south-dakota",
+            "answer_status": "changed",
+            "answer_similarity": 0.196,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What ID do I need to register to vote?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voter ID Requirements",
+            "current_q": "Voter ID Requirements",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/south-dakota",
+            "answer_status": "changed",
+            "answer_similarity": 0.898,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What forms of identification are accepted for voting?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Official Election Results",
+            "current_q": "Official Election Results",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/south-dakota",
+            "answer_status": "changed",
+            "answer_similarity": 0.792,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When are official election results released?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Poll Worker Information",
+            "current_q": "Poll Worker Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/south-dakota",
+            "answer_status": "changed",
+            "answer_similarity": 0.836,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the requirements to become a poll worker?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Election Day Voting Hours",
+            "current_q": "Election Day Voting Hours",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/south-dakota",
+            "answer_status": "changed",
+            "answer_similarity": 0.656,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the voting hours at polling places?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Polling Place Locations",
+            "current_q": "Polling Place Locations",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/south-dakota",
+            "answer_status": "changed",
+            "answer_similarity": 0.836,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where can I find my Voter Service and Polling Center location?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Primary Election Process",
+            "current_q": "Primary Election Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/south-dakota",
+            "answer_status": "changed",
+            "answer_similarity": 0.971,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How does the primary election process work?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Provisional Voting",
+            "current_q": "Provisional Voting",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/south-dakota",
+            "answer_status": "changed",
+            "answer_similarity": 0.96,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When would I need to vote using a provisional ballot?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voter Registration Deadlines",
+            "current_q": "Voter Registration Deadlines",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/south-dakota",
+            "answer_status": "changed",
+            "answer_similarity": 0.391,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What accommodations are available for voters with disabilities?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Time Off To Vote",
+            "current_q": "Time Off To Vote",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/south-dakota",
+            "answer_status": "changed",
+            "answer_similarity": 0.899,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the deadline to register to vote?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voting Machines",
+            "current_q": "Voting Machines",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What are the rules for taking time off work to vote?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What types of voting machines are used?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/south-dakota",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/south-dakota",
+            "answer_status": "changed",
+            "answer_similarity": 0.984,
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What do I need to register to vote in South Dakota?",
+            "current_q": "Ballot Notice and Cure Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/south-dakota",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "How do I register to vote?",
+            "current_q": "Campaign Finance Information",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/south-dakota",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Candidate and Ballot Measure Information",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-dakota",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Election Dates",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-dakota",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Overseas and Military Voters",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-dakota",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Verify Voter Registration",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/south-dakota",
+            "source": "vote411",
+            "unit": "section"
         }
     ]
 }

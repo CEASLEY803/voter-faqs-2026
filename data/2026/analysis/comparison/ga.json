@@ -3,6 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "vote411_unit_setting": "auto",
+    "vote411_unit": "question",
+    "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
             "status": "same",
@@ -13,7 +16,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -24,7 +28,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -35,7 +40,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -46,7 +52,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "changed",
             "answer_similarity": 0.977,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -57,7 +64,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -68,7 +76,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -79,7 +88,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -90,7 +100,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -101,7 +112,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -112,7 +124,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -123,7 +136,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -134,7 +148,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -145,7 +160,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -156,7 +172,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "changed",
             "answer_similarity": 0.785,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -167,7 +184,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -178,7 +196,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -189,7 +208,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -200,7 +220,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -211,7 +232,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -222,7 +244,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -233,7 +256,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -244,7 +268,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -255,7 +280,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -266,7 +292,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -277,7 +304,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -288,7 +316,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -299,7 +328,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -310,7 +340,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -321,7 +352,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -332,7 +364,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -343,7 +376,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "changed",
             "answer_similarity": 0.794,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -354,7 +388,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -365,7 +400,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -376,7 +412,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -387,7 +424,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -398,7 +436,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -409,7 +448,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -420,7 +460,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -431,7 +472,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -442,7 +484,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -453,7 +496,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -464,7 +508,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -475,7 +520,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -486,7 +532,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -497,7 +544,8 @@
             "current_s": "https://sos.ga.gov/page/elections-faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -506,7 +554,8 @@
             "question_similarity": null,
             "baseline_s": "https://sos.ga.gov/page/elections-faq",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -515,7 +564,8 @@
             "question_similarity": null,
             "baseline_s": "https://sos.ga.gov/page/elections-faq",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -524,7 +574,8 @@
             "question_similarity": null,
             "baseline_s": "https://sos.ga.gov/page/elections-faq",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -533,7 +584,8 @@
             "question_similarity": null,
             "baseline_s": "https://sos.ga.gov/page/elections-faq",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -542,7 +594,8 @@
             "question_similarity": null,
             "baseline_s": "https://sos.ga.gov/page/elections-faq",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -551,7 +604,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://sos.ga.gov/page/elections-faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -562,7 +616,8 @@
             "current_s": "https://www.vote411.org/georgia",
             "answer_status": "changed",
             "answer_similarity": 0.44,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -573,7 +628,8 @@
             "current_s": "https://www.vote411.org/georgia",
             "answer_status": "changed",
             "answer_similarity": 0.732,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -584,7 +640,8 @@
             "current_s": "https://www.vote411.org/georgia",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -595,7 +652,8 @@
             "current_s": "https://www.vote411.org/georgia",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -606,7 +664,8 @@
             "current_s": "https://www.vote411.org/georgia",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -617,7 +676,8 @@
             "current_s": "https://www.vote411.org/georgia",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -628,7 +688,8 @@
             "current_s": "https://www.vote411.org/georgia",
             "answer_status": "changed",
             "answer_similarity": 0.892,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -639,7 +700,8 @@
             "current_s": "https://www.vote411.org/georgia",
             "answer_status": "changed",
             "answer_similarity": 0.223,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -650,7 +712,8 @@
             "current_s": "https://www.vote411.org/georgia",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -661,7 +724,8 @@
             "current_s": "https://www.vote411.org/georgia",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -672,7 +736,8 @@
             "current_s": "https://www.vote411.org/georgia",
             "answer_status": "changed",
             "answer_similarity": 0.938,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -683,7 +748,8 @@
             "current_s": "https://www.vote411.org/georgia",
             "answer_status": "changed",
             "answer_similarity": 0.411,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -694,7 +760,8 @@
             "current_s": "https://www.vote411.org/georgia",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -705,7 +772,8 @@
             "current_s": "https://www.vote411.org/georgia",
             "answer_status": "changed",
             "answer_similarity": 0.408,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -716,7 +784,8 @@
             "current_s": "https://www.vote411.org/georgia",
             "answer_status": "changed",
             "answer_similarity": 0.209,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -725,7 +794,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/georgia",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -734,7 +804,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/georgia",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -743,7 +814,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/georgia",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -752,7 +824,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/georgia",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -761,7 +834,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/georgia",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -770,7 +844,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/georgia",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -779,7 +854,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/georgia",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -788,7 +864,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/georgia",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -797,7 +874,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/georgia",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -806,7 +884,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/georgia",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -815,7 +894,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/georgia",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -824,7 +904,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/georgia",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -833,7 +914,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/georgia",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -842,7 +924,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/georgia",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -851,7 +934,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -860,7 +944,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -869,7 +954,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -878,7 +964,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -887,7 +974,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -896,7 +984,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -905,7 +994,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -914,7 +1004,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -923,7 +1014,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -932,7 +1024,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -941,7 +1034,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -950,7 +1044,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -959,7 +1054,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -968,7 +1064,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -977,7 +1074,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -986,7 +1084,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -995,7 +1094,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1004,7 +1104,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1013,7 +1114,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1022,7 +1124,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1031,7 +1134,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1040,7 +1144,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1049,7 +1154,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1058,7 +1164,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1067,7 +1174,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1076,7 +1184,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1085,7 +1194,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1094,7 +1204,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1103,7 +1214,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1112,7 +1224,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1121,7 +1234,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1130,7 +1244,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1139,7 +1254,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1148,7 +1264,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1157,7 +1274,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1166,7 +1284,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1175,7 +1294,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1184,7 +1304,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1193,7 +1314,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1202,7 +1324,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1211,7 +1334,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1220,7 +1344,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1229,7 +1354,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1238,7 +1364,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1247,7 +1374,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/georgia",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "question"
         }
     ]
 }

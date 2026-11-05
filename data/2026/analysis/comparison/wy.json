@@ -3,6 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "vote411_unit_setting": "auto",
+    "vote411_unit": "section",
+    "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
             "status": "same",
@@ -13,7 +16,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -24,7 +28,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -35,7 +40,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -46,7 +52,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -57,7 +64,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "changed",
             "answer_similarity": 0.911,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -68,7 +76,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "changed",
             "answer_similarity": 0.84,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -79,7 +88,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -90,7 +100,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -101,7 +112,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -112,7 +124,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -123,7 +136,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -134,7 +148,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -145,7 +160,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -156,7 +172,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "changed",
             "answer_similarity": 0.948,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -167,7 +184,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "changed",
             "answer_similarity": 0.695,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -178,7 +196,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -189,7 +208,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "changed",
             "answer_similarity": 0.695,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -200,7 +220,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -211,7 +232,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -222,7 +244,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -233,7 +256,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -244,7 +268,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "changed",
             "answer_similarity": 0.972,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -255,7 +280,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -266,7 +292,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -277,7 +304,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "changed",
             "answer_similarity": 0.829,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -288,7 +316,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -299,7 +328,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -310,7 +340,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -321,7 +352,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -332,7 +364,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -343,7 +376,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -354,7 +388,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -365,7 +400,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -376,7 +412,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "changed",
             "answer_similarity": 0.948,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -387,7 +424,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -398,7 +436,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -409,7 +448,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "changed",
             "answer_similarity": 0.943,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -420,7 +460,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -431,7 +472,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -442,7 +484,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "changed",
             "answer_similarity": 0.976,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -453,7 +496,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -464,7 +508,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "changed",
             "answer_similarity": 0.967,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -475,7 +520,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -486,7 +532,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -497,7 +544,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -508,7 +556,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -519,7 +568,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -530,7 +580,8 @@
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -539,7 +590,8 @@
             "question_similarity": null,
             "baseline_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -548,7 +600,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -557,7 +610,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -566,7 +620,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -575,169 +630,262 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the deadline for receiving absentee ballots in Wyoming?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Absentee Ballot Process",
+            "current_q": "Absentee Ballot Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/wyoming",
+            "answer_status": "changed",
+            "answer_similarity": 0.287,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the requirements for voting by absentee ballot?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Overseas and Military Voters",
+            "current_q": "Overseas and Military Voters",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/wyoming",
+            "answer_status": "changed",
+            "answer_similarity": 0.311,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When and where can you vote absentee in person, and where can overseas citizens and U.S. military personnel find information on absentee voting?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Drop Boxes",
+            "current_q": "Drop Boxes",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/wyoming",
+            "answer_status": "changed",
+            "answer_similarity": 0.869,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where are ballot drop boxes located?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Early Voting",
+            "current_q": "Early Voting",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/wyoming",
+            "answer_status": "changed",
+            "answer_similarity": 0.798,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When is early voting available?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Eligibility Requirements",
+            "current_q": "Eligibility Requirements",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/wyoming",
+            "answer_status": "changed",
+            "answer_similarity": 0.341,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the eligibility requirements to vote?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "ID Needed for Voter Registration",
+            "current_q": "ID Needed for Voter Registration",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/wyoming",
+            "answer_status": "changed",
+            "answer_similarity": 0.816,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What ID do I need to register to vote?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voter ID Requirements",
+            "current_q": "Voter ID Requirements",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/wyoming",
+            "answer_status": "changed",
+            "answer_similarity": 0.884,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What forms of identification are accepted for voting?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Official Election Results",
+            "current_q": "Official Election Results",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/wyoming",
+            "answer_status": "changed",
+            "answer_similarity": 0.95,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When are official election results released?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Poll Worker Information",
+            "current_q": "Poll Worker Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/wyoming",
+            "answer_status": "changed",
+            "answer_similarity": 0.878,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the requirements to become a poll worker?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Election Day Voting Hours",
+            "current_q": "Election Day Voting Hours",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/wyoming",
+            "answer_status": "changed",
+            "answer_similarity": 0.732,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the voting hours at polling places?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Polling Place Locations",
+            "current_q": "Polling Place Locations",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/wyoming",
+            "answer_status": "changed",
+            "answer_similarity": 0.836,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where can I find my Voter Service and Polling Center location?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Primary Election Process",
+            "current_q": "Primary Election Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/wyoming",
+            "answer_status": "changed",
+            "answer_similarity": 0.947,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How does the primary election process work?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Provisional Voting",
+            "current_q": "Provisional Voting",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/wyoming",
+            "answer_status": "changed",
+            "answer_similarity": 0.952,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When would I need to vote using a provisional ballot?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Provisions for Voters with Disabilities",
+            "current_q": "Provisions for Voters with Disabilities",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/wyoming",
+            "answer_status": "changed",
+            "answer_similarity": 0.946,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What accommodations are available for voters with disabilities?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voter Registration Deadlines",
+            "current_q": "Voter Registration Deadlines",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/wyoming",
+            "answer_status": "changed",
+            "answer_similarity": 0.616,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the deadline to register to vote?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Time Off To Vote",
+            "current_q": "Time Off To Vote",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/wyoming",
+            "answer_status": "changed",
+            "answer_similarity": 0.884,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the rules for taking time off work to vote?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voting Machines",
+            "current_q": "Voting Machines",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/wyoming",
+            "answer_status": "changed",
+            "answer_similarity": 0.966,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What types of voting machines are used?",
-            "current_q": null,
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Ballot Notice and Cure Process",
             "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/wyoming",
-            "current_s": null,
-            "source": "vote411"
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wyoming",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Campaign Finance Information",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wyoming",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Candidate and Ballot Measure Information",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wyoming",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Election Dates",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wyoming",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Verify Voter Registration",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/wyoming",
+            "source": "vote411",
+            "unit": "section"
         }
     ]
 }

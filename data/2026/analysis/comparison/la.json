@@ -3,6 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "vote411_unit_setting": "auto",
+    "vote411_unit": "section",
+    "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
             "status": "same",
@@ -13,7 +16,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -24,7 +28,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -35,7 +40,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -46,7 +52,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -57,7 +64,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -68,7 +76,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -79,7 +88,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -90,7 +100,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -101,7 +112,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -112,7 +124,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
             "answer_status": "changed",
             "answer_similarity": 0.92,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -123,7 +136,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -134,7 +148,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -145,7 +160,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -156,7 +172,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -167,7 +184,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -178,7 +196,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
             "answer_status": "changed",
             "answer_similarity": 0.941,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -189,7 +208,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -200,7 +220,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -211,7 +232,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -222,7 +244,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -233,7 +256,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -244,7 +268,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -255,7 +280,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
             "answer_status": "changed",
             "answer_similarity": 0.988,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -266,7 +292,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -277,7 +304,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -288,7 +316,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -299,7 +328,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -310,7 +340,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
             "answer_status": "changed",
             "answer_similarity": 0.895,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -321,7 +352,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -332,7 +364,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -343,7 +376,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
             "answer_status": "changed",
             "answer_similarity": 0.999,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -354,7 +388,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -365,7 +400,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
             "answer_status": "changed",
             "answer_similarity": 0.784,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -376,7 +412,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -387,7 +424,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -398,7 +436,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -409,7 +448,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -420,7 +460,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
             "answer_status": "changed",
             "answer_similarity": 0.92,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -431,7 +472,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -442,7 +484,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
             "answer_status": "changed",
             "answer_similarity": 0.926,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -453,7 +496,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
             "answer_status": "changed",
             "answer_similarity": 0.879,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -464,7 +508,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -475,7 +520,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
             "answer_status": "changed",
             "answer_similarity": 0.899,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -486,7 +532,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -497,7 +544,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
             "answer_status": "changed",
             "answer_similarity": 0.498,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -508,7 +556,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
             "answer_status": "changed",
             "answer_similarity": 0.816,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -519,7 +568,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
             "answer_status": "changed",
             "answer_similarity": 0.941,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -530,7 +580,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
             "answer_status": "changed",
             "answer_similarity": 0.893,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -541,7 +592,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -552,7 +604,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
             "answer_status": "changed",
             "answer_similarity": 0.581,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -563,7 +616,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -574,7 +628,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -585,7 +640,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -596,7 +652,8 @@
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -605,7 +662,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=4",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -614,7 +672,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=8",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -623,7 +682,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=10",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -632,7 +692,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=11",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -641,7 +702,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/FrequentlyAskedQuestions/Pages/default.aspx?OwnershipName=RegisterToVote&faqid=12",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -650,7 +712,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=1",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -659,7 +722,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=5",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -668,7 +732,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=6",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -677,7 +742,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=7",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -686,7 +752,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=8",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -695,7 +762,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=9",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -704,7 +772,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=11",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -713,7 +782,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=12",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -722,7 +792,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=16",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -731,7 +802,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=18",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -740,7 +812,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=19",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -749,7 +822,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=20",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -758,7 +832,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=21",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -767,7 +842,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=22",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -776,7 +852,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=23",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -785,7 +862,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingByMail.aspx?OwnershipName=VotingByMail&faqid=24",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -794,7 +872,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=2",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -803,7 +882,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=6",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -812,7 +892,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=9",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -821,7 +902,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingEarly.aspx?OwnershipName=VotingEarly&faqid=10",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -830,7 +912,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=3",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -839,7 +922,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=5",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -848,7 +932,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=8",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -857,7 +942,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=9",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -866,7 +952,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=11",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -875,7 +962,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=14",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -884,7 +972,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=15",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -893,7 +982,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=18",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -902,7 +992,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&faqid=19",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -911,7 +1002,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally&faqid=3",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -920,7 +1012,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally&faqid=4",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -929,7 +1022,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally&faqid=6",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -938,7 +1032,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally&faqid=7",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -947,7 +1042,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingProvisionally.aspx?OwnershipName=VotingProvisionally&faqid=8",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -956,7 +1052,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -965,7 +1062,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -974,7 +1072,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -983,7 +1082,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -992,7 +1092,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1001,7 +1102,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voter-registration-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1010,7 +1112,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1019,7 +1122,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1028,7 +1132,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1037,7 +1142,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1046,7 +1152,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1055,7 +1162,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1064,7 +1172,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1073,7 +1182,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1082,7 +1192,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1091,7 +1202,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1100,7 +1212,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1109,7 +1222,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1118,7 +1232,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1127,7 +1242,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1136,7 +1252,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1145,7 +1262,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1154,7 +1272,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1163,7 +1282,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1172,7 +1292,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1181,7 +1302,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1190,7 +1312,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1199,7 +1322,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-early-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1208,7 +1332,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1217,7 +1342,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1226,7 +1352,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1235,7 +1362,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1244,7 +1372,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1253,7 +1382,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1262,7 +1392,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1271,7 +1402,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/voting-on-election-day-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1280,7 +1412,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1289,7 +1422,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1298,421 +1432,270 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sos.la.gov:443/elections-voting/provisional-voting-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the Absentee Ballot Process?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Absentee Ballot Process",
+            "current_q": "Absentee Ballot Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.669,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the Ballot Notice and Cure Process?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Ballot Notice and Cure Process",
+            "current_q": "Ballot Notice and Cure Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#ballot-notice-and-cure-process",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.955,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where can I find Campaign Finance Information?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Campaign Finance Information",
+            "current_q": "Campaign Finance Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#campaign-finance-information",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.872,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where can I find Candidate and Ballot Measure Information?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Candidate and Ballot Measure Information",
+            "current_q": "Candidate and Ballot Measure Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#candidate-and-ballot-measure-information",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.758,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When is Early Voting?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Early Voting",
+            "current_q": "Early Voting",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#early-voting",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.815,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When are the Election Dates?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Election Dates",
+            "current_q": "Election Dates",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#election-dates",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.876,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the Eligibility Requirements?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Eligibility Requirements",
+            "current_q": "Eligibility Requirements",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#eligibility-requirements",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.534,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What ID is Needed for Voter Registration?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "ID Needed for Voter Registration",
+            "current_q": "ID Needed for Voter Registration",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#id-needed-for-voter-registration",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.102,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What ID is Needed for Voting?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voter ID Requirements",
+            "current_q": "Voter ID Requirements",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#id-needed-for-voting",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.729,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When are the Official Results available?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Official Election Results",
+            "current_q": "Official Election Results",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#official-results",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.668,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What about Overseas and Military Voters?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Overseas and Military Voters",
+            "current_q": "Overseas and Military Voters",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#overseas-and-military-voters",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.95,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where can I find Poll Worker Information?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Poll Worker Information",
+            "current_q": "Poll Worker Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#poll-worker-information",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.964,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the Polling Place Hours?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Election Day Voting Hours",
+            "current_q": "Election Day Voting Hours",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#polling-place-hours",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.878,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the Polling Place Locator?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Polling Place Locations",
+            "current_q": "Polling Place Locations",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#polling-place-locator",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.943,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the Primary Election Process?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Primary Election Process",
+            "current_q": "Primary Election Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#primary-election-process",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.368,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is Provisional Voting?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Provisional Voting",
+            "current_q": "Provisional Voting",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#provisional-voting",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.982,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Are there Provisions for Voters with Disabilities?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Provisions for Voters with Disabilities",
+            "current_q": "Provisions for Voters with Disabilities",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#provisions-for-voters-with-disabilities",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.971,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the Registration Deadline?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voter Registration Deadlines",
+            "current_q": "Voter Registration Deadlines",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#registration-deadline",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.841,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Do I get Time Off To Vote?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Time Off To Vote",
+            "current_q": "Time Off To Vote",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#time-off-to-vote",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.903,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How do Verify Voter Registration?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Verify Voter Registration",
+            "current_q": "Verify Voter Registration",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#verify-voter-registration",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.756,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What Voting Machines are used?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voting Machines",
+            "current_q": "Voting Machines",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/louisiana#voting-machines",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/louisiana",
+            "answer_status": "changed",
+            "answer_similarity": 0.99,
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "current_q": "Student Voting Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT IS THE DEADLINE FOR REQUESTING AN ABSENTEE BALLOT?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "HOW DO I RETURN MY ABSENTEE BALLOT APPLICATION?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "DO I HAVE TO REQUEST AN ABSENTEE BALLOT FOR EACH ELECTION?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT IS THE DEADLINE FOR RETURNING A VOTED ABSENTEE BALLOT?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHO CAN REGISTER TO VOTE IN LOUISIANA?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHO CAN VOTE IN LOUISIANA?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN LOUISIANA?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN LOUISIANA?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What do I need to register to vote in Louisiana?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I register to vote using my college address in Louisiana?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What’s the deadline to register to vote in Louisiana?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What form of ID do I need to vote in Louisiana?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "I’m originally from another state, can I still vote in my home state while studying in Louisiana?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Louisiana?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "DO I NEED TO SHOW ID WHEN I VOTE IN LOUISIANA?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT TYPES OF ID CAN I USE TO VOTE IN LOUISIANA?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/louisiana",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         }
     ]
 }

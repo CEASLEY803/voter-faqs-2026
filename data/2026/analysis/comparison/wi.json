@@ -3,6 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "vote411_unit_setting": "auto",
+    "vote411_unit": "section",
+    "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
             "status": "same",
@@ -13,7 +16,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.982,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -24,7 +28,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -35,7 +40,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -46,7 +52,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.338,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -57,7 +64,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.971,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -68,7 +76,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.971,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -79,7 +88,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -90,7 +100,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.999,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -101,7 +112,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.974,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -112,7 +124,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -123,7 +136,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -134,7 +148,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -145,7 +160,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -156,7 +172,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -167,7 +184,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -178,7 +196,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.917,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -189,7 +208,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.07,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -200,7 +220,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.953,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -211,7 +232,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -222,7 +244,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.993,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -233,7 +256,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -244,7 +268,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -255,7 +280,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -266,7 +292,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -277,7 +304,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -288,7 +316,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.988,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -299,7 +328,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.986,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -310,7 +340,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.988,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -321,7 +352,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.997,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -332,7 +364,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -343,7 +376,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.992,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -354,7 +388,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -365,7 +400,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -376,7 +412,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.998,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -387,7 +424,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.996,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -398,7 +436,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.848,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -409,7 +448,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.991,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -420,7 +460,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.983,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -431,7 +472,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -442,7 +484,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -453,7 +496,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -464,7 +508,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -475,7 +520,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.998,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -486,7 +532,8 @@
             "current_s": "https://elections.wi.gov/faq",
             "answer_status": "changed",
             "answer_similarity": 0.27,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -495,7 +542,8 @@
             "question_similarity": null,
             "baseline_s": "elections.wi.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -504,7 +552,8 @@
             "question_similarity": null,
             "baseline_s": "elections.wi.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -513,7 +562,8 @@
             "question_similarity": null,
             "baseline_s": "elections.wi.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -522,7 +572,8 @@
             "question_similarity": null,
             "baseline_s": "elections.wi.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -531,7 +582,8 @@
             "question_similarity": null,
             "baseline_s": "elections.wi.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -540,7 +592,8 @@
             "question_similarity": null,
             "baseline_s": "elections.wi.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -549,7 +602,8 @@
             "question_similarity": null,
             "baseline_s": "elections.wi.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -558,7 +612,8 @@
             "question_similarity": null,
             "baseline_s": "elections.wi.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -567,7 +622,8 @@
             "question_similarity": null,
             "baseline_s": "elections.wi.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -576,7 +632,8 @@
             "question_similarity": null,
             "baseline_s": "elections.wi.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -585,7 +642,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -594,7 +652,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -603,7 +662,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -612,7 +672,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -621,7 +682,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -630,7 +692,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -639,7 +702,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -648,7 +712,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -657,7 +722,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -666,7 +732,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -675,7 +742,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -684,7 +752,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -693,7 +762,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -702,7 +772,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -711,7 +782,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -720,7 +792,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/news-events/wisconsins-election-faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -729,7 +802,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -738,7 +812,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -747,7 +822,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -756,7 +832,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -765,7 +842,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -774,7 +852,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -783,7 +862,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -792,7 +872,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -801,7 +882,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -810,7 +892,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -819,7 +902,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -828,7 +912,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -837,7 +922,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -846,7 +932,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -855,7 +942,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -864,7 +952,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -873,7 +962,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -882,7 +972,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -891,7 +982,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -900,7 +992,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -909,7 +1002,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -918,7 +1012,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -927,7 +1022,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -936,7 +1032,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -945,7 +1042,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -954,7 +1052,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -963,7 +1062,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -972,7 +1072,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -981,7 +1082,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -990,7 +1092,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -999,7 +1102,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1008,7 +1112,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1017,7 +1122,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1026,7 +1132,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1035,7 +1142,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1044,7 +1152,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1053,7 +1162,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1062,7 +1172,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1071,7 +1182,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1080,7 +1192,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1089,7 +1202,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1098,7 +1212,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1107,7 +1222,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1116,7 +1232,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1125,7 +1242,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1134,7 +1252,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1143,7 +1262,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1152,7 +1272,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1161,7 +1282,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1170,7 +1292,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1179,7 +1302,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1188,7 +1312,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1197,7 +1322,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1206,7 +1332,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1215,7 +1342,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1224,7 +1352,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1233,7 +1362,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1242,7 +1372,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1251,7 +1382,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1260,7 +1392,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1269,7 +1402,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1278,7 +1412,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1287,7 +1422,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1296,7 +1432,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1305,7 +1442,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1314,7 +1452,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1323,7 +1462,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1332,7 +1472,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1341,7 +1482,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1350,7 +1492,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1359,7 +1502,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1368,7 +1512,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1377,7 +1522,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1386,7 +1532,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1395,7 +1542,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1404,7 +1552,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1413,7 +1562,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1422,7 +1572,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1431,7 +1582,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1440,7 +1592,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1449,7 +1602,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1458,7 +1612,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1467,7 +1622,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1476,7 +1632,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1485,7 +1642,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1494,7 +1652,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1503,7 +1662,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1512,7 +1672,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1521,7 +1682,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1530,7 +1692,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1539,544 +1702,252 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://elections.wi.gov/faq",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
-            "baseline_q": "WHO CAN REQUEST AN ABSENTEE BALLOT?",
-            "current_q": "WHO CAN REQUEST AN ABSENTEE BALLOT?",
-            "question_similarity": 1.0,
-            "baseline_s": "Voter411",
-            "current_s": "https://www.vote411.org/wisconsin",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
-        },
-        {
-            "status": "same",
-            "baseline_q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
-            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
-            "question_similarity": 1.0,
-            "baseline_s": "Voter411",
-            "current_s": "https://www.vote411.org/wisconsin",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
-        },
-        {
-            "status": "same",
-            "baseline_q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT BY MAIL? ",
-            "current_q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT BY MAIL?",
-            "question_similarity": 1.0,
-            "baseline_s": "Voter411",
-            "current_s": "https://www.vote411.org/wisconsin",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
-        },
-        {
-            "status": "same",
-            "baseline_q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT BY MAIL? ",
-            "current_q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT BY MAIL?",
-            "question_similarity": 1.0,
-            "baseline_s": "Voter411",
-            "current_s": "https://www.vote411.org/wisconsin",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
-        },
-        {
-            "status": "same",
-            "baseline_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM? ",
-            "current_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
-            "question_similarity": 1.0,
-            "baseline_s": "Voter411",
-            "current_s": "https://www.vote411.org/wisconsin",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
-        },
-        {
-            "status": "same",
-            "baseline_q": "HOW DO I COMPLETE MY MAIL BALLOT? ",
-            "current_q": "HOW DO I COMPLETE MY MAIL BALLOT?",
-            "question_similarity": 1.0,
-            "baseline_s": "Voter411",
-            "current_s": "https://www.vote411.org/wisconsin",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
-        },
-        {
-            "status": "same",
-            "baseline_q": "HOW DO I RETURN MY ABSENTEE BALLOT? ",
-            "current_q": "HOW DO I RETURN MY ABSENTEE BALLOT?",
-            "question_similarity": 1.0,
-            "baseline_s": "Voter411",
-            "current_s": "https://www.vote411.org/wisconsin",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
-        },
-        {
-            "status": "same",
-            "baseline_q": "HOW CAN I TRACK MY MAILED ABSENTEE BALLOT?",
-            "current_q": "HOW CAN I TRACK MY MAILED ABSENTEE BALLOT?",
-            "question_similarity": 1.0,
-            "baseline_s": "Voter411",
-            "current_s": "https://www.vote411.org/wisconsin",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
-        },
-        {
-            "status": "same",
-            "baseline_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON? ",
-            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
-            "question_similarity": 1.0,
-            "baseline_s": "Voter411",
-            "current_s": "https://www.vote411.org/wisconsin",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
-        },
-        {
-            "status": "same",
-            "baseline_q": "HOW DO I SIGN UP TO RECEIVE PERMANENT ABSENTEE BALLOT?",
-            "current_q": "HOW DO I SIGN UP TO RECEIVE PERMANENT ABSENTEE BALLOT?",
-            "question_similarity": 1.0,
-            "baseline_s": "Voter411",
-            "current_s": "https://www.vote411.org/wisconsin",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
-        },
-        {
-            "status": "same",
-            "baseline_q": "WHAT IF I AM IN THE HOSPITAL?",
-            "current_q": "WHAT IF I AM IN THE HOSPITAL?",
-            "question_similarity": 1.0,
-            "baseline_s": "Voter411",
-            "current_s": "https://www.vote411.org/wisconsin",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
-        },
-        {
-            "status": "same",
-            "baseline_q": "HOW DO I REQUEST A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER? ",
-            "current_q": "HOW DO I REQUEST A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "baseline_q": "Absentee Ballot Process",
+            "current_q": "Absentee Ballot Process",
             "question_similarity": 1.0,
             "baseline_s": "Voter411",
             "current_s": "https://www.vote411.org/wisconsin",
             "answer_status": "changed",
-            "answer_similarity": 0.938,
-            "source": "vote411"
+            "answer_similarity": 0.895,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Overseas and Military Voters",
+            "current_q": "Overseas and Military Voters",
+            "question_similarity": 1.0,
+            "baseline_s": "Voter411",
+            "current_s": "https://www.vote411.org/wisconsin",
+            "answer_status": "changed",
+            "answer_similarity": 0.395,
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Does Wisconsin allow ballot curing?",
+            "current_q": "Ballot Notice and Cure Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Can I cure my provisional ballot?",
+            "current_q": "Campaign Finance Information",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What is a ballot drop box?",
+            "current_q": "Candidate and Ballot Measure Information",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Are drop boxes available in my state?",
+            "current_q": "Drop Boxes",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Can I track my ballot?",
+            "current_q": "Early Voting",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Can I vote before Election Day in Wisconsin?",
+            "current_q": "Election Dates",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Do I have to apply to vote early in Wisconsin?",
+            "current_q": "Election Day Voting Hours",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Where can I vote early in person in Wisconsin?",
+            "current_q": "Eligibility Requirements",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "How can I receive an early ballot in the mail?",
+            "current_q": "ID Needed for Voter Registration",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Do I need an ID to vote early in Wisconsin?",
+            "current_q": "Official Election Results",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "WHO CAN REGISTER TO VOTE IN WISCONSIN?",
+            "current_q": "Poll Worker Information",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "WHO CAN VOTE IN WISCONSIN?",
+            "current_q": "Polling Place Locations",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "CAN I VOTE IN WISCONSIN IF I HAVE A FELONY CONVICTION?",
+            "current_q": "Primary Election Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "CAN I REGISTER AND VOTE IN WISCONSIN IF I DON’T HAVE A TRADITIONAL ADDRESS?",
+            "current_q": "Provisional Voting",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN WISCONSIN?",
+            "current_q": "Provisions for Voters with Disabilities",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN WISCONSIN?",
+            "current_q": "Student Voting Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "HOW DO I PRESENT MY PROOF OF RESIDENCE DOCUMENT?",
+            "current_q": "Time Off To Vote",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER IN WISCONSIN?",
+            "current_q": "Verify Voter Registration",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "When are official election results available in Wisconsin?",
+            "current_q": "Voter ID Requirements",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Where can I find official election results?",
+            "current_q": "Voter Registration Deadlines",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What does a poll worker do in Wisconsin?",
+            "current_q": "Voting Machines",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What qualifications do I need to be a poll worker in Wisconsin?",
+            "status": "unassigned",
+            "baseline_q": "WHAT IF I AM IN THE HOSPITAL?",
+            "current_q": null,
             "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Are poll workers paid in Wisconsin?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I apply to be a poll worker in Wisconsin?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is a provisional ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does Wisconsin offer provisional voting?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I vote a provisional ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I cure my provisional ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What do I need to register to vote in Wisconsin?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I register to vote using my college address in Wisconsin?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What’s the deadline to register to vote in Wisconsin?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What form of ID do I need to vote in Wisconsin?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "I’m originally from another state, can I still vote in my home state while studying in Wisconsin?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Wisconsin?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does Wisconsin require employers to give time off to vote?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "DO I NEED TO SHOW ID WHEN I VOTE IN WISCONSIN?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT TYPES OF ID CAN I USE TO VOTE IN WISCONSIN?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN WISCONSIN?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is the deadline to register to vote in Wisconsin?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How can I register to vote in Wisconsin?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How can I check my voter registration status?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does Wisconsin have online voter registration?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Is same-day voter registration available in Wisconsin?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I pre-register to vote?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Who is eligible to register in Wisconsin?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/wisconsin",
-            "source": "vote411"
+            "baseline_s": "Voter411",
+            "current_s": null,
+            "source": "vote411",
+            "unit": "section"
         }
     ]
 }

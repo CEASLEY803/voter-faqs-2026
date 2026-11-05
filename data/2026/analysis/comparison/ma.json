@@ -3,6 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "vote411_unit_setting": "auto",
+    "vote411_unit": "section",
+    "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
             "status": "removed",
@@ -11,7 +14,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -20,7 +24,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -29,7 +34,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -38,7 +44,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -47,7 +54,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -56,7 +64,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -65,7 +74,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -74,7 +84,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -83,7 +94,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -92,7 +104,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -101,7 +114,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -110,7 +124,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -119,7 +134,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -128,7 +144,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -137,7 +154,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -146,7 +164,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -155,7 +174,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -164,7 +184,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -173,7 +194,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -182,7 +204,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -191,7 +214,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -200,7 +224,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -209,7 +234,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -218,7 +244,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -227,7 +254,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -236,7 +264,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -245,7 +274,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -254,7 +284,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -263,7 +294,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -272,7 +304,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -281,7 +314,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -290,7 +324,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -299,7 +334,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -308,7 +344,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -317,7 +354,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -326,7 +364,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -335,7 +374,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -344,7 +384,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -353,7 +394,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -362,7 +404,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -371,7 +414,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -380,7 +424,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -389,7 +434,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -398,7 +444,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -407,7 +454,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -416,7 +464,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -425,7 +474,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -434,7 +484,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -443,7 +494,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -452,7 +504,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -461,7 +514,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -470,7 +524,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -479,7 +534,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -488,7 +544,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -497,7 +554,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -506,7 +564,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -515,7 +574,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -524,7 +584,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -533,7 +594,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -542,7 +604,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -551,7 +614,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -560,7 +624,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -569,7 +634,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -578,7 +644,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -587,7 +654,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -596,7 +664,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -605,7 +674,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -614,7 +684,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -623,7 +694,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -632,7 +704,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -641,7 +714,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -650,7 +724,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -659,7 +734,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -668,7 +744,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -677,7 +754,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -686,7 +764,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -695,7 +774,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -704,7 +784,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -713,7 +794,8 @@
             "question_similarity": null,
             "baseline_s": "Voting-Mass.gov",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -722,7 +804,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -731,7 +814,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -740,7 +824,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -749,7 +834,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -758,7 +844,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -767,7 +854,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -776,7 +864,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -785,7 +874,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -794,7 +884,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -803,7 +894,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -812,7 +904,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -821,7 +914,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sec.state.ma.us/divisions/elections/publications/information-for-voters-22/faq.htm",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -830,241 +924,296 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-Information-for-voters/2026-voting-options.htm",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where can I find information about candidates and ballot measures for the upcoming election?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Candidate and Ballot Measure Information",
+            "current_q": "Candidate and Ballot Measure Information",
+            "question_similarity": 1.0,
             "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.632,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Who gets Time Off To Vote?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Time Off To Vote",
+            "current_q": "Time Off To Vote",
+            "question_similarity": 1.0,
             "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.938,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where are the Drop Boxes?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Drop Boxes",
+            "current_q": "Drop Boxes",
+            "question_similarity": 1.0,
             "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.973,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the Registration Deadline?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voter Registration Deadlines",
+            "current_q": "Voter Registration Deadlines",
+            "question_similarity": 1.0,
             "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.222,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the Voter registration deadlines?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Verify Voter Registration",
+            "current_q": "Verify Voter Registration",
+            "question_similarity": 1.0,
             "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.475,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How do I Verify voter registration status?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Absentee Ballot Process",
+            "current_q": "Absentee Ballot Process",
+            "question_similarity": 1.0,
             "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.664,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "same",
+            "baseline_q": "Provisional Voting",
+            "current_q": "Provisional Voting",
+            "question_similarity": 1.0,
+            "baseline_s": "Voting411.org",
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.502,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Eligibility Requirements",
+            "current_q": "Eligibility Requirements",
+            "question_similarity": 1.0,
+            "baseline_s": "Voting411.org",
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.431,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Poll Worker Information",
+            "current_q": "Poll Worker Information",
+            "question_similarity": 1.0,
+            "baseline_s": "Voting411.org",
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.634,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Voter ID Requirements",
+            "current_q": "Voter ID Requirements",
+            "question_similarity": 1.0,
+            "baseline_s": "Voting411.org",
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.183,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Early Voting",
+            "current_q": "Early Voting",
+            "question_similarity": 1.0,
+            "baseline_s": "Voting411.org",
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.791,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Polling Place Locations",
+            "current_q": "Polling Place Locations",
+            "question_similarity": 1.0,
+            "baseline_s": "Voting411.org",
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.425,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Primary Election Process",
+            "current_q": "Primary Election Process",
+            "question_similarity": 1.0,
+            "baseline_s": "Voting411.org",
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.728,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Overseas and Military Voters",
+            "current_q": "Overseas and Military Voters",
+            "question_similarity": 1.0,
+            "baseline_s": "Voting411.org",
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.757,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Campaign Finance Information",
+            "current_q": "Campaign Finance Information",
+            "question_similarity": 1.0,
+            "baseline_s": "Voting411.org",
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.942,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Provisions for Voters with Disabilities",
+            "current_q": "Provisions for Voters with Disabilities",
+            "question_similarity": 1.0,
+            "baseline_s": "Voting411.org",
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.367,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "ID Needed for Voter Registration",
+            "current_q": "ID Needed for Voter Registration",
+            "question_similarity": 1.0,
+            "baseline_s": "Voting411.org",
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.412,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Election Day Voting Hours",
+            "current_q": "Election Day Voting Hours",
+            "question_similarity": 1.0,
+            "baseline_s": "Voting411.org",
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.889,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Official Election Results",
+            "current_q": "Official Election Results",
+            "question_similarity": 1.0,
+            "baseline_s": "Voting411.org",
+            "current_s": "https://www.vote411.org/massachusetts",
+            "answer_status": "changed",
+            "answer_similarity": 0.159,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Ballot Notice and Cure Process",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/massachusetts",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Election Dates",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/massachusetts",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Voting Machines",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/massachusetts",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "unassigned",
             "baseline_q": "What is Automatic voter registration?",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "Voting411.org",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "How do New Citizens register to vote?",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "Voting411.org",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the Absentee Ballot Process?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "How to register for Permanent Vote-by-Mail?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "How to return your Ballot?",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "Voting411.org",
             "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "How do absentee ballots work?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What are Emergency Absentee Ballots?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What is Provisional Voting?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What are the Eligibility Requirements?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "How can I find information on becoming a poll worker?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What ID is Needed for Voting?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "When is Early Voting?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Where is the Polling Place Locator?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What is the Primary Election Process?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Overseas and Military Voters",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Campaign Finance Information",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What are Provisions for Voters with Disabilities?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What ID is Needed for Voter Registration?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What are the Polling Place Hours?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "When are the Official Results available?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "Voting411.org",
-            "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         }
     ]
 }

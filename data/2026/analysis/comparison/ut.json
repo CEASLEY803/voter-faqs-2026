@@ -3,6 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "vote411_unit_setting": "auto",
+    "vote411_unit": "section",
+    "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
             "status": "new",
@@ -11,7 +14,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -20,7 +24,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -29,7 +34,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -38,7 +44,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -47,7 +54,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -56,7 +64,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -65,7 +74,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -74,7 +84,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://vote.utah.gov/learn-about-registering-to-vote/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -83,7 +94,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://vote.utah.gov/learn-about-registering-to-vote/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -92,7 +104,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://vote.utah.gov/learn-about-registering-to-vote/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -101,7 +114,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://vote.utah.gov/learn-about-registering-to-vote/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -110,7 +124,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://vote.utah.gov/learn-about-registering-to-vote/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -119,7 +134,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://vote.utah.gov/learn-about-registering-to-vote/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -128,7 +144,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://vote.utah.gov/voter-registration-portal/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -137,7 +154,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://vote.utah.gov/voter-registration-portal/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -146,160 +164,278 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://vote.utah.gov/voter-registration-portal/",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the deadline for receiving absentee ballots in Utah?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Absentee Ballot Process",
+            "current_q": "Absentee Ballot Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/utah",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/utah",
+            "answer_status": "changed",
+            "answer_similarity": 0.464,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is required to vote by absentee ballot?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Drop Boxes",
+            "current_q": "Drop Boxes",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/utah",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/utah",
+            "answer_status": "changed",
+            "answer_similarity": 0.917,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where are ballot drop boxes located?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Early Voting",
+            "current_q": "Early Voting",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/utah",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/utah",
+            "answer_status": "changed",
+            "answer_similarity": 0.438,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When is early voting available?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Eligibility Requirements",
+            "current_q": "Eligibility Requirements",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/utah",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/utah",
+            "answer_status": "changed",
+            "answer_similarity": 0.617,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the eligibility requirements to vote?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "ID Needed for Voter Registration",
+            "current_q": "ID Needed for Voter Registration",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/utah",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/utah",
+            "answer_status": "changed",
+            "answer_similarity": 0.244,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What ID do I need to register to vote?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voter ID Requirements",
+            "current_q": "Voter ID Requirements",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/utah",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/utah",
+            "answer_status": "changed",
+            "answer_similarity": 0.951,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What forms of identification are accepted for voting?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Official Election Results",
+            "current_q": "Official Election Results",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/utah",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/utah",
+            "answer_status": "changed",
+            "answer_similarity": 0.476,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When are official election results released?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Poll Worker Information",
+            "current_q": "Poll Worker Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/utah",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/utah",
+            "answer_status": "changed",
+            "answer_similarity": 0.841,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the requirements to become a poll worker?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Election Day Voting Hours",
+            "current_q": "Election Day Voting Hours",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/utah",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/utah",
+            "answer_status": "changed",
+            "answer_similarity": 0.639,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the voting hours at polling places?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Primary Election Process",
+            "current_q": "Primary Election Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/utah",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/utah",
+            "answer_status": "changed",
+            "answer_similarity": 0.942,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How does the primary election process work?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Provisional Voting",
+            "current_q": "Provisional Voting",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/utah",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/utah",
+            "answer_status": "changed",
+            "answer_similarity": 0.969,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When would I need to vote using a provisional ballot?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Provisions for Voters with Disabilities",
+            "current_q": "Provisions for Voters with Disabilities",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/utah",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/utah",
+            "answer_status": "changed",
+            "answer_similarity": 0.954,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What accommodations are available for voters with disabilities?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voter Registration Deadlines",
+            "current_q": "Voter Registration Deadlines",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/utah",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/utah",
+            "answer_status": "changed",
+            "answer_similarity": 0.352,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the deadline to register to vote?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Time Off To Vote",
+            "current_q": "Time Off To Vote",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/utah",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/utah",
+            "answer_status": "changed",
+            "answer_similarity": 0.887,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the rules for taking time off work to vote?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voting Machines",
+            "current_q": "Voting Machines",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/utah",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/utah",
+            "answer_status": "changed",
+            "answer_similarity": 0.901,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What types of voting machines are used?",
-            "current_q": null,
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Ballot Notice and Cure Process",
             "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/utah",
-            "current_s": null,
-            "source": "vote411"
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/utah",
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the requirements for voting by mail?",
-            "current_q": null,
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Campaign Finance Information",
             "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/utah",
-            "current_s": null,
-            "source": "vote411"
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/utah",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Candidate and Ballot Measure Information",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/utah",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Election Dates",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/utah",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Overseas and Military Voters",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/utah",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Polling Place Locations",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/utah",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Ranked Choice Voting",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/utah",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Verify Voter Registration",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/utah",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Vote by Mail",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/utah",
+            "source": "vote411",
+            "unit": "section"
         }
     ]
 }

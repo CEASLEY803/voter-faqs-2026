@@ -3,6 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "vote411_unit_setting": "auto",
+    "vote411_unit": "section",
+    "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
             "status": "same",
@@ -13,7 +16,8 @@
             "current_s": "https://vote.sos.ri.gov/Voter/VoterFaq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -24,7 +28,8 @@
             "current_s": "https://vote.sos.ri.gov/Voter/VoterFaq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -35,7 +40,8 @@
             "current_s": "https://vote.sos.ri.gov/Voter/VoterFaq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -46,7 +52,8 @@
             "current_s": "https://vote.sos.ri.gov/Voter/VoterFaq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -57,7 +64,8 @@
             "current_s": "https://vote.sos.ri.gov/Voter/VoterFaq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -68,7 +76,8 @@
             "current_s": "https://vote.sos.ri.gov/Voter/VoterFaq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -79,7 +88,8 @@
             "current_s": "https://vote.sos.ri.gov/Elections/Administration",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -90,7 +100,8 @@
             "current_s": "https://vote.sos.ri.gov/Elections/Administration",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -101,7 +112,8 @@
             "current_s": "https://vote.sos.ri.gov/Elections/Administration",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -112,7 +124,8 @@
             "current_s": "https://vote.sos.ri.gov/Elections/Administration",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -123,7 +136,8 @@
             "current_s": "https://vote.sos.ri.gov/Elections/Administration",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -134,7 +148,8 @@
             "current_s": "https://vote.sos.ri.gov/Elections/Administration",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -145,7 +160,8 @@
             "current_s": "https://vote.sos.ri.gov/Elections/Administration",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -156,7 +172,8 @@
             "current_s": "https://vote.sos.ri.gov/Elections/Administration",
             "answer_status": "changed",
             "answer_similarity": 0.105,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -167,7 +184,8 @@
             "current_s": "https://vote.sos.ri.gov/Elections/Administration",
             "answer_status": "changed",
             "answer_similarity": 0.096,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -178,7 +196,8 @@
             "current_s": "https://vote.sos.ri.gov/Voter/VoterFaq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "reworded",
@@ -189,205 +208,272 @@
             "current_s": "https://vote.sos.ri.gov/Voter/VoterFaq",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the Absentee Ballot Process?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Absentee Ballot Process",
+            "current_q": "Absentee Ballot Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.909,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is a Ballot Notice and the Cure Process?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Ballot Notice and Cure Process",
+            "current_q": "Ballot Notice and Cure Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#ballot-notice-and-cure-process",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.892,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where can I find Campaign Finance Information?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Campaign Finance Information",
+            "current_q": "Campaign Finance Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#campaign-finance-information",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.872,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where can I find Candidate and Ballot Measure Information?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Candidate and Ballot Measure Information",
+            "current_q": "Candidate and Ballot Measure Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#candidate-and-ballot-measure-information",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.758,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Where can I find Drop Boxes?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Drop Boxes",
+            "current_q": "Drop Boxes",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#drop-boxes",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.959,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When is Early Voting?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Early Voting",
+            "current_q": "Early Voting",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#early-voting",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.775,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the Election Dates?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Election Dates",
+            "current_q": "Election Dates",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#election-dates",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.893,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the Eligibility Requirements?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Eligibility Requirements",
+            "current_q": "Eligibility Requirements",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#eligibility-requirements",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.986,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What ID is Needed for Voter Registration?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "ID Needed for Voter Registration",
+            "current_q": "ID Needed for Voter Registration",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#id-needed-for-voter-registration",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.993,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What ID is Needed for Voting?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voter ID Requirements",
+            "current_q": "Voter ID Requirements",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#id-needed-for-voting",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.986,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "When are the Official Results available?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Official Election Results",
+            "current_q": "Official Election Results",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#official-results",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.719,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What if I am an Overseas and Military Voter?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Overseas and Military Voters",
+            "current_q": "Overseas and Military Voters",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#overseas-and-military-voters",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.945,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How can I become a Poll Worker?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Poll Worker Information",
+            "current_q": "Poll Worker Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#poll-worker-information",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.978,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What are the Polling Place Hours?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Election Day Voting Hours",
+            "current_q": "Election Day Voting Hours",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#polling-place-hours",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.907,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the Polling Place Locator?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Polling Place Locations",
+            "current_q": "Polling Place Locations",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#polling-place-locator",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.903,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the Primary Election Process?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Primary Election Process",
+            "current_q": "Primary Election Process",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#primary-election-process",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.978,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is Provisional Voting?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Provisional Voting",
+            "current_q": "Provisional Voting",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#provisional-voting",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.979,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Are there Provisions for Voters with Disabilities?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Provisions for Voters with Disabilities",
+            "current_q": "Provisions for Voters with Disabilities",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#provisions-for-voters-with-disabilities",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.909,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What is the Registration Deadline?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voter Registration Deadlines",
+            "current_q": "Voter Registration Deadlines",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#registration-deadline",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.807,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Will there be Time Off To Vote?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Time Off To Vote",
+            "current_q": "Time Off To Vote",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#time-off-to-vote",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.886,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How can I Verify Voter Registration?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Verify Voter Registration",
+            "current_q": "Verify Voter Registration",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#verify-voter-registration",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.739,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "What kind of Voting Machines are used?",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Voting Machines",
+            "current_q": "Voting Machines",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/rhode-island#voting-machines",
-            "current_s": null,
-            "source": "vote411"
+            "current_s": "https://www.vote411.org/rhode-island",
+            "answer_status": "changed",
+            "answer_similarity": 0.991,
+            "source": "vote411",
+            "unit": "section"
         }
     ]
 }

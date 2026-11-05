@@ -3,6 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "vote411_unit_setting": "auto",
+    "vote411_unit": "section",
+    "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
             "status": "same",
@@ -13,7 +16,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.994,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -24,7 +28,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.75,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -35,7 +40,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -46,7 +52,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.75,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -57,7 +64,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -68,7 +76,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.963,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -79,7 +88,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -90,7 +100,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -101,7 +112,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -112,7 +124,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.99,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -123,7 +136,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -134,7 +148,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -145,7 +160,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -156,7 +172,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -167,7 +184,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -178,7 +196,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -189,7 +208,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -200,7 +220,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -211,7 +232,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -222,7 +244,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -233,7 +256,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -244,7 +268,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -255,7 +280,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -266,7 +292,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.915,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -277,7 +304,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.988,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -288,7 +316,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.974,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -299,7 +328,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -310,7 +340,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.992,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -321,7 +352,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.944,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -332,7 +364,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.989,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -343,7 +376,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.973,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -354,7 +388,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.976,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -365,7 +400,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.983,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -376,7 +412,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.589,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -387,7 +424,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.982,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -398,7 +436,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.987,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -409,7 +448,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.953,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -420,7 +460,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.734,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -431,7 +472,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -442,7 +484,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -453,7 +496,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -464,7 +508,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.995,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -475,7 +520,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -486,7 +532,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.863,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -497,7 +544,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -508,7 +556,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -519,7 +568,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -530,7 +580,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -541,7 +592,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -552,7 +604,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.987,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -563,7 +616,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.402,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -574,7 +628,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -585,7 +640,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.998,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -596,7 +652,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.599,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -607,7 +664,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.965,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -618,7 +676,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -629,7 +688,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.848,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -640,7 +700,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -651,7 +712,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.948,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -662,7 +724,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.956,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -673,7 +736,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -684,7 +748,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -695,7 +760,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -706,7 +772,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -717,7 +784,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -728,7 +796,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -739,7 +808,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.864,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -750,7 +820,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.991,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -761,7 +832,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -772,7 +844,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "changed",
             "answer_similarity": 0.967,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -783,7 +856,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -794,7 +868,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -805,7 +880,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -816,7 +892,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -827,7 +904,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -838,7 +916,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -849,7 +928,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
@@ -860,7 +940,8 @@
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "answer_status": "unchanged",
             "answer_similarity": 1.0,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "removed",
@@ -869,7 +950,8 @@
             "question_similarity": null,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": null,
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -878,7 +960,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -887,7 +970,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -896,7 +980,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -905,7 +990,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -914,7 +1000,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -923,7 +1010,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -932,7 +1020,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -941,7 +1030,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -950,7 +1040,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -959,7 +1050,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -968,7 +1060,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -977,7 +1070,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -986,7 +1080,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -995,7 +1090,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1004,7 +1100,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1013,7 +1110,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1022,7 +1120,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1031,7 +1130,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1040,7 +1140,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1049,7 +1150,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1058,7 +1160,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1067,7 +1170,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1076,7 +1180,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1085,7 +1190,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1094,7 +1200,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1103,7 +1210,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1112,7 +1220,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1121,7 +1230,8 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "new",
@@ -1130,772 +1240,332 @@
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "source": "state"
+            "source": "state",
+            "unit": "question"
         },
         {
             "status": "same",
-            "baseline_q": "HOW CAN I RETURN MY BALLOT BY MAIL?",
-            "current_q": "HOW CAN I RETURN MY BALLOT BY MAIL?",
+            "baseline_q": "Absentee Ballot Process",
+            "current_q": "Absentee Ballot Process",
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
             "answer_status": "changed",
-            "answer_similarity": 0.9,
-            "source": "vote411"
+            "answer_similarity": 0.527,
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "same",
-            "baseline_q": "WHO IS ELIGIBLE TO VOTE BY MAIL?",
-            "current_q": "WHO IS ELIGIBLE TO VOTE BY MAIL?",
-            "question_similarity": 1.0,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
-        },
-        {
-            "status": "same",
-            "baseline_q": "HOW DO I RECEIVE A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
-            "current_q": "HOW DO I RECEIVE A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "baseline_q": "Ballot Notice and Cure Process",
+            "current_q": "Ballot Notice and Cure Process",
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
             "answer_status": "changed",
-            "answer_similarity": 0.939,
-            "source": "vote411"
+            "answer_similarity": 0.402,
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "same",
-            "baseline_q": "WHAT IS THE DEADLINE TO SUBMIT MY MAIL BALLOT?",
-            "current_q": "WHAT IS THE DEADLINE TO SUBMIT MY MAIL BALLOT?",
+            "baseline_q": "Campaign Finance Information",
+            "current_q": "Campaign Finance Information",
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
             "answer_status": "changed",
-            "answer_similarity": 0.488,
-            "source": "vote411"
+            "answer_similarity": 0.858,
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "same",
-            "baseline_q": "CAN I VOTE IN PERSON EVEN IF I HAVE RECEIVED A VOTE-BY-MAIL BALLOT?",
-            "current_q": "CAN I VOTE IN PERSON EVEN IF I HAVE RECEIVED A VOTE-BY-MAIL BALLOT?",
+            "baseline_q": "Candidate and Ballot Measure Information",
+            "current_q": "Candidate and Ballot Measure Information",
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
+            "answer_status": "changed",
+            "answer_similarity": 0.734,
+            "source": "vote411",
+            "unit": "section"
         },
         {
             "status": "same",
+            "baseline_q": "Drop Boxes",
+            "current_q": "Drop Boxes",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.262,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Early Voting",
+            "current_q": "Early Voting",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.182,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Election Dates",
+            "current_q": "Election Dates",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.803,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Eligibility Requirements",
+            "current_q": "Eligibility Requirements",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.54,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "ID Needed for Voter Registration",
+            "current_q": "ID Needed for Voter Registration",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.662,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Voter ID Requirements",
+            "current_q": "Voter ID Requirements",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.268,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Official Election Results",
+            "current_q": "Official Election Results",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.794,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Overseas and Military Voters",
+            "current_q": "Overseas and Military Voters",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.727,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Poll Worker Information",
+            "current_q": "Poll Worker Information",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.315,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Election Day Voting Hours",
+            "current_q": "Election Day Voting Hours",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.732,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Polling Place Locations",
+            "current_q": "Polling Place Locations",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.836,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Primary Election Process",
+            "current_q": "Primary Election Process",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.934,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Provisional Voting",
+            "current_q": "Provisional Voting",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.861,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Provisions for Voters with Disabilities",
+            "current_q": "Provisions for Voters with Disabilities",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.477,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Voter Registration Deadlines",
+            "current_q": "Voter Registration Deadlines",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.281,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Time Off To Vote",
+            "current_q": "Time Off To Vote",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.323,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Verify Voter Registration",
+            "current_q": "Verify Voter Registration",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.34,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Voting Machines",
+            "current_q": "Voting Machines",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/nevada",
+            "current_s": "https://www.vote411.org/nevada",
+            "answer_status": "changed",
+            "answer_similarity": 0.943,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Vote by Mail",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/nevada",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "unassigned",
             "baseline_q": "WHEN ARE BALLOTS MAILED TO ACTIVE REGISTERED VOTERS?",
-            "current_q": "WHEN ARE BALLOTS MAILED TO ACTIVE REGISTERED VOTERS?",
-            "question_similarity": 1.0,
+            "current_q": null,
+            "question_similarity": null,
             "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
+            "current_s": null,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "same",
+            "status": "unassigned",
             "baseline_q": "HOW CAN I CHECK IF I AM AN INACTIVE VOTER?",
-            "current_q": "HOW CAN I CHECK IF I AM AN INACTIVE VOTER?",
-            "question_similarity": 1.0,
+            "current_q": null,
+            "question_similarity": null,
             "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
+            "current_s": null,
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "same",
+            "status": "unassigned",
             "baseline_q": "HOW CAN I TRACK MY MAILED BALLOT?",
-            "current_q": "HOW CAN I TRACK MY MAILED BALLOT?",
-            "question_similarity": 1.0,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
-        },
-        {
-            "status": "same",
-            "baseline_q": "HOW DO I OPT-OUT OF GETTING A MAIL BALLOT?",
-            "current_q": "HOW DO I OPT-OUT OF GETTING A MAIL BALLOT?",
-            "question_similarity": 1.0,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
-        },
-        {
-            "status": "same",
-            "baseline_q": "HOW DO I REQUEST AN EMERGENCY ABSENTEE BALLOT?",
-            "current_q": "HOW DO I REQUEST AN EMERGENCY ABSENTEE BALLOT?",
-            "question_similarity": 1.0,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
-        },
-        {
-            "status": "same",
-            "baseline_q": "HOW DO I UPDATE MY VOTER REGISTRATION?",
-            "current_q": "How do I update my voter registration?",
-            "question_similarity": 1.0,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.751,
-            "source": "vote411"
-        },
-        {
-            "status": "reworded",
-            "baseline_q": "WHAT IS THE DEADLINE FOR CURING MY MAIL BALLOT SIGNATURE IF THERE IS AN ISSUE?",
-            "current_q": "WHAT IS THE DEADLINE FOR CURING MY MAIL BALLOT SIGNATURE IF THERE’S AN ISSUE?",
-            "question_similarity": 0.987,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
-        },
-        {
-            "status": "reworded",
-            "baseline_q": "I AM VOTING FOR THE FIRST TIME BY MAIL. WHAT SHOULD I KNOW?",
-            "current_q": "I’M VOTING FOR THE FIRST TIME BY MAIL. WHAT SHOULD I KNOW?",
-            "question_similarity": 0.982,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.999,
-            "source": "vote411"
-        },
-        {
-            "status": "reworded",
-            "baseline_q": "HOW CAN I CHECK MY REGISTRATION STATUS?",
-            "current_q": "How can I check my voter registration status?",
-            "question_similarity": 0.927,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "unchanged",
-            "answer_similarity": 1.0,
-            "source": "vote411"
-        },
-        {
-            "status": "reworded",
-            "baseline_q": "What is the deadline to register to vote?",
-            "current_q": "What is the deadline to register to vote in Nevada?",
-            "question_similarity": 0.889,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.637,
-            "source": "vote411"
-        },
-        {
-            "status": "reworded",
-            "baseline_q": "What types of voting machines are used?",
-            "current_q": "What types of voting machines does Nevada use?",
-            "question_similarity": 0.843,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.088,
-            "source": "vote411"
-        },
-        {
-            "status": "reworded",
-            "baseline_q": "What accommodations are available for voters with disabilities?",
-            "current_q": "What voting assistance is available for voters with disabilities?",
-            "question_similarity": 0.81,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.513,
-            "source": "vote411"
-        },
-        {
-            "status": "reworded",
-            "baseline_q": "When are official election results released?",
-            "current_q": "When are official election results available in Nevada?",
-            "question_similarity": 0.804,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.633,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What is the process for voting by mail?",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "How can I fix issues with my mail-in ballot?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Where can I find information about campaign finance?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Where can I find information about candidates and ballot measures?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Where are ballot drop boxes located?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "When is early voting available?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "When are the upcoming election dates?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What are the eligibility requirements to vote?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What ID do I need to register to vote?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What forms of identification are accepted for voting?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "How can military and overseas voters cast their ballots?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What are the requirements to become a poll worker?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What are the voting hours at polling places?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Where can I find my Voter Service and Polling Center location?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "How does the primary election process work?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "When would I need to vote using a provisional ballot?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What are the rules for taking time off work to vote?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "How can I verify my voter registration status?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "What are the requirements for voting by mail?",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/nevada",
-            "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "WHAT IF I NEED AN INTERPRETER?",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": null,
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "IS MY POLLING PLACE ACCESSIBLE?",
+            "status": "unassigned",
+            "baseline_q": "HOW DO I UPDATE MY VOTER REGISTRATION?",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": null,
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does Nevada allow ballot curing?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I cure my ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is the deadline to cure my ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I track the status of my ballot online after curing it?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is a ballot drop box?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Are drop boxes available in my state?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Where can I find ballot drop box locations?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I track the ballot after placing in the drop box?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I vote before Election Day in Nevada?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Who can vote early in Nevada?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "When can I vote early in Nevada?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Where can I vote early in Nevada?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Who is eligible to vote in Nevada?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I vote in Nevada if I have a felony conviction?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I vote in Nevada if I don’t have a permanent address?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can students vote in Nevada?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Do I need an ID to register to vote in Nevada?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What types of ID are accepted for registration?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What if I don’t have an ID?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Where can I find official election results?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What does a poll worker do in Nevada?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What qualifications do I need to be a poll worker in Nevada?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Are poll workers paid in Nevada?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I apply to be a poll worker in Nevada?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is a provisional ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does Nevada offer provisional voting?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I vote a provisional ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How can I check the status of my provisional ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I request accommodation or report accessibility issues?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I vote by mail because of my disability?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does Nevada require employers to give time off to vote?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Do I need ID to vote in Nevada?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What types of ID can I use to vote in-person in Nevada?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Do I need ID to vote by mail/absentee in Nevada?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What if I don’t have an acceptable ID?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Are student or digital IDs accepted?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does Nevada have online voter registration?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Is same-day voter registration available in Nevada?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I pre-register to vote?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Who is eligible to register in Nevada?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is Direct Recording Electronic Voting?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/nevada",
-            "source": "vote411"
+            "source": "vote411",
+            "unit": "section"
         }
     ]
 }
