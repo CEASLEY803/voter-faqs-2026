@@ -1,12 +1,13 @@
 """Run the whole pipeline for one election cycle.
 
-Steps: optional collection (--collect), build data/<year>/combined/, create or extend the review
-file data/<year>/review.csv, then compare with the baseline cycle and write the cross-state
-analysis. With --approved-only, the comparison and analysis use only states marked approved in
+Steps: optional collection (--collect), build data/<year>/combined/, write the data quality report
+to data/<year>/quality/, create or extend the review file data/<year>/review.csv, then compare with
+the baseline cycle and write the cross-state analysis. Thresholds and rules are in settings.toml. With --approved-only, the comparison and analysis use only states marked approved in
 the review file and are written to data/<year>/analysis_approved/ instead of data/<year>/analysis/.
 """
 
 import argparse
+from collections import Counter
 import csv
 from datetime import date
 import json
@@ -18,6 +19,7 @@ from analyze_states import analyze
 from build_dataset import build, latest_state_site_batch, latest_vote411_batch
 from collect_sc import ROOT
 from collect_vote411 import vote411_urls
+from quality_report import write_quality_report
 from snapshot_state_sites import REMOVED_PAGE_ERRORS
 
 
@@ -112,6 +114,9 @@ def main():
                          arguments.state_site_batch or latest_state_site_batch(year), arguments.contributor)
         print(f"Built data/{year}/combined/: {sum(c['total'] for c in manifest['counts'].values())} records, "
               f"{len(manifest['flagged_pages'])} flagged pages listed in its manifest.json")
+    findings = Counter(row["category"] for row in write_quality_report(year, arguments.baseline_year))
+    print(f"Data quality report data/{year}/quality/: {sum(findings.values())} findings ("
+          + ", ".join(f"{category} {count}" for category, count in findings.items()) + ")")
     review_path = ROOT / "data" / str(year) / "review.csv"
     rows = sync_review_file(review_path, list(vote411_urls()))
     approved = approved_states(rows)
