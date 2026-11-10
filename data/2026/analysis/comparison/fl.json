@@ -3,6 +3,7 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "answer_minor_threshold": 0.85,
     "vote411_unit_setting": "auto",
     "vote411_unit": "section",
     "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
@@ -14,7 +15,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-campaign-advertising/",
             "current_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-campaign-advertising/",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.746,
             "source": "state",
             "unit": "question"
@@ -38,7 +39,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-campaign-advertising/",
             "current_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-campaign-advertising/",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.769,
             "source": "state",
             "unit": "question"
@@ -230,7 +231,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-campaign-finance/",
             "current_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-campaign-finance/",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.867,
             "source": "state",
             "unit": "question"
@@ -338,7 +339,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-candidates/",
             "current_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-candidates/",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.925,
             "source": "state",
             "unit": "question"
@@ -386,7 +387,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-candidates/",
             "current_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-candidates/",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.997,
             "source": "state",
             "unit": "question"
@@ -506,7 +507,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-elections/",
             "current_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-elections/",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.729,
             "source": "state",
             "unit": "question"
@@ -542,7 +543,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-elections/",
             "current_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-elections/",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.699,
             "source": "state",
             "unit": "question"
@@ -602,7 +603,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-minor-political-parties/",
             "current_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-minor-political-parties/",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.774,
             "source": "state",
             "unit": "question"
@@ -638,7 +639,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-minor-political-parties/",
             "current_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-minor-political-parties/",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.962,
             "source": "state",
             "unit": "question"
@@ -722,7 +723,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-minor-political-parties/",
             "current_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-minor-political-parties/",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.932,
             "source": "state",
             "unit": "question"
@@ -734,7 +735,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-political-committees/",
             "current_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-political-committees/",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.761,
             "source": "state",
             "unit": "question"
@@ -746,7 +747,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-political-committees/",
             "current_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-political-committees/",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.692,
             "source": "state",
             "unit": "question"
@@ -878,7 +879,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-voter-registration/",
             "current_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-voter-registration/",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.956,
             "source": "state",
             "unit": "question"
@@ -1070,7 +1071,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-voting/",
             "current_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-voting/",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 1.0,
             "source": "state",
             "unit": "question"
@@ -1238,7 +1239,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-voting/",
             "current_s": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-voting/",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.736,
             "source": "state",
             "unit": "question"
@@ -1328,7 +1329,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/florida",
             "current_s": "https://www.vote411.org/florida",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.894,
             "source": "vote411",
             "unit": "section"
@@ -1340,7 +1341,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/florida",
             "current_s": "https://www.vote411.org/florida",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.479,
             "source": "vote411",
             "unit": "section"
@@ -1352,8 +1353,8 @@
             "question_similarity": 1.0,
             "baseline_s": " https://www.vote411.org/florida",
             "current_s": "https://www.vote411.org/florida",
-            "answer_status": "changed",
-            "answer_similarity": 0.103,
+            "answer_status": "major_change",
+            "answer_similarity": 0.196,
             "source": "vote411",
             "unit": "section"
         },
@@ -1364,8 +1365,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/florida",
             "current_s": "https://www.vote411.org/florida",
-            "answer_status": "changed",
-            "answer_similarity": 0.664,
+            "answer_status": "major_change",
+            "answer_similarity": 0.653,
             "source": "vote411",
             "unit": "section"
         },
@@ -1376,8 +1377,8 @@
             "question_similarity": 1.0,
             "baseline_s": " https://www.vote411.org/florida",
             "current_s": "https://www.vote411.org/florida",
-            "answer_status": "changed",
-            "answer_similarity": 0.089,
+            "answer_status": "major_change",
+            "answer_similarity": 0.036,
             "source": "vote411",
             "unit": "section"
         },
@@ -1388,8 +1389,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/florida",
             "current_s": "https://www.vote411.org/florida",
-            "answer_status": "changed",
-            "answer_similarity": 0.714,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1400,8 +1401,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/florida",
             "current_s": "https://www.vote411.org/florida",
-            "answer_status": "changed",
-            "answer_similarity": 0.836,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1412,8 +1413,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/florida",
             "current_s": "https://www.vote411.org/florida",
-            "answer_status": "changed",
-            "answer_similarity": 0.935,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1424,8 +1425,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/florida",
             "current_s": "https://www.vote411.org/florida",
-            "answer_status": "changed",
-            "answer_similarity": 0.733,
+            "answer_status": "major_change",
+            "answer_similarity": 0.717,
             "source": "vote411",
             "unit": "section"
         },
@@ -1436,8 +1437,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/florida",
             "current_s": "https://www.vote411.org/florida",
-            "answer_status": "changed",
-            "answer_similarity": 0.195,
+            "answer_status": "major_change",
+            "answer_similarity": 0.168,
             "source": "vote411",
             "unit": "section"
         },
@@ -1448,8 +1449,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/florida",
             "current_s": "https://www.vote411.org/florida",
-            "answer_status": "changed",
-            "answer_similarity": 0.077,
+            "answer_status": "major_change",
+            "answer_similarity": 0.08,
             "source": "vote411",
             "unit": "section"
         },
@@ -1460,8 +1461,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/florida",
             "current_s": "https://www.vote411.org/florida",
-            "answer_status": "changed",
-            "answer_similarity": 0.482,
+            "answer_status": "major_change",
+            "answer_similarity": 0.34,
             "source": "vote411",
             "unit": "section"
         },
@@ -1472,8 +1473,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/florida",
             "current_s": "https://www.vote411.org/florida",
-            "answer_status": "changed",
-            "answer_similarity": 0.69,
+            "answer_status": "major_change",
+            "answer_similarity": 0.677,
             "source": "vote411",
             "unit": "section"
         },

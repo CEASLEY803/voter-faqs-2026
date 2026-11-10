@@ -3,6 +3,7 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "answer_minor_threshold": 0.85,
     "vote411_unit_setting": "auto",
     "vote411_unit": "section",
     "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
@@ -14,7 +15,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.982,
             "source": "state",
             "unit": "question"
@@ -50,7 +51,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.338,
             "source": "state",
             "unit": "question"
@@ -62,7 +63,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.971,
             "source": "state",
             "unit": "question"
@@ -74,7 +75,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.971,
             "source": "state",
             "unit": "question"
@@ -98,7 +99,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.999,
             "source": "state",
             "unit": "question"
@@ -110,7 +111,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.974,
             "source": "state",
             "unit": "question"
@@ -194,7 +195,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.917,
             "source": "state",
             "unit": "question"
@@ -206,7 +207,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.07,
             "source": "state",
             "unit": "question"
@@ -218,7 +219,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.953,
             "source": "state",
             "unit": "question"
@@ -242,7 +243,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.993,
             "source": "state",
             "unit": "question"
@@ -314,7 +315,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.988,
             "source": "state",
             "unit": "question"
@@ -326,7 +327,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.986,
             "source": "state",
             "unit": "question"
@@ -338,7 +339,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.988,
             "source": "state",
             "unit": "question"
@@ -350,7 +351,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.997,
             "source": "state",
             "unit": "question"
@@ -374,7 +375,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.992,
             "source": "state",
             "unit": "question"
@@ -410,7 +411,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.998,
             "source": "state",
             "unit": "question"
@@ -422,7 +423,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.996,
             "source": "state",
             "unit": "question"
@@ -434,7 +435,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.848,
             "source": "state",
             "unit": "question"
@@ -446,7 +447,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.991,
             "source": "state",
             "unit": "question"
@@ -458,7 +459,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.983,
             "source": "state",
             "unit": "question"
@@ -518,7 +519,7 @@
             "question_similarity": 1.0,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.998,
             "source": "state",
             "unit": "question"
@@ -530,7 +531,7 @@
             "question_similarity": 0.912,
             "baseline_s": "elections.wi.gov",
             "current_s": "https://elections.wi.gov/faq",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.27,
             "source": "state",
             "unit": "question"
@@ -1712,7 +1713,7 @@
             "question_similarity": 1.0,
             "baseline_s": "Voter411",
             "current_s": "https://www.vote411.org/wisconsin",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.895,
             "source": "vote411",
             "unit": "section"
@@ -1724,8 +1725,8 @@
             "question_similarity": 1.0,
             "baseline_s": "Voter411",
             "current_s": "https://www.vote411.org/wisconsin",
-            "answer_status": "changed",
-            "answer_similarity": 0.395,
+            "answer_status": "major_change",
+            "answer_similarity": 0.387,
             "source": "vote411",
             "unit": "section"
         },

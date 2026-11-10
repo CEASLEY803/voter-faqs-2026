@@ -3,8 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "answer_minor_threshold": 0.85,
     "vote411_unit_setting": "auto",
-    "vote411_unit": "question",
+    "vote411_unit": "section",
     "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
@@ -50,7 +51,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.859,
             "source": "state",
             "unit": "question"
@@ -122,7 +123,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.684,
             "source": "state",
             "unit": "question"
@@ -242,7 +243,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voter-registration/",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.901,
             "source": "state",
             "unit": "question"
@@ -278,7 +279,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.179,
             "source": "state",
             "unit": "question"
@@ -290,7 +291,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.649,
             "source": "state",
             "unit": "question"
@@ -434,7 +435,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.532,
             "source": "state",
             "unit": "question"
@@ -578,7 +579,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/other-questions/",
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.745,
             "source": "state",
             "unit": "question"
@@ -590,7 +591,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/other-questions/",
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.811,
             "source": "state",
             "unit": "question"
@@ -602,7 +603,7 @@
             "question_similarity": 0.853,
             "baseline_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/other-questions/",
             "current_s": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.983,
             "source": "state",
             "unit": "question"
@@ -940,632 +941,242 @@
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "current_q": "Absentee Ballot Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "current_q": "Ballot Notice and Cure Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "WHEN ARE VOTERS REMOVED FROM THE PERMANENT MAIL VOTING LIST?",
+            "current_q": "Campaign Finance Information",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "current_q": "Candidate and Ballot Measure Information",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "current_q": "Drop Boxes",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "current_q": "Early Voting",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "HOW DO I RETURN MY ABSENTEE BALLOT IN PERSON?",
+            "current_q": "Election Dates",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "current_q": "Election Day Voting Hours",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "current_q": "Eligibility Requirements",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
+            "current_q": "ID Needed for Voter Registration",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Does New Mexico allow ballot curing?",
+            "current_q": "Official Election Results",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "current_q": "Overseas and Military Voters",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What is the deadline to cure my ballot?",
+            "current_q": "Poll Worker Information",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Can I track my absentee ballot?",
+            "current_q": "Polling Place Locations",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What is a ballot drop box?",
+            "current_q": "Primary Election Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Are drop boxes available in my state?",
+            "current_q": "Provisional Voting",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Where can I find ballot drop box locations?",
+            "current_q": "Provisions for Voters with Disabilities",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Can I track the ballot after placing in the drop box?",
+            "current_q": "Ranked Choice Voting",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Can I vote before Election Day in New Mexico?",
+            "current_q": "Student Voting Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Do I have to apply to vote early in New Mexico?",
+            "current_q": "Time Off To Vote",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Where can I vote early in person in New Mexico?",
+            "current_q": "Verify Voter Registration",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "How can I receive an early ballot in the mail?",
+            "current_q": "Voter ID Requirements",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Do I need an ID to vote early in New Mexico?",
+            "current_q": "Voter Registration Deadlines",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "WHO CAN REGISTER TO VOTE IN NEW MEXICO?",
+            "current_q": "Voting Machines",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/new-mexico",
             "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHO CAN VOTE IN NEW MEXICO?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "CAN I VOTE IN NEW MEXICO IF I HAVE A FELONY CONVICTION?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "CAN I REGISTER AND VOTE IN NEW MEXICO IF I DON’T HAVE A TRADITIONAL ADDRESS?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "AM I REQUIRED TO SHOW ID TO REGISTER TO VOTE IN NEW MEXICO?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT TYPES OF ID CAN I USE TO REGISTER TO VOTE IN NEW MEXICO?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT IF I DON’T HAVE THE REQUIRED ID WHEN I REGISTER IN NEW MEXICO?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "When are official election results available in New Mexico?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Where can I find official election results?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What does a poll worker do in New Mexico?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What qualifications do I need to be a poll worker in New Mexico?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Are poll workers paid in New Mexico?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I apply to be a poll worker in New Mexico?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Who can vote in the primary elections in New Mexico?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is a provisional ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does New Mexico offer provisional voting?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I vote a provisional ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is the deadline to cure my provisional ballot so it will be counted?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What voting assistance is available for voters with disabilities?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I request accommodation or report accessibility issues?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I vote by mail because of my disability?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What do I need to register to vote in New Mexico?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I register to vote using my college address in New Mexico?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What’s the deadline to register to vote in New Mexico?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What form of ID do I need to vote in New Mexico?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "I’m originally from another state, can I still vote in my home state while studying in New Mexico?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in New Mexico?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does New Mexico require employers to give time off to vote?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "DO I NEED TO SHOW ID WHEN I VOTE IN NEW MEXICO?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT TYPES OF ID CAN I USE TO VOTE IN NEW MEXICO?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE IN NEW MEXICO?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is the deadline to register to vote in New Mexico?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How can I register to vote in New Mexico?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How can I check my voter registration status?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does New Mexico have online voter registration?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Is same-day voter registration available in New Mexico?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I pre-register to vote?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Who is eligible to register in New Mexico?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What types of voting machines does New Mexico use?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is optical scan voting?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/new-mexico",
-            "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         }
     ]
 }

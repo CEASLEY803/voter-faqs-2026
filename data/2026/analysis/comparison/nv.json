@@ -3,6 +3,7 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "answer_minor_threshold": 0.85,
     "vote411_unit_setting": "auto",
     "vote411_unit": "section",
     "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
@@ -14,7 +15,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.994,
             "source": "state",
             "unit": "question"
@@ -26,7 +27,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.75,
             "source": "state",
             "unit": "question"
@@ -50,7 +51,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.75,
             "source": "state",
             "unit": "question"
@@ -74,7 +75,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.963,
             "source": "state",
             "unit": "question"
@@ -122,7 +123,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.99,
             "source": "state",
             "unit": "question"
@@ -290,7 +291,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.915,
             "source": "state",
             "unit": "question"
@@ -302,7 +303,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.988,
             "source": "state",
             "unit": "question"
@@ -314,7 +315,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.974,
             "source": "state",
             "unit": "question"
@@ -338,7 +339,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.992,
             "source": "state",
             "unit": "question"
@@ -350,7 +351,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.944,
             "source": "state",
             "unit": "question"
@@ -362,7 +363,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.989,
             "source": "state",
             "unit": "question"
@@ -374,7 +375,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.973,
             "source": "state",
             "unit": "question"
@@ -386,7 +387,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.976,
             "source": "state",
             "unit": "question"
@@ -398,7 +399,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.983,
             "source": "state",
             "unit": "question"
@@ -410,7 +411,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.589,
             "source": "state",
             "unit": "question"
@@ -422,7 +423,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.982,
             "source": "state",
             "unit": "question"
@@ -434,7 +435,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.987,
             "source": "state",
             "unit": "question"
@@ -446,7 +447,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.953,
             "source": "state",
             "unit": "question"
@@ -458,7 +459,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.734,
             "source": "state",
             "unit": "question"
@@ -506,7 +507,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.995,
             "source": "state",
             "unit": "question"
@@ -530,7 +531,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.863,
             "source": "state",
             "unit": "question"
@@ -602,7 +603,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.987,
             "source": "state",
             "unit": "question"
@@ -614,7 +615,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.402,
             "source": "state",
             "unit": "question"
@@ -638,7 +639,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.998,
             "source": "state",
             "unit": "question"
@@ -650,7 +651,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.599,
             "source": "state",
             "unit": "question"
@@ -662,7 +663,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.965,
             "source": "state",
             "unit": "question"
@@ -686,7 +687,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.848,
             "source": "state",
             "unit": "question"
@@ -710,7 +711,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.948,
             "source": "state",
             "unit": "question"
@@ -722,7 +723,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.956,
             "source": "state",
             "unit": "question"
@@ -806,7 +807,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.864,
             "source": "state",
             "unit": "question"
@@ -818,7 +819,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.991,
             "source": "state",
             "unit": "question"
@@ -842,7 +843,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
             "current_s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.967,
             "source": "state",
             "unit": "question"
@@ -1250,7 +1251,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.527,
             "source": "vote411",
             "unit": "section"
@@ -1262,8 +1263,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.402,
+            "answer_status": "major_change",
+            "answer_similarity": 0.423,
             "source": "vote411",
             "unit": "section"
         },
@@ -1274,8 +1275,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.858,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1286,8 +1287,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.734,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1298,8 +1299,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.262,
+            "answer_status": "major_change",
+            "answer_similarity": 0.169,
             "source": "vote411",
             "unit": "section"
         },
@@ -1310,8 +1311,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.182,
+            "answer_status": "major_change",
+            "answer_similarity": 0.139,
             "source": "vote411",
             "unit": "section"
         },
@@ -1322,8 +1323,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.803,
+            "answer_status": "minor_change",
+            "answer_similarity": 0.958,
             "source": "vote411",
             "unit": "section"
         },
@@ -1334,8 +1335,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.54,
+            "answer_status": "major_change",
+            "answer_similarity": 0.546,
             "source": "vote411",
             "unit": "section"
         },
@@ -1346,8 +1347,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.662,
+            "answer_status": "major_change",
+            "answer_similarity": 0.65,
             "source": "vote411",
             "unit": "section"
         },
@@ -1358,8 +1359,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.268,
+            "answer_status": "major_change",
+            "answer_similarity": 0.27,
             "source": "vote411",
             "unit": "section"
         },
@@ -1370,8 +1371,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.794,
+            "answer_status": "major_change",
+            "answer_similarity": 0.744,
             "source": "vote411",
             "unit": "section"
         },
@@ -1382,7 +1383,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.727,
             "source": "vote411",
             "unit": "section"
@@ -1394,8 +1395,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.315,
+            "answer_status": "major_change",
+            "answer_similarity": 0.338,
             "source": "vote411",
             "unit": "section"
         },
@@ -1406,8 +1407,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.732,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1418,8 +1419,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.836,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1430,8 +1431,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.934,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1442,8 +1443,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.861,
+            "answer_status": "minor_change",
+            "answer_similarity": 0.858,
             "source": "vote411",
             "unit": "section"
         },
@@ -1454,7 +1455,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.477,
             "source": "vote411",
             "unit": "section"
@@ -1466,8 +1467,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.281,
+            "answer_status": "major_change",
+            "answer_similarity": 0.292,
             "source": "vote411",
             "unit": "section"
         },
@@ -1478,8 +1479,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.323,
+            "answer_status": "major_change",
+            "answer_similarity": 0.292,
             "source": "vote411",
             "unit": "section"
         },
@@ -1490,7 +1491,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.34,
             "source": "vote411",
             "unit": "section"
@@ -1502,8 +1503,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/nevada",
             "current_s": "https://www.vote411.org/nevada",
-            "answer_status": "changed",
-            "answer_similarity": 0.943,
+            "answer_status": "minor_change",
+            "answer_similarity": 0.931,
             "source": "vote411",
             "unit": "section"
         },

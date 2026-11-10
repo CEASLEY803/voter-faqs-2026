@@ -1,7 +1,7 @@
 {
     "state": "va",
-    "num_questions": 83,
-    "num_answers": 83,
+    "num_questions": 92,
+    "num_answers": 92,
     "contributor": "Cole Easley",
     "questions": [
         {
@@ -499,6 +499,60 @@
         {
             "q": "What is optical scan voting?",
             "a": "With optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\n\n- With a pen or pencil, you fill in a little box, circle, or space between two arrows.\n- When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\n- Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Campaign Finance Information",
+            "a": "Have you ever wondered who is donating to the candidates on your ballot? You can find campaign finance reports for your federal candidates (US House & US Senate) on OpenSecrets.org (http://www.opensecrets.org/).\n\nFor your statewide, state legislative, and some local candidates, you can visit The Virginia Public Access Project’s website at https://www.vpap.org/money/ (https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.vpap.org%2Fmoney%2F&data=04%7C01%7Cmbrown%40lwv.org%7C26311933750c4ddd1f6b08da11aeb60e%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C1%7C637841739326726832%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=IobOJvq4LFa2t%2BUIU%2Fw2Q0HGO3CwJ7iRENXHGB8Y3ZY%3D&reserved=0)",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Candidate and Ballot Measure Information",
+            "a": "When an election is coming up in your state, the League of Women Voters will publish a voter guide on VOTE411.org (https://www.vote411.org/VOTE411.org). If you enter your address and don't see your candidates yet, please check back closer to Election Day to see them published online.\n\nIf you see a candidate listed on VOTE411 who has not yet filled out the candidate questions, please reach out to them (https://www.vote411.org/candidate-contact), asking them to fill out the VOTE411 voter guide! The more candidates who fill it out the more helpful it is for voters in your community",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Election Dates",
+            "a": "If there is an upcoming election in your area, it will be listed in the dark blue box at the top of this page (scroll up) or by clicking on https://www.vote411.org/virginia.\n\nYou can also contact your local local registrar's office (https://vote.elections.virginia.gov/VoterInformation/PublicContactLookup) for more information.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Election Day Voting Hours",
+            "a": "Polls are open from 6:00 am to 7:00 pm.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Overseas and Military Voters",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)\n\nIf you have additional questions about elections and voting overseas you can use this online guide https://www.elections.virginia.gov/casting-a-ballot/military-overseas/… (https://www.elections.virginia.gov/casting-a-ballot/military-overseas/.&nbsp);",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Polling Place Locations",
+            "a": "You can find your polling place by using Virginia Department of Elections’ polling place lookup (https://vote.elections.virginia.gov/VoterInformation/Lookup/polling).\n\nIf you have further questions on your polling place location, please contact your local election office (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Primary Election Process",
+            "a": "Virginia is an “open primary” state. This means you can choose the political party’s ballot you wish to vote. This decision does not register you with that party, and it is a private decision. If both the Democratic and Republican parties hold primaries on the same day, voters must choose which party ballot they wish to vote, per Virginia Code § 24.2-530 (https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Flaw.lis.virginia.gov%2Fvacode%2Ftitle24.2%2Fchapter5%2Fsection24.2-530%2F&data=05%7C02%7Cmbrown%40lwv.org%7Cd11520961f7e49882dec08dc6df52427%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C0%7C638506147007545999%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=A8pwAoRruCjMZYcFBaM2FG%2BO7RN%2BQXYWu7GYkAZ0yXU%3D&reserved=0). A voter cannot vote both ballots. If you have any questions about Virginia’s primary election process, please contact your local election officials. (https://absentee.vote411.org/vote/eoddomestic.htm?_ga=2.95329436.1838023694.1680624399-1475019010.1654737627)",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Registering after Moving",
+            "a": "If you have moved to Virginia from another state, you must complete a Virginia Voter Registration Application. Remember, you may only be registered to vote in one state.\n\nIf you have moved within the state, you must update your voter record to reflect your new address. You can do so online (https://www.elections.virginia.gov/citizen-portal/index.html) or in person with your local general registrar if you prefer. If your move occurred since the last November election, you may return to and vote at your previous polling location.\n\nAll voters must update their records to reflect their current residence to ensure that their precinct assignment is correct.",
+            "s": "https://www.vote411.org/virginia",
+            "t": "2026-10-22T19:14:02+00:00"
+        },
+        {
+            "q": "Verify Voter Registration",
+            "a": "To verify your voter registration status\n\n  click here!  (https://vote.elections.virginia.gov/VoterInformation)",
             "s": "https://www.vote411.org/virginia",
             "t": "2026-10-22T19:14:02+00:00"
         }

@@ -1,0 +1,90 @@
+[
+    {
+        "state": "ct",
+        "rule": "invitation to ask more",
+        "q": "Additional questions about absentee voting?",
+        "a": "Please contact us at LEAD@ct.gov (mailto:LEAD@ct.gov) or (860) 509-6100 for additional information about Connecticut’s absentee voting laws.",
+        "s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+        "t": "2026-10-29T22:04:24+00:00"
+    },
+    {
+        "state": "mn",
+        "rule": "offer of help",
+        "q": "Need help?",
+        "a": "Call us at 1-877-600-VOTE (8683) or contact your county election office (https://www.sos.mn.gov/elections-voting/find-county-election-office/).",
+        "s": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+        "t": "2026-10-29T22:41:36+00:00"
+    },
+    {
+        "state": "mn",
+        "rule": "offer of help",
+        "q": "Need help?",
+        "a": "Call us at 1-877-600-VOTE (8683) or contact your county election office (https://www.sos.mn.gov/elections-voting/find-county-election-office/).",
+        "s": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+        "t": "2026-10-29T22:41:33+00:00"
+    },
+    {
+        "state": "mn",
+        "rule": "promotional card",
+        "q": "Going abroad?",
+        "a": "Have an absentee ballot emailed to you wherever you are in the world. Learn how. (https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/)",
+        "s": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-a-college-student/",
+        "t": "2026-10-29T22:41:29+00:00"
+    },
+    {
+        "state": "mn",
+        "rule": "offer of help",
+        "q": "Need help?",
+        "a": "Call us at 1-877-600-VOTE (8683) or contact your county election office (https://www.sos.mn.gov/elections-voting/find-county-election-office/).",
+        "s": "https://www.sos.mn.gov/elections-voting/register-to-vote/",
+        "t": "2026-10-29T22:41:16+00:00"
+    },
+    {
+        "state": "nd",
+        "rule": "link label",
+        "q": "Learn more about the ways you can vote in North Dakota (in person, absentee, etc.) at How Do I Vote?",
+        "a": "Helpful Hint: Polling locations are the busiest in the morning and early evening. The best time to vote to avoid lines is mid-morning or mid-afternoon.",
+        "s": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/where-do-i-vote",
+        "t": "2026-10-29T22:06:51+00:00"
+    },
+    {
+        "state": "oh",
+        "rule": "offer of help",
+        "q": "Need Help?",
+        "a": "Contact the Ohio Secretary of State’s office at 877-767-6446 (tel:+8777676446) or your county board of elections (https://www.ohiosos.gov/directories/county-boards-of-elections) for questions or assistance.",
+        "s": "https://www.ohiosos.gov/elections/frequently-asked-questions",
+        "t": "2026-10-29T22:40:16+00:00"
+    },
+    {
+        "state": "oh",
+        "rule": "offer of help",
+        "q": "Need Help?",
+        "a": "For questions about polling locations, curbside voting, or accessible ballot options, contact your county board of elections (https://www.ohiosos.gov/directories/county-boards-of-elections) or the Ohio Secretary of State’s office at 877-767-6446 (tel:+8777676446).",
+        "s": "https://www.ohiosos.gov/elections/frequently-asked-questions",
+        "t": "2026-10-29T22:40:16+00:00"
+    },
+    {
+        "state": "oh",
+        "rule": "volunteer prompt",
+        "q": "Ready to Serve?",
+        "a": "Help Others Become Poll Workers (https://www.ohiosos.gov/elections/poll-worker-recruitment)",
+        "s": "https://www.ohiosos.gov/elections/frequently-asked-questions",
+        "t": "2026-10-29T22:40:16+00:00"
+    },
+    {
+        "state": "or",
+        "rule": "offer of help",
+        "q": "How Can We Help You?",
+        "a": "Oregon’s Elections Division is your official source for trusted information about elections. Your county (https://sos.oregon.gov/elections/Pages/county-officials.aspx) may also provide more detailed information. Remember to always use official sources to ensure you’re getting information you can trust.",
+        "s": "https://sos.oregon.gov/elections/Pages/faq.aspx",
+        "t": "2026-10-29T22:07:09+00:00"
+    },
+    {
+        "state": "wv",
+        "rule": "link label",
+        "q": "Learn more here: Which Ballot May I Vote?",
+        "a": "Questions? Call 304.558.6000 (tel:3045586000) or toll free 866.767.8683 (tel:8667678683) | elections@wvsos.gov (mailto:elections@wvsos.gov)",
+        "s": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+        "t": "2026-10-29T22:07:44+00:00"
+    }
+]

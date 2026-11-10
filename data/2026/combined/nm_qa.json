@@ -1,7 +1,7 @@
 {
     "state": "nm",
-    "num_questions": 130,
-    "num_answers": 130,
+    "num_questions": 138,
+    "num_answers": 138,
     "contributor": "Cole Easley",
     "questions": [
         {
@@ -781,6 +781,54 @@
         {
             "q": "What is optical scan voting?",
             "a": "With optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\n\n- With a pen or pencil, you fill in a little box, circle, or space between two arrows.\n- When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\n- Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Campaign Finance Information",
+            "a": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Candidate and Ballot Measure Information",
+            "a": "Information on local, state and federal candidates and ballot measures is available here. (https://www.vote411.org/ballot)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Election Dates",
+            "a": "The next election date can be found here https://www.vote411.org/new-mexico.\n\nContact your local Board of Elections (https://absentee.vote411.org/vote/eoddomestic.htm) for information about local elections.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Election Day Voting Hours",
+            "a": "Polls will be open from 7:00 am to 7:00 pm.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Overseas and Military Voters",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Polling Place Locations",
+            "a": "You can find your polling place by utilizing your state resource. (https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx) If you have any questions, please contact your county clerk (https://www.overseasvotefoundation.org/vote/election-official-directory). (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Ranked Choice Voting",
+            "a": "Ranked choice voting may be available in your area, contact your local elections officials (https://absentee.vote411.org/vote/eoddomestic.htm) for more information. Voters in Santa Fe (http://votedifferentsantafe.com/) and Las Cruces began using Ranked Choice Voting in 2018 and 2019 respectively.\n\nRanked Choice Voting allows voters to rank candidates in their order of preference. Voters do not need to rank candidates if they do not want to and may vote for just one candidate. For more information on how Ranked Choice Voting works in your area, please contact your local elections officials.",
+            "s": "https://www.vote411.org/new-mexico",
+            "t": "2026-10-22T19:13:40+00:00"
+        },
+        {
+            "q": "Verify Voter Registration",
+            "a": "To verify your voter registration status\n\n  click here!  (https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx)",
             "s": "https://www.vote411.org/new-mexico",
             "t": "2026-10-22T19:13:40+00:00"
         }

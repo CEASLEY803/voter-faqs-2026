@@ -3,8 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "answer_minor_threshold": 0.85,
     "vote411_unit_setting": "auto",
-    "vote411_unit": "question",
+    "vote411_unit": "section",
     "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
@@ -658,1656 +659,696 @@
             "unit": "question"
         },
         {
-            "status": "reworded",
-            "baseline_q": "To be a poll worker in Illinois:",
-            "current_q": "What does a poll worker do in Illinois?",
-            "question_similarity": 0.841,
+            "status": "same",
+            "baseline_q": "Election Dates",
+            "current_q": "Election Dates",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": "https://www.vote411.org/illinois",
-            "answer_status": "changed",
+            "answer_status": "major_change",
+            "answer_similarity": 0.335,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Absentee Ballot Process",
+            "current_q": "Absentee Ballot Process",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.343,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Drop Boxes",
+            "current_q": "Drop Boxes",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.493,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Provisional Voting",
+            "current_q": "Provisional Voting",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.339,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Overseas and Military Voters",
+            "current_q": "Overseas and Military Voters",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.201,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Campaign Finance Information",
+            "current_q": "Campaign Finance Information",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
             "answer_similarity": 0.0,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Some elections in this list are local and do not apply for all Illinois voters. Please click the “View all” button below to view all election dates in your state.",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Candidate and Ballot Measure Information",
+            "current_q": "Candidate and Ballot Measure Information",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.117,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "By Mail: Tuesday, October 8, 2024",
-            "current_q": null,
-            "question_similarity": null,
+            "status": "same",
+            "baseline_q": "Early Voting",
+            "current_q": "Early Voting",
+            "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.311,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "same",
+            "baseline_q": "Eligibility Requirements",
+            "current_q": "Eligibility Requirements",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.0,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Polling Place Locations",
+            "current_q": "Polling Place Locations",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.358,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "ID Needed for Voter Registration",
+            "current_q": "ID Needed for Voter Registration",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.271,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Student Voting Process",
+            "current_q": "Student Voting Process",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.0,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Voter ID Requirements",
+            "current_q": "Voter ID Requirements",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.0,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Official Election Results",
+            "current_q": "Official Election Results",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.826,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Poll Worker Information",
+            "current_q": "Poll Worker Information",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.14,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Primary Election Process",
+            "current_q": "Primary Election Process",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Provisions for Voters with Disabilities",
+            "current_q": "Provisions for Voters with Disabilities",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.599,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Voter Registration Deadlines",
+            "current_q": "Voter Registration Deadlines",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.28,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Time Off To Vote",
+            "current_q": "Time Off To Vote",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.0,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Verify Voter Registration",
+            "current_q": "Verify Voter Registration",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.0,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "same",
+            "baseline_q": "Voting Machines",
+            "current_q": "Voting Machines",
+            "question_similarity": 1.0,
+            "baseline_s": "https://www.vote411.org/illinois",
+            "current_s": "https://www.vote411.org/illinois",
+            "answer_status": "major_change",
+            "answer_similarity": 0.0,
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Ballot Notice and Cure Process",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/illinois",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Election Day Voting Hours",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/illinois",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Vote by Mail",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://www.vote411.org/illinois",
+            "source": "vote411",
+            "unit": "section"
+        },
+        {
+            "status": "unassigned",
             "baseline_q": "In Person: Tuesday, November 5, 2024",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "Online: Sunday, October 20, 2024\n                      \n                        Get Registered!",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Absentee voting is available and no excuse is required. The last day to request an absentee ballot by mail is 5 days before the election. Voted ballots must be postmarked by Election Day and received within two weeks in order to be counted. You can return your absentee ballot request form through the mail, a secure drop box, or in person.  Absentee ballots begin being counted on Election Day. Contact your local elections office for more information.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Requesting and Returning your Absentee Ballot:",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "You do not need an excuse to vote absentee in Illinois. You can request an absentee ballot:",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "Upon receipt, complete the application. Make certain to include your name, home address, address where you want the ballot to be mailed, and please remember to sign the application.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "After completing the application, either mail it or hand-deliver it to your election authority. If you return the application in person or complete the application in the election authority's office, you may immediately vote with your absentee ballot in the election authority's office. If you mail the application and it is properly completed, the election authority will mail your absentee ballot to you.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "After receiving your ballot, VOTE THE BALLOT IN SECRET. Insert the ballot into the envelope provided, seal it, complete and sign the certification on the back and PERSONALLY return it or mail it. The absentee voter may authorize, in writing, that a spouse, parent, child, brother, sister, or licensed motor carrier, should deliver the completed absentee ballot to the election authority in sufficient time to be delivered to the polling place on Election Day. Voted ballots must be postmarked by Election Day and received within two weeks in order to be counted.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Permanent Vote-by-Mail List:",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "If you are a registered voter in Illinois, you may apply to be added to a permanent vote-by-mail list. A notice of this new option will be sent to all qualified voters before the next general election along with the application to opt-in. Voters will still have the option to vote-by-mail for a single election. The permanent vote-by-mail application will be available online closer to the next election here.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Those who requested an absentee ballot but end up voting in person:",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "To do this, voters must bring their mailed ballot to the election site and turn it in to the election judge. If they do not have their mailed ballot with them, they will only be able to vote using a provisional ballot.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot from the Overseas Vote Foundation.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "For information on federal campaign contributions, please visit Open Secrets. For state-specific information, click here.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Information on local, state and federal candidates and ballot measures may be available here.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Vote-by-mail drop boxes will be installed in some locations. Check your State Board of Elections website to see if there is a drop box in your jurisdiction.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Early voting for the November 5, 2024 general election begins September 26th and ends November 4th.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Early voting is available to all voters beginning 40 days before an election and ends the day before the election. Locations and hours for early voting are determined by each election authority.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "For more information about early voting locations, check our your state's resource.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "The next election date can be found here https://www.vote411.org/illinois.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "To be eligible to vote, you must be:",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "Incarcerated Voters & Returning Citizens:",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "In Illinois, you only lose your right to vote if you are currently incarcerated for a misdemeanor or felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "Voters without traditional residence:",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "In Illinois, voters must provide a residence address for voter registration purposes. When providing the residence address, post office boxes should not be used. Individuals without a permanent or fixed home address may draw a map in the designated box on their voter registration form to indicate the exact location of where they stay. They should list the name of the subdivision; cross streets; roads; landmarks; mileage and/or neighbors’ names.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "If the individual does not receive postal service at their residence address, they must provide a separate mailing address, including the number, street, city, state, and zip code. The mailing address on their registration form can be a P.O. box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for them.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Two forms of identification are required when registering to vote, one of which must show your current residential address.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "If you register by mail, sufficient proof of identity is fulfilled by submission of your driver's license number or state identification card number.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "If you don't have either of those, verification by one of the following will be required:",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "You may also demonstrate sufficient proof of identity by submission of a photo ID issued by a college or university along with either a copy of the applicant's contract or lease for a residence or a postmarked mail delivered to the applicant at his or her current address.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "If you register by mail, you must vote in person the first time you vote unless you submit your driver license number or state ID number, the last four digits of your social security number or one of the forms of ID listed above.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Identification is not required to vote at the polls, although you will be required to verify your signature. If you registered to vote-by-mail and did not submit any ID with the registration, you must show a form of ID to vote.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "Acceptable forms are:",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "All forms of the IDs above must show your name and address. If you do not show any ID types, you will be asked to vote a Provisional Ballot.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "A government-issued photo ID is not required to vote during Early Voting as long as your registration is accurate and up to date.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Voters can call or text 844-338-8743 anytime to reach VoteRiders Voter ID Helpline.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and it’s essential that they take the time to make sure every vote is counted.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Absentee ballots begin being counted on Election Day. Provisional ballots are counted 14 days after the election.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Official election results will be uploaded on the Illinois Board of Elections website as they become available.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "If you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "You can ensure we have safe, fair, and efficient elections. Become a poll worker today!",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "To sign up, contact your local board of elections.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "The polls are open from 6:00 am to 7:00 pm.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "You can find your polling place by utilizing your state resource.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "If you have further questions on your polling place location, please contact your county clerk.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Illinois is a “partially open” primary state. This allows voters to cross party lines, however, they must first publicly declare their ballot choice. Ballot selection may also be regarded as a form of registration with the selected party.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "If you have any questions about your state’s primary election, please contact your local election officials.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "You may vote a provisional ballot if you meet specific conditions. Provisional ballots are counted 14 days after an election. To find out if your vote was counted, please use your state's provisional ballot tool.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "An election judge will issue you a provisional ballot at your polling place if:",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "By law, you must vote in your assigned precinct for all votes on your provisional ballot to count.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "The Help America Vote Act requires that election authorities have voting equipment for voters with disabilities to vote privately and independently, and Illinois is no exception. Additionally, there are options for a seated voting booth, voting assistance from a friend, relative, or two election judges (one from each party), voting by mail, and curbside voting.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "Language assistance is also available where required under amendments to the Federal Voting Act of 1992.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "For more information on the provisions available for disabled voters, please contact your local election authority.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "For more information, you can utilize the American Association of People With Disabilities (AAPD) resource.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "The deadline to register for the 11/5/24 General Election is online 10/20/24, by mail 10/8/24, and in-person 11/5/24. Day of election voter registration is available.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "Registration is open year-round except:",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "Voters may now register to vote either by accessing the Online Voter Application, or through the Illinois State Board of Elections website.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Although the regular voter registration period closes 28 days before the election, a grace period registration extends that deadline from the 27th day before an election through Election Day in person at designated sites. Check with your local election authority to determine the locations and hours available in your area.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Under federal law, citizens may apply to register to vote by mailing in a voter registration application. The applications are available at some public and private facilities where you live.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "When you register by mail, your form must be postmarked before the close of registration. Please note that if you register by mail, with the exception of those disabled or in the military, you must vote in person at the polling place or by in-person absentee voting the first time you vote unless you provide sufficient identification in that registration.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Every employee is entitled, after giving notice, to two hours off work, provided that the employee's working hours begin less than 2 hours after the opening of the polls and end less than 2 hours before the closing of the polls. The law does not specify whether time off is paid.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "To verify your voter registration status",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "If you are a registered voter in Illinois, you may apply to be added to a permanent vote-by-mail list. If your application for permanent vote-by-mail status is accepted you will:",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "A notice of this new option will be sent to all qualified voters before the next general election along with the application to opt-in. Voters will still have the option to vote-by-mail for a single election. The permanent vote-by-mail application will be available online closer to the next election here.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "The voting systems used in Illinois are optical scan and DRE.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "To find out what voting machine is used in your county, please visit your state's resource.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Optical Scan: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "Direct Recording Electronic (DRE): This is the newest kind of system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "There are many variations of DREs because lots of companies are inventing new ones, and many cities, counties and states are trying them out. Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Some of these devices will show all of the candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure). On other DREs, the screen is set up to show pages. On each screen or page, there will probably be one thing to vote on. For example, on one screen or page, you might vote for president. Then you might move to the next page to vote for senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for. Other devices have a key pad. Some have a keyboard, so you can write in the name of someone you want to vote for.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "You can learn more about voting systems by checking out the  Elections Assistance Commission's (EAC) resource or through Verified Voting.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "See What's On Your Ballot\nCheck Your Voter Registration\nFind Your Polling Place\nDiscover Upcoming Debates and Forum in Your Area",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "State Board of Elections",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "2329 S. MacArthur Blvd",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "Springfield 62704",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "LWV volunteers work year-round to register new voters, host community forums and debates, and provide voters with election information they need.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "Report an election problem by calling:",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "Help us provide accurate and unbiased voting information by donating today!",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "Find what's on your ballot",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "VOTE411 is committed to ensuring voters have the information they need to successfully participate in every election. Whether it's local, state or federal, every election is important to ensuring our laws and policies reflect the values and beliefs of our communities.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "©2024 League of Women Voters Education Fund. All rights reserved.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "Possible online services disruption due to Internet related outage",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "A worldwide technology outage is causing disruption to some State of Illinois online systems.  We are aware of this issue and are diligently working on restoration.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "FAQs",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "The Frequently Asked Questions (FAQs) provided below highlight topics and specific questions that are often asked of the Illinois Department of Labor (IDOL). The information provided in the FAQs is intended to enhance public access and understanding of IDOL laws, regulations and compliance information.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "The FAQs should not be considered a substitute for the appropriate official documents (i.e. statute and/or administrative rules.) Individuals are urged to consult legal counsel of their choice. Court decisions may affect the interpretation and constitutionality of statutes. The Department cannot offer individuals legal advice or offer advisory opinions. If you need a legal opinion, we suggest you consult your own legal counsel. These FAQs are not to be considered complete and do not relieve employers from complying with applicable IDOL laws and regulations.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Yes, in some/certain instances. If you feel that you have not received equal pay for equal work because of your gender, you may file an equal pay complaint with IDOL. Or, if you feel you have been discriminated against on the job because you are a victim of domestic or sexual violence or have a family or household who is a victim, you may file a complaint with the Department. However, if you feel that you have been discriminated against on the job due to race, color, religion, sex, national origin, ancestry citizenship status, age, marital status, physical or mental handicap, military service or unfavorable military discharge, contact the Illinois Department of Human Rights. For additional information, visit the Illinois Department of Human Rights.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Yes, in some/certain instances. If you feel that you have not received equal pay for equal work because of your gender, you may file an equal pay complaint with IDOL. Or, if you feel you have been discriminated against on the job because you are a victim of domestic or sexual violence or have a family or household who is a victim, you may file a complaint with the Department. However, if you feel that you have been discriminated against on the job due to race, color, religion, sex, national origin, ancestry citizenship status, age, marital status, physical or mental handicap, military service or unfavorable military discharge, contact the Illinois Department of Human Rights. For additional information, visit the Illinois Department of Human Rights.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "No, the Illinois Department of Employment Security provides assistance with unemployment claims. If you wish to locate additional information, visit the Illinois Department of Employment Security.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "No, the Illinois Department of Employment Security provides assistance with unemployment claims. If you wish to locate additional information, visit the Illinois Department of Employment Security.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "No, the Illinois Workers' Compensation Commission handles workers’ compensation cases. If you wish to locate additional information, visit the Illinois Workers' Compensation Commission.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "No, the Illinois Workers' Compensation Commission handles workers’ compensation cases. If you wish to locate additional information, visit the Illinois Workers' Compensation Commission.",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
-            "baseline_q": "Yes. Illinois is an \"employment at-will\" state, meaning that an employer or employee may terminate the relationship at any time, without any reason or cause. The employer, however, cannot discriminate based on race, color, religion, sex, national origin, ancestry, citizenship status, age, marital status, physical or mental handicap, military service or unfavorable military discharge. If you wish to locate additional information, visit the Illinois Department of Human Rights.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
-            "baseline_q": "Yes. Illinois is an \"employment at-will\" state, meaning that an employer or employee may terminate the relationship at any time, without any reason or cause. The employer, however, cannot discriminate based on race, color, religion, sex, national origin, ancestry, citizenship status, age, marital status, physical or mental handicap, military service or unfavorable military discharge. If you wish to locate additional information, visit the Illinois Department of Human Rights.",
-            "current_q": null,
-            "question_similarity": null,
-            "baseline_s": "https://www.vote411.org/illinois",
-            "current_s": null,
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "No. Notice is not required by either party based on the doctrine of \"employment at-will.\"",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "No. Notice is not required by either party based on the doctrine of \"employment at-will.\"",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "Email Us",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
-            "status": "removed",
+            "status": "unassigned",
             "baseline_q": "We try to answer your emails within one week depending upon how many come in. Please wait one week before resending an email.​​​​​​​​​​​",
             "current_q": null,
             "question_similarity": null,
             "baseline_s": "https://www.vote411.org/illinois",
             "current_s": null,
             "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "DO I HAVE TO REQUEST AN EARLY MAIL BALLOT EACH YEAR?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "HOW CAN I RETURN MY ABSENTEE BALLOT?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "CAN I TRACK MY MAILED ABSENTEE BALLOT?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does Illinois allow ballot curing?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is the deadline to cure my ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I cure my provisional ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I track the status of my provisional ballot online?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is a ballot drop box?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Are drop boxes available in my state?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Where can I find ballot drop box locations?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I track the ballot after placing in the drop box?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I vote before Election Day in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Who can vote early in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "When can I vote early in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Where can I vote early in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHO CAN REGISTER TO VOTE IN ILLINOIS?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHO CAN VOTE IN ILLINOIS?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "CAN I VOTE IF I HAVE A FELONY CONVICTION?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "CAN I REGISTER AND VOTE IF I DON’T HAVE A TRADITIONAL ADDRESS?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Do I need an ID to register to vote in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What types of ID are accepted for registration?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What if I don’t have an ID?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "When are official election results available in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Where can I find official election results?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What qualifications do I need to be a poll worker in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Are poll workers paid in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I apply to be a poll worker in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is a provisional ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does Illinois offer provisional voting?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I vote a provisional ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How can I check the status of my provisional ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What voting assistance is available for voters with disabilities?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I request accommodation or report accessibility issues?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I vote by mail because of my disability?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What do I need to register to vote in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I register to vote using my college address in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What’s the deadline to register to vote in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What form of ID do I need to vote in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "I’m originally from another state, can I still vote in my home state while studying in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does Illinois require employers to give time off to vote?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "DO I NEED TO SHOW ID WHEN I VOTE IN ILLINOIS?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT TYPES OF ID CAN I USE IF ASKED TO SHOW ONE?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "WHAT IF I DON’T HAVE AN ACCEPTABLE ID WHEN I GO TO VOTE?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is the deadline to register to vote in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How can I check my voter registration status?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does Illinois have online voter registration?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Is same-day voter registration available in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I pre-register to vote?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Who is eligible to register in Illinois?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What types of voting machines does Illinois use?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is optical scan voting?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is Direct Recording Electronic Voting?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/illinois",
-            "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         }
     ]
 }

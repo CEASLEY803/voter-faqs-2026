@@ -1,21 +1,9 @@
 {
     "state": "mn",
-    "num_questions": 89,
-    "num_answers": 89,
+    "num_questions": 94,
+    "num_answers": 94,
     "contributor": "Cole Easley",
     "questions": [
-        {
-            "q": "Need help?",
-            "a": "Call us at 1-877-600-VOTE (8683) or contact your county election office (https://www.sos.mn.gov/elections-voting/find-county-election-office/).",
-            "s": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail/",
-            "t": "2026-10-29T22:41:36+00:00"
-        },
-        {
-            "q": "Need help?",
-            "a": "Call us at 1-877-600-VOTE (8683) or contact your county election office (https://www.sos.mn.gov/elections-voting/find-county-election-office/).",
-            "s": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
-            "t": "2026-10-29T22:41:33+00:00"
-        },
         {
             "q": "How do I fix a typo in my registration?",
             "a": "Contact your county election office (https://www.sos.mn.gov/elections-voting/find-county-election-office/).",
@@ -79,12 +67,6 @@
         {
             "q": "What is my voting residence?",
             "a": "You should register to vote from the address you currently consider home. For many students, this is likely a school address or a parent’s house. If you still go back to visit but no longer consider it your home, then you should register to vote where you live at school.\n\nIf you moved to Minnesota from another state and currently consider Minnesota your home, you can vote here even if you pay out-of-state tuition or have a driver’s license from another state.\n\nIf you do not consider your school address to be your home, you can apply to vote by mail with an absentee ballot.\n\nMinnesota voters can apply online (https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail/); otherwise, visit your home state’s election website.",
-            "s": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-a-college-student/",
-            "t": "2026-10-29T22:41:29+00:00"
-        },
-        {
-            "q": "Going abroad?",
-            "a": "Have an absentee ballot emailed to you wherever you are in the world. Learn how. (https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/)",
             "s": "https://www.sos.mn.gov/elections-voting/register-to-vote/im-a-college-student/",
             "t": "2026-10-29T22:41:29+00:00"
         },
@@ -153,12 +135,6 @@
             "a": "Sometimes it is not clear whether a felony charge results in a felony conviction. If you are unsure, you may want to seek legal advice from an attorney.",
             "s": "https://www.sos.mn.gov/elections-voting/register-to-vote/i-have-a-criminal-record/",
             "t": "2026-10-29T22:41:22+00:00"
-        },
-        {
-            "q": "Need help?",
-            "a": "Call us at 1-877-600-VOTE (8683) or contact your county election office (https://www.sos.mn.gov/elections-voting/find-county-election-office/).",
-            "s": "https://www.sos.mn.gov/elections-voting/register-to-vote/",
-            "t": "2026-10-29T22:41:16+00:00"
         },
         {
             "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
@@ -535,6 +511,60 @@
         {
             "q": "What is Direct Recording Electronic Voting?",
             "a": "Direct Recording Electronic (DRE) is the newest system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.\n\nThere are many variations of DREs because many companies are inventing new ones, and many cities, counties, and states are trying them out.\n\n- Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.\n- Some of these devices will show all candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure).\n- On other DREs, the screen is set up to show pages. There will probably be one thing on which to vote on each screen or page. For example, on one screen or page, you might vote for the president. Then you might move to the next page to vote for a senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for.\n- Other devices have a keypad, and some have a keyboard, so you can write in the name of someone you want to vote for.\n- You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Campaign Finance Information",
+            "a": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Candidate and Ballot Measure Information",
+            "a": "Information on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp).",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Election Dates",
+            "a": "The next election date can be found here https://www.vote411.org/minnesota.\n\nTo find out information about local elections contact your local League of Women Voters or contact your local Board of Elections (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Election Day Voting Hours",
+            "a": "Most polling places are open from 7:00 am to 8:00 pm. Please contact your county auditor, county election office, or township clerk (https://absentee.vote411.org/vote/eoddomestic.htm) for details.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Overseas and Military Voters",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Polling Place Locations",
+            "a": "You can find your polling place by utilizing your state resource (http://pollfinder.sos.state.mn.us/).\n\nIf you have further questions on your polling place location, please contact your county auditor, county election office, or township clerk (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Primary Election Process",
+            "a": "Minnesota is an “open primary” state. You can choose the party’s ballot you wish to vote. This decision does not register you with that party and it is a private decision.\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Verify Voter Registration",
+            "a": "To verify your voter registration status\n\n  click here!  (https://mnvotes.sos.state.mn.us/VoterStatus.aspx)",
+            "s": "https://www.vote411.org/minnesota",
+            "t": "2026-10-22T19:13:25+00:00"
+        },
+        {
+            "q": "Vote by Mail",
+            "a": "Some jurisdictions in Minnesota hold elections by mail instead of voting at polling places. All non-metropolitan townships and cities with less than 400 registered voters located outside of the Minneapolis/St. Paul seven-county metropolitan area can choose to hold elections by mail. If you are an active registered voter in a mail ballot precinct, you will be sent a mail ballot to your residence without having to complete an absentee ballot application.\n\nOther options for mail ballot precinct voters on Election Day:\n\nMail ballot voters on Election Day from 7 a.m. to 8 p.m. can:\n\n- Return their voted mail ballot in-person to their county elections office\n- Have someone else return their voted mail ballot to their county elections office (limit of three others’ ballots can be returned).\n- Take their unvoted ballot packet to their county election office, vote it, and turn it in.\n- Go to their county election office and inform them that your mail ballot was spoiled, lost, thrown away, etc. and:\n\n  - Have a replacement ballot issued\n  - Vote the replacement ballot\n  - Turn it in\n- Vote an absentee ballot because they are currently not an “active” registered voter on Election Day\n\nFor more information on mail ballot precincts click here (https://www.sos.state.mn.us/elections-voting/how-elections-work/mail-ballot-precincts/).",
             "s": "https://www.vote411.org/minnesota",
             "t": "2026-10-22T19:13:25+00:00"
         }

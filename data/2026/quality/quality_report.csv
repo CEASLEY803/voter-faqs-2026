@@ -1,0 +1,123 @@
+category,state,source,url,question,detail
+flagged_page,ak,state site,https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/,,"11 records, well below the 24 the baseline had for this URL"
+flagged_page,ak,state site,https://www.elections.alaska.gov/military-overseas-and-college-voters/,,"1 records, well below the 5 the baseline had for this URL"
+flagged_page,co,state site,https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,ct,state site,https://portal.ct.gov/sots/election-services/voter-information/party-affiliation,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,ct,state site,https://portal.ct.gov/sots/election-services/election-day-registration/election-day-registration,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,de,state site,https://elections.delaware.gov/voter/avr.html,,"6 records, well below the 14 the baseline had for this URL"
+flagged_page,de,state site,https://elections.delaware.gov/public/faq/,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,hi,state site,https://elections.hawaii.gov/register-to-vote/registration/,,"1 records, well below the 14 the baseline had for this URL"
+flagged_page,hi,state site,https://elections.hawaii.gov/voting/voters-with-a-felony-conviction/,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,hi,state site,https://elections.hawaii.gov/voting/voters-requiring-assistance/,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,hi,state site,https://elections.hawaii.gov/voting/military-and-overseas-voters/,,"1 records, well below the 3 the baseline had for this URL"
+flagged_page,hi,state site,https://elections.hawaii.gov/voting/houseless-voter-2/,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,hi,state site,https://elections.hawaii.gov/voting/college-students/,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,ia,state site,https://sos.iowa.gov/voters/military-and-overseas-civilian-voters,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,ia,state site,https://sos.iowa.gov/elections-and-voting-faqs,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,in,state site,https://www.in.gov/sos/elections/voter-information/register-to-vote/,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,in,state site,https://www.in.gov/sos/elections/voter-information/ways-to-vote/absentee-voting/,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,ky,state site,https://elect.ky.gov/Voters/Pages/Voter-Rights.aspx,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,ma,state site,https://www.sec.state.ma.us/divisions/elections/voting-information/vote-early.htm,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,ma,state site,https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,md,state site,https://elections.maryland.gov/voting/index.html,,"6 records, well below the 23 the baseline had for this URL"
+flagged_page,mi,state site,https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/election-fact-center,,"4 records, well below the 24 the baseline had for this URL"
+flagged_page,mn,state site,https://www.sos.mn.gov/elections-voting/register-to-vote/im-homeless/,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,mn,state site,https://www.sos.mn.gov/elections-voting/register-to-vote/i-fear-for-my-personal-safety/,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,nd,state site,https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/military-and-overseas-us-citizens,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,nd,state site,https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote,,"1 records, well below the 6 the baseline had for this URL"
+flagged_page,nd,state site,https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/absentee-voting,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,nd,state site,https://www.sos.nd.gov/elections/voter/voting-north-dakota,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,nh,state site,https://www.sos.nh.gov/elections/voting-disabilities,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,tx,state site,https://www.votetexas.gov/faq/index.html,,"27 records, well below the 69 the baseline had for this URL"
+flagged_page,wa,state site,https://www.sos.wa.gov/elections/voters/helpful-information/voting-assisted-living-facilities,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+flagged_page,wa,state site,https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/felony-convictions-and-voting-rights,,No Q&A text found in the saved page; the content may be loaded by JavaScript
+missing_source,co,state site,,,0 records; the 2024 baseline had 22
+missing_source,ia,state site,,,0 records; the 2024 baseline had 36
+below_baseline,hi,state site,,,13 records; the 2024 baseline had 52
+below_baseline,in,state site,,,3 records; the 2024 baseline had 21
+below_baseline,ma,state site,,,13 records; the 2024 baseline had 79
+below_baseline,md,state site,,,6 records; the 2024 baseline had 23
+below_baseline,mn,state site,,,22 records; the 2024 baseline had 55
+below_baseline,nd,state site,,,5 records; the 2024 baseline had 28
+below_baseline,tx,state site,,,27 records; the 2024 baseline had 69
+dropped_non_faq,ct,state site,https://portal.ct.gov/sots/election-services/voter-information/absentee-voting,Additional questions about absentee voting?,Rule: invitation to ask more
+dropped_non_faq,mn,state site,https://www.sos.mn.gov/elections-voting/register-to-vote/im-a-college-student/,Going abroad?,Rule: promotional card
+dropped_non_faq,mn,state site,https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail/,Need help?,Rule: offer of help
+dropped_non_faq,mn,state site,https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/,Need help?,Rule: offer of help
+dropped_non_faq,mn,state site,https://www.sos.mn.gov/elections-voting/register-to-vote/,Need help?,Rule: offer of help
+dropped_non_faq,nd,state site,https://www.sos.nd.gov/elections/voter/voting-north-dakota/where-do-i-vote,"Learn more about the ways you can vote in North Dakota (in person, absentee, etc.) at How Do I Vote?",Rule: link label
+dropped_non_faq,oh,state site,https://www.ohiosos.gov/elections/frequently-asked-questions,Need Help?,Rule: offer of help
+dropped_non_faq,oh,state site,https://www.ohiosos.gov/elections/frequently-asked-questions,Need Help?,Rule: offer of help
+dropped_non_faq,oh,state site,https://www.ohiosos.gov/elections/frequently-asked-questions,Ready to Serve?,Rule: volunteer prompt
+dropped_non_faq,or,state site,https://sos.oregon.gov/elections/Pages/faq.aspx,How Can We Help You?,Rule: offer of help
+dropped_non_faq,wv,state site,https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs,Learn more here: Which Ballot May I Vote?,Rule: link label
+short_answer,ca,state site,https://www.sos.ca.gov/elections/frequently-asked-questions,"Can an iPad, tablet, or smartphone be used to fill out California's online voter registration application?",4 characters: Yes.
+short_answer,de,state site,https://elections.delaware.gov/voter/VotingFAQ.html,Do I have to talk to people handing out literature or taking exit polls?,5 characters: - No.
+short_answer,de,state site,https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html,Does my ballot have to be witnessed or notarized?,5 characters: - No.
+short_answer,de,state site,https://elections.delaware.gov/voter/ExpressVoteXL.html,Is there a date/time stamp that prints on the activation card/printed ballot when I vote?,5 characters: - No.
+short_answer,il,state site,https://www.elections.il.gov/Main/FAQ.aspx,Are political contributions to Illinois candidates and political committees tax deductible?,3 characters: No.
+short_answer,in,Vote411,https://www.vote411.org/indiana,Drop Boxes,24 characters: No drop boxes available.
+short_answer,nc,state site,https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail,Can my spouse serve as my witness?,4 characters: Yes.
+short_answer,nh,state site,https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries,Does the state website feature contact information and/or links to official political party web sites?,3 characters: No.
+short_answer,nv,state site,https://www.nvsos.gov/sos/elections/election-resources/faqs,"What if I don’t have a primary election? Can I still receive the maximum of $10,000?",4 characters: Yes.
+short_answer,pa,Vote411,https://www.vote411.org/pennsylvania,What types of ID are accepted for registration?,10 characters: See above.
+short_answer,tx,Vote411,https://www.vote411.org/texas,What types of ID are accepted for registration?,10 characters: See above.
+short_answer,va,Vote411,https://www.vote411.org/virginia,What types of ID are accepted for registration?,10 characters: See above.
+long_answer,la,state site,https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs,What are the eligible reasons to vote absentee?,7943 characters
+long_answer,la,state site,https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs,What are the instructions to vote absentee for military and overseas citizens?,7222 characters
+long_answer,ok,state site,https://oklahoma.gov/elections/faqs.html,"I didn’t get a notice, but believe I may need to update my registration. Is there a way to verify my voter information?",10091 characters
+long_answer,pa,Vote411,https://www.vote411.org/pennsylvania,Absentee Ballot Process,6090 characters
+long_answer,wi,state site,https://elections.wi.gov/faq,Did clerks receive backdated absentee ballots to be counted after the deadline of 8 p.m. on Election Day in 2020?,7482 characters
+long_answer,wi,state site,https://elections.wi.gov/faq,Did military absentee ballot numbers unexpectedly decrease between 2020 and 2022?,6184 characters
+long_answer,wi,state site,https://elections.wi.gov/faq,Were recount observers prevented from seeing ballots and envelopes?,8273 characters
+duplicate_question,ct,state site,https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet,How do I register to vote in CT?,2 records on 2 pages; identical answers
+duplicate_question,ct,state site,https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet,"If you have been convicted of a felony, have you completed confinement?",3 records on 3 pages; 2 different answers
+duplicate_question,ct,state site,https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet,What happens if I miss one of the registration deadlines? Can I still register and vote on the day of the election (Election Day Registration)?,2 records on 2 pages; identical answers
+duplicate_question,ct,state site,https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet,What is the difference between my physical and mailing address?,2 records on 2 pages; 2 different answers
+duplicate_question,la,state site,https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs,Are there any state law prohibitions in voting?,2 records on 2 pages; 2 different answers
+duplicate_question,la,state site,https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs,Are there federal law prohibitions in voting?,2 records on 2 pages; identical answers
+duplicate_question,la,state site,https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs,Are write-in candidates allowed in Louisiana?,2 records on 2 pages; 2 different answers
+duplicate_question,la,state site,https://www.sos.la.gov:443/elections-voting/voting-early-faqs,How do I reinstate a suspended voter registration?,2 records on 2 pages; identical answers
+duplicate_question,la,state site,https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs,How do I report fraud or a violation in a federal election?,4 records on 4 pages; 3 different answers
+duplicate_question,la,state site,https://www.sos.la.gov:443/elections-voting/absentee-voting-faqs,How do I report fraud or a violation in a state or local election?,4 records on 4 pages; 4 different answers
+duplicate_question,la,state site,https://www.sos.la.gov:443/elections-voting/voting-early-faqs,What are the election laws in Louisiana?,2 records on 2 pages; identical answers
+duplicate_question,me,Vote411,https://www.vote411.org/maine,Can I track my absentee ballot?,2 records on 1 page; identical answers
+duplicate_question,me,Vote411,https://www.vote411.org/maine,Does Maine allow ballot curing?,2 records on 1 page; identical answers
+duplicate_question,me,Vote411,https://www.vote411.org/maine,How will I know if there’s an issue with my absentee or mail-in ballot?,2 records on 1 page; identical answers
+duplicate_question,me,Vote411,https://www.vote411.org/maine,What is the deadline to cure my ballot?,2 records on 1 page; identical answers
+duplicate_question,mo,state site,https://www.sos.mo.gov/elections/goVoteMissouri/votingquestions,3. I will be out of town on Election Day. How will I vote?,2 records on 2 pages; 2 different answers
+duplicate_question,mo,state site,https://www.sos.mo.gov/elections/goVoteMissouri/votereg,"3. What should I do about my registration if I move, or change my name?",2 records on 2 pages; identical answers
+duplicate_question,mo,state site,https://www.sos.mo.gov/elections/goVoteMissouri/votereg,"5. If I registered to vote by mail, how do I know my registration has been received and processed?",2 records on 2 pages; identical answers
+duplicate_question,nc,Vote411,https://www.vote411.org/north-carolina,How do I cure a provisional ballot?,2 records on 1 page; 2 different answers
+duplicate_question,nc,state site,https://www.ncsbe.gov/voting/vote-early-person,Unsure if You Are Registered?,2 records on 2 pages; identical answers
+duplicate_question,nm,state site,https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/,How much does it cost to mail my Absentee Ballot?,2 records on 2 pages; 2 different answers
+duplicate_question,nm,state site,https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/,The outer envelope of my Absentee Ballot requests an AV Register Number. Do I fill this out?,2 records on 2 pages; identical answers
+duplicate_question,nm,state site,https://www.sos.nm.gov/voting-and-elections/voting-faqs/provisional-voting/,When does a voter get a provisional ballot?,2 records on 1 page; 2 different answers
+duplicate_question,nv,state site,https://www.nvsos.gov/sos/elections/election-resources/faqs,Has there ever been widespread voter fraud in a Nevada election?,2 records on 1 page; identical answers
+duplicate_question,ny,Vote411,https://www.vote411.org/new-york,HOW DO I UPDATE MY REGISTRATION IF I MOVE OR HAVE A NAME CHANGE?,2 records on 1 page; identical answers
+duplicate_question,ny,state site,https://elections.ny.gov/frequently-asked-questions,How are the voter rolls maintained in New York State to ensure they are updated and accurate?,2 records on 1 page; 2 different answers
+duplicate_question,oh,Vote411,https://www.vote411.org/ohio,How do I cure a provisional ballot?,2 records on 1 page; 2 different answers
+duplicate_question,ok,state site,https://oklahoma.gov/elections/faqs.html,Why do I have to show proof of identity?,2 records on 1 page; 2 different answers
+duplicate_question,pa,Vote411,https://www.vote411.org/pennsylvania,When are provisional ballots counted?,2 records on 1 page; 2 different answers
+duplicate_question,sc,Vote411,https://www.vote411.org/south-carolina,How do I cure my provisional ballot?,2 records on 1 page; 2 different answers
+duplicate_question,sc,state site,https://scvotes.gov/voters/voter-faq/,Can candidates or their representatives take people to the polls to vote?,2 records on 1 page; identical answers
+duplicate_question,tn,state site,https://sos.tn.gov/elections/faqs,What if I do not receive or ruin my ballot and can no longer use it?,2 records on 1 page; 2 different answers
+duplicate_question,tx,Vote411,https://www.vote411.org/texas,How do I cure my provisional ballot?,2 records on 1 page; 2 different answers
+duplicate_question,ut,state site,https://vote.utah.gov/learn-about-registering-to-vote/,3. Am I considered a resident of Utah?,2 records on 2 pages; identical answers
+duplicate_question,ut,state site,https://vote.utah.gov/learn-about-registering-to-vote/,4. I have a felony. Can I register to vote?,2 records on 2 pages; 2 different answers
+duplicate_question,ut,state site,https://vote.utah.gov/learn-about-registering-to-vote/,5. I am a college student living away from home. Where do I register?,2 records on 2 pages; 2 different answers
+duplicate_question,va,Vote411,https://www.vote411.org/virginia,What is the deadline to cure my ballot?,2 records on 1 page; 2 different answers
+duplicate_question,wi,state site,https://elections.wi.gov/news-events/wisconsins-election-faqs,Can USPS refuse to deliver absentee ballots if states don’t follow the rule?,2 records on 2 pages; identical answers
+duplicate_question,wi,state site,https://elections.wi.gov/news-events/wisconsins-election-faqs,Could the electronic transmission of unofficial election results be hacked?,2 records on 2 pages; 2 different answers
+duplicate_question,wi,state site,https://elections.wi.gov/news-events/wisconsins-election-faqs,Does the data show the political party affiliation of voters requesting absentee ballots?,2 records on 2 pages; identical answers
+duplicate_question,wi,state site,https://elections.wi.gov/news-events/wisconsins-election-faqs,"How is absentee voting data reported, and what do I need to know when analyzing the statistics?",2 records on 2 pages; identical answers
+duplicate_question,wi,state site,https://elections.wi.gov/news-events/wisconsins-election-faqs,How should media report absentee voting numbers?,2 records on 2 pages; identical answers
+duplicate_question,wi,state site,https://elections.wi.gov/news-events/wisconsins-election-faqs,Is the USPS rule currently in effect?,2 records on 2 pages; identical answers
+duplicate_question,wi,state site,https://elections.wi.gov/news-events/wisconsins-election-faqs,What did the court do?,2 records on 2 pages; identical answers
+duplicate_question,wi,state site,https://elections.wi.gov/news-events/wisconsins-election-faqs,What do the columns in the spreadsheet mean?,2 records on 2 pages; identical answers
+duplicate_question,wi,state site,https://elections.wi.gov/news-events/wisconsins-election-faqs,What is a postmark?,2 records on 2 pages; identical answers
+duplicate_question,wi,state site,https://elections.wi.gov/news-events/wisconsins-election-faqs,"What is the new USPS by mail voting rule, and how does it impact Wisconsin?",2 records on 2 pages; identical answers
+duplicate_question,wi,state site,https://elections.wi.gov/news-events/wisconsins-election-faqs,What will happen next? Will anything change before the November election?,2 records on 2 pages; identical answers
+duplicate_question,wi,state site,https://elections.wi.gov/news-events/wisconsins-election-faqs,Where does the data come from?,2 records on 2 pages; identical answers
+duplicate_question,wi,state site,https://elections.wi.gov/news-events/wisconsins-election-faqs,Will USPS' new postmark rules impact Wisconsin voters?,2 records on 2 pages; identical answers
+duplicate_question,wi,state site,https://elections.wi.gov/news-events/wisconsins-election-faqs,Will Wisconsin comply with the rule even if it's not in effect?,2 records on 2 pages; identical answers

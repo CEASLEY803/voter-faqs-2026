@@ -3,6 +3,7 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "answer_minor_threshold": 0.85,
     "vote411_unit_setting": "auto",
     "vote411_unit": "section",
     "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
@@ -38,7 +39,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.901,
             "source": "state",
             "unit": "question"
@@ -98,7 +99,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.951,
             "source": "state",
             "unit": "question"
@@ -110,7 +111,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.951,
             "source": "state",
             "unit": "question"
@@ -146,7 +147,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.99,
             "source": "state",
             "unit": "question"
@@ -218,7 +219,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.978,
             "source": "state",
             "unit": "question"
@@ -230,7 +231,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/VotingFAQ.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.933,
             "source": "state",
             "unit": "question"
@@ -290,7 +291,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://elections.delaware.gov/voter/absentee/pdfs/Absentee%20Voting%20FAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.99,
             "source": "state",
             "unit": "question"
@@ -326,7 +327,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://elections.delaware.gov/voter/absentee/pdfs/Absentee%20Voting%20FAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.903,
             "source": "state",
             "unit": "question"
@@ -398,7 +399,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.997,
             "source": "state",
             "unit": "question"
@@ -434,7 +435,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 1.0,
             "source": "state",
             "unit": "question"
@@ -734,7 +735,7 @@
             "question_similarity": 0.979,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.784,
             "source": "state",
             "unit": "question"
@@ -746,7 +747,7 @@
             "question_similarity": 0.959,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.833,
             "source": "state",
             "unit": "question"
@@ -758,7 +759,7 @@
             "question_similarity": 0.947,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/avr.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.593,
             "source": "state",
             "unit": "question"
@@ -770,7 +771,7 @@
             "question_similarity": 0.921,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/ExpressVoteXL.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.98,
             "source": "state",
             "unit": "question"
@@ -782,7 +783,7 @@
             "question_similarity": 0.898,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.869,
             "source": "state",
             "unit": "question"
@@ -794,7 +795,7 @@
             "question_similarity": 0.875,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/VoterRegistrationFAQ.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.135,
             "source": "state",
             "unit": "question"
@@ -806,7 +807,7 @@
             "question_similarity": 0.875,
             "baseline_s": "https://elections.delaware.gov/voter/absentee/pdfs/Absentee%20Voting%20FAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/absentee/AbsenteeVotingFAQ.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.933,
             "source": "state",
             "unit": "question"
@@ -818,7 +819,7 @@
             "question_similarity": 0.837,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/avr.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.671,
             "source": "state",
             "unit": "question"
@@ -830,7 +831,7 @@
             "question_similarity": 0.803,
             "baseline_s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
             "current_s": "https://elections.delaware.gov/voter/avr.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.222,
             "source": "state",
             "unit": "question"
@@ -1062,8 +1063,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.938,
+            "answer_status": "minor_change",
+            "answer_similarity": 0.946,
             "source": "vote411",
             "unit": "section"
         },
@@ -1074,8 +1075,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#ballot-notice-and-cure-process",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.933,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1086,8 +1087,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#campaign-finance-information",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.872,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1098,8 +1099,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#candidate-and-ballot-measure-information",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.855,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1110,8 +1111,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#drop-boxes",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.699,
+            "answer_status": "major_change",
+            "answer_similarity": 0.665,
             "source": "vote411",
             "unit": "section"
         },
@@ -1122,8 +1123,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#early-voting",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.875,
+            "answer_status": "minor_change",
+            "answer_similarity": 0.859,
             "source": "vote411",
             "unit": "section"
         },
@@ -1134,8 +1135,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#election-dates",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.571,
+            "answer_status": "major_change",
+            "answer_similarity": 0.527,
             "source": "vote411",
             "unit": "section"
         },
@@ -1146,8 +1147,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#eligibility-requirements",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.984,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1158,8 +1159,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#id-needed-for-voter-registration",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.769,
+            "answer_status": "major_change",
+            "answer_similarity": 0.762,
             "source": "vote411",
             "unit": "section"
         },
@@ -1170,8 +1171,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#id-needed-for-voting",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.974,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1182,8 +1183,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#official-results",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.676,
+            "answer_status": "major_change",
+            "answer_similarity": 0.705,
             "source": "vote411",
             "unit": "section"
         },
@@ -1194,8 +1195,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#overseas-and-military-voters",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.93,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1206,8 +1207,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#poll-worker-information",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.97,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1218,8 +1219,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#polling-place-hours",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.718,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1230,8 +1231,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#polling-place-locator",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.972,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1242,8 +1243,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#primary-election-process",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.943,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1254,8 +1255,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#provisional-voting",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.988,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1266,8 +1267,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#provisions-for-voters-with-disabilities",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.834,
+            "answer_status": "major_change",
+            "answer_similarity": 0.818,
             "source": "vote411",
             "unit": "section"
         },
@@ -1278,8 +1279,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#registration-deadline",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.467,
+            "answer_status": "major_change",
+            "answer_similarity": 0.417,
             "source": "vote411",
             "unit": "section"
         },
@@ -1290,8 +1291,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#time-off-to-vote",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.893,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1302,8 +1303,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#verify-voter-registration",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.729,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1314,8 +1315,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/delaware#voting-machines",
             "current_s": "https://www.vote411.org/delaware",
-            "answer_status": "changed",
-            "answer_similarity": 0.959,
+            "answer_status": "minor_change",
+            "answer_similarity": 0.95,
             "source": "vote411",
             "unit": "section"
         }

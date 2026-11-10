@@ -3,8 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "answer_minor_threshold": 0.85,
     "vote411_unit_setting": "auto",
-    "vote411_unit": "question",
+    "vote411_unit": "section",
     "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
@@ -14,7 +15,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.pa.gov/en/agencies/vote/voter-support/elections-faqs",
             "current_s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.985,
             "source": "state",
             "unit": "question"
@@ -26,7 +27,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.pa.gov/en/agencies/vote/voter-support/elections-faqs",
             "current_s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.997,
             "source": "state",
             "unit": "question"
@@ -74,7 +75,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.pa.gov/en/agencies/vote/voter-support/elections-faqs",
             "current_s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.997,
             "source": "state",
             "unit": "question"
@@ -86,7 +87,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.pa.gov/en/agencies/vote/voter-support/elections-faqs",
             "current_s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.992,
             "source": "state",
             "unit": "question"
@@ -98,7 +99,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.pa.gov/en/agencies/vote/voter-support/elections-faqs",
             "current_s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.994,
             "source": "state",
             "unit": "question"
@@ -110,7 +111,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.pa.gov/en/agencies/vote/voter-support/elections-faqs",
             "current_s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.997,
             "source": "state",
             "unit": "question"
@@ -158,7 +159,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.pa.gov/en/agencies/vote/voter-support/elections-faqs",
             "current_s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.995,
             "source": "state",
             "unit": "question"
@@ -182,7 +183,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.pa.gov/en/agencies/vote/voter-support/elections-faqs",
             "current_s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.998,
             "source": "state",
             "unit": "question"
@@ -230,7 +231,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.pa.gov/en/agencies/vote/voter-support/elections-faqs",
             "current_s": "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.996,
             "source": "state",
             "unit": "question"
@@ -390,462 +391,232 @@
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Does Pennsylvania allow ballot curing?",
+            "current_q": "Absentee Ballot Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What if I have an issue with my absentee or mail-in ballot?",
+            "current_q": "Ballot Notice and Cure Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "When are provisional ballots counted?",
+            "current_q": "Campaign Finance Information",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Can I check the status of my provisional ballot?",
+            "current_q": "Candidate and Ballot Measure Information",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What is a ballot drop box?",
+            "current_q": "Drop Boxes",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Are drop boxes available in my state?",
+            "current_q": "Early Voting",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Where can I find ballot drop box locations?",
+            "current_q": "Election Dates",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Can I track the ballot after placing in the drop box?",
+            "current_q": "Election Day Voting Hours",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Can I vote before Election Day in Pennsylvania?",
+            "current_q": "Eligibility Requirements",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Who is eligible to vote in Pennsylvania?",
+            "current_q": "ID Needed for Voter Registration",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Can I vote in Pennsylvania if I have a felony conviction?",
+            "current_q": "Official Election Results",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "How do I vote in Pennsylvania if I don’t have a permanent address?",
+            "current_q": "Overseas and Military Voters",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Can students vote in Pennsylvania?",
+            "current_q": "Poll Worker Information",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Do I need an ID to register to vote in Pennsylvania?",
+            "current_q": "Polling Place Locations",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What types of ID are accepted for registration?",
+            "current_q": "Primary Election Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What if I don’t have an ID?",
+            "current_q": "Provisional Voting",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "When are official election results available in Pennsylvania?",
+            "current_q": "Provisions for Voters with Disabilities",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Where can I find official election results?",
+            "current_q": "Time Off To Vote",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What does a poll worker do in Pennsylvania?",
+            "current_q": "Verify Voter Registration",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What qualifications do I need to be a poll worker in Pennsylvania?",
+            "current_q": "Vote by Mail",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Are poll workers paid in Pennsylvania?",
+            "current_q": "Voter ID Requirements",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "How do I apply to be a poll worker in Pennsylvania?",
+            "current_q": "Voter Registration Deadlines",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What is a provisional ballot?",
+            "current_q": "Voting Machines",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/pennsylvania",
             "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does Pennsylvania offer provisional voting?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I vote a provisional ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "When are provisional ballots counted?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I check the status of my provisional ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What voting assistance is available for voters with disabilities?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I request accommodation or report accessibility issues?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I vote by mail because of my disability?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does Pennsylvania require employers to give time off to vote?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Do I need ID to vote in Pennsylvania?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What types of ID can I use to vote in-person in Pennsylvania?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What types of ID can I use to vote absentee in Pennsylvania?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What if I don’t have an acceptable ID?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I use my student ID to vote in Pennsylvania?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is the deadline to register to vote in Pennsylvania?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How can I register to vote in Pennsylvania?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How can I check my voter registration status?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does Pennsylvania have online voter registration?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Is same-day voter registration available in Pennsylvania?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I pre-register to vote?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Who is eligible to register in Pennsylvania?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What types of voting machines does Minnesota use?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is optical scan voting?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is Direct Recording Electronic Voting?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/pennsylvania",
-            "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         }
     ]
 }

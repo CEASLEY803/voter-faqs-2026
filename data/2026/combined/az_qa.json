@@ -1,7 +1,7 @@
 {
     "state": "az",
-    "num_questions": 81,
-    "num_answers": 81,
+    "num_questions": 89,
+    "num_answers": 89,
     "contributor": "Cole Easley",
     "questions": [
         {
@@ -487,6 +487,54 @@
         {
             "q": "What is Direct Recording Electronic Voting?",
             "a": "Direct Recording Electronic (DRE) is the newest system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.\n\nThere are many variations of DREs because many companies are inventing new ones, and many cities, counties, and states are trying them out.\n\n- Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.\n- Some of these devices will show all candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure).\n- On other DREs, the screen is set up to show pages. There will probably be one thing on which to vote on each screen or page. For example, on one screen or page, you might vote for the president. Then you might move to the next page to vote for a senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for.\n- Other devices have a keypad, and some have a keyboard, so you can write in the name of someone you want to vote for.\n- You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "q": "Campaign Finance Information",
+            "a": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org/).\n\nFor information on state campaign contributions, please visit your state's resource. (https://azsos.gov/elections/campaign-finance-reporting)",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "q": "Candidate and Ballot Measure Information",
+            "a": "Information on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp).",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "q": "Election Dates",
+            "a": "Your next election date can be found here. (https://www.vote411.org/arizona)",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "q": "Election Day Voting Hours",
+            "a": "Polling place hours are from 6:00 am to 7:00 pm.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "q": "Overseas and Military Voters",
+            "a": "Register, check your registration status, and access voting materials through the  (https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmy.arizona.vote%2FUOCAVA2%2Fdefault.aspx%3Futm_source%3Dchatgpt.com&data=05%7C02%7CVOTE411help%40lwv.org%7C02e00b2cd6f44500858f08df1e397e79%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C1%7C639262904460271963%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=OsK4PHjuOAdTorIjaXQtHHQpR5cNemWRcNDqV4h810w%3D&reserved=0)Arizona UOCAVA Portal (https://app.enhancedvoting.com/ebd/voter/arizona). Go to Federal Voting Assistance Program — Arizona (https://www.fvap.gov/arizona) for more information.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "q": "Polling Place Locations",
+            "a": "You can confirm your voting location by selecting from the following local resources: Arizona State Poll Locator Tool. (https://my.arizona.vote/WhereToVote.aspx?s=address)",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "q": "Primary Election Process",
+            "a": "In Arizona, if you are registered with a particular party, you may only vote in that party's primary. If you are unaffiliated with any political party, you may request a ballot to vote in either the Republican or Democratic primary.\n\nNote: The provision for an open primary does not apply to the Presidential Preference Election. Only voters of a participating party may vote on that party's ballot. Independent (unaffiliated) voters may change their voter registration to a designated party by the registration deadline. After the election, voters may change their registration back to unaffiliated.\n\nFor more information about how to participate in the partisan primaries as an unaffiliated (also known as Independent or No-party) voter, please follow the link below:\n\nhttps://www.azcleanelections.gov/how-to-vote/no-party (https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.azcleanelections.gov%2Fhow-to-vote%2Fno-party&data=05%7C01%7Cigarcia-hernandez%40lwv.org%7Cd6d04fbd07ef411ed79008da5b5c20a6%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C1%7C637922748502556970%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=BGkhwh6CwrZn0DpXuqrVe7%2BzbiV2aJqsR1%2BDxENC64M%3D&reserved=0).\n\nhttps://azsos.gov/votebymail (https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fazsos.gov%2Fvotebymail&data=05%7C01%7Cigarcia-hernandez%40lwv.org%7Cd6d04fbd07ef411ed79008da5b5c20a6%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C1%7C637922748502556970%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=RpMWuizhlrizp01H3ygDcwEWu5690pDHPaNBd7hxZas%3D&reserved=0)",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2026-10-22T19:12:55+00:00"
+        },
+        {
+            "q": "Verify Voter Registration",
+            "a": "To verify your voter registration status\n\n  click here!  (https://my.arizona.vote/)",
             "s": "https://www.vote411.org/arizona",
             "t": "2026-10-22T19:12:55+00:00"
         }

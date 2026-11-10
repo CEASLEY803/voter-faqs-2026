@@ -1,7 +1,7 @@
 {
     "state": "ga",
-    "num_questions": 106,
-    "num_answers": 106,
+    "num_questions": 114,
+    "num_answers": 114,
     "contributor": "Cole Easley",
     "questions": [
         {
@@ -637,6 +637,54 @@
         {
             "q": "What is Direct Recording Electronic Voting?",
             "a": "Direct Recording Electronic (DRE) is the newest system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.\n\nThere are many variations of DREs because many companies are inventing new ones, and many cities, counties, and states are trying them out.\n\n- Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.\n- Some of these devices will show all candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure).\n- On other DREs, the screen is set up to show pages. There will probably be one thing on which to vote on each screen or page. For example, on one screen or page, you might vote for the president. Then you might move to the next page to vote for a senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for.\n- Other devices have a keypad, and some have a keyboard, so you can write in the name of someone you want to vote for.\n- You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2026-10-22T19:13:04+00:00"
+        },
+        {
+            "q": "Campaign Finance Information",
+            "a": "Click here to visit the Georgia Government Transparency and Campaign Finance Commission (https://media.ethics.ga.gov/Search/Campaign/Campaign_ByName.aspx) website. For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2026-10-22T19:13:04+00:00"
+        },
+        {
+            "q": "Candidate and Ballot Measure Information",
+            "a": "Candidate and ballot information can be found here. (https://www.vote411.org/vote411.org/ballot)",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2026-10-22T19:13:04+00:00"
+        },
+        {
+            "q": "Election Dates",
+            "a": "Your next election date can be found here https://www.vote411.org/georgia.\n\nFor more election information contact your county clerk. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2026-10-22T19:13:04+00:00"
+        },
+        {
+            "q": "Election Day Voting Hours",
+            "a": "Polls are open from 7:00 am until 7:00 pm on Election Day. Any voter who is waiting in line to vote at 7:00 pm will be allowed to vote.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2026-10-22T19:13:04+00:00"
+        },
+        {
+            "q": "Overseas and Military Voters",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://voterhelpdesk.usvotefoundation.org/en/support/home)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://voterhelpdesk.usvotefoundation.org/en/support/home)",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2026-10-22T19:13:04+00:00"
+        },
+        {
+            "q": "Polling Place Locations",
+            "a": "You can find your polling place by utilizing your state resource (https://www.mvp.sos.ga.gov/MVP/mvp.do). If you have further questions on your polling place location, please contact your county clerk. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2026-10-22T19:13:04+00:00"
+        },
+        {
+            "q": "Primary Election Process",
+            "a": "Georgia is an “open primary” state. You can choose the party’s ballot you wish to vote. This decision does not register you with that party and it is a private decision.\n\nIn a primary election if a candidate does not with the majority of the votes (50%+1) there will be a primary runoff election scheduled for a few weeks after the primary election date. The runoff election will have the top two vote getters to ensure that one of them receives the majority of the voters.\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2026-10-22T19:13:04+00:00"
+        },
+        {
+            "q": "Verify Voter Registration",
+            "a": "To verify your voter registration status\n\n  click here!  (http://www.mvp.sos.ga.gov/)",
             "s": "https://www.vote411.org/georgia",
             "t": "2026-10-22T19:13:04+00:00"
         }

@@ -3,6 +3,7 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "answer_minor_threshold": 0.85,
     "vote411_unit_setting": "auto",
     "vote411_unit": "section",
     "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
@@ -26,7 +27,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.296,
             "source": "state",
             "unit": "question"
@@ -134,7 +135,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.898,
             "source": "state",
             "unit": "question"
@@ -146,7 +147,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.78,
             "source": "state",
             "unit": "question"
@@ -158,7 +159,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.751,
             "source": "state",
             "unit": "question"
@@ -170,7 +171,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.982,
             "source": "state",
             "unit": "question"
@@ -182,7 +183,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.538,
             "source": "state",
             "unit": "question"
@@ -218,7 +219,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.973,
             "source": "state",
             "unit": "question"
@@ -230,7 +231,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.06,
             "source": "state",
             "unit": "question"
@@ -242,7 +243,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.802,
             "source": "state",
             "unit": "question"
@@ -266,7 +267,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.299,
             "source": "state",
             "unit": "question"
@@ -290,7 +291,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.254,
             "source": "state",
             "unit": "question"
@@ -338,7 +339,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.287,
             "source": "state",
             "unit": "question"
@@ -410,7 +411,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.611,
             "source": "state",
             "unit": "question"
@@ -446,7 +447,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.773,
             "source": "state",
             "unit": "question"
@@ -470,7 +471,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.908,
             "source": "state",
             "unit": "question"
@@ -482,7 +483,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.052,
             "source": "state",
             "unit": "question"
@@ -518,7 +519,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.323,
             "source": "state",
             "unit": "question"
@@ -566,7 +567,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.38,
             "source": "state",
             "unit": "question"
@@ -590,7 +591,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.335,
             "source": "state",
             "unit": "question"
@@ -602,7 +603,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/faqs.html",
             "current_s": "https://oklahoma.gov/elections/faqs.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.831,
             "source": "state",
             "unit": "question"
@@ -830,7 +831,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
             "current_s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.931,
             "source": "state",
             "unit": "question"
@@ -854,7 +855,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
             "current_s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.565,
             "source": "state",
             "unit": "question"
@@ -866,7 +867,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
             "current_s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.512,
             "source": "state",
             "unit": "question"
@@ -926,7 +927,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
             "current_s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.436,
             "source": "state",
             "unit": "question"
@@ -1010,7 +1011,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
             "current_s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.923,
             "source": "state",
             "unit": "question"
@@ -1082,8 +1083,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.934,
+            "answer_status": "minor_change",
+            "answer_similarity": 0.947,
             "source": "vote411",
             "unit": "section"
         },
@@ -1094,8 +1095,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.842,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1106,8 +1107,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.777,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1118,8 +1119,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.659,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1130,8 +1131,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.951,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1142,8 +1143,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.849,
+            "answer_status": "major_change",
+            "answer_similarity": 0.824,
             "source": "vote411",
             "unit": "section"
         },
@@ -1154,8 +1155,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.762,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1166,8 +1167,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.978,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1178,8 +1179,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.876,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1190,8 +1191,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.959,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1202,8 +1203,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.722,
+            "answer_status": "major_change",
+            "answer_similarity": 0.799,
             "source": "vote411",
             "unit": "section"
         },
@@ -1214,8 +1215,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.895,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1226,8 +1227,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.919,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1238,8 +1239,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.496,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1250,8 +1251,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.663,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1262,8 +1263,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.953,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1274,8 +1275,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.924,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1286,8 +1287,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.967,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1298,8 +1299,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.527,
+            "answer_status": "major_change",
+            "answer_similarity": 0.477,
             "source": "vote411",
             "unit": "section"
         },
@@ -1310,8 +1311,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.956,
+            "answer_status": "minor_change",
+            "answer_similarity": 0.994,
             "source": "vote411",
             "unit": "section"
         },
@@ -1322,8 +1323,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.596,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         },
@@ -1334,8 +1335,8 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.vote411.org/oklahoma",
             "current_s": "https://www.vote411.org/oklahoma",
-            "answer_status": "changed",
-            "answer_similarity": 0.845,
+            "answer_status": "unchanged",
+            "answer_similarity": 1.0,
             "source": "vote411",
             "unit": "section"
         }

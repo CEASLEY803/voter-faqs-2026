@@ -1,66 +1,66 @@
 {
     "year": 2026,
     "baseline_year": 2024,
-    "built_at": "2026-11-05T15:56:30+00:00",
+    "built_at": "2026-11-10T18:02:56+00:00",
     "vote411_batch": "data/2026/batches/20261022T201244360248Z",
     "state_site_batch": "data/2026/state_sites/20261029T220403252970Z",
     "state_site_parser_version": 2,
-    "record_order": "state-site records first, then Vote411 records; the s field gives each record's source",
+    "record_order": "state-site records first, then Vote411 question-heading records, then Vote411 section records; the s field gives each record's source",
     "extraction": {
         "vote411": {
             "methods": {
-                "ak": "question_headings",
-                "al": "question_headings",
-                "ar": "question_headings",
-                "az": "question_headings",
-                "ca": "question_headings",
-                "co": "question_headings",
-                "ct": "question_headings",
-                "de": "question_headings",
-                "fl": "question_headings",
-                "ga": "question_headings",
-                "hi": "sections_without_questions",
-                "ia": "question_headings",
-                "id": "question_headings",
-                "il": "question_headings",
-                "in": "question_headings",
-                "ks": "question_headings",
-                "ky": "question_headings",
-                "la": "question_headings",
-                "ma": "sections_without_questions",
-                "md": "sections_without_questions",
-                "me": "question_headings",
-                "mi": "question_headings",
-                "mn": "question_headings",
-                "mo": "sections_without_questions",
-                "ms": "question_headings",
-                "mt": "question_headings",
-                "nc": "question_headings",
-                "nd": "question_headings",
-                "ne": "question_headings",
-                "nh": "question_headings",
-                "nj": "question_headings",
-                "nm": "question_headings",
-                "nv": "question_headings",
-                "ny": "question_headings",
-                "oh": "question_headings",
-                "ok": "sections_without_questions",
-                "or": "sections_without_questions",
-                "pa": "question_headings",
-                "ri": "sections_without_questions",
-                "sc": "question_headings",
-                "sd": "question_headings",
-                "tn": "sections_without_questions",
-                "tx": "question_headings",
-                "ut": "sections_without_questions",
-                "va": "question_headings",
-                "vt": "question_headings",
-                "wa": "sections_without_questions",
-                "wi": "question_headings",
-                "wv": "question_headings",
-                "wy": "sections_without_questions"
+                "ak": "mixed",
+                "al": "mixed",
+                "ar": "mixed",
+                "az": "mixed",
+                "ca": "mixed",
+                "co": "mixed",
+                "ct": "mixed",
+                "de": "mixed",
+                "fl": "mixed",
+                "ga": "mixed",
+                "hi": "section_titles",
+                "ia": "mixed",
+                "id": "mixed",
+                "il": "mixed",
+                "in": "mixed",
+                "ks": "mixed",
+                "ky": "mixed",
+                "la": "mixed",
+                "ma": "section_titles",
+                "md": "section_titles",
+                "me": "mixed",
+                "mi": "mixed",
+                "mn": "mixed",
+                "mo": "section_titles",
+                "ms": "mixed",
+                "mt": "mixed",
+                "nc": "mixed",
+                "nd": "mixed",
+                "ne": "mixed",
+                "nh": "mixed",
+                "nj": "mixed",
+                "nm": "mixed",
+                "nv": "mixed",
+                "ny": "mixed",
+                "oh": "mixed",
+                "ok": "section_titles",
+                "or": "section_titles",
+                "pa": "mixed",
+                "ri": "section_titles",
+                "sc": "mixed",
+                "sd": "mixed",
+                "tn": "section_titles",
+                "tx": "mixed",
+                "ut": "section_titles",
+                "va": "mixed",
+                "vt": "mixed",
+                "wa": "section_titles",
+                "wi": "mixed",
+                "wv": "mixed",
+                "wy": "section_titles"
             },
-            "method_basis": "Recorded by collect_vote411.py: one record per published question heading inside each Vote411 section. A page with no question headings yields no records, and its sections are kept as supporting content beside the saved page.",
+            "method_basis": "Built from the saved Vote411 batch without downloading. A section with question headings gives one record per published question heading (collect_vote411.py). A section without question headings gives one record, with the section title as the question and the section text as the answer (build_dataset.py). A state with both kinds is 'mixed'; a state with only section records is 'section_titles'. Introductions above a section's first question stay in the batch's supporting content files.",
             "extraction_versions": [
                 4
             ]
@@ -68,259 +68,410 @@
         "state": {
             "method": "general_parser",
             "parser_version": 2,
-            "method_basis": "parse_state_sites.py: a question is a short block ending in a question mark or labelled Q:, and its answer runs to the next question or non-question heading. Per-page parsers and flags are in the parse report."
+            "method_basis": "parse_state_sites.py: a question is a short block ending in a question mark or labelled Q:, and its answer runs to the next question or non-question heading. Per-page parsers and flags are in the parse report; its record counts are before the non-FAQ rules in settings.toml are applied.",
+            "non_faq_filter": "Records matching settings.toml's non-FAQ rules are left out and listed in dropped_records.json."
         }
     },
     "counts": {
         "ak": {
             "state_site": 17,
-            "vote411": 38,
-            "total": 55
+            "state_site_dropped_non_faq": 0,
+            "vote411": 54,
+            "vote411_question_records": 38,
+            "vote411_section_records": 16,
+            "total": 71
         },
         "al": {
             "state_site": 20,
-            "vote411": 20,
-            "total": 40
+            "state_site_dropped_non_faq": 0,
+            "vote411": 36,
+            "vote411_question_records": 20,
+            "vote411_section_records": 16,
+            "total": 56
         },
         "ar": {
             "state_site": 4,
-            "vote411": 33,
-            "total": 37
+            "state_site_dropped_non_faq": 0,
+            "vote411": 48,
+            "vote411_question_records": 33,
+            "vote411_section_records": 15,
+            "total": 52
         },
         "az": {
             "state_site": 13,
-            "vote411": 68,
-            "total": 81
+            "state_site_dropped_non_faq": 0,
+            "vote411": 76,
+            "vote411_question_records": 68,
+            "vote411_section_records": 8,
+            "total": 89
         },
         "ca": {
             "state_site": 57,
-            "vote411": 63,
-            "total": 120
+            "state_site_dropped_non_faq": 0,
+            "vote411": 72,
+            "vote411_question_records": 63,
+            "vote411_section_records": 9,
+            "total": 129
         },
         "co": {
             "state_site": 0,
-            "vote411": 19,
-            "total": 19
+            "state_site_dropped_non_faq": 0,
+            "vote411": 38,
+            "vote411_question_records": 19,
+            "vote411_section_records": 19,
+            "total": 38
         },
         "ct": {
-            "state_site": 43,
-            "vote411": 41,
-            "total": 84
+            "state_site": 42,
+            "state_site_dropped_non_faq": 1,
+            "vote411": 56,
+            "vote411_question_records": 41,
+            "vote411_section_records": 15,
+            "total": 98
         },
         "de": {
             "state_site": 78,
-            "vote411": 9,
-            "total": 87
+            "state_site_dropped_non_faq": 0,
+            "vote411": 27,
+            "vote411_question_records": 9,
+            "vote411_section_records": 18,
+            "total": 105
         },
         "fl": {
             "state_site": 107,
-            "vote411": 65,
-            "total": 172
+            "state_site_dropped_non_faq": 0,
+            "vote411": 73,
+            "vote411_question_records": 65,
+            "vote411_section_records": 8,
+            "total": 180
         },
         "ga": {
             "state_site": 46,
-            "vote411": 60,
-            "total": 106
+            "state_site_dropped_non_faq": 0,
+            "vote411": 68,
+            "vote411_question_records": 60,
+            "vote411_section_records": 8,
+            "total": 114
         },
         "hi": {
             "state_site": 13,
-            "vote411": 0,
-            "total": 13
+            "state_site_dropped_non_faq": 0,
+            "vote411": 23,
+            "vote411_question_records": 0,
+            "vote411_section_records": 23,
+            "total": 36
         },
         "ia": {
             "state_site": 0,
-            "vote411": 2,
-            "total": 2
+            "state_site_dropped_non_faq": 0,
+            "vote411": 23,
+            "vote411_question_records": 2,
+            "vote411_section_records": 21,
+            "total": 23
         },
         "id": {
             "state_site": 37,
-            "vote411": 26,
-            "total": 63
+            "state_site_dropped_non_faq": 0,
+            "vote411": 44,
+            "vote411_question_records": 26,
+            "vote411_section_records": 18,
+            "total": 81
         },
         "il": {
             "state_site": 65,
-            "vote411": 63,
-            "total": 128
+            "state_site_dropped_non_faq": 0,
+            "vote411": 72,
+            "vote411_question_records": 63,
+            "vote411_section_records": 9,
+            "total": 137
         },
         "in": {
             "state_site": 3,
-            "vote411": 28,
-            "total": 31
+            "state_site_dropped_non_faq": 0,
+            "vote411": 46,
+            "vote411_question_records": 28,
+            "vote411_section_records": 18,
+            "total": 49
         },
         "ks": {
             "state_site": 24,
-            "vote411": 26,
-            "total": 50
+            "state_site_dropped_non_faq": 0,
+            "vote411": 43,
+            "vote411_question_records": 26,
+            "vote411_section_records": 17,
+            "total": 67
         },
         "ky": {
             "state_site": 28,
-            "vote411": 50,
-            "total": 78
+            "state_site_dropped_non_faq": 0,
+            "vote411": 60,
+            "vote411_question_records": 50,
+            "vote411_section_records": 10,
+            "total": 88
         },
         "la": {
             "state_site": 93,
-            "vote411": 25,
-            "total": 118
+            "state_site_dropped_non_faq": 0,
+            "vote411": 42,
+            "vote411_question_records": 25,
+            "vote411_section_records": 17,
+            "total": 135
         },
         "ma": {
             "state_site": 13,
-            "vote411": 0,
-            "total": 13
+            "state_site_dropped_non_faq": 0,
+            "vote411": 22,
+            "vote411_question_records": 0,
+            "vote411_section_records": 22,
+            "total": 35
         },
         "md": {
             "state_site": 6,
-            "vote411": 0,
-            "total": 6
+            "state_site_dropped_non_faq": 0,
+            "vote411": 22,
+            "vote411_question_records": 0,
+            "vote411_section_records": 22,
+            "total": 28
         },
         "me": {
             "state_site": 33,
-            "vote411": 67,
-            "total": 100
+            "state_site_dropped_non_faq": 0,
+            "vote411": 75,
+            "vote411_question_records": 67,
+            "vote411_section_records": 8,
+            "total": 108
         },
         "mi": {
             "state_site": 142,
-            "vote411": 54,
-            "total": 196
+            "state_site_dropped_non_faq": 0,
+            "vote411": 63,
+            "vote411_question_records": 54,
+            "vote411_section_records": 9,
+            "total": 205
         },
         "mn": {
-            "state_site": 26,
-            "vote411": 63,
-            "total": 89
+            "state_site": 22,
+            "state_site_dropped_non_faq": 4,
+            "vote411": 72,
+            "vote411_question_records": 63,
+            "vote411_section_records": 9,
+            "total": 94
         },
         "mo": {
             "state_site": 22,
-            "vote411": 0,
-            "total": 22
+            "state_site_dropped_non_faq": 0,
+            "vote411": 22,
+            "vote411_question_records": 0,
+            "vote411_section_records": 22,
+            "total": 44
         },
         "ms": {
             "state_site": 5,
-            "vote411": 2,
-            "total": 7
+            "state_site_dropped_non_faq": 0,
+            "vote411": 23,
+            "vote411_question_records": 2,
+            "vote411_section_records": 21,
+            "total": 28
         },
         "mt": {
             "state_site": 12,
-            "vote411": 29,
-            "total": 41
+            "state_site_dropped_non_faq": 0,
+            "vote411": 47,
+            "vote411_question_records": 29,
+            "vote411_section_records": 18,
+            "total": 59
         },
         "nc": {
             "state_site": 94,
-            "vote411": 70,
-            "total": 164
+            "state_site_dropped_non_faq": 0,
+            "vote411": 78,
+            "vote411_question_records": 70,
+            "vote411_section_records": 8,
+            "total": 172
         },
         "nd": {
-            "state_site": 6,
-            "vote411": 20,
-            "total": 26
+            "state_site": 5,
+            "state_site_dropped_non_faq": 1,
+            "vote411": 39,
+            "vote411_question_records": 20,
+            "vote411_section_records": 19,
+            "total": 44
         },
         "ne": {
             "state_site": 10,
-            "vote411": 1,
-            "total": 11
+            "state_site_dropped_non_faq": 0,
+            "vote411": 22,
+            "vote411_question_records": 1,
+            "vote411_section_records": 21,
+            "total": 32
         },
         "nh": {
             "state_site": 33,
-            "vote411": 43,
-            "total": 76
+            "state_site_dropped_non_faq": 0,
+            "vote411": 53,
+            "vote411_question_records": 43,
+            "vote411_section_records": 10,
+            "total": 86
         },
         "nj": {
             "state_site": 31,
-            "vote411": 27,
-            "total": 58
+            "state_site_dropped_non_faq": 0,
+            "vote411": 45,
+            "vote411_question_records": 27,
+            "vote411_section_records": 18,
+            "total": 76
         },
         "nm": {
             "state_site": 67,
-            "vote411": 63,
-            "total": 130
+            "state_site_dropped_non_faq": 0,
+            "vote411": 71,
+            "vote411_question_records": 63,
+            "vote411_section_records": 8,
+            "total": 138
         },
         "nv": {
             "state_site": 107,
-            "vote411": 60,
-            "total": 167
+            "state_site_dropped_non_faq": 0,
+            "vote411": 69,
+            "vote411_question_records": 60,
+            "vote411_section_records": 9,
+            "total": 176
         },
         "ny": {
             "state_site": 20,
-            "vote411": 65,
-            "total": 85
+            "state_site_dropped_non_faq": 0,
+            "vote411": 74,
+            "vote411_question_records": 65,
+            "vote411_section_records": 9,
+            "total": 94
         },
         "oh": {
-            "state_site": 19,
-            "vote411": 62,
-            "total": 81
+            "state_site": 16,
+            "state_site_dropped_non_faq": 3,
+            "vote411": 70,
+            "vote411_question_records": 62,
+            "vote411_section_records": 8,
+            "total": 86
         },
         "ok": {
             "state_site": 85,
-            "vote411": 0,
-            "total": 85
+            "state_site_dropped_non_faq": 0,
+            "vote411": 22,
+            "vote411_question_records": 0,
+            "vote411_section_records": 22,
+            "total": 107
         },
         "or": {
-            "state_site": 20,
-            "vote411": 0,
-            "total": 20
+            "state_site": 19,
+            "state_site_dropped_non_faq": 1,
+            "vote411": 22,
+            "vote411_question_records": 0,
+            "vote411_section_records": 22,
+            "total": 41
         },
         "pa": {
             "state_site": 20,
-            "vote411": 46,
-            "total": 66
+            "state_site_dropped_non_faq": 0,
+            "vote411": 56,
+            "vote411_question_records": 46,
+            "vote411_section_records": 10,
+            "total": 76
         },
         "ri": {
             "state_site": 17,
-            "vote411": 0,
-            "total": 17
+            "state_site_dropped_non_faq": 0,
+            "vote411": 22,
+            "vote411_question_records": 0,
+            "vote411_section_records": 22,
+            "total": 39
         },
         "sc": {
             "state_site": 32,
-            "vote411": 47,
-            "total": 79
+            "state_site_dropped_non_faq": 0,
+            "vote411": 56,
+            "vote411_question_records": 47,
+            "vote411_section_records": 9,
+            "total": 88
         },
         "sd": {
             "state_site": 8,
-            "vote411": 2,
-            "total": 10
+            "state_site_dropped_non_faq": 0,
+            "vote411": 23,
+            "vote411_question_records": 2,
+            "vote411_section_records": 21,
+            "total": 31
         },
         "tn": {
             "state_site": 49,
-            "vote411": 0,
-            "total": 49
+            "state_site_dropped_non_faq": 0,
+            "vote411": 22,
+            "vote411_question_records": 0,
+            "vote411_section_records": 22,
+            "total": 71
         },
         "tx": {
             "state_site": 27,
-            "vote411": 62,
-            "total": 89
+            "state_site_dropped_non_faq": 0,
+            "vote411": 70,
+            "vote411_question_records": 62,
+            "vote411_section_records": 8,
+            "total": 97
         },
         "ut": {
             "state_site": 16,
-            "vote411": 0,
-            "total": 16
+            "state_site_dropped_non_faq": 0,
+            "vote411": 24,
+            "vote411_question_records": 0,
+            "vote411_section_records": 24,
+            "total": 40
         },
         "va": {
             "state_site": 19,
-            "vote411": 64,
-            "total": 83
+            "state_site_dropped_non_faq": 0,
+            "vote411": 73,
+            "vote411_question_records": 64,
+            "vote411_section_records": 9,
+            "total": 92
         },
         "vt": {
             "state_site": 13,
-            "vote411": 29,
-            "total": 42
+            "state_site_dropped_non_faq": 0,
+            "vote411": 47,
+            "vote411_question_records": 29,
+            "vote411_section_records": 18,
+            "total": 60
         },
         "wa": {
             "state_site": 47,
-            "vote411": 0,
-            "total": 47
+            "state_site_dropped_non_faq": 0,
+            "vote411": 22,
+            "vote411_question_records": 0,
+            "vote411_section_records": 22,
+            "total": 69
         },
         "wi": {
             "state_site": 151,
-            "vote411": 57,
-            "total": 208
+            "state_site_dropped_non_faq": 0,
+            "vote411": 67,
+            "vote411_question_records": 57,
+            "vote411_section_records": 10,
+            "total": 218
         },
         "wv": {
-            "state_site": 53,
-            "vote411": 26,
-            "total": 79
+            "state_site": 52,
+            "state_site_dropped_non_faq": 1,
+            "vote411": 44,
+            "vote411_question_records": 26,
+            "vote411_section_records": 18,
+            "total": 96
         },
         "wy": {
             "state_site": 52,
-            "vote411": 0,
-            "total": 52
+            "state_site_dropped_non_faq": 0,
+            "vote411": 22,
+            "vote411_question_records": 0,
+            "vote411_section_records": 22,
+            "total": 74
         }
     },
     "flagged_pages": [
@@ -549,5 +700,6 @@
             ]
         }
     ],
-    "parse_report": "state_site_parse_report.json"
+    "parse_report": "state_site_parse_report.json",
+    "dropped_records": "dropped_records.json"
 }

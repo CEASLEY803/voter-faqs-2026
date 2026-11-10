@@ -1,7 +1,7 @@
 {
     "state": "me",
-    "num_questions": 100,
-    "num_answers": 100,
+    "num_questions": 108,
+    "num_answers": 108,
     "contributor": "Cole Easley",
     "questions": [
         {
@@ -601,6 +601,54 @@
         {
             "q": "Do all municipalities use the machines?",
             "a": "No. Some municipalities hand count ballots.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Campaign Finance Information",
+            "a": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).\n\nFor information on state campaign contributions, please visit your state's resource. (https://mainecampaignfinance.com/#/index)",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Candidate and Ballot Measure Information",
+            "a": "Local election information is collected by League volunteers and may not be complete. If you don't see your local ballot, you may still have an election - please contact your town clerk\n\nInformation on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp).",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Election Dates",
+            "a": "The next election date can be found here https://www.vote411.org/maine.\n\nContact your local Board of Elections (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Election Day Voting Hours",
+            "a": "All polls open between 6am and 10am until 8pm.\n\nYou can find your polling place by utilizing your state resource. (https://nam10.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.maine.gov%2Fportal%2Fgovernment%2Fedemocracy%2Fvoter_lookup.php&data=05%7C01%7CMBrown%40lwv.org%7C6e9a2edef3324b0bd44f08da967888c9%7C90befbfe6dce4edfba8a35fb67131124%7C1%7C0%7C637987741685084629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=yS%2Br%2FTrAL5kZaOZjAEeGjb%2BNPH5dGh4%2FJuQ28LC5nEY%3D&reserved=0)\n\nIf you have further questions on your polling place location, please contact your Municipal Clerk (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Overseas and Military Voters",
+            "a": "Maine overseas citizens and U.S. military personnel can register to vote and request an absentee ballot on the Maine Secretary of State’s website.  (https://www.maine.gov/sos/elections-voting/uniformed-service-and-overseas-voters)",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Polling Place Locations",
+            "a": "You can find your polling place by utilizing your state resource. (http://www.maine.gov/portal/government/edemocracy/voter_lookup.php)\n\nIf you have further questions on your polling place location, please contact your M (https://absentee.vote411.org/vote/eoddomestic.htm)unicipal Clerk (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Primary Election Process",
+            "a": "Maine now has semi-open primaries. If you are registered with a political party, you can only vote in that party’s primary. If you are not registered with a political party (unenrolled), you can choose which party’s primary to vote in. You may only vote in one party’s primary.\n\nThis applies to both presidential and state primaries.\n\nIf you want to change your party affiliation, you must do so at least 15 days before Election Day.\n\nRanked Choice Voting (RCV)\n\nMaine uses a ranked choice voting system for Presidential Primaries, State Primaries, and General Elections. To find out more about ranked choice voting click here (https://www.vote411.org/maine#ranked-choice-voting).\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/maine",
+            "t": "2026-10-22T19:13:21+00:00"
+        },
+        {
+            "q": "Verify Voter Registration",
+            "a": "To verify your voter registration status, contact your\n\n  election official.  (https://www.maine.gov/portal/government/edemocracy/voter_lookup.php)",
             "s": "https://www.vote411.org/maine",
             "t": "2026-10-22T19:13:21+00:00"
         }

@@ -1,7 +1,7 @@
 {
     "state": "ny",
-    "num_questions": 85,
-    "num_answers": 85,
+    "num_questions": 94,
+    "num_answers": 94,
     "contributor": "Cole Easley",
     "questions": [
         {
@@ -511,6 +511,60 @@
         {
             "q": "What is ES&S Automark?",
             "a": "A ballot marking device designed for those that are blind, vision impaired, or another visual disability that would make it hard or impossible for them to make a ballot. The machine provides language assistance to those who speak English as a secondary language or for those who have reading difficulties. This machine is also equipped with the \"Sip-N-Puff\" voting device.\n\nYou can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.  (https://www.eac.gov/voting-equipment/system-certification-process)",
+            "s": "https://www.vote411.org/new-york",
+            "t": "2026-10-22T19:13:43+00:00"
+        },
+        {
+            "q": "Campaign Finance Information",
+            "a": "For information on federal campaign contributions, please visit Open Secrets (http://www.opensecrets.org).\n\nFor information on state campaign contributions, please visit your state's resource (http://www.elections.ny.gov/CampaignFinance.html).",
+            "s": "https://www.vote411.org/new-york",
+            "t": "2026-10-22T19:13:43+00:00"
+        },
+        {
+            "q": "Candidate and Ballot Measure Information",
+            "a": "Information on local, state and federal candidates and ballot measures may be available here (https://www.vote411.org/ballot#.UFoDEFHh-Sp).",
+            "s": "https://www.vote411.org/new-york",
+            "t": "2026-10-22T19:13:43+00:00"
+        },
+        {
+            "q": "Election Dates",
+            "a": "The next election date can be found here https://www.vote411.org/new-york.\n\nContact your local Board of Elections (https://absentee.vote411.org/vote/eoddomestic.htm) for more information.",
+            "s": "https://www.vote411.org/new-york",
+            "t": "2026-10-22T19:13:43+00:00"
+        },
+        {
+            "q": "Election Day Voting Hours",
+            "a": "Polling places will be open from 6:00 am to 9:00 pm.",
+            "s": "https://www.vote411.org/new-york",
+            "t": "2026-10-22T19:13:43+00:00"
+        },
+        {
+            "q": "Overseas and Military Voters",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. (https://voterhelpdesk.usvotefoundation.org/en/support/home)\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation. (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/new-york",
+            "t": "2026-10-22T19:13:43+00:00"
+        },
+        {
+            "q": "Polling Place Locations",
+            "a": "You can find your polling place by utilizing your state resource (https://voterlookup.elections.ny.gov/).\n\nIf you have further questions on your polling place location, please contact your local board of elections. (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/new-york",
+            "t": "2026-10-22T19:13:43+00:00"
+        },
+        {
+            "q": "Primary Election Process",
+            "a": "New York is a “closed primary” state. In order to vote in the primary election, voters must be registered with a political party. Unaffiliated or independent voters are not able to participate in the primary.\n\nIf you have any questions about your state’s primary election, please contact your local election officials (https://absentee.vote411.org/vote/eoddomestic.htm).",
+            "s": "https://www.vote411.org/new-york",
+            "t": "2026-10-22T19:13:43+00:00"
+        },
+        {
+            "q": "Ranked Choice Voting",
+            "a": "Ranked Choice Voting for NYC Local Elections\n\nCurrently only New York City uses Ranked Choice Voting for Primary and Special Elections. Voters may rank up to five candidates in order of preference (1st choice, 2nd choice, and so on). You may choose to vote for only one candidate if you prefer, but each candidate may receive only one ranking. For more information, contact the New York City Board of Elections. (https://vote.nyc/RankedChoiceVoting)",
+            "s": "https://www.vote411.org/new-york",
+            "t": "2026-10-22T19:13:43+00:00"
+        },
+        {
+            "q": "Verify Voter Registration",
+            "a": "To verify your voter registration status\n\n  click here!  (https://voterlookup.elections.ny.gov/)",
             "s": "https://www.vote411.org/new-york",
             "t": "2026-10-22T19:13:43+00:00"
         }

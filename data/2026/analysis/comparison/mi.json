@@ -3,8 +3,9 @@
     "baseline_year": 2024,
     "year": 2026,
     "reworded_threshold": 0.8,
+    "answer_minor_threshold": 0.85,
     "vote411_unit_setting": "auto",
-    "vote411_unit": "question",
+    "vote411_unit": "section",
     "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {
@@ -38,7 +39,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.808,
             "source": "state",
             "unit": "question"
@@ -74,7 +75,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.966,
             "source": "state",
             "unit": "question"
@@ -98,7 +99,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.996,
             "source": "state",
             "unit": "question"
@@ -134,7 +135,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.853,
             "source": "state",
             "unit": "question"
@@ -146,7 +147,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.838,
             "source": "state",
             "unit": "question"
@@ -170,7 +171,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.992,
             "source": "state",
             "unit": "question"
@@ -182,7 +183,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.964,
             "source": "state",
             "unit": "question"
@@ -254,7 +255,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/early-in-person-voting",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.548,
             "source": "state",
             "unit": "question"
@@ -290,7 +291,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.689,
             "source": "state",
             "unit": "question"
@@ -314,7 +315,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.694,
             "source": "state",
             "unit": "question"
@@ -350,7 +351,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.333,
             "source": "state",
             "unit": "question"
@@ -434,7 +435,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.936,
             "source": "state",
             "unit": "question"
@@ -458,7 +459,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.977,
             "source": "state",
             "unit": "question"
@@ -470,7 +471,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.263,
             "source": "state",
             "unit": "question"
@@ -566,7 +567,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.95,
             "source": "state",
             "unit": "question"
@@ -578,7 +579,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.803,
             "source": "state",
             "unit": "question"
@@ -686,7 +687,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.991,
             "source": "state",
             "unit": "question"
@@ -698,7 +699,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.911,
             "source": "state",
             "unit": "question"
@@ -710,7 +711,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.999,
             "source": "state",
             "unit": "question"
@@ -1034,7 +1035,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.707,
             "source": "state",
             "unit": "question"
@@ -1058,7 +1059,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.883,
             "source": "state",
             "unit": "question"
@@ -1082,7 +1083,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/military-and-overseas-voting",
-            "answer_status": "changed",
+            "answer_status": "major_change",
             "answer_similarity": 0.654,
             "source": "state",
             "unit": "question"
@@ -1226,7 +1227,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/register-to-vote",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.964,
             "source": "state",
             "unit": "question"
@@ -1250,7 +1251,7 @@
             "question_similarity": 1.0,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.954,
             "source": "state",
             "unit": "question"
@@ -1286,7 +1287,7 @@
             "question_similarity": 0.993,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.998,
             "source": "state",
             "unit": "question"
@@ -1322,7 +1323,7 @@
             "question_similarity": 0.849,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/voting-uncommitted-or-write-in-on-presidential-primary-ballot",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.948,
             "source": "state",
             "unit": "question"
@@ -1346,7 +1347,7 @@
             "question_similarity": 0.83,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.98,
             "source": "state",
             "unit": "question"
@@ -1358,7 +1359,7 @@
             "question_similarity": 0.824,
             "baseline_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
             "current_s": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
-            "answer_status": "changed",
+            "answer_status": "minor_change",
             "answer_similarity": 0.995,
             "source": "state",
             "unit": "question"
@@ -2092,542 +2093,232 @@
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Does Michigan allow ballot curing?",
+            "current_q": "Absentee Ballot Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "How will I know if there’s an issue with my absentee or mail-in ballot?",
+            "current_q": "Ballot Notice and Cure Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What is the deadline to cure my ballot?",
+            "current_q": "Campaign Finance Information",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Can I track my absentee ballot?",
+            "current_q": "Candidate and Ballot Measure Information",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "How do I cure a provisional ballot?",
+            "current_q": "Drop Boxes",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What is a ballot drop box?",
+            "current_q": "Early Voting",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Are drop boxes available in my state?",
+            "current_q": "Election Dates",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Where can I find ballot drop box locations?",
+            "current_q": "Election Day Voting Hours",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Can I track the ballot after placing in the drop box?",
+            "current_q": "Eligibility Requirements",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Can I vote before Election Day in Michigan?",
+            "current_q": "ID Needed for Voter Registration",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Do I have to apply to vote early in Michigan?",
+            "current_q": "Official Election Results",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "When can I vote early in Michigan?",
+            "current_q": "Overseas and Military Voters",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Where can I vote early in person in Michigan?",
+            "current_q": "Poll Worker Information",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Who is eligible to vote in Michigan?",
+            "current_q": "Polling Place Locations",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Can I vote in Michigan if I have a felony conviction?",
+            "current_q": "Primary Election Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "How do I vote if I don’t have a permanent address?",
+            "current_q": "Provisional Voting",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Can students vote in Michigan?",
+            "current_q": "Provisions for Voters with Disabilities",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Do I need an ID to register to vote in Michigan?",
+            "current_q": "Student Voting Process",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What types of ID are accepted for registration?",
+            "current_q": "Time Off To Vote",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What if I don’t have an ID?",
+            "current_q": "Verify Voter Registration",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "When are official election results available in Michigan?",
+            "current_q": "Voter ID Requirements",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "Where can I find official election results?",
+            "current_q": "Voter Registration Deadlines",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         },
         {
             "status": "new",
             "baseline_q": null,
-            "current_q": "What does a poll worker do in Michigan?",
+            "current_q": "Voting Machines",
             "question_similarity": null,
             "baseline_s": null,
             "current_s": "https://www.vote411.org/michigan",
             "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What qualifications do I need to be a poll worker in Michigan?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Are poll workers paid in Michigan?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I apply to be a poll worker in Michigan?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is a provisional ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does Michigan offer provisional voting?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I vote a provisional ballot?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "When will my provisional ballot be counted?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What voting assistance is available for voters with disabilities?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How do I request accommodation or report accessibility issues?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I vote by mail because of my disability?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What do I need to register to vote in Michigan?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I register to vote using my college address in Michigan?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What’s the deadline to register to vote in Michigan?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What form of ID do I need to vote in Michigan?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "I’m originally from another state—can I still vote in my home state while studying in Michigan?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does registering to vote affect my financial aid, parents’ taxes, and/or tuition in Michigan?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does Michigan require employers to give time off to vote?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Do I need an ID to vote in Michigan?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What types of ID can I use to vote in Michigan?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What if I don’t have an acceptable ID?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does mail/absentee voting require ID?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Are student or digital IDs accepted?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is the deadline to register to vote in Michigan?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How can I register to vote in Michigan?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "How can I check my voter registration status?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Does Michigan have online voter registration?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Is same-day voter registration available in Michigan?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Can I pre-register to vote?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "Who is eligible to register in Michigan?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What types of voting machines does Michigan use?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
-        },
-        {
-            "status": "new",
-            "baseline_q": null,
-            "current_q": "What is optical scan voting?",
-            "question_similarity": null,
-            "baseline_s": null,
-            "current_s": "https://www.vote411.org/michigan",
-            "source": "vote411",
-            "unit": "question"
+            "unit": "section"
         }
     ]
 }
