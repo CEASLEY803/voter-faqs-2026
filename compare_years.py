@@ -14,16 +14,10 @@ from datasets import (SOURCES, assign_vote411_section, dataset_dir, load_dataset
                       normalize_text, record_source, vote411_method, vote411_section_rules, write_json)
 
 
-# Question pairs at or above this similarity are the same question reworded. Pairs from the
-# 2024 to 2026 data at 0.8 to 0.9 read as rewordings ("obtain" vs "get a replacement ballot");
-# pairs at 0.7 to 0.8 are often different questions on one topic.
-REWORDED_THRESHOLD = 0.8
-# A line repeated in at least this share of one source's answers in a state is page boilerplate,
-# such as the contact line West Virginia appends to every 2026 answer. Needs at least BOILERPLATE_MIN answers.
-BOILERPLATE_SHARE = 0.6
-BOILERPLATE_MIN = 5
+# The thresholds used here (rewording, minor and major edits, boilerplate) live in settings.toml's
+# [comparison] table; functions receive that table as `config`.
 SUMMARY_FIELDS = ["state", "source", "unit", "baseline_method", "current_method", "baseline_count", "current_count",
-                  "same", "reworded", "new", "removed", "unassigned", "answers_changed",
+                  "same", "reworded", "new", "removed", "unassigned", "answers_changed", "answers_minor", "answers_major",
                   "excluded_other_baseline", "excluded_other_current"]
 # Vote411 methods whose records stand for whole sections rather than single questions.
 SECTION_METHODS = {"section_titles", "mixed", "sections_without_questions", "unknown"}
@@ -33,39 +27,42 @@ def similarity(first, second):
     return SequenceMatcher(None, first, second, autojunk=False).ratio()
 
 
-def boilerplate_lines(records):
+def boilerplate_lines(records, config):
     """Lines that repeat across most answers of one state, source and year."""
-    if len(records) < BOILERPLATE_MIN:
+    if len(records) < config["boilerplate_min_answers"]:
         return set()
     counts = Counter(line.strip() for record in records for line in set(record["a"].splitlines()) if line.strip())
-    return {line for line, count in counts.items() if count >= BOILERPLATE_SHARE * len(records)}
+    return {line for line, count in counts.items() if count >= config["boilerplate_share"] * len(records)}
 
 
 def answer_body(record, boilerplate):
     return normalize_text("\n".join(line for line in record["a"].splitlines() if line.strip() not in boilerplate))
 
 
-def answer_comparison(baseline, current, boilerplate=(set(), set())):
-    """An answer is unchanged when its normalized words match; spacing differences come from extraction."""
+def answer_comparison(baseline, current, boilerplate, config):
+    """unchanged when the normalized words match (spacing differences come from extraction); otherwise
+    minor_change or major_change, split at config["answer_minor_threshold"]."""
     old, new = answer_body(baseline, boilerplate[0]), answer_body(current, boilerplate[1])
     if old.replace(" ", "") == new.replace(" ", ""):
         return "unchanged", 1.0
-    return "changed", round(similarity(old, new), 3)
+    score = round(similarity(old, new), 3)
+    return ("minor_change" if score >= config["answer_minor_threshold"] else "major_change"), score
 
 
-def item(status, baseline=None, current=None, question_similarity=None, boilerplate=(set(), set())):
+def item(status, baseline=None, current=None, question_similarity=None, boilerplate=(set(), set()), config=None):
     entry = {"status": status,
              "baseline_q": baseline["q"] if baseline else None, "current_q": current["q"] if current else None,
              "question_similarity": question_similarity,
              "baseline_s": baseline["s"] if baseline else None, "current_s": current["s"] if current else None}
     if baseline and current:
-        entry["answer_status"], entry["answer_similarity"] = answer_comparison(baseline, current, boilerplate)
+        entry["answer_status"], entry["answer_similarity"] = answer_comparison(baseline, current, boilerplate, config)
     return entry
 
 
-def match_questions(baseline, current):
+def match_questions(baseline, current, config):
     """Classify each question as same, reworded, new or removed, matching one to one."""
-    boilerplate = (boilerplate_lines(baseline), boilerplate_lines(current))
+    boilerplate = (boilerplate_lines(baseline, config), boilerplate_lines(current, config))
+    threshold = config["reworded_threshold"]
     items = []
     old = [(normalize_text(record["q"]), record) for record in baseline]
     new = [(normalize_text(record["q"]), record) for record in current]
@@ -77,22 +74,22 @@ def match_questions(baseline, current):
         if index is None:
             unmatched_old.append((key, record))
         else:
-            items.append(item("same", record, unmatched_new.pop(index)[1], 1.0, boilerplate))
+            items.append(item("same", record, unmatched_new.pop(index)[1], 1.0, boilerplate, config))
     # Pass 2: the most similar remaining pairs, best first, above the threshold.
     candidates = []
     for i, (old_key, _) in enumerate(unmatched_old):
         for j, (new_key, _) in enumerate(unmatched_new):
             matcher = SequenceMatcher(None, old_key, new_key, autojunk=False)
-            if matcher.real_quick_ratio() >= REWORDED_THRESHOLD and matcher.quick_ratio() >= REWORDED_THRESHOLD:
+            if matcher.real_quick_ratio() >= threshold and matcher.quick_ratio() >= threshold:
                 score = matcher.ratio()
-                if score >= REWORDED_THRESHOLD:
+                if score >= threshold:
                     candidates.append((score, i, j))
     used_old, used_new = set(), set()
     for score, i, j in sorted(candidates, reverse=True):
         if i not in used_old and j not in used_new:
             used_old.add(i)
             used_new.add(j)
-            items.append(item("reworded", unmatched_old[i][1], unmatched_new[j][1], round(score, 3), boilerplate))
+            items.append(item("reworded", unmatched_old[i][1], unmatched_new[j][1], round(score, 3), boilerplate, config))
     items += [item("removed", baseline=record) for i, (_, record) in enumerate(unmatched_old) if i not in used_old]
     items += [item("new", current=record) for j, (_, record) in enumerate(unmatched_new) if j not in used_new]
     return items
@@ -125,23 +122,27 @@ def page_sections(manifest, state):
 
 def record_sections(records, rules):
     """Group records into sections with the settings.toml keyword rules; return (sections, unassigned records)."""
-    sections, unassigned = {}, []
+    grouped, unassigned = {}, []
     for record in records:
         title = assign_vote411_section(record["q"], rules)
         if title is None:
             unassigned.append(record)
-            continue
-        section = sections.setdefault(title, {"a": "", "s": record["s"]})
-        section["a"] = (section["a"] + "\n\n" + record["q"] + "\n" + record["a"]).strip()
+        else:
+            grouped.setdefault(title, []).append(record)
+    # A section made of one record is a section title rewritten as a question, which was not on the
+    # page, so only its answer counts. Several records are questions that were on the page.
+    sections = {title: {"a": members[0]["a"] if len(members) == 1
+                        else "\n\n".join(r["q"] + "\n" + r["a"] for r in members), "s": members[0]["s"]}
+                for title, members in grouped.items()}
     return sections, unassigned
 
 
-def match_sections(baseline_sections, current_sections, baseline_unassigned, current_unassigned):
+def match_sections(baseline_sections, current_sections, baseline_unassigned, current_unassigned, config):
     """Classify each Vote411 section as same, new or removed, and list records no section rule matched."""
     old = {title: {"q": title, **section} for title, section in baseline_sections.items()}
     new = {title: {"q": title, **section} for title, section in current_sections.items()}
-    boilerplate = (boilerplate_lines(list(old.values())), boilerplate_lines(list(new.values())))
-    items = [item("same", old[title], new[title], 1.0, boilerplate) if title in new else item("removed", baseline=old[title])
+    boilerplate = (boilerplate_lines(list(old.values()), config), boilerplate_lines(list(new.values()), config))
+    items = [item("same", old[title], new[title], 1.0, boilerplate, config) if title in new else item("removed", baseline=old[title])
              for title in old]
     items += [item("new", current=new[title]) for title in new if title not in old]
     items += [item("unassigned", baseline=record) for record in baseline_unassigned]
@@ -164,6 +165,7 @@ def compare(baseline, current, states=None, baseline_manifest=None, current_mani
     baseline_manifest, current_manifest = baseline_manifest or {}, current_manifest or {}
     settings = settings or load_settings()
     rules = vote411_section_rules(settings)
+    config = settings["comparison"]
     details, summary = {}, []
     for state in sorted(states or current):
         details[state] = []
@@ -171,14 +173,14 @@ def compare(baseline, current, states=None, baseline_manifest=None, current_mani
             old = [record for record in baseline.get(state, []) if record_source(record) == source]
             new = [record for record in current.get(state, []) if record_source(record) == source]
             methods = (vote411_method(baseline_manifest, state), vote411_method(current_manifest, state)) if source == "vote411" else ("", "")
-            unit = comparison_unit(settings["comparison"]["vote411_unit"], *methods) if source == "vote411" else "question"
+            unit = comparison_unit(config["vote411_unit"], *methods) if source == "vote411" else "question"
             if unit == "section":
                 (old_sections, old_unassigned), (new_sections, new_unassigned) = (
                     vote411_sections(baseline_manifest, state, old, rules), vote411_sections(current_manifest, state, new, rules))
-                items = match_sections(old_sections, new_sections, old_unassigned, new_unassigned)
+                items = match_sections(old_sections, new_sections, old_unassigned, new_unassigned, config)
                 counted = (len(old_sections), len(new_sections))
             else:
-                items = match_questions(old, new)
+                items = match_questions(old, new, config)
                 counted = (len(old), len(new))
             for entry in items:
                 entry["source"], entry["unit"] = source, unit
@@ -188,7 +190,9 @@ def compare(baseline, current, states=None, baseline_manifest=None, current_mani
             summary.append({
                 "state": state, "source": source, "unit": unit, "baseline_method": methods[0], "current_method": methods[1],
                 "baseline_count": counted[0], "current_count": counted[1], **counts,
-                "answers_changed": sum(entry.get("answer_status") == "changed" for entry in items),
+                "answers_changed": sum(entry.get("answer_status") in ("minor_change", "major_change") for entry in items),
+                "answers_minor": sum(entry.get("answer_status") == "minor_change" for entry in items),
+                "answers_major": sum(entry.get("answer_status") == "major_change" for entry in items),
                 "excluded_other_baseline": sum(record_source(record) == "other" for record in baseline.get(state, [])) if source == "state" else 0,
                 "excluded_other_current": sum(record_source(record) == "other" for record in current.get(state, [])) if source == "state" else 0,
             })
@@ -199,11 +203,13 @@ def write_comparison(output, details, summary, baseline_year, year, settings=Non
     """Write one detail file per state and a summary CSV under output/comparison/."""
     folder = Path(output) / "comparison"
     units = {(row["state"], row["source"]): row["unit"] for row in summary}
+    config = (settings or load_settings())["comparison"]
     for state, items in details.items():
         write_json(folder / f"{state}.json", {
             "state": state, "baseline_year": baseline_year, "year": year,
-            "reworded_threshold": REWORDED_THRESHOLD,
-            "vote411_unit_setting": (settings or load_settings())["comparison"]["vote411_unit"],
+            "reworded_threshold": config["reworded_threshold"],
+            "answer_minor_threshold": config["answer_minor_threshold"],
+            "vote411_unit_setting": config["vote411_unit"],
             "vote411_unit": units.get((state, "vote411")),
             "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
             "items": items})
@@ -225,7 +231,8 @@ def main():
                                load_manifest(arguments.year), settings)
     output = arguments.output or ROOT / "data" / str(arguments.year) / "analysis"
     write_comparison(output, details, summary, arguments.baseline_year, arguments.year, settings)
-    totals = {key: sum(row[key] for row in summary) for key in ("same", "reworded", "new", "removed", "answers_changed")}
+    totals = {key: sum(row[key] for row in summary)
+              for key in ("same", "reworded", "new", "removed", "answers_minor", "answers_major")}
     print(f"{arguments.baseline_year} to {arguments.year}: {totals}. Output: {Path(output) / 'comparison'}")
 
 

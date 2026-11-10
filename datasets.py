@@ -22,7 +22,7 @@ SOURCES = ("state", "vote411")
 SETTINGS_FILE = ROOT / "settings.toml"
 # How a state's Vote411 records were extracted, as recorded in each cycle's manifest.json:
 #   question_headings           one record per published question heading inside a section
-#   section_titles              one record per section, its title rewritten as a question
+#   section_titles              one record per section, its title (or a question made from it) as the question
 #   mixed                       section titles for some sections, question headings for others
 #   sections_without_questions  the page had no question headings; content kept as sections only
 #   none                        no Vote411 records for the state
@@ -34,7 +34,14 @@ def load_settings(path=SETTINGS_FILE):
     unit = settings["comparison"]["vote411_unit"]
     if unit not in ("auto", "section", "question"):
         raise SystemExit(f"{Path(path).name}: vote411_unit must be auto, section or question, not {unit!r}")
+    for key in ("reworded_threshold", "answer_minor_threshold", "boilerplate_share"):
+        if not 0 <= settings["comparison"][key] <= 1:
+            raise SystemExit(f"{Path(path).name}: {key} must be between 0 and 1")
     return settings
+
+
+def non_faq_rules(settings):
+    return [(rule["name"], re.compile(rule["pattern"])) for rule in settings["non_faq_rules"]]
 
 
 def vote411_section_rules(settings):

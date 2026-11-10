@@ -29,7 +29,7 @@ TOPIC_LABELS = {"registration": "Registration", "mail_absentee": "Mail and absen
                 "voter_id": "Voter ID", "polling_places": "Polling places", "deadlines": "Deadlines"}
 SOURCE_LABELS = {"state": "State election site", "vote411": "Vote411"}
 # Reference palette: categorical slots 1 and 2, sequential blue ramp, text and surface tokens.
-COLORS = {"baseline": "#2a78d6", "current": "#eb6834", "single": "#2a78d6",
+COLORS = {"baseline": "#2a78d6", "current": "#eb6834", "major": "#2a78d6", "minor": "#86b6ef",
           "text": "#0b0b0b", "muted": "#52514e", "grid": "#e4e3df", "surface": "#fcfcfb"}
 SEQUENTIAL = ["#fcfcfb", "#cde2fb", "#9ec5f4", "#6da7ec", "#3987e5", "#256abf", "#184f95", "#0d366b"]
 
@@ -44,11 +44,21 @@ def topic_counts(records):
     return counts
 
 
-def change_rate(row):
-    """Share of questions in either year that did not carry over with the same wording and answer."""
-    total = row["same"] + row["reworded"] + row["new"] + row["removed"]
-    unchanged = row["same"] - row["same_answer_changed"]
-    return round(1 - unchanged / total, 3) if total else None
+def change_rates(items):
+    """Split one state and source's compared units (questions or sections) into unchanged, minor and major.
+
+    minor: a matched pair whose answer has only a minor edit, or whose question was reworded while the
+           answer is unchanged or has a minor edit.
+    major: a matched pair whose answer has a major edit, plus every new and removed unit.
+    Returns (minor_edit_rate, major_change_rate, change_rate); change_rate is their sum.
+    """
+    counted = [item for item in items if item["status"] in ("same", "reworded", "new", "removed")]
+    if not counted:
+        return None, None, None
+    major = sum(item["status"] in ("new", "removed") or item.get("answer_status") == "major_change" for item in counted)
+    unchanged = sum(item["status"] == "same" and item.get("answer_status") == "unchanged" for item in counted)
+    minor = len(counted) - major - unchanged
+    return round(minor / len(counted), 3), round(major / len(counted), 3), round((minor + major) / len(counted), 3)
 
 
 def rank(rows, key, reverse=True):
@@ -66,9 +76,7 @@ def per_state_table(baseline, current, details, summary, states):
         row["vote411_unit"] = vote411_row["unit"]
         row["vote411_method_baseline"], row["vote411_method_current"] = vote411_row["baseline_method"], vote411_row["current_method"]
         for source in SOURCES:
-            stats = dict(by_key[(state, source)])
-            stats["same_answer_changed"] = sum(1 for item in details[state] if item["source"] == source
-                                               and item["status"] == "same" and item.get("answer_status") == "changed")
+            stats = by_key[(state, source)]
             label = "state_site" if source == "state" else "vote411"
             # Record counts are always questions; compared counts are sections when the unit is "section".
             row[f"baseline_{label}"] = sum(record_source(r) == source for r in baseline.get(state, []))
@@ -77,9 +85,10 @@ def per_state_table(baseline, current, details, summary, states):
             row[f"compared_current_{label}"] = stats["current_count"]
             for status in ("same", "reworded", "new", "removed"):
                 row[f"{status}_{label}"] = stats[status]
-            row[f"answers_changed_{label}"] = stats["answers_changed"]
-            row[f"change_rate_{label}"] = change_rate(stats)
-            # How much matched answers (or sections) changed, since a section edited in one word counts as changed.
+            row[f"answers_minor_{label}"] = stats["answers_minor"]
+            row[f"answers_major_{label}"] = stats["answers_major"]
+            (row[f"minor_edit_rate_{label}"], row[f"major_change_rate_{label}"],
+             row[f"change_rate_{label}"]) = change_rates([item for item in details[state] if item["source"] == source])
             similarities = [item["answer_similarity"] for item in details[state]
                             if item["source"] == source and "answer_similarity" in item]
             row[f"mean_answer_similarity_{label}"] = round(sum(similarities) / len(similarities), 3) if similarities else None
@@ -94,9 +103,9 @@ def per_state_table(baseline, current, details, summary, states):
     for position, row in enumerate(coverage_order, start=1):
         row["coverage_rank"] = position
     for label in ("state_site", "vote411"):
-        ranks = rank(rows, f"change_rate_{label}")
+        ranks = rank(rows, f"major_change_rate_{label}")
         for row in rows:
-            row[f"change_rank_{label}"] = ranks[row["state"]]
+            row[f"major_change_rank_{label}"] = ranks[row["state"]]
     return rows
 
 
@@ -140,25 +149,37 @@ def chart_counts(rows, path, baseline_year, year):
     plt.close(figure)
 
 
-def chart_change(rows, path, baseline_year, year):
-    """Change rate per state, one panel per source, each sorted on its own values."""
-    figure, axes = plt.subplots(1, 2, figsize=(11, max(4, 0.22 * len(rows) + 1.5)), facecolor=COLORS["surface"])
+def chart_change(rows, path, baseline_year, year, minor_threshold):
+    """Major and minor change per state, one panel per source, each sorted by its major change rate."""
+    figure, axes = plt.subplots(1, 2, figsize=(11, max(4, 0.22 * len(rows) + 2)), facecolor=COLORS["surface"])
     for axis, label in zip(axes, ("state_site", "vote411")):
         style_axis(axis)
-        ranked = sorted((r for r in rows if r[f"change_rate_{label}"] is not None), key=lambda r: r[f"change_rate_{label}"])
-        axis.barh(range(len(ranked)), [100 * r[f"change_rate_{label}"] for r in ranked], height=0.7, color=COLORS["single"])
+        ranked = sorted((r for r in rows if r[f"change_rate_{label}"] is not None),
+                        key=lambda r: (r[f"major_change_rate_{label}"], r[f"change_rate_{label}"]))
+        major = [100 * r[f"major_change_rate_{label}"] for r in ranked]
+        minor = [100 * r[f"minor_edit_rate_{label}"] for r in ranked]
+        # The surface-colored edge leaves a gap between the two segments of a bar.
+        axis.barh(range(len(ranked)), major, height=0.7, color=COLORS["major"], edgecolor=COLORS["surface"], linewidth=1,
+                  label=f"Major: new, removed, or edited below {minor_threshold} similarity")
+        axis.barh(range(len(ranked)), minor, left=major, height=0.7, color=COLORS["minor"], edgecolor=COLORS["surface"],
+                  linewidth=1, label=f"Minor edits only ({minor_threshold} similarity or above)")
         axis.set_yticks(range(len(ranked)), [r["state"].upper() for r in ranked])
         axis.set_ylim(-0.6, max(len(ranked), 1) - 0.4)
         axis.set_xlim(0, 100)
-        axis.set_xlabel("Change rate (%)", color=COLORS["muted"], fontsize=8)
         title = SOURCE_LABELS["state" if label == "state_site" else "vote411"]
+        unit = "questions"
         if label == "vote411":
             by_section = sum(r["vote411_unit"] == "section" for r in ranked)
-            title += f" (by section in {by_section} states, by question in {len(ranked) - by_section})"
+            unit = "sections" if by_section == len(ranked) else "questions" if not by_section else "sections or questions"
+            if 0 < by_section < len(ranked):
+                title += f" (by section in {by_section} states, by question in {len(ranked) - by_section})"
+        axis.set_xlabel(f"Share of {unit} (%)", color=COLORS["muted"], fontsize=8)
         axis.set_title(title, color=COLORS["text"], fontsize=10, loc="left")
-    figure.suptitle(f"Share not carried over unchanged, {baseline_year} to {year}",
-                    color=COLORS["text"], x=0.01, ha="left")
-    figure.tight_layout()
+    handles, labels = axes[0].get_legend_handles_labels()
+    figure.legend(handles, labels, frameon=False, fontsize=8, labelcolor=COLORS["text"], loc="lower left",
+                  bbox_to_anchor=(0.01, 0), ncols=2)
+    figure.suptitle(f"Change per state, {baseline_year} to {year}", color=COLORS["text"], x=0.01, ha="left")
+    figure.tight_layout(rect=(0, 0.025, 1, 1))
     figure.savefig(path, dpi=150, facecolor=COLORS["surface"])
     plt.close(figure)
 
@@ -206,15 +227,16 @@ def analyze(year, baseline_year, output, states=None):
                   for r in rows for y, k in ((baseline_year, "baseline"), (year, "current")) for t in TOPICS]
     write_csv(Path(output) / "topics.csv", topic_rows)
     rankings = sorted(({"state": r["state"], "coverage_rank": r["coverage_rank"], "topics_covered": r["topics_covered_current"],
-                        "change_rank_state_site": r["change_rank_state_site"], "change_rate_state_site": r["change_rate_state_site"],
-                        "change_rank_vote411": r["change_rank_vote411"], "change_rate_vote411": r["change_rate_vote411"],
+                        **{f"{name}_{label}": r[f"{name}_{label}"] for label in ("state_site", "vote411")
+                           for name in ("major_change_rank", "major_change_rate", "minor_edit_rate", "change_rate")},
                         "vote411_unit": r["vote411_unit"]}
                        for r in rows), key=lambda r: r["coverage_rank"])
     write_csv(Path(output) / "rankings.csv", rankings)
     charts = Path(output) / "charts"
     charts.mkdir(parents=True, exist_ok=True)
     chart_counts(rows, charts / "questions_per_state.png", baseline_year, year)
-    chart_change(rows, charts / "change_rate_by_state.png", baseline_year, year)
+    chart_change(rows, charts / "change_rate_by_state.png", baseline_year, year,
+                 settings["comparison"]["answer_minor_threshold"])
     chart_topics(rows, charts / "topic_coverage.png", baseline_year, year)
     return rows
 

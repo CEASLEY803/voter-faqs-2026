@@ -9,6 +9,62 @@
 #   "question"  Always question by question.
 vote411_unit = "auto"
 
+# Two questions that are not identical count as one question reworded when their similarity
+# (0 to 1, after lowercasing and removing punctuation) is at least this. Pairs from the 2024 and
+# 2026 data at 0.8 to 0.9 were rewordings; pairs at 0.7 to 0.8 were often different questions.
+reworded_threshold = 0.8
+
+# A changed answer or section with similarity at or above this is a minor edit, below it a major
+# one. In the 2024 to 2026 Vote411 sections, pairs at 0.85 and above were date updates, added
+# link labels or one added sentence; pairs at 0.80 to 0.85 already included changed deadlines and
+# a rewritten voter ID section.
+answer_minor_threshold = 0.85
+
+# A line repeated in at least this share of one source's answers in a state, for one cycle, is
+# page boilerplate (such as a contact line under every answer) and is ignored when comparing.
+# It applies only when the state has at least boilerplate_min_answers answers for that source.
+boilerplate_share = 0.6
+boilerplate_min_answers = 5
+
+# Records dropped as page elements rather than FAQ questions, when building a cycle's dataset.
+# Dropped records are listed in the cycle's data quality report.
+[non_faq]
+# The same question and answer on at least this many pages of one state, with a question of at
+# most this many words, is a repeated page element such as Minnesota's "Need help?" contact box.
+repeated_min_pages = 3
+repeated_max_words = 4
+
+# Each pattern is matched against the question in lowercase with punctuation and apostrophes removed.
+# Most are anchored with ^ and $ to match the whole question, so "Can I have help voting?" is never
+# caught by the help rule. Check a new rule against the baseline cycle too: a prompt the baseline
+# kept as a question (such as North Carolina's "Unsure if you are registered?") should stay.
+[[non_faq_rules]]
+name = "offer of help"
+pattern = '^(how can we help( you)?|need (more |any )?help|need assistance)$'
+
+[[non_faq_rules]]
+name = "invitation to ask more"
+pattern = '^((do you )?(still )?have (more |other |additional )?questions|(more |other |additional )?questions( about .*)?)$'
+
+[[non_faq_rules]]
+name = "volunteer prompt"
+pattern = '^ready to (serve|vote|help|volunteer)$'
+
+[[non_faq_rules]]
+name = "link label"
+pattern = '^(learn|read|find out) more\b'
+
+[[non_faq_rules]]
+name = "promotional card"
+pattern = '^going abroad$'
+
+# Thresholds for the data quality report.
+[quality]
+short_answer_chars = 25
+long_answer_chars = 6000
+# A state's record count for a source below this share of the baseline cycle's count is reported.
+below_baseline_ratio = 0.5
+
 # Vote411 sections, with a keyword rule that assigns a record to a section when a cycle's records
 # do not say which section they came from (the 2024 data). Each pattern is a regular expression
 # matched against the record's question in lowercase with punctuation removed. Rules are tried in
