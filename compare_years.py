@@ -16,11 +16,11 @@ from datasets import (SOURCES, assign_vote411_section, dataset_dir, load_dataset
 
 # The thresholds used here (rewording, minor and major edits, boilerplate) live in settings.toml's
 # [comparison] table; functions receive that table as `config`.
-SUMMARY_FIELDS = ["state", "source", "unit", "baseline_method", "current_method", "baseline_count", "current_count",
+SUMMARY_FIELDS = ["state", "source", "unit", "unit_basis", "baseline_method", "current_method", "baseline_count", "current_count",
                   "same", "reworded", "new", "removed", "unassigned", "answers_changed", "answers_minor", "answers_major",
                   "excluded_other_baseline", "excluded_other_current"]
-# Vote411 methods whose records stand for whole sections rather than single questions.
-SECTION_METHODS = {"section_titles", "mixed", "sections_without_questions", "unknown"}
+# Current-cycle Vote411 methods that include one record per published question heading.
+QUESTION_LEVEL_METHODS = {"question_headings", "mixed"}
 
 
 def similarity(first, second):
@@ -95,11 +95,20 @@ def match_questions(baseline, current, config):
     return items
 
 
-def comparison_unit(setting, baseline_method, current_method):
-    """'question' or 'section' for one state's Vote411 records, following settings.toml."""
-    if setting != "auto":
-        return setting
-    return "section" if {baseline_method, current_method} & SECTION_METHODS else "question"
+def comparison_unit(config, state, baseline_method, current_method):
+    """Return (unit, basis) for one state's Vote411 records: 'question' or 'section', and what decided it.
+
+    Priority: the state's entry in vote411_unit_overrides, then a fixed vote411_unit, then the "auto"
+    rule: question by question only when the baseline used question headings and the current cycle
+    has question-heading records too.
+    """
+    override = config.get("vote411_unit_overrides", {}).get(state)
+    if override:
+        return override, "override in settings.toml"
+    if config["vote411_unit"] != "auto":
+        return config["vote411_unit"], "vote411_unit in settings.toml"
+    by_question = baseline_method == "question_headings" and current_method in QUESTION_LEVEL_METHODS
+    return ("question" if by_question else "section"), "auto, from the manifests' methods"
 
 
 def page_sections(manifest, state):
@@ -173,7 +182,7 @@ def compare(baseline, current, states=None, baseline_manifest=None, current_mani
             old = [record for record in baseline.get(state, []) if record_source(record) == source]
             new = [record for record in current.get(state, []) if record_source(record) == source]
             methods = (vote411_method(baseline_manifest, state), vote411_method(current_manifest, state)) if source == "vote411" else ("", "")
-            unit = comparison_unit(config["vote411_unit"], *methods) if source == "vote411" else "question"
+            unit, basis = comparison_unit(config, state, *methods) if source == "vote411" else ("question", "")
             if unit == "section":
                 (old_sections, old_unassigned), (new_sections, new_unassigned) = (
                     vote411_sections(baseline_manifest, state, old, rules), vote411_sections(current_manifest, state, new, rules))
@@ -188,7 +197,8 @@ def compare(baseline, current, states=None, baseline_manifest=None, current_mani
             counts = {status: sum(entry["status"] == status for entry in items)
                       for status in ("same", "reworded", "new", "removed", "unassigned")}
             summary.append({
-                "state": state, "source": source, "unit": unit, "baseline_method": methods[0], "current_method": methods[1],
+                "state": state, "source": source, "unit": unit, "unit_basis": basis,
+                "baseline_method": methods[0], "current_method": methods[1],
                 "baseline_count": counted[0], "current_count": counted[1], **counts,
                 "answers_changed": sum(entry.get("answer_status") in ("minor_change", "major_change") for entry in items),
                 "answers_minor": sum(entry.get("answer_status") == "minor_change" for entry in items),
@@ -203,6 +213,7 @@ def write_comparison(output, details, summary, baseline_year, year, settings=Non
     """Write one detail file per state and a summary CSV under output/comparison/."""
     folder = Path(output) / "comparison"
     units = {(row["state"], row["source"]): row["unit"] for row in summary}
+    bases = {(row["state"], row["source"]): row["unit_basis"] for row in summary}
     config = (settings or load_settings())["comparison"]
     for state, items in details.items():
         write_json(folder / f"{state}.json", {
@@ -211,6 +222,7 @@ def write_comparison(output, details, summary, baseline_year, year, settings=Non
             "answer_minor_threshold": config["answer_minor_threshold"],
             "vote411_unit_setting": config["vote411_unit"],
             "vote411_unit": units.get((state, "vote411")),
+            "vote411_unit_basis": bases.get((state, "vote411")),
             "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
             "items": items})
     with open(folder / "summary.csv", "w", newline="", encoding="utf-8") as file:

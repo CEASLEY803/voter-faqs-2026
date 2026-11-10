@@ -73,7 +73,7 @@ def per_state_table(baseline, current, details, summary, states):
     for state in states:
         row = {"state": state}
         vote411_row = by_key[(state, "vote411")]
-        row["vote411_unit"] = vote411_row["unit"]
+        row["vote411_unit"], row["vote411_unit_basis"] = vote411_row["unit"], vote411_row["unit_basis"]
         row["vote411_method_baseline"], row["vote411_method_current"] = vote411_row["baseline_method"], vote411_row["current_method"]
         for source in SOURCES:
             stats = by_key[(state, source)]

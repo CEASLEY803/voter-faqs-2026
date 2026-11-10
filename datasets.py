@@ -25,8 +25,10 @@ SETTINGS_FILE = ROOT / "settings.toml"
 #   section_titles              one record per section, its title (or a question made from it) as the question
 #   mixed                       section titles for some sections, question headings for others
 #   sections_without_questions  the page had no question headings; content kept as sections only
+#   page_fragments              records are dates, headings and sentences from the page, not questions
 #   none                        no Vote411 records for the state
-VOTE411_METHODS = ("question_headings", "section_titles", "mixed", "sections_without_questions", "none")
+VOTE411_METHODS = ("question_headings", "section_titles", "mixed", "sections_without_questions", "page_fragments", "none")
+VOTE411_UNITS = ("section", "question")
 
 
 def load_settings(path=SETTINGS_FILE):
@@ -34,6 +36,10 @@ def load_settings(path=SETTINGS_FILE):
     unit = settings["comparison"]["vote411_unit"]
     if unit not in ("auto", "section", "question"):
         raise SystemExit(f"{Path(path).name}: vote411_unit must be auto, section or question, not {unit!r}")
+    for state, override in settings["comparison"].get("vote411_unit_overrides", {}).items():
+        if override not in VOTE411_UNITS or len(state) != 2 or state != state.lower():
+            raise SystemExit(f"{Path(path).name}: vote411_unit_overrides needs lowercase state codes set to "
+                             f"section or question, not {state} = {override!r}")
     for key in ("reworded_threshold", "answer_minor_threshold", "boilerplate_share"):
         if not 0 <= settings["comparison"][key] <= 1:
             raise SystemExit(f"{Path(path).name}: {key} must be between 0 and 1")

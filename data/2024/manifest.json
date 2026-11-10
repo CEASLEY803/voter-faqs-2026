@@ -1,6 +1,6 @@
 {
     "year": 2024,
-    "described_at": "2026-11-05T15:55:57+00:00",
+    "described_at": "2026-11-10T18:15:20+00:00",
     "source": {
         "repository": "https://github.com/ai4society/election-dataset-us",
         "commit": "27105405530734ac5466826829d0446e48dda079"
@@ -21,7 +21,7 @@
                 "hi": "section_titles",
                 "ia": "section_titles",
                 "id": "mixed",
-                "il": "question_headings",
+                "il": "page_fragments",
                 "in": "section_titles",
                 "ks": "section_titles",
                 "ky": "section_titles",
@@ -59,133 +59,154 @@
                 "wv": "section_titles",
                 "wy": "mixed"
             },
-            "method_basis": "Inferred from the records. A record counts as a section title when its wording is used by at least 5 states, or when it is the only record assigned to its section (by the keyword rules in settings.toml) in a state whose records cover at least 10 sections with at most 1.5 records per section. A state is section_titles when at least 90% of its records are section titles, question_headings when at most 10% are, and mixed otherwise.",
+            "method_basis": "Inferred from the records. A state is page_fragments when under 50% of its records end in a question mark. Otherwise, a record counts as a section title when its wording is used by at least 5 states, or when it is the only record assigned to its section (by the keyword rules in settings.toml) in a state whose records cover at least 10 sections with at most 1.5 records per section. A state is section_titles when at least 90% of its records are section titles, question_headings when at most 10% are, and mixed otherwise.",
             "evidence": {
                 "ak": {
                     "records": 23,
                     "sections_covered": 23,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "al": {
                     "records": 22,
                     "sections_covered": 22,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "ar": {
                     "records": 18,
                     "sections_covered": 15,
                     "unassigned_records": 0,
-                    "section_title_share": 0.72
+                    "section_title_share": 0.72,
+                    "question_mark_share": 1.0
                 },
                 "az": {
                     "records": 22,
                     "sections_covered": 22,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "ca": {
                     "records": 22,
                     "sections_covered": 9,
                     "unassigned_records": 3,
-                    "section_title_share": 0.05
+                    "section_title_share": 0.05,
+                    "question_mark_share": 1.0
                 },
                 "co": {
                     "records": 23,
                     "sections_covered": 22,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "ct": {
                     "records": 22,
                     "sections_covered": 22,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "de": {
                     "records": 22,
                     "sections_covered": 22,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "fl": {
                     "records": 22,
                     "sections_covered": 13,
                     "unassigned_records": 0,
-                    "section_title_share": 0.64
+                    "section_title_share": 0.64,
+                    "question_mark_share": 1.0
                 },
                 "ga": {
                     "records": 29,
                     "sections_covered": 12,
                     "unassigned_records": 7,
-                    "section_title_share": 0.07
+                    "section_title_share": 0.07,
+                    "question_mark_share": 1.0
                 },
                 "hi": {
                     "records": 23,
                     "sections_covered": 22,
                     "unassigned_records": 0,
-                    "section_title_share": 0.96
+                    "section_title_share": 0.96,
+                    "question_mark_share": 1.0
                 },
                 "ia": {
                     "records": 22,
                     "sections_covered": 22,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "id": {
                     "records": 15,
                     "sections_covered": 13,
                     "unassigned_records": 0,
-                    "section_title_share": 0.8
+                    "section_title_share": 0.8,
+                    "question_mark_share": 1.0
                 },
                 "il": {
                     "records": 103,
                     "sections_covered": 21,
                     "unassigned_records": 41,
-                    "section_title_share": 0.0
+                    "section_title_share": 0.0,
+                    "question_mark_share": 0.0
                 },
                 "in": {
                     "records": 22,
                     "sections_covered": 22,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "ks": {
                     "records": 21,
                     "sections_covered": 21,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "ky": {
                     "records": 23,
                     "sections_covered": 23,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 0.96
                 },
                 "la": {
                     "records": 21,
                     "sections_covered": 21,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "ma": {
                     "records": 26,
                     "sections_covered": 19,
                     "unassigned_records": 3,
-                    "section_title_share": 0.73
+                    "section_title_share": 0.73,
+                    "question_mark_share": 0.92
                 },
                 "md": {
                     "records": 22,
                     "sections_covered": 22,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "me": {
                     "records": 23,
                     "sections_covered": 23,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "mi": {
                     "records": 0
@@ -194,55 +215,64 @@
                     "records": 24,
                     "sections_covered": 23,
                     "unassigned_records": 0,
-                    "section_title_share": 0.96
+                    "section_title_share": 0.96,
+                    "question_mark_share": 1.0
                 },
                 "mo": {
                     "records": 19,
                     "sections_covered": 15,
                     "unassigned_records": 0,
-                    "section_title_share": 0.79
+                    "section_title_share": 0.79,
+                    "question_mark_share": 1.0
                 },
                 "ms": {
                     "records": 22,
                     "sections_covered": 22,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "mt": {
                     "records": 37,
                     "sections_covered": 22,
                     "unassigned_records": 2,
-                    "section_title_share": 0.7
+                    "section_title_share": 0.7,
+                    "question_mark_share": 1.0
                 },
                 "nc": {
                     "records": 22,
                     "sections_covered": 22,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "nd": {
                     "records": 22,
                     "sections_covered": 22,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "ne": {
                     "records": 17,
                     "sections_covered": 15,
                     "unassigned_records": 0,
-                    "section_title_share": 0.88
+                    "section_title_share": 0.88,
+                    "question_mark_share": 1.0
                 },
                 "nh": {
                     "records": 21,
                     "sections_covered": 21,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "nj": {
                     "records": 22,
                     "sections_covered": 22,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "nm": {
                     "records": 0
@@ -251,31 +281,36 @@
                     "records": 39,
                     "sections_covered": 22,
                     "unassigned_records": 5,
-                    "section_title_share": 0.62
+                    "section_title_share": 0.62,
+                    "question_mark_share": 1.0
                 },
                 "ny": {
                     "records": 36,
                     "sections_covered": 24,
                     "unassigned_records": 1,
-                    "section_title_share": 0.72
+                    "section_title_share": 0.72,
+                    "question_mark_share": 1.0
                 },
                 "oh": {
                     "records": 22,
                     "sections_covered": 22,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "ok": {
                     "records": 22,
                     "sections_covered": 22,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "or": {
                     "records": 22,
                     "sections_covered": 21,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "pa": {
                     "records": 0
@@ -284,73 +319,85 @@
                     "records": 22,
                     "sections_covered": 22,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "sc": {
                     "records": 11,
                     "sections_covered": 11,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "sd": {
                     "records": 18,
                     "sections_covered": 16,
                     "unassigned_records": 0,
-                    "section_title_share": 0.83
+                    "section_title_share": 0.83,
+                    "question_mark_share": 1.0
                 },
                 "tn": {
                     "records": 18,
                     "sections_covered": 16,
                     "unassigned_records": 0,
-                    "section_title_share": 0.83
+                    "section_title_share": 0.83,
+                    "question_mark_share": 1.0
                 },
                 "tx": {
                     "records": 40,
                     "sections_covered": 13,
                     "unassigned_records": 11,
-                    "section_title_share": 0.0
+                    "section_title_share": 0.0,
+                    "question_mark_share": 0.7
                 },
                 "ut": {
                     "records": 17,
                     "sections_covered": 15,
                     "unassigned_records": 0,
-                    "section_title_share": 0.88
+                    "section_title_share": 0.88,
+                    "question_mark_share": 1.0
                 },
                 "va": {
                     "records": 49,
                     "sections_covered": 24,
                     "unassigned_records": 6,
-                    "section_title_share": 0.47
+                    "section_title_share": 0.47,
+                    "question_mark_share": 1.0
                 },
                 "vt": {
                     "records": 21,
                     "sections_covered": 21,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 0.9
                 },
                 "wa": {
                     "records": 22,
                     "sections_covered": 21,
                     "unassigned_records": 0,
-                    "section_title_share": 0.95
+                    "section_title_share": 0.95,
+                    "question_mark_share": 1.0
                 },
                 "wi": {
                     "records": 12,
                     "sections_covered": 2,
                     "unassigned_records": 1,
-                    "section_title_share": 0.17
+                    "section_title_share": 0.17,
+                    "question_mark_share": 1.0
                 },
                 "wv": {
                     "records": 22,
                     "sections_covered": 22,
                     "unassigned_records": 0,
-                    "section_title_share": 1.0
+                    "section_title_share": 1.0,
+                    "question_mark_share": 1.0
                 },
                 "wy": {
                     "records": 18,
                     "sections_covered": 17,
                     "unassigned_records": 0,
-                    "section_title_share": 0.89
+                    "section_title_share": 0.89,
+                    "question_mark_share": 1.0
                 }
             }
         },

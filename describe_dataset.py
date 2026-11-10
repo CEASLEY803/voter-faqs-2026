@@ -23,8 +23,13 @@ LAYOUT_MAX_RECORDS_PER_SECTION = 1.5
 # Share of section-title records at or above which a state is section_titles, at or below which question_headings.
 SECTION_TITLES_SHARE = 0.9
 QUESTION_HEADINGS_SHARE = 0.1
+# A state where under this share of records end in a question mark holds page fragments, not questions.
+# In the 2024 data Illinois is at 0% (dates and headings such as "By Mail: Tuesday, October 8, 2024");
+# the next lowest state is at 70%.
+QUESTION_MARK_SHARE = 0.5
 METHOD_BASIS = (
-    "Inferred from the records. A record counts as a section title when its wording is used by at least "
+    f"Inferred from the records. A state is page_fragments when under {QUESTION_MARK_SHARE:.0%} of its records "
+    "end in a question mark. Otherwise, a record counts as a section title when its wording is used by at least "
     f"{SHARED_WORDING_STATES} states, or when it is the only record assigned to its section (by the keyword rules "
     f"in settings.toml) in a state whose records cover at least {LAYOUT_MIN_SECTIONS} sections with at most "
     f"{LAYOUT_MAX_RECORDS_PER_SECTION} records per section. A state is section_titles when at least "
@@ -51,11 +56,14 @@ def infer_vote411_methods(dataset, rules):
                       or (follows_layout and section is not None and per_section[section] == 1)
                       for question, section in zip(qs, sections)]
         share = sum(title_like) / len(qs)
-        methods[state] = ("section_titles" if share >= SECTION_TITLES_SHARE
+        question_marks = sum(str(r["q"]).strip().endswith("?") for r in dataset[state]
+                             if record_source(r) == "vote411") / len(qs)
+        methods[state] = ("page_fragments" if question_marks < QUESTION_MARK_SHARE
+                          else "section_titles" if share >= SECTION_TITLES_SHARE
                           else "question_headings" if share <= QUESTION_HEADINGS_SHARE else "mixed")
         evidence[state] = {"records": len(qs), "sections_covered": len(per_section),
                            "unassigned_records": sum(section is None for section in sections),
-                           "section_title_share": round(share, 2)}
+                           "section_title_share": round(share, 2), "question_mark_share": round(question_marks, 2)}
     return methods, evidence
 
 

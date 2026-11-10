@@ -2,11 +2,15 @@
 
 [comparison]
 # How Vote411 records are compared between two cycles.
-#   "auto"      Question by question when both cycles' manifests say the state's Vote411 records
-#               came from question headings; by section otherwise (for example when the earlier
-#               cycle turned each section title into one question, as most 2024 states did).
+#   "auto"      Question by question when the baseline cycle's manifest says the state's Vote411
+#               records came from question headings and the current cycle has question-heading
+#               records too (method question_headings or mixed); by section otherwise (for example
+#               when the baseline turned each section title into one question, as most 2024 states
+#               did, or holds page fragments, as Illinois does in 2024).
 #   "section"   Always by section.
 #   "question"  Always question by question.
+# A state listed under [comparison.vote411_unit_overrides] further down uses the unit given there,
+# whatever this setting and the manifests say.
 vote411_unit = "auto"
 
 # Two questions that are not identical count as one question reworded when their similarity
@@ -25,6 +29,13 @@ answer_minor_threshold = 0.85
 # It applies only when the state has at least boilerplate_min_answers answers for that source.
 boilerplate_share = 0.6
 boilerplate_min_answers = 5
+
+# Per-state choice of the Vote411 comparison unit: a lowercase state code set to "section" or
+# "question". It takes priority over vote411_unit and over the methods in the manifests.
+[comparison.vote411_unit_overrides]
+# Illinois: the 2024 Vote411 records are dates and page fragments ("By Mail: Tuesday, October 8,
+# 2024", "Get Registered"), not questions, so they can only be compared by section.
+il = "section"
 
 # Records dropped as page elements rather than FAQ questions, when building a cycle's dataset.
 # Dropped records are listed in the cycle's data quality report.
