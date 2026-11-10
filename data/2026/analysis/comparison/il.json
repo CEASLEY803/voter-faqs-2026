@@ -6,6 +6,7 @@
     "answer_minor_threshold": 0.85,
     "vote411_unit_setting": "auto",
     "vote411_unit": "section",
+    "vote411_unit_basis": "override in settings.toml",
     "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
     "items": [
         {

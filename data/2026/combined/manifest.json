@@ -1,7 +1,7 @@
 {
     "year": 2026,
     "baseline_year": 2024,
-    "built_at": "2026-11-10T18:02:56+00:00",
+    "built_at": "2026-11-10T18:15:43+00:00",
     "vote411_batch": "data/2026/batches/20261022T201244360248Z",
     "state_site_batch": "data/2026/state_sites/20261029T220403252970Z",
     "state_site_parser_version": 2,
