@@ -76,6 +76,76 @@ long_answer_chars = 6000
 # A state's record count for a source below this share of the baseline cycle's count is reported.
 below_baseline_ratio = 0.5
 
+# Topics for the topic coverage numbers, topics.csv and the topic chart. A question counts for a
+# topic when the topic's pattern is found in it. Only the question is checked, not the answer, in
+# lowercase with punctuation and apostrophes removed ("I.D." becomes "i d", "I'd" becomes "id").
+# One question can count for several topics.
+#   name     Becomes the column names in per_state.csv (voter_id_baseline, voter_id_current) and
+#            the topic value in topics.csv. Lowercase letters, digits and underscores.
+#   label    The name shown on the chart.
+#   pattern  A regular expression. Alternatives are separated by |, and \b marks a word edge.
+#   ignore   Optional. Phrases cut out of the question before the pattern is tried, for wordings
+#            that use a topic's keyword for something else. "Can a poll worker reject my ID?" is
+#            not a polling place question, but "Can a poll worker help me at my polling place?"
+#            still is, because "polling place" is left after "poll worker" is cut out.
+# The order here is the column order in the output files and on the chart. After changing a
+# rule, check it against both cycles' questions: a keyword that looks safe often is not ("due"
+# also matches "due to a disability", and "ID" alone would match "I'd like to").
+
+[[topics]]
+name = "registration"
+label = "Registration"
+# Voter rolls are the registration lists. Ignored: registering a business with the Illinois
+# board, a vehicle, a PAC or a minor party (up to five words may sit between "register" and the
+# thing registered), and a phone number on the do not call list.
+pattern = '\bregist|\bvoter rolls?\b'
+ignore = '\bregist\w*( \w+){0,5} (business\w*|vehicle|pacs?|political action committees?|minor political party)\b|\bbusiness\w*( \w+){0,3} regist\w*|\bregistered with revenue\b|\bregistered on the do not call list\b'
+
+[[topics]]
+name = "mail_absentee"
+label = "Mail and absentee"
+# Covers the ways a ballot is described as mailed or returned: "mail my ballot", "mailed ballot",
+# "when are ballots mailed", "ballot in the mail", "return my ballot", plus Kansas's "advance
+# ballot" and Florida's "ballot intake station" (its name for a drop box). Ignored: registering
+# to vote by mail, and sample ballots, which also arrive in the mail.
+pattern = '\babsentee|\bmail in\b|\bby mail\b|\bvote by mail|\bmail (ballot|voting)|\bmail(ed)? (in )?(my |your |a |the |their )?((voted|completed|advance) )*ballot|\bballots? (\w+ ){0,2}mailed\b|\bballots? (arrive )?in (the )?mail\b|\badvance ballots?\b|\breturn(ing|ed)? (my |your |a |the |their )?((voted|completed|advance) )*ballot|\bdrop ?box|\bballot intake station'
+ignore = '\bregist\w* (to vote )?by mail\b|\bsample ballots?\b'
+
+[[topics]]
+name = "early_voting"
+label = "Early voting"
+# Includes the other names states use for voting in person before election day: "early in-person
+# voting" (Virginia), "in-person absentee" (Wisconsin, Indiana, Maine, Alaska) and "advance voting"
+# (Kansas), and questions that ask about voting before election day.
+pattern = '\bearly (in person )?vot|\bvot(e|ed|ing) early\b|\bballots? early\b|\bvote before election day\b|\bin person absentee\b|\bvot(e|ing) (by )?absentee (ballot )?in person\b|\babsentee voting in person\b|\badvance (in person )?vot|\badvance in person\b'
+
+[[topics]]
+name = "voter_id"
+label = "Voter ID"
+# Any mention of an ID, identification or proof of identity, for voting or for registering.
+# Ignored: the "voter ID card" that Oklahoma and Missouri mail to registered voters (a
+# registration card), and "I'd like", which becomes "id like" once the apostrophe is removed.
+pattern = '\bids?\b|\bi d\b|\bidentification\b|\bproof of identity\b|\bprove (my|your) identity\b'
+ignore = '\bvoter (id|identification) cards?\b|\bi ?d (like|rather|prefer|love)\b'
+
+[[topics]]
+name = "polling_places"
+label = "Polling places"
+# Where and when to vote in person: polling places and their hours, "the polls", vote centers,
+# precincts, and "where do I vote" in its different wordings. Ignored: poll workers, poll
+# watchers, poll books, exit polls, precinct committee offices and the precinct register.
+pattern = '\bpolling (place|location|site|center|station|hours)|\bvoting (location|place|site|hours)|\bpolls?\b|\bwhere (to|(do |can |should |will )?(i|you|we)( can| should)?) (go )?(to )?vote\b|\bvote centers?\b|\bprecinct'
+ignore = '\bpoll (workers?|watchers?|books?|list|tax)\b|\bexit polls?\b|\bprecinct (committee\w*|register|registry)\b'
+
+[[topics]]
+name = "deadlines"
+label = "Deadlines"
+# The word deadline, and questions that ask for one in other words: "last day", "when is it due",
+# "too late", "when do I need to register", "when must my ballot be returned", "when does
+# registration close", "arrive in time". Ignored: "due to", which gives a reason, not a date.
+pattern = '\bdeadlines?\b|\blast day\b|\bdue\b|\b(how|too) late\b|\blatest (i|you|a voter) can\b|\blate regist|\bpostmark|\bby what date\b|\bby when\b|\bhow soon\b|\bcut ?off\b|\bwhen must\b|\bwhen (do|does|should) .{0,60}\b(need|needs|have|has) to\b|\bregistration (closes?|ends?)\b|\bclose of registration\b|\b(arrive|arrives|received|returned|registered|ballot) in time\b'
+ignore = '\bdue to\b'
+
 # Vote411 sections, with a keyword rule that assigns a record to a section when a cycle's records
 # do not say which section they came from (the 2024 data). Each pattern is a regular expression
 # matched against the record's question in lowercase with punctuation removed. Rules are tried in

@@ -3,7 +3,6 @@
 import argparse
 import csv
 from pathlib import Path
-import re
 
 import matplotlib
 matplotlib.use("Agg")
@@ -12,21 +11,10 @@ from matplotlib.colors import LinearSegmentedColormap
 
 from collect_sc import ROOT
 from compare_years import compare, write_comparison
-from datasets import SOURCES, dataset_dir, load_dataset, load_manifest, load_settings, normalize_text, record_source
+from datasets import (SOURCES, dataset_dir, load_dataset, load_manifest, load_settings, question_topics, record_source,
+                      topic_rules)
 
 
-# Keyword rules applied to normalized question text (lowercase, punctuation removed). Only the
-# question is checked, because answers mention many topics in passing.
-TOPICS = {
-    "registration": r"\bregist",
-    "mail_absentee": r"\babsentee|\bmail in\b|\bby mail\b|\bvote by mail|\bmail ballot|\bdrop box",
-    "early_voting": r"\bearly vot|\bvote early|\bvoting early",
-    "voter_id": r"\b(photo|voter|valid|acceptable|show|bring|need|required?|forms? of) (an )?ids?\b|\bidentification\b|\bid (card|required|requirements?)\b",
-    "polling_places": r"\bpolling (place|location|site)|\bpolls?\b|\bwhere (do|can|should|will) i vote|\bvote centers?\b|\bprecinct",
-    "deadlines": r"\bdeadlines?\b|\blast day\b|\bdue\b|\bhow late\b|\bpostmark|\bby what date\b|\bhow soon\b",
-}
-TOPIC_LABELS = {"registration": "Registration", "mail_absentee": "Mail and absentee", "early_voting": "Early voting",
-                "voter_id": "Voter ID", "polling_places": "Polling places", "deadlines": "Deadlines"}
 SOURCE_LABELS = {"state": "State election site", "vote411": "Vote411"}
 # Reference palette: categorical slots 1 and 2, sequential blue ramp, text and surface tokens.
 COLORS = {"baseline": "#2a78d6", "current": "#eb6834", "major": "#2a78d6", "minor": "#86b6ef",
@@ -34,13 +22,12 @@ COLORS = {"baseline": "#2a78d6", "current": "#eb6834", "major": "#2a78d6", "mino
 SEQUENTIAL = ["#fcfcfb", "#cde2fb", "#9ec5f4", "#6da7ec", "#3987e5", "#256abf", "#184f95", "#0d366b"]
 
 
-def topic_counts(records):
-    counts = dict.fromkeys(TOPICS, 0)
+def topic_counts(records, topics):
+    """Questions per topic. Only the question is checked, because answers mention many topics in passing."""
+    counts = {topic["name"]: 0 for topic in topics}
     for record in records:
-        question = normalize_text(record["q"])
-        for topic, pattern in TOPICS.items():
-            if re.search(pattern, question):
-                counts[topic] += 1
+        for name in question_topics(record["q"], topics):
+            counts[name] += 1
     return counts
 
 
@@ -80,7 +67,7 @@ def missing_year_note(baseline_count, current_count, baseline_year, year):
     return f"no {year} records" if not current_count else ""
 
 
-def per_state_table(baseline, current, details, summary, states, baseline_year, year):
+def per_state_table(baseline, current, details, summary, states, baseline_year, year, topics):
     by_key = {(row["state"], row["source"]): row for row in summary}
     rows = []
     for state in states:
@@ -108,7 +95,7 @@ def per_state_table(baseline, current, details, summary, states, baseline_year, 
                             if item["source"] == source and "answer_similarity" in item]
             row[f"mean_answer_similarity_{label}"] = round(sum(similarities) / len(similarities), 3) if similarities else None
         for year_key, dataset in (("baseline", baseline), ("current", current)):
-            counts = topic_counts([r for r in dataset.get(state, []) if record_source(r) in SOURCES])
+            counts = topic_counts([r for r in dataset.get(state, []) if record_source(r) in SOURCES], topics)
             row[f"topics_covered_{year_key}"] = sum(1 for count in counts.values() if count)
             row[f"topic_questions_{year_key}"] = sum(counts.values())
             for topic, count in counts.items():
@@ -205,10 +192,11 @@ def chart_change(rows, path, baseline_year, year, minor_threshold):
     plt.close(figure)
 
 
-def chart_topics(rows, path, baseline_year, year):
+def chart_topics(rows, path, baseline_year, year, topics):
     """Questions per topic and state for both years on one color scale."""
     order = sorted(rows, key=lambda r: r["coverage_rank"])
-    topics = list(TOPICS)
+    labels = [topic["label"] for topic in topics]
+    topics = [topic["name"] for topic in topics]
     peak = max([1] + [r[f"{t}_{k}"] for r in order for t in topics for k in ("baseline", "current")])
     colormap = LinearSegmentedColormap.from_list("blues", SEQUENTIAL)
     figure, axes = plt.subplots(1, 2, figsize=(9, max(4, 0.22 * len(order) + 2)), sharey=True,
@@ -219,7 +207,7 @@ def chart_topics(rows, path, baseline_year, year):
         image = axis.pcolormesh(grid, cmap=colormap, vmin=0, vmax=min(peak, 20),
                                 edgecolors=COLORS["surface"], linewidth=1.5)
         axis.set_facecolor(COLORS["surface"])
-        axis.set_xticks([i + 0.5 for i in range(len(topics))], [TOPIC_LABELS[t] for t in topics], rotation=40, ha="right")
+        axis.set_xticks([i + 0.5 for i in range(len(topics))], labels, rotation=40, ha="right")
         axis.set_yticks([i + 0.5 for i in range(len(order))], [r["state"].upper() for r in order])
         axis.set_ylim(len(order), 0)
         axis.tick_params(colors=COLORS["muted"], labelsize=8, length=0)
@@ -240,12 +228,14 @@ def analyze(year, baseline_year, output, states=None):
     baseline, current = load_dataset(dataset_dir(baseline_year)), load_dataset(dataset_dir(year))
     states = sorted(states or current)
     settings = load_settings()
+    topics = topic_rules(settings)
     details, summary = compare(baseline, current, states, load_manifest(baseline_year), load_manifest(year), settings)
     write_comparison(output, details, summary, baseline_year, year, settings)
-    rows = per_state_table(baseline, current, details, summary, states, baseline_year, year)
+    rows = per_state_table(baseline, current, details, summary, states, baseline_year, year, topics)
     write_csv(Path(output) / "per_state.csv", rows)
     topic_rows = [{"state": r["state"], "year": y, "topic": t, "questions": r[f"{t}_{k}"]}
-                  for r in rows for y, k in ((baseline_year, "baseline"), (year, "current")) for t in TOPICS]
+                  for r in rows for y, k in ((baseline_year, "baseline"), (year, "current"))
+                  for t in (topic["name"] for topic in topics)]
     write_csv(Path(output) / "topics.csv", topic_rows)
     rankings = sorted(({"state": r["state"], "coverage_rank": r["coverage_rank"], "topics_covered": r["topics_covered_current"],
                         **{f"{name}_{label}": r[f"{name}_{label}"] for label in ("state_site", "vote411")
@@ -258,7 +248,7 @@ def analyze(year, baseline_year, output, states=None):
     chart_counts(rows, charts / "questions_per_state.png", baseline_year, year)
     chart_change(rows, charts / "change_rate_by_state.png", baseline_year, year,
                  settings["comparison"]["answer_minor_threshold"])
-    chart_topics(rows, charts / "topic_coverage.png", baseline_year, year)
+    chart_topics(rows, charts / "topic_coverage.png", baseline_year, year, topics)
     return rows
 
 

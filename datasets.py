@@ -43,11 +43,45 @@ def load_settings(path=SETTINGS_FILE):
     for key in ("reworded_threshold", "answer_minor_threshold", "boilerplate_share"):
         if not 0 <= settings["comparison"][key] <= 1:
             raise SystemExit(f"{Path(path).name}: {key} must be between 0 and 1")
+    # Topic names become column names in per_state.csv, so they must be unique and plain.
+    names = [topic.get("name", "") for topic in settings.get("topics", [])]
+    if not names or len(set(names)) != len(names) or not all(re.fullmatch(r"[a-z][a-z0-9_]*", name) for name in names):
+        raise SystemExit(f"{Path(path).name}: [[topics]] needs at least one topic, each with a unique name made of "
+                         "lowercase letters, digits and underscores")
+    for topic in settings["topics"]:
+        for key in ("pattern", "ignore"):
+            try:
+                re.compile(topic.get(key, ""))
+            except re.error as error:
+                raise SystemExit(f"{Path(path).name}: topic {topic['name']} has a bad {key}: {error}")
+        if not topic.get("label") or not topic.get("pattern"):
+            raise SystemExit(f"{Path(path).name}: topic {topic['name']} needs a label and a pattern")
     return settings
 
 
 def non_faq_rules(settings):
     return [(rule["name"], re.compile(rule["pattern"])) for rule in settings["non_faq_rules"]]
+
+
+def topic_rules(settings):
+    """The topics from settings.toml, in file order, with their patterns compiled."""
+    return [{"name": topic["name"], "label": topic["label"], "pattern": re.compile(topic["pattern"]),
+             "ignore": re.compile(topic["ignore"]) if topic.get("ignore") else None} for topic in settings["topics"]]
+
+
+def question_topics(question, rules):
+    """Names of the topics whose keyword rule matches the question.
+
+    A topic's ignore phrases are cut out of the question first, so "poll worker" does not count as a
+    polling place question, while a question that also says "polling place" still does.
+    """
+    text = normalize_text(question)
+    found = []
+    for rule in rules:
+        checked = re.sub(r"\s+", " ", rule["ignore"].sub(" ", text)) if rule["ignore"] else text
+        if rule["pattern"].search(checked):
+            found.append(rule["name"])
+    return found
 
 
 def vote411_section_rules(settings):
