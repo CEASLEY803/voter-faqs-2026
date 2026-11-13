@@ -67,7 +67,20 @@ def rank(rows, key, reverse=True):
     return {row["state"]: (values.index(row[key]) + 1 if row[key] is not None else None) for row in rows}
 
 
-def per_state_table(baseline, current, details, summary, states):
+def missing_year_note(baseline_count, current_count, baseline_year, year):
+    """Why a state's change rates are left blank for a source, or "" when both years have records.
+
+    With no records in one year, every question in the other year would count as new or removed:
+    that is missing data, not change.
+    """
+    if not baseline_count and not current_count:
+        return f"no {baseline_year} or {year} records"
+    if not baseline_count:
+        return f"no {baseline_year} records"
+    return f"no {year} records" if not current_count else ""
+
+
+def per_state_table(baseline, current, details, summary, states, baseline_year, year):
     by_key = {(row["state"], row["source"]): row for row in summary}
     rows = []
     for state in states:
@@ -87,8 +100,10 @@ def per_state_table(baseline, current, details, summary, states):
                 row[f"{status}_{label}"] = stats[status]
             row[f"answers_minor_{label}"] = stats["answers_minor"]
             row[f"answers_major_{label}"] = stats["answers_major"]
-            (row[f"minor_edit_rate_{label}"], row[f"major_change_rate_{label}"],
-             row[f"change_rate_{label}"]) = change_rates([item for item in details[state] if item["source"] == source])
+            note = missing_year_note(row[f"baseline_{label}"], row[f"current_{label}"], baseline_year, year)
+            (row[f"minor_edit_rate_{label}"], row[f"major_change_rate_{label}"], row[f"change_rate_{label}"]) = (
+                (None, None, None) if note else change_rates([item for item in details[state] if item["source"] == source]))
+            row[f"change_rate_note_{label}"] = note
             similarities = [item["answer_similarity"] for item in details[state]
                             if item["source"] == source and "answer_similarity" in item]
             row[f"mean_answer_similarity_{label}"] = round(sum(similarities) / len(similarities), 3) if similarities else None
@@ -156,15 +171,21 @@ def chart_change(rows, path, baseline_year, year, minor_threshold):
         style_axis(axis)
         ranked = sorted((r for r in rows if r[f"change_rate_{label}"] is not None),
                         key=lambda r: (r[f"major_change_rate_{label}"], r[f"change_rate_{label}"]))
+        # States with no records in one year have no rate; they go at the bottom with a note instead of a bar.
+        unrated = sorted((r for r in rows if r[f"change_rate_{label}"] is None), key=lambda r: r["state"], reverse=True)
+        positions = range(len(unrated), len(unrated) + len(ranked))
         major = [100 * r[f"major_change_rate_{label}"] for r in ranked]
         minor = [100 * r[f"minor_edit_rate_{label}"] for r in ranked]
         # The surface-colored edge leaves a gap between the two segments of a bar.
-        axis.barh(range(len(ranked)), major, height=0.7, color=COLORS["major"], edgecolor=COLORS["surface"], linewidth=1,
+        axis.barh(positions, major, height=0.7, color=COLORS["major"], edgecolor=COLORS["surface"], linewidth=1,
                   label=f"Major: new, removed, or edited below {minor_threshold} similarity")
-        axis.barh(range(len(ranked)), minor, left=major, height=0.7, color=COLORS["minor"], edgecolor=COLORS["surface"],
+        axis.barh(positions, minor, left=major, height=0.7, color=COLORS["minor"], edgecolor=COLORS["surface"],
                   linewidth=1, label=f"Minor edits only ({minor_threshold} similarity or above)")
-        axis.set_yticks(range(len(ranked)), [r["state"].upper() for r in ranked])
-        axis.set_ylim(-0.6, max(len(ranked), 1) - 0.4)
+        for position, r in enumerate(unrated):
+            axis.text(1, position, r[f"change_rate_note_{label}"], va="center", ha="left", fontsize=8,
+                      style="italic", color=COLORS["muted"])
+        axis.set_yticks(range(len(unrated) + len(ranked)), [r["state"].upper() for r in unrated + ranked])
+        axis.set_ylim(-0.6, max(len(unrated) + len(ranked), 1) - 0.4)
         axis.set_xlim(0, 100)
         title = SOURCE_LABELS["state" if label == "state_site" else "vote411"]
         unit = "questions"
@@ -221,7 +242,7 @@ def analyze(year, baseline_year, output, states=None):
     settings = load_settings()
     details, summary = compare(baseline, current, states, load_manifest(baseline_year), load_manifest(year), settings)
     write_comparison(output, details, summary, baseline_year, year, settings)
-    rows = per_state_table(baseline, current, details, summary, states)
+    rows = per_state_table(baseline, current, details, summary, states, baseline_year, year)
     write_csv(Path(output) / "per_state.csv", rows)
     topic_rows = [{"state": r["state"], "year": y, "topic": t, "questions": r[f"{t}_{k}"]}
                   for r in rows for y, k in ((baseline_year, "baseline"), (year, "current")) for t in TOPICS]
