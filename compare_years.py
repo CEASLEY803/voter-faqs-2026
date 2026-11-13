@@ -21,6 +21,13 @@ SUMMARY_FIELDS = ["state", "source", "unit", "unit_basis", "baseline_method", "c
                   "excluded_other_baseline", "excluded_other_current"]
 # Current-cycle Vote411 methods that include one record per published question heading.
 QUESTION_LEVEL_METHODS = {"question_headings", "mixed"}
+# pairs.csv: one row per compared question or section, across all states.
+PAIR_FIELDS = ["state", "source", "unit", "result", "question_status", "answer_status", "question_similarity",
+               "answer_similarity", "baseline_question", "current_question", "baseline_answer", "current_answer",
+               "baseline_url", "current_url"]
+PAIR_SOURCE_NAMES = {"state": "state site", "vote411": "Vote411"}
+ANSWER_KEYS = ("baseline_a", "current_a")
+ANSWER_WORDS = {"unchanged": "same", "minor_change": "minor", "major_change": "major"}
 
 
 def similarity(first, second):
@@ -53,7 +60,9 @@ def item(status, baseline=None, current=None, question_similarity=None, boilerpl
     entry = {"status": status,
              "baseline_q": baseline["q"] if baseline else None, "current_q": current["q"] if current else None,
              "question_similarity": question_similarity,
-             "baseline_s": baseline["s"] if baseline else None, "current_s": current["s"] if current else None}
+             "baseline_s": baseline["s"] if baseline else None, "current_s": current["s"] if current else None,
+             # The answers go to pairs.csv only; write_comparison leaves them out of the per-state JSON files.
+             "baseline_a": baseline["a"] if baseline else None, "current_a": current["a"] if current else None}
     if baseline and current:
         entry["answer_status"], entry["answer_similarity"] = answer_comparison(baseline, current, boilerplate, config)
     return entry
@@ -209,8 +218,41 @@ def compare(baseline, current, states=None, baseline_manifest=None, current_mani
     return details, summary
 
 
+def result_label(entry, baseline_year, year):
+    """Both statuses in plain words, such as "same question, major answer change" or "new section"."""
+    status, unit = entry["status"], entry["unit"]
+    if status == "unassigned":
+        return f"{baseline_year if entry['baseline_q'] is not None else year} record not matched to any section"
+    if status in ("new", "removed"):
+        return f"{status} {unit}"
+    # A section's answer is the section's text.
+    content = "answer" if unit == "question" else "text"
+    change = ANSWER_WORDS[entry["answer_status"]]
+    return f"{status} {unit}, " + (f"same {content}" if change == "same" else f"{change} {content} change")
+
+
+def write_pairs(path, details, baseline_year, year):
+    """Write every compared question or section of every state to one CSV, sorted by state, then source."""
+    with open(path, "w", newline="", encoding="utf-8-sig") as file:  # the byte order mark lets Excel read it as UTF-8
+        writer = csv.DictWriter(file, fieldnames=PAIR_FIELDS)
+        writer.writeheader()
+        for state in sorted(details):
+            for source in SOURCES:
+                for entry in details[state]:
+                    if entry["source"] == source:
+                        writer.writerow({
+                            "state": state, "source": PAIR_SOURCE_NAMES[source], "unit": entry["unit"],
+                            "result": result_label(entry, baseline_year, year),
+                            "question_status": entry["status"], "answer_status": entry.get("answer_status", ""),
+                            "question_similarity": entry["question_similarity"],
+                            "answer_similarity": entry.get("answer_similarity", ""),
+                            "baseline_question": entry["baseline_q"], "current_question": entry["current_q"],
+                            "baseline_answer": entry["baseline_a"], "current_answer": entry["current_a"],
+                            "baseline_url": entry["baseline_s"], "current_url": entry["current_s"]})
+
+
 def write_comparison(output, details, summary, baseline_year, year, settings=None):
-    """Write one detail file per state and a summary CSV under output/comparison/."""
+    """Write one detail file per state, a summary CSV and pairs.csv under output/comparison/."""
     folder = Path(output) / "comparison"
     units = {(row["state"], row["source"]): row["unit"] for row in summary}
     bases = {(row["state"], row["source"]): row["unit_basis"] for row in summary}
@@ -224,11 +266,12 @@ def write_comparison(output, details, summary, baseline_year, year, settings=Non
             "vote411_unit": units.get((state, "vote411")),
             "vote411_unit_basis": bases.get((state, "vote411")),
             "note": "Counts are of sections when unit is 'section' and of questions otherwise.",
-            "items": items})
+            "items": [{key: value for key, value in entry.items() if key not in ANSWER_KEYS} for entry in items]})
     with open(folder / "summary.csv", "w", newline="", encoding="utf-8") as file:
         writer = csv.DictWriter(file, fieldnames=SUMMARY_FIELDS)
         writer.writeheader()
         writer.writerows(summary)
+    write_pairs(folder / "pairs.csv", details, baseline_year, year)
 
 
 def main():
