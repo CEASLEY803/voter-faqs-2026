@@ -198,3 +198,15 @@ User request, verbatim:
 > Then rerun the 2026 analysis. Apart from the new file, the existing outputs should come out unchanged, so please check that. Report the row count and file size. I'll update the README myself, so leave it alone. Commit when done but don't push.
 
 Coding assistance: `compare_years.py` now writes `comparison/pairs.csv` from `write_comparison`, so both the analysis step and the standalone comparison produce it. Each compared item carries both answers in memory; they are written to `pairs.csv` only and left out of the per-state JSON files, which stay as they were. The plain-language `result` column and its wording (for example "same section, major text change" and "2024 record not matched to any section") were chosen by Claude. The file is saved as UTF-8 with a byte order mark so Excel reads it correctly. The 2026 analysis was rerun: `pairs.csv` has 3,824 rows, the same as the items in the 50 JSON files, and git showed no change to any existing output. Model: Claude Fable 5.2 (`claude-fable-5-2`). The README was not edited.
+
+## November 13, 2026: no change rates when a source has no records in one year
+
+User request, verbatim:
+
+> States with no records for a source in one of the two years currently get a 100% major change rate. For example, Colorado and Iowa have no 2026 state-site records, so every 2024 question counts as removed, and Illinois, Ohio and Utah have no 2024 state-site records, so every 2026 question counts as new. That's missing data, not change, and it makes those states look like the ones that changed most.
+>
+> When a state has no records for a source in one of the two years, leave its minor, major and total change rates for that source blank instead of computing them. Leave it out of the major change ranking for that source. Add a column for each source to per_state.csv that says why, like "no 2024 records" or "no 2026 records". In change_rate_by_state.png, show those states with that short label instead of a bar, so they don't read as 0%. Keep everything else as it is, including their rows in the comparison files and pairs.csv.
+>
+> Then rerun the 2026 analysis. Report which states and sources this affects, and confirm that only per_state.csv, rankings.csv and change_rate_by_state.png changed. Leave the README alone. Commit when done but don't push.
+
+Coding assistance: `analyze_states.py` leaves the three change rates and the major change rank blank for a source when the state has no records for it in one of the two years, adds `change_rate_note_state_site` and `change_rate_note_vote411` to `per_state.csv`, and draws those states at the bottom of each chart panel with the note in place of a bar. The 2026 analysis was rerun. It affects the state-site rates of CO and IA (no 2026 records) and IL, OH and UT (no 2024 records), and the Vote411 rates of MI, NM and PA (no 2024 records). Git showed changes only to `per_state.csv`, `rankings.csv` and `change_rate_by_state.png`. Model: Claude Fable 5.2 (`claude-fable-5-2`). The README was not edited.
