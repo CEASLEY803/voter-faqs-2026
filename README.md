@@ -2,7 +2,7 @@
 
 This is the `README.md` for the U.S. Voter FAQs project. This project collects voter FAQs published during the 2026 election cycle from each state's official election website and Vote411.org. It builds them into a dataset matching the AI for Society Research Group's 2024 format, making it easy to compare how voter information changed within and across states.
 
-The pipeline is designed to be reusable for future cycles. The code takes the election year as an input, so it can collect, build, and compare new data automatically. Most updates for a new cycle just require tweaking `sources.csv` (the source pages) and `settings.toml` (thresholds and rules), with no direct code edits. The one exception is the topic keyword rules, which are in `analyze_states.py`.
+The pipeline is designed to be reusable for future cycles. The code takes the election year as an input, so it can collect, build, and compare new data automatically. Most updates for a new cycle just require tweaking `sources.csv` (the source pages) and `settings.toml` (thresholds and rules), with no direct code edits.
 
 The 2026 pages were downloaded right before the November 3 election, between October 22 and October 30. Every record includes the exact date and time it was downloaded.
 
@@ -21,7 +21,7 @@ The median major change rate is 27% for state sites (45 states) and 55% for Vote
 ![Topic coverage by state](data/2026/analysis/charts/topic_coverage.png)
 *The six topics are registration, mail and absentee voting, early voting, voter ID, polling places, and deadlines. A darker square means more questions on that topic, counting questions from both sources by their wording.*
 
-In 2026, 48 of 50 states cover all six topics, up from 39 in 2024. Pennsylvania and Virginia have no early voting question in 2026.
+Nearly every state covers all six topics in both years: 49 states in 2024 and all 50 in 2026. The one gap is Pennsylvania in 2024, which has no early voting question and no 2024 Vote411 records. A question counts toward voter ID if it mentions ID at all, including ID for registering. These six topics come from keyword rules, not from the eight topics found by the 2024 paper's topic model, so the two sets of numbers can't be compared directly.
 
 Every compared question or section is available in `data/2026/analysis/comparison/pairs.csv` (3,824 rows). It is too big for GitHub to show as a table, but [this link opens it as a table in the browser](https://lite.datasette.io/?csv=https://github.com/CEASLEY803/voter-faqs-2026/blob/master/data/2026/analysis/comparison/pairs.csv#/data/pairs?_facet=result&_facet=source) with no install and no account required. You can also view [Oregon's state site only](https://lite.datasette.io/?csv=https://github.com/CEASLEY803/voter-faqs-2026/blob/master/data/2026/analysis/comparison/pairs.csv#/data/pairs?state=or&source=state+site) as an example. To use it, look at the `result` column for plain labels like "same question, major answer change", and to search text, pick a column in the filter and choose "contains".
 
@@ -203,8 +203,7 @@ California, Georgia, and Texas are compared question-by-question because both ye
 | `[non_faq]` and `[[non_faq_rules]]` | Rules that strip out elements like contact boxes when building datasets | 
 | `[quality]` | Thresholds for extremely short/long answers or low record counts | 
 | `[[vote411_sections]]` | Keyword fallbacks for categorizing older 2024 Vote411 data without section labels | 
-
-Topic keyword rules for analysis are located in `analyze_states.py` under `TOPICS`.
+| `[[topics]]` | Keyword rules that sort questions into the six topics on the topic coverage chart, with phrases to ignore | 
 
 ## Outputs
 
