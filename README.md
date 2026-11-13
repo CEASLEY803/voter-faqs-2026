@@ -6,6 +6,27 @@ The pipeline is designed to be reusable for future cycles. The code takes the el
 
 The 2026 pages were downloaded right before the November 3 election, between October 22 and October 30. Every record includes the exact date and time it was downloaded.
 
+## Results (2026 compared with 2024)
+
+This comparison evaluates 4,252 records across 50 states (1,892 from state sites, 2,360 from Vote411) against a 2024 baseline of 2,020 state-site records and 1,163 Vote411 records. These numbers are not final, as no state has been reviewed yet and all 50 rows in `data/2026/review.csv` remain pending.
+
+![Change per state, 2024 to 2026](data/2026/analysis/charts/change_rate_by_state.png)
+*This chart shows one bar per state, with state sites on the left and Vote411 on the right. The dark part represents major change (new questions, removed questions, and answers rewritten below 0.85 similarity), and the light part represents minor edits.*
+
+The median major change rate is 27% for state sites (45 states) and 55% for Vote411 (47 states). For example, Oregon's state site has 21 questions across both years, with 24% major change and 14% minor edits. States with no records for a source in one of the two years get no rate and are labeled in the chart: Colorado and Iowa have no 2026 state-site records, Illinois, Ohio and Utah have no 2024 state-site records, and Michigan, New Mexico and Pennsylvania have no 2024 Vote411 records. Massachusetts still shows 100% on its state site because only 13 records were collected in 2026, compared with 79 in 2024, and its pages are flagged.
+
+![Voter FAQ questions per state, 2024 and 2026](data/2026/analysis/charts/questions_per_state.png)
+*Blue is 2024, and orange is 2026. 42 of 50 states have more Vote411 records in 2026 mostly because the 2026 code pulls out the real questions inside each section, while most 2024 records were whole sections (see the method table under [Prior Work (2024)](#prior-work-2024)).*
+
+![Topic coverage by state](data/2026/analysis/charts/topic_coverage.png)
+*The six topics are registration, mail and absentee voting, early voting, voter ID, polling places, and deadlines. A darker square means more questions on that topic, counting questions from both sources by their wording.*
+
+In 2026, 48 of 50 states cover all six topics, up from 39 in 2024. Pennsylvania and Virginia have no early voting question in 2026.
+
+Every compared question or section is available in `data/2026/analysis/comparison/pairs.csv` (3,824 rows). It is too big for GitHub to show as a table, but [this link opens it as a table in the browser](https://lite.datasette.io/?csv=https://github.com/CEASLEY803/voter-faqs-2026/blob/master/data/2026/analysis/comparison/pairs.csv#/data/pairs?_facet=result&_facet=source) with no install and no account required. You can also view [Oregon's state site only](https://lite.datasette.io/?csv=https://github.com/CEASLEY803/voter-faqs-2026/blob/master/data/2026/analysis/comparison/pairs.csv#/data/pairs?state=or&source=state+site) as an example. To use it, look at the `result` column for plain labels like "same question, major answer change", and to search text, pick a column in the filter and choose "contains".
+
+Known data problems are listed in the data quality report, which contains 122 findings in 7 categories at [`data/2026/quality/quality_summary.md`](data/2026/quality/quality_summary.md).
+
 ## Prior Work (2024)
 
 The baseline 2024 dataset comes from the AI for Society Research Group's [election-dataset-us repository](https://github.com/ai4society/election-dataset-us/). This data is used strictly for comparison, and the new 2026 collections are kept in separate files.
@@ -167,7 +188,7 @@ Questions are assigned one of four statuses:
 
 Next, the answers for matched pairs are checked. If they are identical, they are marked unchanged. For the rest, a score of 0.85 or higher counts as a "minor edit" (like a date change or added link), while anything lower is a "major change."
 
-Rates are calculated for each state. The minor edit rate counts matched pairs with a minor answer edit, plus reworded questions whose answers are unchanged or only lightly edited. The major change rate counts major edits plus new and removed questions. A state that added many questions will therefore show a high major change rate even if none of its old answers changed.
+Rates are calculated for each state. The minor edit rate counts matched pairs with a minor answer edit, plus reworded questions whose answers are unchanged or only lightly edited. The major change rate counts major edits plus new and removed questions. A state that added many questions will therefore show a high major change rate even if none of its old answers changed. A state with no records for a source in one of the two years gets no rate.
 
 California, Georgia, and Texas are compared question-by-question because both years used actual question headings. The other 47 states are compared by section because their layouts differ between the two years. Illinois is set to section by an override, and Michigan, New Mexico, and Pennsylvania had no 2024 Vote411 records to compare against. The `vote411_unit` setting in `settings.toml` manages this logic.
 
@@ -198,6 +219,7 @@ Topic keyword rules for analysis are located in `analyze_states.py` under `TOPIC
 | `review.csv` | Manual review tracker | 
 | `analysis/comparison/<state>.json` | Every compared question or section, with status and scores | 
 | `analysis/comparison/summary.csv` | Counts for each state and source | 
+| `analysis/comparison/pairs.csv` | Every compared question or section in one file, with both years' questions and answers | 
 | `analysis/per_state.csv` | Cross-state stats, coverage, and rankings | 
 | `analysis/topics.csv` | Topic coverage by state | 
 | `analysis/rankings.csv` | States ranked by topic coverage and major change rate | 
