@@ -254,12 +254,62 @@ def write_pairs(path, details, baseline_year, year):
                             f"url_{old}": entry["baseline_s"], f"url_{new}": entry["current_s"]})
 
 
+def bold(text):
+    """Bold text for the table page, which resets the browser's own bold style."""
+    return f'<b style="font-weight:700">{text}</b>'
+
+
+def write_pairs_metadata(path, baseline_year, year, repository):
+    """Write the title and the how-to steps that Datasette Lite shows above the pairs.csv table.
+
+    The file is written on every run so that its years, and the example column in the search step,
+    are the run's own. The link printed by run_pipeline.py loads it from the same folder as pairs.csv.
+    """
+    steps = [
+        f"Click a value in the {bold('result')} box below to see just that kind of change.",
+        f"To see one state, choose {bold('state')} in the {bold('- column -')} menu, type its full name in the box "
+        f"next to it (like <i>Oregon</i>), and click {bold('Apply filters')}.",
+        f"To search for a word, choose a column like {bold(f'question_{year}')}, change {bold('=')} to "
+        f"{bold('contains')}, type the word, and click {bold('Apply filters')}.",
+        f"Click a number in the {bold('Link')} column to read both years' full answers.",
+    ]
+    content = {
+        "title": f"U.S. Voter FAQs: {baseline_year} and {year}",
+        "description": f"This database puts every {baseline_year} voter FAQ question next to its {year} version.",
+        "source": f"github.com/{repository}",
+        "source_url": f"https://github.com/{repository}",
+        "databases": {"data": {"tables": {"pairs": {
+            "title": f"Voter FAQ questions, {baseline_year} vs {year}",
+            "description_html": f"<p>{bold('How to use it')}</p>"
+                                '<ul style="list-style:disc;padding-left:1.4em;margin:0.3em 0 0.6em">'
+                                + "".join(f"<li>{step}</li>" for step in steps) + "</ul>"}}}}}
+    # Always written with plain line endings, so the file is the same on Windows, macOS and Linux
+    # and git shows no change when the years are the same.
+    path.write_text(json.dumps(content, indent=4, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
+
+
+def pairs_table_link(output, baseline_year, year, github):
+    """The Datasette Lite address that opens output/comparison/pairs.csv as a table in the browser.
+
+    Datasette Lite reads the file from GitHub, so the address is built from the repository and branch
+    in settings.toml's [github] table, and it shows the copy that was last pushed. The part after #
+    picks the columns shown first and the two boxes of clickable values (result and source).
+    """
+    folder = (Path(output) / "comparison").resolve().relative_to(ROOT).as_posix()
+    repository, branch = github["repository"], github["branch"]
+    return (f"https://lite.datasette.io/?csv=https://github.com/{repository}/blob/{branch}/{folder}/pairs.csv"
+            f"&metadata=https://raw.githubusercontent.com/{repository}/{branch}/{folder}/pairs_metadata.json"
+            f"#/data/pairs?_col=state&_col=source&_col=result&_col=question_{baseline_year}&_col=question_{year}"
+            "&_facet=result&_facet=source&_size=20")
+
+
 def write_comparison(output, details, summary, baseline_year, year, settings=None):
-    """Write one detail file per state, a summary CSV and pairs.csv under output/comparison/."""
+    """Write one detail file per state, a summary CSV, pairs.csv and its table page text under output/comparison/."""
     folder = Path(output) / "comparison"
     units = {(row["state"], row["source"]): row["unit"] for row in summary}
     bases = {(row["state"], row["source"]): row["unit_basis"] for row in summary}
-    config = (settings or load_settings())["comparison"]
+    settings = settings or load_settings()
+    config = settings["comparison"]
     for state, items in details.items():
         write_json(folder / f"{state}.json", {
             "state": state, "baseline_year": baseline_year, "year": year,
@@ -275,6 +325,7 @@ def write_comparison(output, details, summary, baseline_year, year, settings=Non
         writer.writeheader()
         writer.writerows(summary)
     write_pairs(folder / "pairs.csv", details, baseline_year, year)
+    write_pairs_metadata(folder / "pairs_metadata.json", baseline_year, year, settings["github"]["repository"])
 
 
 def main():

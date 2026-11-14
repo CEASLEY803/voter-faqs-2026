@@ -8,7 +8,7 @@ from pathlib import Path
 
 from collect_sc import ROOT, validate_records
 from collect_vote411 import vote411_urls
-from datasets import (dataset_dir, load_dataset, load_settings, non_faq_rules, normalize_text, write_json,
+from datasets import (DATASET_FOLDER, dataset_dir, load_dataset, load_settings, non_faq_rules, normalize_text, write_json,
                       write_state_file)
 from parse_state_sites import PARSER_VERSION, parse_batch
 
@@ -97,12 +97,12 @@ def drop_non_faq(state, records, settings):
 
 
 def build(year, baseline_year, vote411_batch=None, state_site_batch=None, contributor="Cole Easley"):
-    """Write data/<year>/combined/ and return its manifest."""
+    """Write data/<year>/dataset/ and return its manifest."""
     vote411_batch = Path(vote411_batch or latest_vote411_batch(year)).resolve()
     state_site_batch = Path(state_site_batch or latest_state_site_batch(year)).resolve()
     baseline = load_dataset(dataset_dir(baseline_year))
     state_records, parse_report = parse_batch(state_site_batch, baseline)
-    output = ROOT / "data" / str(year) / "combined"
+    output = ROOT / "data" / str(year) / DATASET_FOLDER
     output.mkdir(parents=True, exist_ok=True)
     settings = load_settings()
     counts, dropped = {}, []
@@ -162,7 +162,7 @@ def main():
     print(f"{arguments.year}: {totals['total']} records ({totals['state_site']} state site, {totals['vote411']} Vote411, "
           f"of which {totals['vote411_section_records']} are section records); "
           f"{totals['state_site_dropped_non_faq']} non-FAQ records dropped; "
-          f"{len(manifest['flagged_pages'])} flagged pages. Output: data/{arguments.year}/combined/")
+          f"{len(manifest['flagged_pages'])} flagged pages. Output: data/{arguments.year}/{DATASET_FOLDER}/")
 
 
 if __name__ == "__main__":

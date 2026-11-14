@@ -32,6 +32,8 @@ STATE_NAMES = {
     "wi": "Wisconsin", "wv": "West Virginia", "wy": "Wyoming",
 }
 SETTINGS_FILE = ROOT / "settings.toml"
+# A built cycle's dataset is in data/<year>/<this name>/. The name is written here only.
+DATASET_FOLDER = "dataset"
 # How a state's Vote411 records were extracted, as recorded in each cycle's manifest.json:
 #   question_headings           one record per published question heading inside a section
 #   section_titles              one record per section, its title (or a question made from it) as the question
@@ -68,6 +70,10 @@ def load_settings(path=SETTINGS_FILE):
                 raise SystemExit(f"{Path(path).name}: topic {topic['name']} has a bad {key}: {error}")
         if not topic.get("label") or not topic.get("pattern"):
             raise SystemExit(f"{Path(path).name}: topic {topic['name']} needs a label and a pattern")
+    # The two values go into web addresses, so a typing slip here would give a link that opens nothing.
+    github = settings.get("github", {})
+    if not re.fullmatch(r"[\w.-]+/[\w.-]+", str(github.get("repository", ""))) or not re.fullmatch(r"[\w./-]+", str(github.get("branch", ""))):
+        raise SystemExit(f"{Path(path).name}: [github] needs repository = \"owner/name\" and branch = \"name\"")
     return settings
 
 
@@ -131,9 +137,9 @@ def vote411_method(manifest, state):
 
 
 def dataset_dir(year):
-    """A built dataset lives in data/<year>/combined/; the 2024 baseline sits in data/2024/."""
-    combined = ROOT / "data" / str(year) / "combined"
-    return combined if combined.is_dir() else ROOT / "data" / str(year)
+    """A built dataset lives in data/<year>/dataset/; the 2024 baseline sits in data/2024/."""
+    built = ROOT / "data" / str(year) / DATASET_FOLDER
+    return built if built.is_dir() else ROOT / "data" / str(year)
 
 
 def records_from_file(data):
