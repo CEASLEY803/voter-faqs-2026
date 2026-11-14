@@ -39,7 +39,7 @@ Every compared question or section is in `data/2026/analysis/comparison/pairs.cs
 - [State-site answers that changed a lot](https://lite.datasette.io/?csv=https://github.com/CEASLEY803/voter-faqs-2026/blob/master/data/2026/analysis/comparison/pairs.csv#/data/pairs?source=state+site&result__contains=major+answer+change&_col=state&_col=question_2026&_col=answer_2024&_col=answer_2026&_size=20) (154 rows, with the 2024 and 2026 answers side by side)
 - [State-site questions that are new in 2026](https://lite.datasette.io/?csv=https://github.com/CEASLEY803/voter-faqs-2026/blob/master/data/2026/analysis/comparison/pairs.csv#/data/pairs?source=state+site&result=new+question&_col=state&_col=question_2026&_col=answer_2026&_size=20) (427 rows)
 
-The `result` column says in plain words what happened to each question, such as "same question, major answer change". To see another state, open the Oregon link, type the state's name over "Oregon" in the filter box at the top, and press "Apply filters".
+The `result` column says in plain words what happened to each question, such as "same question, major answer change". Click the number at the start of a row to see that question with both years' answers in full. To see another state, open the Oregon link, type the state's name over "Oregon" in the filter box at the top (capitalized, such as Texas or New York), and press "Apply filters".
 
 Known data problems are listed in the data quality report, which contains 122 findings in 7 categories at [`data/2026/quality/quality_summary.md`](data/2026/quality/quality_summary.md).
 
