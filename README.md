@@ -10,19 +10,19 @@ This page has three parts: the [results](#results-2026-compared-with-2024), [how
 
 ## Results (2026 compared with 2024)
 
-The 2026 dataset has 4,252 records from 50 states (1,892 from state sites, 2,360 from Vote411). The 2024 baseline has 3,183 (2,020 from state sites, 1,163 from Vote411). No state has been reviewed by a person yet, so these numbers are not final. All 50 rows in `data/2026/review.csv` are still pending.
+The 2026 dataset has 4,388 records from 50 states (2,028 from state sites, 2,360 from Vote411). The 2024 baseline has 3,183 (2,020 from state sites, 1,163 from Vote411). No state has been reviewed by a person yet, so these numbers are not final. All 50 rows in `data/2026/review.csv` are still pending.
 
 | Question | Result | Keep in mind |
 | ----- | ----- | ----- |
-| How much did state election sites change? | In the median state, 22% of questions changed in a major way (38 states) | 12 states get no rate: 5 have no records in one of the two years, and 7 have under half as many 2026 records as 2024 |
-| How much did Vote411 change? | In the median state, 55% changed in a major way (47 states) | Counted in whole sections in all but 3 states, so it can't be set beside the 22% |
+| How much did state election sites change? | In the median state, 21% of questions changed in a major way (37 states) | 13 states get no rate: 3 have no 2024 records, 8 have under half as many 2026 records as 2024, and 2 have over twice as many |
+| How much did Vote411 change? | In the median state, 52% changed in a major way (44 states) | Counted in whole sections in all but 3 states, so it can't be set beside the 21% |
 | Do states cover the main voter topics? | 49 of 50 states cover all six topics in 2024, and all 50 do in 2026 | A topic is assigned by keywords in the question |
 
 ![How much each state's voter FAQ changed from 2024 to 2026](data/2026/analysis/charts/change_rate_by_state.png)
 
 To read one bar, take Oregon's state site. It has 21 questions across both years. 5 changed in a major way (24%, the dark part) and 3 had minor edits (14%, the light part). A major change is a new question, a removed question, or an answer rewritten below 0.85 similarity.
 
-States listed at the bottom have no rate, and the chart says why. Either the state has no records for that source in one of the two years, or it has under half as many 2026 records as 2024, which usually means the collection missed pages.
+States listed at the bottom have no rate, and the chart says why. Some have no records for that source in one of the two years. Others have under half or over twice as many 2026 records as 2024. That usually means one year's collection had pages the other didn't, so the rate would measure the collection, not the state.
 
 ![Voter FAQ records collected per state, 2024 and 2026](data/2026/analysis/charts/questions_per_state.png)
 
@@ -34,16 +34,16 @@ A question counts toward a topic when its wording matches that topic's keywords,
 
 ### Browse every question
 
-Every compared question or section is in `data/2026/analysis/comparison/pairs.csv` (3,824 rows), which is too big for GitHub to show as a table. These links open it as a table in the browser, with no install and no account:
+Every compared question or section is in `data/2026/analysis/comparison/pairs.csv` (3,949 rows), which is too big for GitHub to show as a table. These links open it as a table in the browser, with no install and no account:
 
-- [All 3,824 rows](https://lite.datasette.io/?csv=https://github.com/CEASLEY803/voter-faqs-2026/blob/master/data/2026/analysis/comparison/pairs.csv&metadata=https://raw.githubusercontent.com/CEASLEY803/voter-faqs-2026/master/data/2026/analysis/comparison/pairs_metadata.json#/data/pairs?_col=state&_col=source&_col=result&_col=question_2024&_col=question_2026&_facet=result&_facet=source&_size=20)
+- [All 3,949 rows](https://lite.datasette.io/?csv=https://github.com/CEASLEY803/voter-faqs-2026/blob/master/data/2026/analysis/comparison/pairs.csv&metadata=https://raw.githubusercontent.com/CEASLEY803/voter-faqs-2026/master/data/2026/analysis/comparison/pairs_metadata.json#/data/pairs?_col=state&_col=source&_col=result&_col=question_2024&_col=question_2026&_facet=result&_facet=source&_size=20)
 - [Oregon's state site](https://lite.datasette.io/?csv=https://github.com/CEASLEY803/voter-faqs-2026/blob/master/data/2026/analysis/comparison/pairs.csv&metadata=https://raw.githubusercontent.com/CEASLEY803/voter-faqs-2026/master/data/2026/analysis/comparison/pairs_metadata.json#/data/pairs?state=Oregon&source=state+site&_col=result&_col=question_2024&_col=question_2026&_facet=result) (21 rows)
-- [State-site answers that changed a lot](https://lite.datasette.io/?csv=https://github.com/CEASLEY803/voter-faqs-2026/blob/master/data/2026/analysis/comparison/pairs.csv&metadata=https://raw.githubusercontent.com/CEASLEY803/voter-faqs-2026/master/data/2026/analysis/comparison/pairs_metadata.json#/data/pairs?source=state+site&result__contains=major+answer+change&_col=state&_col=question_2026&_col=answer_2024&_col=answer_2026&_facet=result&_size=20) (154 rows, with the 2024 and 2026 answers side by side)
-- [State-site questions that are new in 2026](https://lite.datasette.io/?csv=https://github.com/CEASLEY803/voter-faqs-2026/blob/master/data/2026/analysis/comparison/pairs.csv&metadata=https://raw.githubusercontent.com/CEASLEY803/voter-faqs-2026/master/data/2026/analysis/comparison/pairs_metadata.json#/data/pairs?source=state+site&result=new+question&_col=state&_col=question_2026&_col=answer_2026&_facet=result&_size=20) (427 rows)
+- [State-site answers that changed a lot](https://lite.datasette.io/?csv=https://github.com/CEASLEY803/voter-faqs-2026/blob/master/data/2026/analysis/comparison/pairs.csv&metadata=https://raw.githubusercontent.com/CEASLEY803/voter-faqs-2026/master/data/2026/analysis/comparison/pairs_metadata.json#/data/pairs?source=state+site&result__contains=major+answer+change&_col=state&_col=question_2026&_col=answer_2024&_col=answer_2026&_facet=result&_size=20) (155 rows, with the 2024 and 2026 answers side by side)
+- [State-site questions that are new in 2026](https://lite.datasette.io/?csv=https://github.com/CEASLEY803/voter-faqs-2026/blob/master/data/2026/analysis/comparison/pairs.csv&metadata=https://raw.githubusercontent.com/CEASLEY803/voter-faqs-2026/master/data/2026/analysis/comparison/pairs_metadata.json#/data/pairs?source=state+site&result=new+question&_col=state&_col=question_2026&_col=answer_2026&_facet=result&_size=20) (552 rows)
 
 ### Limits
 
-Known data problems are listed in the data quality report, which contains 126 findings in 8 categories at [`data/2026/quality/quality_summary.md`](data/2026/quality/quality_summary.md).
+Known data problems are listed in the data quality report, which contains 151 findings in 10 categories at [`data/2026/quality/quality_summary.md`](data/2026/quality/quality_summary.md).
 
 Passing automated checks does not mean every record parsed perfectly. The HTML parser grabs text ending in a question mark, which can occasionally pull in generic web text like "How Can We Help You?" (the non-FAQ rules help drop these).
 
@@ -59,7 +59,7 @@ One command, `run_pipeline.py`, runs every step for an election year. Because ea
 
 | Step | Script | What It Does | Output | 
 | ----- | ----- | ----- | ----- | 
-| Collect | `collect_vote411.py`, `snapshot_state_sites.py` | Downloads Vote411 and state pages listed in `sources.csv`. | `data/<year>/batches/`, `data/<year>/state_sites/` | 
+| Collect | `collect_vote411.py`, `snapshot_state_sites.py` | Downloads Vote411 and state pages listed in `sources.csv`. When a state page is a menu of FAQ pages, it downloads those pages too. When a site blocks the download, it uses an Internet Archive copy from before the election. | `data/<year>/batches/`, `data/<year>/state_sites/` | 
 | Check Vote411 | `validate_vote411_batch.py` | Validates extracted Vote411 records against the raw saved pages (runs with `--collect`). | `validation_report.json` in the batch folder | 
 | Parse Pages | `parse_state_sites.py` | Transforms saved state pages into Q&A records. | `state_site_parse_report.json` in `dataset/` | 
 | Build | `build_dataset.py` | Merges state and Vote411 records into one 2024-formatted file per state. | `data/<year>/dataset/` | 
@@ -268,7 +268,7 @@ To run this for an upcoming cycle like 2028:
    python run_pipeline.py --year 2028 --baseline-year 2026 --collect
    ```
 
-2. If the run stops because pages refused scripted downloads, save them by hand (see "Save pages by hand") using the provided batch folder, then rerun without the `--collect` flag.
+2. If the run stops because pages refused scripted downloads and the Internet Archive had no copy from before the election, save them by hand (see "Save pages by hand") using the provided batch folder, then rerun without the `--collect` flag.
 
 3. Open `data/2028/quality/quality_summary.md`. Its `removed_page` section lists every page in `sources.csv` that is gone, with up to three suggested replacements and how many questions the parser finds on each. Open a suggestion before using it.
 
