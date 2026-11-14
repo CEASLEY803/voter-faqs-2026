@@ -1,4 +1,8 @@
 category,state,source,url,question,detail
+removed_page,ct,state site,https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter,,Redirected to a 404 page
+removed_page,in,state site,https://www.in.gov/idr/hoosiers-vote/voting-faqs/,,HTTP 404
+removed_page,in,state site,https://www.in.gov/idr/hoosiers-vote/register/,,HTTP 404
+removed_page,mi,state site,https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/campaign-finance-and-lobby-disclosure,,HTTP 404
 flagged_page,ak,state site,https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/,,"11 records, well below the 24 the baseline had for this URL"
 flagged_page,ak,state site,https://www.elections.alaska.gov/military-overseas-and-college-voters/,,"1 records, well below the 5 the baseline had for this URL"
 flagged_page,co,state site,https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html,,No Q&A text found in the saved page; the content may be loaded by JavaScript
