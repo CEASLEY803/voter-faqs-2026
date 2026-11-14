@@ -8,8 +8,8 @@ from pathlib import Path
 
 from collect_sc import ROOT, source_urls
 from datasets import (SOURCES, below_baseline, dataset_dir, load_dataset, load_manifest, load_settings, normalize_text,
-                      record_source)
-from snapshot_state_sites import REMOVED_PAGE_ERRORS
+                      normalize_url, record_source)
+from snapshot_state_sites import CANDIDATES_FILE, removed_pages as removed_in_batch
 
 
 FIELDS = ["category", "state", "source", "url", "question", "detail"]
@@ -18,7 +18,7 @@ SOURCE_NAMES = {"state": "state site", "vote411": "Vote411"}
 # removed_page comes first because it is the one to act on before the next run.
 CATEGORIES = {
     "removed_page": "State-site pages still in sources.csv that are gone from the site, so nothing was collected from them. "
-                    "Find each page's new address and update sources.csv before the next run.",
+                    "Check the candidate replacements listed below and update sources.csv by hand before the next run.",
     "flagged_page": "Saved state-site pages the parser flagged: no Q&A found, or far fewer records than the baseline had for the same URL.",
     "missing_source": "States with no records from a source.",
     "below_baseline": "States whose record count for a source is below {below_baseline_ratio:.0%} of the baseline cycle's count.",
@@ -30,18 +30,67 @@ CATEGORIES = {
 
 
 def removed_pages(year):
-    """Return (state, url, error) for each state-site page still in sources.csv that the site no longer has.
+    """Return one dict for each state-site page still in sources.csv that the site no longer has.
 
     The pages come from the state-site batch the build used. A failed page whose URL has since been
-    replaced in sources.csv is left out, because it has already been dealt with.
+    replaced in sources.csv is left out, because it has already been dealt with. Each dict has the
+    state, url, error and candidates. The candidates are the replacement pages that
+    snapshot_state_sites.py --find-replacements saved in the batch folder, so nothing is downloaded
+    here. candidates is None when that search has not covered the page.
     """
     batch = ROOT / load_manifest(year)["state_site_batch"]
-    pages = json.loads((batch / "batch_manifest.json").read_text(encoding="utf-8"))["pages"]
-    urls = source_urls("state")
-    return [(state, record["requested_url"], record["error"])
-            for state, records in pages.items() for record in records
-            if record["status"] == "failed" and record["error"] in REMOVED_PAGE_ERRORS
-            and record["requested_url"] in urls.get(state, [])]
+    manifest = json.loads((batch / "batch_manifest.json").read_text(encoding="utf-8"))
+    searched = {}
+    if (batch / CANDIDATES_FILE).is_file():
+        saved = json.loads((batch / CANDIDATES_FILE).read_text(encoding="utf-8"))
+        searched = {(page["state"], page["removed_url"]): page for page in saved["pages"]}
+    pages = []
+    for state, record in removed_in_batch(manifest, source_urls("state")):
+        found = searched.get((state, record["requested_url"]), {})
+        pages.append({"state": state, "url": record["requested_url"], "error": record["error"],
+                      "candidates": found.get("candidates"), "searched_at": found.get("searched_at", "")})
+    return pages
+
+
+def candidate_result(candidate):
+    """What the search learned about one candidate: its question count, or why it could not be read."""
+    if candidate.get("error"):
+        return f"not counted: {candidate['error']}"
+    return f"{candidate['questions']} question{'s' if candidate['questions'] != 1 else ''}"
+
+
+def removed_page_detail(page):
+    """The detail cell for a removed page: its error, then its candidates on one line."""
+    if page["candidates"] is None:
+        return f"{page['error']}; candidates not searched"
+    if not page["candidates"]:
+        return f"{page['error']}; no candidate found"
+    return f"{page['error']}; candidates: " + ", ".join(
+        f"{candidate['url']} ({candidate_result(candidate)})" for candidate in page["candidates"])
+
+
+def removed_page_lines(year):
+    """The summary's removed_page section: each page, with its candidates listed under it."""
+    pages = removed_pages(year)
+    lines = []
+    if any(page["candidates"] for page in pages):
+        lines += ["A candidate is a page on the same site that may have replaced the removed page. It was found by "
+                  f"`snapshot_state_sites.py --find-replacements` on {max(page['searched_at'] for page in pages)[:10]}. The question count is "
+                  "what the parser finds on the candidate. Closeness runs from 0 to 1 and says how alike the candidate's "
+                  "address and link text are to the removed address; a low number is a weak guess. Open a candidate "
+                  "before using it.", ""]
+    for page in pages:
+        lines.append(f"- {page['state'].upper()}: {page['url']} ({page['error']})")
+        if page["candidates"] is None:
+            lines.append("  - Candidates not searched. Run `snapshot_state_sites.py --batch <batch folder> --find-replacements`.")
+        elif not page["candidates"]:
+            lines.append("  - No candidate found.")
+        for candidate in page["candidates"] or []:
+            moved = normalize_url(candidate["final_url"]) != normalize_url(candidate["url"])
+            lines.append(f"  - Candidate: {candidate['url']}, {candidate_result(candidate)} "
+                         f"(link text \"{candidate['link_text']}\", closeness {candidate['closeness']}"
+                         + (f", redirects to {candidate['final_url']})" if moved else ")"))
+    return lines
 
 
 def find_issues(year, baseline_year, settings):
@@ -55,8 +104,8 @@ def find_issues(year, baseline_year, settings):
         rows.append({"category": category, "state": state, "source": SOURCE_NAMES.get(source, source),
                      "url": url, "question": question, "detail": detail})
 
-    for state, url, error in removed_pages(year):
-        add("removed_page", state, "state", url, detail=error)
+    for page in removed_pages(year):
+        add("removed_page", page["state"], "state", page["url"], detail=removed_page_detail(page))
     for page in json.loads((folder / "state_site_parse_report.json").read_text(encoding="utf-8")):
         for flag in page["flags"]:
             add("flagged_page", page["state"], "state", page["url"], detail=flag)
@@ -121,7 +170,7 @@ def summary_markdown(rows, year, baseline_year, settings):
             continue
         lines += ["", f"## {category}", ""]
         if category == "removed_page":
-            lines += [f"- {row['state'].upper()}: {row['url']} ({row['detail']})" for row in found]
+            lines += removed_page_lines(year)
         elif category in ("missing_source", "below_baseline"):
             lines += [f"- {row['state'].upper()}, {row['source']}: {row['detail']}" for row in found]
         elif category == "dropped_non_faq":

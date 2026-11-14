@@ -5,17 +5,28 @@ import csv
 from datetime import datetime, timezone
 import hashlib
 import json
+from difflib import SequenceMatcher
 from pathlib import Path
+import re
 import time
-from urllib.parse import urlparse
+from urllib.parse import urldefrag, urljoin, urlparse
 
 from bs4 import BeautifulSoup
 import requests
 
 from collect_sc import ROOT, source_urls
+from datasets import normalize_url
+from parse_state_sites import parse_html
 
 
 USER_AGENT = "VoterFAQResearch/1.0"
+DELAY_SECONDS = 1
+RETRY_DELAY_SECONDS = 10
+# Written into the batch folder by --find-replacements and read by quality_report.py.
+CANDIDATES_FILE = "replacement_candidates.json"
+CANDIDATES_KEPT = 3
+# Words too common in addresses and link text to say that two pages are about the same thing.
+COMMON_WORDS = {"and", "the", "for", "your", "page", "pages", "html", "aspx", "index", "default"}
 EXTENSIONS = {"text/html": ".html", "application/pdf": ".pdf"}
 MANUAL_DIR = ROOT / "manual_saves"
 # Pages that are gone from the site; there is nothing to save by hand.
@@ -50,21 +61,29 @@ def same_site(first, second):
     return urlparse(first).hostname.removeprefix("www.") == urlparse(second).hostname.removeprefix("www.")
 
 
+def response_error(url, status_code, final_url, content_type, content):
+    """Say why a response is not the page that was asked for, or return "" when it is."""
+    if status_code != 200:
+        return f"HTTP {status_code}"
+    if not same_site(url, final_url):
+        return "Redirected to another site"
+    if "404" in urlparse(final_url).path:
+        return "Redirected to a 404 page"
+    if content_type not in EXTENSIONS:
+        return f"Unexpected content type {content_type!r}"
+    if content_type == "text/html" and is_bot_check(content):
+        return "Bot-check page instead of content"
+    return ""
+
+
 def save_response(record, state, state_dir, status_code, final_url, content_type, content):
     """Apply the same checks to downloaded and browser-captured pages, then keep exact bytes."""
     url = record["requested_url"]
     content_type = content_type.split(";")[0].strip().lower()
     record |= {"final_url": final_url, "status_code": status_code, "content_type": content_type}
-    if status_code != 200:
-        return record | {"status": "failed", "error": f"HTTP {status_code}"}
-    if not same_site(url, final_url):
-        return record | {"status": "failed", "error": "Redirected to another site"}
-    if "404" in urlparse(final_url).path:
-        return record | {"status": "failed", "error": "Redirected to a 404 page"}
-    if content_type not in EXTENSIONS:
-        return record | {"status": "failed", "error": f"Unexpected content type {content_type!r}"}
-    if content_type == "text/html" and is_bot_check(content):
-        return record | {"status": "failed", "error": "Bot-check page instead of content"}
+    error = response_error(url, status_code, final_url, content_type, content)
+    if error:
+        return record | {"status": "failed", "error": error}
     path = state_dir / (snapshot_name(state, url) + EXTENSIONS[content_type])
     path.write_bytes(content)
     return record | {"status": "saved", "snapshot": path.relative_to(ROOT).as_posix(),
@@ -105,6 +124,148 @@ def write_json(path, content):
     path.write_text(json.dumps(content, indent=4, ensure_ascii=False) + "\n", encoding="utf-8")
 
 
+def removed_pages(manifest, urls):
+    """Return (state, record) for each failed page that is gone from its site and still in sources.csv."""
+    return [(state, record) for state, records in manifest["pages"].items() for record in records
+            if record["status"] == "failed" and record["error"] in REMOVED_PAGE_ERRORS
+            and record["requested_url"] in urls.get(state, [])]
+
+
+def read_page(url):
+    """Download a page without saving it; return (final_url, content_type, content, error).
+
+    A dropped connection is tried once more after a longer wait, because one bad moment would
+    otherwise be reported as a candidate that cannot be read.
+    """
+    for wait in (DELAY_SECONDS, RETRY_DELAY_SECONDS):
+        time.sleep(wait)
+        try:
+            response = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=40)
+            break
+        except requests.RequestException as error:
+            failure = f"Connection failed twice ({type(error).__name__})"
+    else:
+        return url, "", b"", failure
+    content_type = response.headers.get("Content-Type", "").split(";")[0].strip().lower()
+    error = response_error(url, response.status_code, response.url, content_type, response.content)
+    return response.url, content_type, response.content, error
+
+
+def page_links(content, page_url):
+    """Return (address, link text) for every link on an HTML page, with addresses made absolute."""
+    links = []
+    for tag in BeautifulSoup(content, "html.parser").find_all("a", href=True):
+        address = urldefrag(urljoin(page_url, tag["href"].strip())).url
+        if urlparse(address).scheme in ("http", "https"):
+            links.append((address, " ".join(tag.get_text(" ", strip=True).split())))
+    return links
+
+
+def words(text):
+    return {word for word in re.split(r"[^a-z0-9]+", text.lower()) if len(word) > 2 and word not in COMMON_WORDS}
+
+
+def closeness(removed_url, url, link_text):
+    """Score a link from 0 to 1 as a replacement for a removed page.
+
+    The score is the average of two parts: how alike the two addresses are, letter by letter, and
+    the share of the words in the removed page's own name that the link text also has.
+    For /idr/hoosiers-vote/register/, a link to /idr/hoosiers-vote/register-to-vote with the text
+    "Register to Vote" scores high on both parts.
+    """
+    old_path, new_path = (urlparse(address).path.rstrip("/").lower() for address in (removed_url, url))
+    address_part = SequenceMatcher(None, old_path, new_path).ratio()
+    name = words(old_path.rsplit("/", 1)[-1])
+    text_part = len(name & words(link_text)) / len(name) if name else 0
+    return round((address_part + text_part) / 2, 3)
+
+
+def parent_address(url):
+    """The address one level up: .../hoosiers-vote/register/ gives .../hoosiers-vote/."""
+    parts = urlparse(url)
+    return f"{parts.scheme}://{parts.netloc}{parts.path.rstrip('/').rsplit('/', 1)[0]}/"
+
+
+def find_candidates(state, record, manifest, urls, parents):
+    """Look for up to three pages that may have replaced one removed page.
+
+    Links come from the removed page's parent address and from the state's saved HTML pages in the
+    batch. Each candidate is downloaded once to count the questions the parser finds on it; the
+    download is not kept. parents holds parent pages already read, so two removed pages in one
+    folder cost one download.
+    """
+    removed = record["requested_url"]
+    parent = parent_address(removed)
+    if parent not in parents:
+        final_url, content_type, content, error = read_page(parent)
+        parents[parent] = {"error": error, "links": page_links(content, final_url) if not error and content_type == "text/html" else []}
+    found = [(address, text, parent) for address, text in parents[parent]["links"]]
+    for page in manifest["pages"][state]:
+        if page["status"] == "saved" and page["content_type"] == "text/html":
+            for address, text in page_links((ROOT / page["snapshot"]).read_bytes(), page["final_url"]):
+                found.append((address, text, page["requested_url"]))
+    known = {normalize_url(url) for state_urls in urls.values() for url in state_urls}
+    best = {}
+    for address, text, found_on in found:
+        key = normalize_url(address)
+        if not same_site(removed, address) or key in known:
+            continue
+        score = closeness(removed, address, text)
+        if key not in best or score > best[key]["closeness"]:
+            best[key] = {"url": address, "link_text": text, "found_on": found_on, "closeness": score}
+    candidates = sorted(best.values(), key=lambda link: (-link["closeness"], link["url"]))[:CANDIDATES_KEPT]
+    for candidate in candidates:
+        final_url, content_type, content, error = read_page(candidate["url"])
+        candidate["final_url"] = final_url
+        if not error and normalize_url(final_url) in known:
+            error = "Leads to a page already in sources.csv"
+        if error:
+            candidate |= {"questions": None, "error": error}
+        elif content_type != "text/html":
+            candidate |= {"questions": None, "error": "PDF; questions are only counted on HTML pages"}
+        else:
+            records, _ = parse_html(content, {"final_url": final_url, "collected_at": now()})
+            candidate["questions"] = len(records)
+    return {"state": state, "removed_url": removed, "error": record["error"], "searched_at": now(), "parent_url": parent,
+            "parent_error": parents[parent]["error"], "links_compared": len(best), "candidates": candidates}
+
+
+def find_replacements(batch_dir, manifest, urls, states=None):
+    """Search for replacements for every removed page still in sources.csv and save the candidates.
+
+    The result is a list of suggestions for a person to check. sources.csv is never changed here.
+    With states, only those states are searched again and the saved results for the others are kept.
+    """
+    path = batch_dir / CANDIDATES_FILE
+    earlier = {}
+    if states and path.is_file():
+        earlier = {(page["state"], page["removed_url"]): page
+                   for page in json.loads(path.read_text(encoding="utf-8"))["pages"]}
+    parents, pages, searched = {}, [], 0
+    for state, record in removed_pages(manifest, urls):
+        if states and state not in states:
+            # A page that is no longer removed, or no longer in sources.csv, never reaches this line, so it drops out.
+            if (state, record["requested_url"]) in earlier:
+                pages.append(earlier[(state, record["requested_url"])])
+            continue
+        searched += 1
+        page = find_candidates(state, record, manifest, urls, parents)
+        pages.append(page)
+        print(f"{state.upper()} removed ({page['error']}): {page['removed_url']}")
+        if page["parent_error"]:
+            print(f"    parent address not read ({page['parent_error']}): {page['parent_url']}")
+        for candidate in page["candidates"]:
+            result = candidate.get("error") or f"{candidate['questions']} questions"
+            print(f"    candidate, closeness {candidate['closeness']}: {candidate['url']} ({result})")
+        if not page["candidates"]:
+            print("    no candidate found")
+    write_json(path, {
+        "about": "Pages that may have replaced removed pages still in sources.csv. Suggestions only; "
+                 "check each one and edit sources.csv by hand.",
+        "pages": pages})
+    return pages, searched
+
+
 def write_checklist(manifest, urls):
     """List failed pages still in sources.csv, with the file name each manual save should use."""
     rows = []
@@ -131,9 +292,11 @@ def main():
                         help="With --batch, write manual_saves/checklist.csv of failed pages to save by hand")
     parser.add_argument("--import-manual", action="store_true",
                         help="With --batch, add pages saved by hand into manual_saves/ instead of downloading")
+    parser.add_argument("--find-replacements", action="store_true",
+                        help=f"With --batch, look for pages that replaced removed pages and write {CANDIDATES_FILE} in the batch folder")
     arguments = parser.parse_args()
-    if (arguments.checklist or arguments.import_manual) and not arguments.batch:
-        parser.error("--checklist and --import-manual need --batch.")
+    if (arguments.checklist or arguments.import_manual or arguments.find_replacements) and not arguments.batch:
+        parser.error("--checklist, --import-manual and --find-replacements need --batch.")
     urls = source_urls("state")
     for state in arguments.states:
         if state not in urls:
@@ -150,6 +313,12 @@ def main():
     if arguments.checklist:
         rows = write_checklist(manifest, urls)
         print(f"{len(rows)} pages to save by hand. Checklist: {MANUAL_DIR / 'checklist.csv'}")
+        return
+    if arguments.find_replacements:
+        # Returns before the manifest is touched: the search adds one file and changes nothing else.
+        pages, searched = find_replacements(batch_dir, manifest, urls, arguments.states)
+        print(f"{searched} removed pages searched; {sum(bool(page['candidates']) for page in pages)} of the "
+              f"{len(pages)} on file have candidates. Candidates: {batch_dir / CANDIDATES_FILE}")
         return
     manifest["status"] = "running"
     manifest_path = batch_dir / "batch_manifest.json"
@@ -182,7 +351,7 @@ def main():
             if url in saved:
                 continue
             if fetched:
-                time.sleep(1)
+                time.sleep(DELAY_SECONDS)
             fetched += 1
             record = snapshot_page(state, url, state_dir)
             records[:] = [old for old in records if old["requested_url"] != url] + [record]

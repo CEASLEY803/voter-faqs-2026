@@ -36,11 +36,13 @@ def run(script, *arguments):
 
 
 def collect(year):
-    """Download Vote411 and state-site pages for the cycle; stop if pages still need saving by hand."""
+    """Download Vote411 and state-site pages, look for replacements for removed pages; stop if pages still need saving by hand."""
     run("collect_vote411.py", "--all", "--year", year)
     run("validate_vote411_batch.py", latest_vote411_batch_path(year))
     run("snapshot_state_sites.py", "--year", year)
     batch = latest_state_site_batch(year)
+    # Runs before the check below, so the suggestions exist even when the pipeline stops for pages to save by hand.
+    run("snapshot_state_sites.py", "--year", year, "--batch", batch.relative_to(ROOT), "--find-replacements")
     manifest = json.loads((batch / "batch_manifest.json").read_text(encoding="utf-8"))
     blocked = [page for pages in manifest["pages"].values() for page in pages
                if page["status"] == "failed" and page.get("error") not in REMOVED_PAGE_ERRORS]
