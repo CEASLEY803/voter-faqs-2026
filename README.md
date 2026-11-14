@@ -61,8 +61,8 @@ One command, `run_pipeline.py`, runs every step for an election year. Because ea
 | ----- | ----- | ----- | ----- | 
 | Collect | `collect_vote411.py`, `snapshot_state_sites.py` | Downloads Vote411 and state pages listed in `sources.csv`. | `data/<year>/batches/`, `data/<year>/state_sites/` | 
 | Check Vote411 | `validate_vote411_batch.py` | Validates extracted Vote411 records against the raw saved pages (runs with `--collect`). | `validation_report.json` in the batch folder | 
-| Parse Pages | `parse_state_sites.py` | Transforms saved state pages into Q&A records. | `state_site_parse_report.json` in `combined/` | 
-| Build | `build_dataset.py` | Merges state and Vote411 records into one 2024-formatted file per state. | `data/<year>/combined/` | 
+| Parse Pages | `parse_state_sites.py` | Transforms saved state pages into Q&A records. | `state_site_parse_report.json` in `dataset/` | 
+| Build | `build_dataset.py` | Merges state and Vote411 records into one 2024-formatted file per state. | `data/<year>/dataset/` | 
 | Check Quality | `quality_report.py` | Flags potential data issues, row by row. | `data/<year>/quality/` | 
 | Review | `run_pipeline.py` | Sets up a CSV for manual approval of each state's data. | `data/<year>/review.csv` | 
 | Compare | `compare_years.py` | Compares the current year against the baseline, source by source. | `data/<year>/analysis/comparison/` | 
@@ -99,9 +99,9 @@ Every state file follows the 2024 layout, which includes the state code, questio
 | `s` | The source URL | 
 | `t` | The exact time the page was downloaded | 
 
-While some pages have clear Q&A pairs, others place useful information under headings that aren't phrased as questions. The Vote411 and South Carolina collectors save those separately as supporting records with `topic`, `kind`, and `content` fields, plus the usual source and time fields. Supporting records are not part of the combined dataset. They stay with the collection, in `<state>/<state>_supporting_content_vote411.json` inside each Vote411 batch folder and in `sc_supporting_content.json` inside each South Carolina run folder.
+While some pages have clear Q&A pairs, others place useful information under headings that aren't phrased as questions. The Vote411 and South Carolina collectors save those separately as supporting records with `topic`, `kind`, and `content` fields, plus the usual source and time fields. Supporting records are not part of the dataset. They stay with the collection, in `<state>/<state>_supporting_content_vote411.json` inside each Vote411 batch folder and in `sc_supporting_content.json` inside each South Carolina run folder.
 
-Vote411 sections are handled a bit differently. If a section doesn't have question headings, the build step stores the entire section as one record (using the title as `q` and the text as `a`). This mirrors the 2024 setup and ensures every state has Vote411 records in the combined dataset.
+Vote411 sections are handled a bit differently. If a section doesn't have question headings, the build step stores the entire section as one record (using the title as `q` and the text as `a`). This mirrors the 2024 setup and ensures every state has Vote411 records in the dataset.
 
 ### How the Comparison Works
 
@@ -145,10 +145,10 @@ California, Georgia, and Texas are compared question-by-question because both ye
 
 | Path (under `data/<year>/`) | Content | 
 | ----- | ----- | 
-| `combined/<state>_qa.json` | State site records, then Vote411 questions, then Vote411 sections | 
-| `combined/manifest.json` | Batches used, extraction methods, and flagged pages | 
-| `combined/state_site_parse_report.json` | Record counts and flags for manual checks | 
-| `combined/dropped_records.json` | Records dropped by the non-FAQ rules | 
+| `dataset/<state>_qa.json` | State site records, then Vote411 questions, then Vote411 sections | 
+| `dataset/manifest.json` | Batches used, extraction methods, and flagged pages | 
+| `dataset/state_site_parse_report.json` | Record counts and flags for manual checks | 
+| `dataset/dropped_records.json` | Records dropped by the non-FAQ rules | 
 | `quality/quality_report.csv` | Line-by-line quality findings | 
 | `quality/quality_summary.md` | Summary of findings by category | 
 | `review.csv` | Manual review tracker | 
@@ -172,7 +172,7 @@ A page gets flagged when the parser finds no records on it, or fewer than half o
 | `data/2026/runs/` | Individual collection runs kept to compare outputs after code changes. | 
 | `data/2026/batches/` | Vote411 collection runs (earlier batches are kept to track extraction changes). | 
 | `data/2026/state_sites/` | Unaltered, downloaded copies of state election websites. | 
-| `data/2026/combined/` | The final dataset (one file per state), plus manifest and parse reports. | 
+| `data/2026/dataset/` | The final dataset (one file per state), plus manifest and parse reports. | 
 | `data/2026/quality/` | Data quality report for the dataset. | 
 | `data/2026/review.csv` | Manual review status for each state. | 
 | `data/2026/analysis/` | The comparison outputs, charts, and cross-state tables. | 
@@ -184,7 +184,7 @@ A page gets flagged when the parser finds no records on it, or fewer than half o
 | `snapshot_state_sites.py` | Downloads state pages and imports manually saved pages. | 
 | `validate_vote411_batch.py` | Verifies Vote411 results against sources. | 
 | `parse_state_sites.py` | Main HTML parser, with site-specific rules chosen by hostname. | 
-| `build_dataset.py` | Builds one year's combined dataset. | 
+| `build_dataset.py` | Builds one year's dataset. | 
 | `quality_report.py` | Writes the data quality report. | 
 | `compare_years.py` | Compares two years state by state. | 
 | `analyze_states.py` | Writes cross-state tables and charts. | 
@@ -233,20 +233,22 @@ python restore_baseline.py
 python run_pipeline.py --year 2026
 ```
 
-This uses the newest Vote411 batch that passed validation for all 50 states and the newest state-site batch. It rebuilds `data/2026/combined/`, writes a quality report, populates missing states in `review.csv`, compares 2026 with 2024, and writes the analysis. Running it twice on the same batches yields the same results; only the build time in `manifest.json` changes.
+This uses the newest Vote411 batch that passed validation for all 50 states and the newest state-site batch. It rebuilds `data/2026/dataset/`, writes a quality report, populates missing states in `review.csv`, compares 2026 with 2024, and writes the analysis. Running it twice on the same batches yields the same results; only the build time in `manifest.json` changes.
+
+When it finishes, it lists the files to open next. The last one is a link that opens `pairs.csv` as a table in the browser, once the data is pushed to GitHub.
 
 | Option | What It Does | 
 | ----- | ----- | 
 | `--collect` | Downloads everything first. If state pages refuse automated downloads, it writes a checklist and stops. | 
 | `--baseline-year YEAR` | Compares with a year other than 2024. | 
-| `--skip-build` | Reuses existing data in `data/<year>/combined/`. | 
+| `--skip-build` | Reuses existing data in `data/<year>/dataset/`. | 
 | `--approved-only` | Analyzes only the states marked as approved in `review.csv` and writes to `analysis_approved/` instead of `analysis/`. | 
 | `--vote411-batch PATH` / `--state-site-batch PATH` | Uses a specific data batch instead of the newest one. | 
 | `--contributor "NAME"` | Sets the contributor name in the state files (default is Cole Easley). | 
 
 ### Review States
 
-Automated checks cannot catch everything, so a manual review of each state is necessary. This means opening the state's file in `combined/` alongside its saved pages and the data quality report findings.
+Automated checks cannot catch everything, so a manual review of each state is necessary. This means opening the state's file in `dataset/` alongside its saved pages and the data quality report findings.
 
 `review.csv` tracks progress with the statuses `pending`, `approved`, or `rejected`. An approved row requires a reviewer name and a date (YYYY-MM-DD). If one is missing, the pipeline stops with an error that names the line. You must fix the row and run it again.
 
