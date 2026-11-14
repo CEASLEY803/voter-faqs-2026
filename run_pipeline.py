@@ -36,6 +36,13 @@ def run(script, *arguments):
         raise SystemExit(f"{script} failed; fix the problem above and run the pipeline again.")
 
 
+def blocked_pages(batch):
+    """Pages in a state-site batch that failed because the site refused them, not because they are gone."""
+    manifest = json.loads((batch / "batch_manifest.json").read_text(encoding="utf-8"))
+    return [page for pages in manifest["pages"].values() for page in pages
+            if page["status"] == "failed" and page.get("error") not in REMOVED_PAGE_ERRORS]
+
+
 def collect(year):
     """Download Vote411 and state-site pages, follow menu pages, look for replacements for removed pages; stop if pages still need saving by hand."""
     run("collect_vote411.py", "--all", "--year", year)
@@ -47,12 +54,13 @@ def collect(year):
     run("snapshot_state_sites.py", "--year", year, "--batch", batch.relative_to(ROOT), "--follow-menus")
     # Runs before the check below, so the suggestions exist even when the pipeline stops for pages to save by hand.
     run("snapshot_state_sites.py", "--year", year, "--batch", batch.relative_to(ROOT), "--find-replacements")
-    manifest = json.loads((batch / "batch_manifest.json").read_text(encoding="utf-8"))
-    blocked = [page for pages in manifest["pages"].values() for page in pages
-               if page["status"] == "failed" and page.get("error") not in REMOVED_PAGE_ERRORS]
-    if blocked:
+    if blocked_pages(batch):
+        # --checklist first fills what it can from the Internet Archive, then lists the rest to save by hand.
         run("snapshot_state_sites.py", "--year", year, "--batch", batch.relative_to(ROOT), "--checklist")
-        raise SystemExit(f"{len(blocked)} pages refused scripted downloads. Save them by hand as listed in "
+    blocked = blocked_pages(batch)
+    if blocked:
+        raise SystemExit(f"{len(blocked)} pages refused scripted downloads and have no Internet Archive copy "
+                         f"from the weeks before election day. Save them by hand as listed in "
                          f"manual_saves/checklist.csv, import them with snapshot_state_sites.py --batch "
                          f"{batch.relative_to(ROOT)} --import-manual (it says so if an imported page leads to more "
                          f"pages to save), then rerun this pipeline without --collect.")

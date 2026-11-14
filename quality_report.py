@@ -22,6 +22,9 @@ CATEGORIES = {
     "menu_page": "Saved state-site pages with no questions of their own that link to FAQ pages on the same site. "
                  "Each is listed below with its linked pages and their question counts. A linked page that is not "
                  "saved yet is missing from the dataset.",
+    "archive_copy": "State-site pages the site refused to a script, saved from the Internet Archive's newest copy "
+                    "in the window before election day that settings.toml sets. The date given is the day the "
+                    "archive captured the page.",
     "flagged_page": "Saved state-site pages the parser flagged: no Q&A found, or far fewer records than the baseline had for the same URL.",
     "missing_source": "States with no records from a source.",
     "below_baseline": "States whose record count for a source is below {below_baseline_ratio:.0%} of the baseline cycle's count.",
@@ -109,7 +112,8 @@ def menu_pages(year):
 def linked_page_result(link):
     """One linked page in words: its question count, or why it is not in the dataset."""
     if link["status"] == "saved":
-        return f"{link['records']} question{'s' if link['records'] != 1 else ''}"
+        return (f"{link['records']} question{'s' if link['records'] != 1 else ''}"
+                + (f", Internet Archive copy of {link['archive_copy_date']}" if "archive_copy_date" in link else ""))
     if link["status"] == "failed" and link["error"] not in REMOVED_PAGE_ERRORS:
         return f"still has to be saved by hand: {link['error']}"
     if link["status"] == "failed":
@@ -139,6 +143,14 @@ def menu_page_lines(year):
     return lines
 
 
+def archive_copies(year):
+    """Return (state, record) for each page of the build's state-site batch that was saved from the Internet Archive."""
+    batch = ROOT / load_manifest(year)["state_site_batch"]
+    manifest = json.loads((batch / "batch_manifest.json").read_text(encoding="utf-8"))
+    return [(state, record) for state, records in manifest["pages"].items() for record in records
+            if record["status"] == "saved" and record.get("archive_url")]
+
+
 def find_issues(year, baseline_year, settings):
     """Return one dict per finding, using the fields in FIELDS."""
     limits = settings["quality"]
@@ -152,6 +164,9 @@ def find_issues(year, baseline_year, settings):
 
     for page in removed_pages(year):
         add("removed_page", page["state"], "state", page["url"], detail=removed_page_detail(page))
+    for state, record in archive_copies(year):
+        add("archive_copy", state, "state", record["requested_url"],
+            detail=f"Internet Archive copy of {record['collected_at'][:10]}: {record['archive_url']}")
     for page in menu_pages(year):
         add("menu_page", page["state"], "state", page["url"], detail=menu_page_total(page) + ": " + ", ".join(
             f"{link['url']} ({linked_page_result(link)})" for link in page["menu_links"]))
@@ -222,6 +237,8 @@ def summary_markdown(rows, year, baseline_year, settings):
             lines += removed_page_lines(year)
         elif category == "menu_page":
             lines += menu_page_lines(year)
+        elif category == "archive_copy":
+            lines += [f"- {row['state'].upper()}: {row['url']} ({row['detail'].split(':')[0]})" for row in found]
         elif category in ("missing_source", "below_baseline"):
             lines += [f"- {row['state'].upper()}, {row['source']}: {row['detail']}" for row in found]
         elif category == "dropped_non_faq":

@@ -74,6 +74,9 @@ def load_settings(path=SETTINGS_FILE):
     github = settings.get("github", {})
     if not re.fullmatch(r"[\w.-]+/[\w.-]+", str(github.get("repository", ""))) or not re.fullmatch(r"[\w./-]+", str(github.get("branch", ""))):
         raise SystemExit(f"{Path(path).name}: [github] needs repository = \"owner/name\" and branch = \"name\"")
+    days = settings.get("archive", {}).get("window_days")
+    if not isinstance(days, int) or isinstance(days, bool) or days < 1:
+        raise SystemExit(f"{Path(path).name}: [archive] needs window_days set to a whole number of days, 1 or more")
     return settings
 
 

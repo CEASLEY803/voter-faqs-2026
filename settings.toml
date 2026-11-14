@@ -45,6 +45,16 @@ il = "section"
 repository = "CEASLEY803/voter-faqs-2026"
 branch = "master"
 
+# A page that a state site refuses to a script is looked up in the Internet Archive before anyone
+# is asked to save it by hand. The archive's newest copy is used when it was captured in a window
+# that ends the day before the cycle's general election day and starts this many days before
+# election day. For 2026 (election day November 3) and 60 days, the window is September 4 to
+# November 2. A copy from election day or later is not used, because it could already show
+# post-election content, and neither is an older copy, because it would not show the page as
+# voters saw it before this election.
+[archive]
+window_days = 60
+
 # Records dropped as page elements rather than FAQ questions, when building a cycle's dataset.
 # Dropped records are listed in the cycle's data quality report.
 [non_faq]

@@ -2,7 +2,7 @@
 
 import argparse
 import csv
-from datetime import datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 import hashlib
 import json
 from difflib import SequenceMatcher
@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 import requests
 
 from collect_sc import ROOT, source_urls
-from datasets import normalize_url
+from datasets import load_settings, normalize_url
 from parse_state_sites import faq_links, listed_urls, page_links, parse_html, parse_pdf
 
 
@@ -27,6 +27,12 @@ CANDIDATES_FILE = "replacement_candidates.json"
 CANDIDATES_KEPT = 3
 # Words too common in addresses and link text to say that two pages are about the same thing.
 COMMON_WORDS = {"and", "the", "for", "your", "page", "pages", "html", "aspx", "index", "default"}
+# The Internet Archive's list of the copies it holds of an address, and how its copies are marked in the manifest.
+ARCHIVE_CDX = "https://web.archive.org/cdx/search/cdx"
+ARCHIVE_METHOD = "Internet Archive copy"
+ARCHIVE_TRIES = 4
+ARCHIVE_BUSY_CODES = {429, 500, 502, 503, 504}
+ARCHIVE_COPIES_TRIED = 3
 EXTENSIONS = {"text/html": ".html", "application/pdf": ".pdf"}
 MANUAL_DIR = ROOT / "manual_saves"
 # Pages that are gone from the site; there is nothing to save by hand.
@@ -326,15 +332,178 @@ def follow_menus(batch_dir, manifest, urls, states=None, only=None):
     return results
 
 
+def general_election_day(year):
+    """The Tuesday after the first Monday in November: November 3 in 2026, November 7 in 2028."""
+    first = date(year, 11, 1)
+    first_monday = first + timedelta(days=(7 - first.weekday()) % 7)
+    return first_monday + timedelta(days=1)
+
+
+def archive_window(year, days):
+    """(first day, last day) in which an archived copy counts as part of the cycle's collection.
+
+    The window ends the day before election day and starts `days` days before election day.
+    For 2026 and 60 days that is September 4 to November 2.
+    """
+    election_day = general_election_day(year)
+    return election_day - timedelta(days=days), election_day - timedelta(days=1)
+
+
+def archive_get(url, params=None):
+    """Ask the Internet Archive for one address; return (response, "") or (None, why not).
+
+    The archive often times out or answers "try later", so the request is repeated a few times
+    with a longer pause each time.
+    """
+    failure = ""
+    for attempt in range(ARCHIVE_TRIES):
+        time.sleep(DELAY_SECONDS if attempt == 0 else RETRY_DELAY_SECONDS * attempt)
+        try:
+            response = requests.get(url, params=params, headers={"User-Agent": USER_AGENT}, timeout=60)
+        except requests.RequestException as error:
+            failure = type(error).__name__
+            continue
+        if response.status_code in ARCHIVE_BUSY_CODES:
+            failure = f"HTTP {response.status_code}"
+            continue
+        return response, ""
+    return None, f"no answer after {ARCHIVE_TRIES} tries ({failure})"
+
+
+def archive_copies(url, window):
+    """Return ([(timestamp, address)], "") for the archive's copies of a page in the window, newest first.
+
+    Only copies the archive saved with status 200 are asked for. A timestamp is 14 digits,
+    such as 20261020064857 for October 20, 2026 at 06:48:57 UTC.
+    """
+    response, error = archive_get(ARCHIVE_CDX, {
+        "url": url, "from": f"{window[0]:%Y%m%d}", "to": f"{window[1]:%Y%m%d}",
+        "filter": "statuscode:200", "output": "json", "fl": "timestamp,original"})
+    if error:
+        return [], error
+    if response.status_code != 200:
+        return [], f"the Internet Archive lookup answered HTTP {response.status_code}"
+    try:
+        rows = response.json() if response.text.strip() else []
+    except ValueError:
+        return [], "the Internet Archive lookup answer could not be read"
+    # The first row holds the column names.
+    return sorted((tuple(row) for row in rows[1:]), reverse=True), ""
+
+
+def fill_page_from_archive(state, record, state_dir, window):
+    """Replace one blocked page's record with a saved Internet Archive copy, when the window has one.
+
+    The newest copy is tried first, then up to two older ones if a copy turns out to be unusable
+    (for example a bot-check page that the archive saved). The copy's capture time becomes
+    collected_at, because that is when the page looked like this. Without a usable copy the
+    record stays failed and gets an archive_lookup note saying why.
+    """
+    url = record["requested_url"]
+    span = f"{window[0]} to {window[1]}"
+    copies, note = archive_copies(url, window)
+    if not copies and not note:
+        note = f"no copy from {span}"
+    for stamp, original in copies[:ARCHIVE_COPIES_TRIED]:
+        # id_ after the timestamp asks for the page as the site sent it, without the archive's toolbar.
+        response, error = archive_get(f"https://web.archive.org/web/{stamp}id_/{original}")
+        if error:
+            note = error
+            continue
+        # The archive can answer with a different copy than the one asked for, so the date is read from its answer.
+        served = re.search(r"/web/(\d{14})", response.url)
+        captured = datetime.strptime(served.group(1) if served else stamp, "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc)
+        if not window[0] <= captured.date() <= window[1]:
+            note = f"the archive answered with a copy from {captured.date()}, outside {span}"
+            continue
+        copy = {"requested_url": url, "capture_method": ARCHIVE_METHOD, "user_agent": USER_AGENT,
+                "archive_url": response.url, "collected_at": captured.isoformat(timespec="seconds"),
+                "collected_at_source": "capture time of the Internet Archive copy", "downloaded_at": now(),
+                "error_before_archive": record["error"]}
+        copy |= {key: record[key] for key in ("linked_from", "link_text") if key in record}
+        copy = save_response(copy, state, state_dir, response.status_code, url,
+                             response.headers.get("Content-Type", ""), response.content)
+        if copy["status"] == "saved":
+            return copy
+        note = f"the copy of {captured.date()} could not be used ({copy['error']})"
+    return record | {"archive_lookup": f"{note}; checked {now()[:10]}"}
+
+
+def blocked_pages(manifest, urls, states=None, only=None):
+    """Return (state, record) for each wanted page that failed because the site refused it, not because it is gone."""
+    return [(state, record) for state, records in manifest["pages"].items() for record in records
+            if record["status"] == "failed" and record["error"] not in REMOVED_PAGE_ERRORS
+            and still_wanted(state, record, urls) and (not states or state in states)
+            and (only is None or (state, record["requested_url"]) in only)]
+
+
+def fill_from_archive(batch_dir, manifest, urls, year, window_days, states=None, only=None):
+    """Fill blocked pages from the Internet Archive; return (pages filled, pages looked up, window).
+
+    A filled page from sources.csv is then checked for a menu like any other saved page. Its linked
+    pages are downloaded, and the ones the site refuses are looked up in the archive too.
+    sources.csv is never changed here.
+    """
+    window = archive_window(year, window_days)
+    looked_up = set()
+
+    def fill(only):
+        filled = []
+        for state, record in blocked_pages(manifest, urls, states, only):
+            url = record["requested_url"]
+            if (state, url) in looked_up:
+                continue
+            looked_up.add((state, url))
+            result = fill_page_from_archive(state, record, batch_dir / state, window)
+            records = manifest["pages"][state]
+            records[:] = [result if old is record else old for old in records]
+            write_json(batch_dir / state / "source_metadata.json", records)
+            write_json(batch_dir / "batch_manifest.json", manifest)
+            if result["status"] == "saved":
+                filled.append((state, url))
+                print(f"{state.upper()} filled from the Internet Archive, copy of {result['collected_at'][:10]}, "
+                      f"{count_questions(result)} questions: {url}")
+            else:
+                print(f"{state.upper()} not filled ({result['archive_lookup']}): {url}")
+        return filled
+
+    filled = fill(only)
+    linked = follow_menus(batch_dir, manifest, urls, only=set(filled)) if filled else []
+    refused = {(result["state"], result["url"]) for result in linked if result["status"] == "failed"}
+    if refused:
+        filled += fill(refused)
+    return filled, len(looked_up), window
+
+
+def close_batch(manifest, urls, manifest_path):
+    """Set the batch's status from its pages and write the manifest."""
+    for state, records in manifest["pages"].items():
+        for record in records:
+            # A failed URL later replaced in sources.csv stays as a record, but no longer counts as a failure.
+            # The same goes for a page linked from a menu page that has left sources.csv.
+            if record["status"] == "failed" and not still_wanted(state, record, urls):
+                record["status"] = "superseded"
+    all_records = [record for records in manifest["pages"].values() for record in records
+                   if record["status"] != "superseded"]
+    failed = [record for record in all_records if record["status"] != "saved"]
+    manifest["status"] = "completed_with_failures" if failed else "completed"
+    manifest["last_updated_at"] = now()
+    write_json(manifest_path, manifest)
+    print(f"{len(all_records) - len(failed)} pages saved; {len(failed)} failed. Manifest: {manifest_path}")
+
+
 def write_checklist(manifest, urls):
-    """List failed pages still wanted, with the file name each manual save should use."""
+    """List failed pages still wanted, with the file name each manual save should use.
+
+    Callers run fill_from_archive first, so the list holds only pages the Internet Archive could not fill.
+    """
     rows = []
     for state, records in manifest["pages"].items():
         for record in records:
             url = record["requested_url"]
             if record["status"] == "failed" and still_wanted(state, record, urls) and record["error"] not in REMOVED_PAGE_ERRORS:
-                rows.append({"state": state, "url": url, "save_as": snapshot_name(state, url) + ".html",
-                             "reason": record["error"][:80]})
+                reason = record["error"][:80] + (f"; Internet Archive: {record['archive_lookup']}" if "archive_lookup" in record else "")
+                rows.append({"state": state, "url": url, "save_as": snapshot_name(state, url) + ".html", "reason": reason})
     MANUAL_DIR.mkdir(exist_ok=True)
     with open(MANUAL_DIR / "checklist.csv", "w", newline="", encoding="utf-8") as file:
         writer = csv.DictWriter(file, fieldnames=["state", "url", "save_as", "reason"])
@@ -349,7 +518,11 @@ def main():
     parser.add_argument("--year", type=int, default=datetime.now(timezone.utc).year, help="Collection cycle; default is the current year")
     parser.add_argument("--batch", type=Path, help="Continue an existing batch, fetching only pages not yet saved")
     parser.add_argument("--checklist", action="store_true",
-                        help="With --batch, write manual_saves/checklist.csv of failed pages to save by hand")
+                        help="With --batch, write manual_saves/checklist.csv of failed pages to save by hand, "
+                             "after trying to fill them from the Internet Archive")
+    parser.add_argument("--fill-from-archive", action="store_true",
+                        help="With --batch, fill pages the site refused with the Internet Archive's newest copy "
+                             "from the days before election day (settings.toml, [archive])")
     parser.add_argument("--import-manual", action="store_true",
                         help="With --batch, add pages saved by hand into manual_saves/ instead of downloading; "
                              "an imported menu page has its linked FAQ pages downloaded too")
@@ -358,8 +531,9 @@ def main():
     parser.add_argument("--follow-menus", action="store_true",
                         help="With --batch, download the FAQ pages linked from saved pages that are only a menu of FAQ topics")
     arguments = parser.parse_args()
-    if (arguments.checklist or arguments.import_manual or arguments.find_replacements or arguments.follow_menus) and not arguments.batch:
-        parser.error("--checklist, --import-manual, --find-replacements and --follow-menus need --batch.")
+    if (arguments.checklist or arguments.import_manual or arguments.find_replacements or arguments.follow_menus
+            or arguments.fill_from_archive) and not arguments.batch:
+        parser.error("--checklist, --import-manual, --find-replacements, --follow-menus and --fill-from-archive need --batch.")
     urls = source_urls("state")
     for state in arguments.states:
         if state not in urls:
@@ -368,14 +542,26 @@ def main():
     if arguments.batch:
         batch_dir = (ROOT / arguments.batch).resolve()
         manifest = json.loads((batch_dir / "batch_manifest.json").read_text(encoding="utf-8"))
+        # The batch sits in data/<year>/state_sites/, so its own year is used, not the year of the day it is run.
+        year = int(batch_dir.parents[1].name) if batch_dir.parents[1].name.isdigit() else arguments.year
     else:
         batch_dir = ROOT / "data" / str(arguments.year) / "state_sites" / datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S%fZ")
         batch_dir.mkdir(parents=True)
         manifest = {"coverage": "State election sites; exact page snapshots, not yet parsed",
                     "started_at": now(), "pages": {}}
-    if arguments.checklist:
-        rows = write_checklist(manifest, urls)
-        print(f"{len(rows)} pages to save by hand. Checklist: {MANUAL_DIR / 'checklist.csv'}")
+        year = arguments.year
+    manifest_path = batch_dir / "batch_manifest.json"
+    window_days = load_settings()["archive"]["window_days"]
+    if arguments.checklist or arguments.fill_from_archive:
+        # The archive is tried before anyone is asked to save a page by hand.
+        filled, looked_up, window = fill_from_archive(batch_dir, manifest, urls, year, window_days, arguments.states)
+        print(f"{looked_up} blocked pages looked up in the Internet Archive; {len(filled)} filled with a copy "
+              f"from {window[0]} to {window[1]}.")
+        if arguments.checklist:
+            rows = write_checklist(manifest, urls)
+            print(f"{len(rows)} pages to save by hand. Checklist: {MANUAL_DIR / 'checklist.csv'}")
+        if filled:
+            close_batch(manifest, urls, manifest_path)
         return
     if arguments.find_replacements:
         # Returns before the manifest is touched: the search adds one file and changes nothing else.
@@ -384,7 +570,6 @@ def main():
               f"{len(pages)} on file have candidates. Candidates: {batch_dir / CANDIDATES_FILE}")
         return
     manifest["status"] = "running"
-    manifest_path = batch_dir / "batch_manifest.json"
     write_json(manifest_path, manifest)
     if arguments.import_manual:
         with open(MANUAL_DIR / "checklist.csv", newline="", encoding="utf-8") as file:
@@ -412,18 +597,23 @@ def main():
         # A menu page that had to be saved by hand is first seen here, so its linked pages are fetched now.
         # Its site usually refuses those downloads too; they then join the checklist for the next round.
         results = follow_menus(batch_dir, manifest, urls, only=imported) if imported else []
-        blocked = sum(result["status"] == "failed" and result["error"] not in REMOVED_PAGE_ERRORS for result in results)
-        if blocked:
+        refused = {(result["state"], result["url"]) for result in results if result["status"] == "failed"}
+        if refused:
+            # The archive is tried for the refused pages before the checklist asks for them.
+            filled, _, _ = fill_from_archive(batch_dir, manifest, urls, year, window_days, only=refused)
+            left = len(blocked_pages(manifest, urls, only=refused))
             write_checklist(manifest, urls)
-            print(f"{blocked} pages linked from an imported menu page refused scripted downloads. They are now in "
-                  f"{MANUAL_DIR / 'checklist.csv'}: save them by hand and run --import-manual again.")
+            print(f"{len(refused)} pages linked from an imported menu page refused scripted downloads; {len(filled)} were "
+                  "filled from the Internet Archive."
+                  + (f" The other {left} are now in {MANUAL_DIR / 'checklist.csv'}: save them by hand and run "
+                     "--import-manual again." if left else ""))
         states = []
     if arguments.follow_menus:
         results = follow_menus(batch_dir, manifest, urls, arguments.states)
         blocked = sum(result["status"] == "failed" and result["error"] not in REMOVED_PAGE_ERRORS for result in results)
         print(f"{len({result['menu'] for result in results})} menu pages; {len(results)} linked pages, "
               f"{sum(result['status'] == 'saved' for result in results)} saved."
-              + (f" {blocked} refused scripted downloads; add them to the save-by-hand list with --checklist." if blocked else ""))
+              + (f" {blocked} refused scripted downloads; --checklist tries the Internet Archive for them and lists the rest to save by hand." if blocked else ""))
         states = []
     fetched = 0
     for state in states:
@@ -442,19 +632,7 @@ def main():
             print(f"{state.upper()} {record['status']}: {url}" + (f" ({record['error']})" if "error" in record else ""))
             write_json(state_dir / "source_metadata.json", records)
             write_json(manifest_path, manifest)
-    for state, records in manifest["pages"].items():
-        for record in records:
-            # A failed URL later replaced in sources.csv stays as a record, but no longer counts as a failure.
-            # The same goes for a page linked from a menu page that has left sources.csv.
-            if record["status"] == "failed" and not still_wanted(state, record, urls):
-                record["status"] = "superseded"
-    all_records = [record for records in manifest["pages"].values() for record in records
-                   if record["status"] != "superseded"]
-    failed = [record for record in all_records if record["status"] != "saved"]
-    manifest["status"] = "completed_with_failures" if failed else "completed"
-    manifest["last_updated_at"] = now()
-    write_json(manifest_path, manifest)
-    print(f"{len(all_records) - len(failed)} pages saved; {len(failed)} failed. Manifest: {manifest_path}")
+    close_batch(manifest, urls, manifest_path)
 
 
 if __name__ == "__main__":

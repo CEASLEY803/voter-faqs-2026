@@ -267,6 +267,8 @@ def linked_page_states(links, pages):
         entry = dict(link, status=page["status"] if page else "not downloaded")
         if page and page["status"] == "failed":
             entry["error"] = page["error"]
+        if page and page["status"] == "saved" and page.get("archive_url"):
+            entry["archive_copy_date"] = page["collected_at"][:10]
         described.append(entry)
     return described
 
