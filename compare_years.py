@@ -266,12 +266,12 @@ def write_pairs_metadata(path, baseline_year, year, repository):
     are the run's own. The link printed by run_pipeline.py loads it from the same folder as pairs.csv.
     """
     steps = [
-        f"Click a value in the {bold('result')} box below to see just that kind of change.",
+        f"To see only one result, like <i>new question</i>, click it in the {bold('result')} box below.",
         f"To see one state, choose {bold('state')} in the {bold('- column -')} menu, type its full name in the box "
         f"next to it (like <i>Oregon</i>), and click {bold('Apply filters')}.",
         f"To search for a word, choose a column like {bold(f'question_{year}')}, change {bold('=')} to "
         f"{bold('contains')}, type the word, and click {bold('Apply filters')}.",
-        f"Click a number in the {bold('Link')} column to read both years' full answers.",
+        f"To read a row's full answers, click its number in the {bold('Link')} column.",
     ]
     content = {
         "title": f"U.S. Voter FAQs: {baseline_year} and {year}",
