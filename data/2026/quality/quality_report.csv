@@ -64,7 +64,10 @@ below_baseline,md,state site,,,6 records; the 2024 baseline had 23
 below_baseline,mn,state site,,,22 records; the 2024 baseline had 55
 below_baseline,nd,state site,,,5 records; the 2024 baseline had 28
 below_baseline,tx,state site,,,27 records; the 2024 baseline had 69
+above_baseline,ca,Vote411,,,72 records; the 2024 baseline had 22
 above_baseline,co,state site,,,123 records; the 2024 baseline had 22
+above_baseline,ga,Vote411,,,68 records; the 2024 baseline had 29
+above_baseline,wi,Vote411,,,23 sections; the 2024 baseline had 2
 above_baseline,wi,state site,,,151 records; the 2024 baseline had 54
 dropped_non_faq,ct,state site,https://portal.ct.gov/sots/election-services/voter-information/absentee-voting,Additional questions about absentee voting?,Rule: invitation to ask more
 dropped_non_faq,mn,state site,https://www.sos.mn.gov/elections-voting/register-to-vote/im-a-college-student/,Going abroad?,Rule: promotional card
