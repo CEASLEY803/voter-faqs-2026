@@ -1,8 +1,8 @@
 category,state,source,url,question,detail
-removed_page,ct,state site,https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter,,Redirected to a 404 page
-removed_page,in,state site,https://www.in.gov/idr/hoosiers-vote/voting-faqs/,,HTTP 404
-removed_page,in,state site,https://www.in.gov/idr/hoosiers-vote/register/,,HTTP 404
-removed_page,mi,state site,https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/campaign-finance-and-lobby-disclosure,,HTTP 404
+removed_page,ct,state site,https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter,,"Redirected to a 404 page; candidates: https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Voters-with-Disabilities-Fact-Sheet (0 questions), https://portal.ct.gov/sots/election-services/voter-information/voter-rolls (0 questions), https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet (2 questions)"
+removed_page,in,state site,https://www.in.gov/idr/hoosiers-vote/voting-faqs/,,"HTTP 404; candidates: https://www.in.gov/idr/hoosiers-vote/national-voting-resources (0 questions), https://www.in.gov/idr/hoosiers-vote/state-and-local-voting-resources (0 questions), https://www.in.gov/sos/elections/voter-information/voters-rights/voting-systems-in-indiana (0 questions)"
+removed_page,in,state site,https://www.in.gov/idr/hoosiers-vote/register/,,"HTTP 404; candidates: https://www.in.gov/idr/hoosiers-vote/register-to-vote (0 questions), https://www.in.gov/idr/hoosiers-vote/ (2 questions), https://www.in.gov/idr/hoosiers-vote/ways-to-vote (0 questions)"
+removed_page,mi,state site,https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/campaign-finance-and-lobby-disclosure,,"HTTP 404; candidates: https://www.michigan.gov/sos/elections/disclosure/cfr (4 questions), https://www.michigan.gov/sos/elections/disclosure/lobby (13 questions), https://www.michigan.gov/sos/elections/disclosure/cfr/committee-search/intro/welcome-to-the-michigan-campaign-finance-searchable-database (0 questions)"
 flagged_page,ak,state site,https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/,,"11 records, well below the 24 the baseline had for this URL"
 flagged_page,ak,state site,https://www.elections.alaska.gov/military-overseas-and-college-voters/,,"1 records, well below the 5 the baseline had for this URL"
 flagged_page,co,state site,https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html,,No Q&A text found in the saved page; the content may be loaded by JavaScript

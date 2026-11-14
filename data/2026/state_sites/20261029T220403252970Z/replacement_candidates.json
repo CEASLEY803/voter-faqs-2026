@@ -1,0 +1,145 @@
+{
+    "about": "Pages that may have replaced removed pages still in sources.csv. Suggestions only; check each one and edit sources.csv by hand.",
+    "pages": [
+        {
+            "state": "ct",
+            "removed_url": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter",
+            "error": "Redirected to a 404 page",
+            "searched_at": "2026-11-14T15:43:57+00:00",
+            "parent_url": "https://portal.ct.gov/sots/election-services/voter-information/",
+            "parent_error": "",
+            "links_compared": 50,
+            "candidates": [
+                {
+                    "url": "https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Voters-with-Disabilities-Fact-Sheet",
+                    "link_text": "Voter with Disabilities Fact Sheet",
+                    "found_on": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote",
+                    "closeness": 0.682,
+                    "final_url": "https://portal.ct.gov/sots/election-services/accessible-voting",
+                    "questions": 0
+                },
+                {
+                    "url": "https://portal.ct.gov/sots/election-services/voter-information/voter-rolls",
+                    "link_text": "Voter Rolls",
+                    "found_on": "https://portal.ct.gov/sots/election-services/voter-information/",
+                    "closeness": 0.483,
+                    "final_url": "https://portal.ct.gov/sots/election-services/voter-information/voter-rolls",
+                    "questions": 0
+                },
+                {
+                    "url": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet",
+                    "link_text": "MyVote.CT.gov",
+                    "found_on": "https://portal.ct.gov/sots/election-services/voter-information/",
+                    "closeness": 0.436,
+                    "final_url": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet",
+                    "questions": 2
+                }
+            ]
+        },
+        {
+            "state": "in",
+            "removed_url": "https://www.in.gov/idr/hoosiers-vote/voting-faqs/",
+            "error": "HTTP 404",
+            "searched_at": "2026-11-14T15:43:14+00:00",
+            "parent_url": "https://www.in.gov/idr/hoosiers-vote/",
+            "parent_error": "",
+            "links_compared": 68,
+            "candidates": [
+                {
+                    "url": "https://www.in.gov/idr/hoosiers-vote/national-voting-resources",
+                    "link_text": "National Voting Resources",
+                    "found_on": "https://www.in.gov/idr/hoosiers-vote/",
+                    "closeness": 0.615,
+                    "final_url": "https://www.in.gov/idr/hoosiers-vote/national-voting-resources",
+                    "questions": 0
+                },
+                {
+                    "url": "https://www.in.gov/idr/hoosiers-vote/state-and-local-voting-resources",
+                    "link_text": "State and Local Voting Resources",
+                    "found_on": "https://www.in.gov/idr/hoosiers-vote/",
+                    "closeness": 0.583,
+                    "final_url": "https://www.in.gov/idr/hoosiers-vote/state-and-local-voting-resources",
+                    "questions": 0
+                },
+                {
+                    "url": "https://www.in.gov/sos/elections/voter-information/voters-rights/voting-systems-in-indiana",
+                    "link_text": "Voting Systems in Indiana",
+                    "found_on": "https://www.in.gov/sos/elections/voter-information/register-to-vote/",
+                    "closeness": 0.426,
+                    "final_url": "https://www.in.gov/sos/elections/voter-information/voters-rights/voting-systems-in-indiana/",
+                    "questions": 0
+                }
+            ]
+        },
+        {
+            "state": "in",
+            "removed_url": "https://www.in.gov/idr/hoosiers-vote/register/",
+            "error": "HTTP 404",
+            "searched_at": "2026-11-14T15:43:18+00:00",
+            "parent_url": "https://www.in.gov/idr/hoosiers-vote/",
+            "parent_error": "",
+            "links_compared": 68,
+            "candidates": [
+                {
+                    "url": "https://www.in.gov/idr/hoosiers-vote/register-to-vote",
+                    "link_text": "Register to Vote",
+                    "found_on": "https://www.in.gov/idr/hoosiers-vote/",
+                    "closeness": 0.935,
+                    "final_url": "https://www.in.gov/idr/hoosiers-vote/register-to-vote",
+                    "questions": 0
+                },
+                {
+                    "url": "https://www.in.gov/idr/hoosiers-vote/",
+                    "link_text": "Skip to main content",
+                    "found_on": "https://www.in.gov/idr/hoosiers-vote/",
+                    "closeness": 0.4,
+                    "final_url": "https://www.in.gov/idr/hoosiers-vote/",
+                    "questions": 2
+                },
+                {
+                    "url": "https://www.in.gov/idr/hoosiers-vote/ways-to-vote",
+                    "link_text": "Ways to Vote",
+                    "found_on": "https://www.in.gov/idr/hoosiers-vote/",
+                    "closeness": 0.379,
+                    "final_url": "https://www.in.gov/idr/hoosiers-vote/ways-to-vote",
+                    "questions": 0
+                }
+            ]
+        },
+        {
+            "state": "mi",
+            "removed_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/campaign-finance-and-lobby-disclosure",
+            "error": "HTTP 404",
+            "searched_at": "2026-11-14T15:43:25+00:00",
+            "parent_url": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/",
+            "parent_error": "HTTP 404",
+            "links_compared": 160,
+            "candidates": [
+                {
+                    "url": "https://www.michigan.gov/sos/elections/disclosure/cfr",
+                    "link_text": "Campaign finance disclosure",
+                    "found_on": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+                    "closeness": 0.609,
+                    "final_url": "https://www.michigan.gov/sos/elections/disclosure/cfr",
+                    "questions": 4
+                },
+                {
+                    "url": "https://www.michigan.gov/sos/elections/disclosure/lobby",
+                    "link_text": "Lobby disclosure",
+                    "found_on": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+                    "closeness": 0.479,
+                    "final_url": "https://www.michigan.gov/sos/elections/disclosure/lobby",
+                    "questions": 13
+                },
+                {
+                    "url": "https://www.michigan.gov/sos/elections/disclosure/cfr/committee-search/intro/welcome-to-the-michigan-campaign-finance-searchable-database",
+                    "link_text": "Campaign Finance Database",
+                    "found_on": "https://www.michigan.gov/sos/faqs/elections-and-campaign-finance/elections-and-voting",
+                    "closeness": 0.47,
+                    "final_url": "https://www.michigan.gov/sos/elections/disclosure/cfr/committee-search/intro/welcome-to-the-michigan-campaign-finance-searchable-database",
+                    "questions": 0
+                }
+            ]
+        }
+    ]
+}
