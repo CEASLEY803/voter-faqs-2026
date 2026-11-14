@@ -6,15 +6,19 @@ import csv
 import json
 from pathlib import Path
 
-from collect_sc import ROOT
+from collect_sc import ROOT, source_urls
 from datasets import (SOURCES, below_baseline, dataset_dir, load_dataset, load_manifest, load_settings, normalize_text,
                       record_source)
+from snapshot_state_sites import REMOVED_PAGE_ERRORS
 
 
 FIELDS = ["category", "state", "source", "url", "question", "detail"]
 SOURCE_NAMES = {"state": "state site", "vote411": "Vote411"}
 # Category: what a row in that category means. The order here is the order in both output files.
+# removed_page comes first because it is the one to act on before the next run.
 CATEGORIES = {
+    "removed_page": "State-site pages still in sources.csv that are gone from the site, so nothing was collected from them. "
+                    "Find each page's new address and update sources.csv before the next run.",
     "flagged_page": "Saved state-site pages the parser flagged: no Q&A found, or far fewer records than the baseline had for the same URL.",
     "missing_source": "States with no records from a source.",
     "below_baseline": "States whose record count for a source is below {below_baseline_ratio:.0%} of the baseline cycle's count.",
@@ -23,6 +27,21 @@ CATEGORIES = {
     "long_answer": "Answers longer than {long_answer_chars} characters, which can mean an answer ran on into later content.",
     "duplicate_question": "The same question more than once within one state and source.",
 }
+
+
+def removed_pages(year):
+    """Return (state, url, error) for each state-site page still in sources.csv that the site no longer has.
+
+    The pages come from the state-site batch the build used. A failed page whose URL has since been
+    replaced in sources.csv is left out, because it has already been dealt with.
+    """
+    batch = ROOT / load_manifest(year)["state_site_batch"]
+    pages = json.loads((batch / "batch_manifest.json").read_text(encoding="utf-8"))["pages"]
+    urls = source_urls("state")
+    return [(state, record["requested_url"], record["error"])
+            for state, records in pages.items() for record in records
+            if record["status"] == "failed" and record["error"] in REMOVED_PAGE_ERRORS
+            and record["requested_url"] in urls.get(state, [])]
 
 
 def find_issues(year, baseline_year, settings):
@@ -36,6 +55,8 @@ def find_issues(year, baseline_year, settings):
         rows.append({"category": category, "state": state, "source": SOURCE_NAMES.get(source, source),
                      "url": url, "question": question, "detail": detail})
 
+    for state, url, error in removed_pages(year):
+        add("removed_page", state, "state", url, detail=error)
     for page in json.loads((folder / "state_site_parse_report.json").read_text(encoding="utf-8")):
         for flag in page["flags"]:
             add("flagged_page", page["state"], "state", page["url"], detail=flag)
@@ -99,7 +120,9 @@ def summary_markdown(rows, year, baseline_year, settings):
         if not found:
             continue
         lines += ["", f"## {category}", ""]
-        if category in ("missing_source", "below_baseline"):
+        if category == "removed_page":
+            lines += [f"- {row['state'].upper()}: {row['url']} ({row['detail']})" for row in found]
+        elif category in ("missing_source", "below_baseline"):
             lines += [f"- {row['state'].upper()}, {row['source']}: {row['detail']}" for row in found]
         elif category == "dropped_non_faq":
             lines += [f"- {row['state'].upper()}: \"{row['question']}\" ({row['detail']})" for row in found]
