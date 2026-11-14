@@ -9,16 +9,19 @@ from pathlib import Path
 from collect_sc import ROOT, source_urls
 from datasets import (DATASET_FOLDER, SOURCES, below_baseline, dataset_dir, load_dataset, load_manifest, load_settings,
                       normalize_text, normalize_url, record_source)
-from snapshot_state_sites import CANDIDATES_FILE, removed_pages as removed_in_batch
+from snapshot_state_sites import CANDIDATES_FILE, REMOVED_PAGE_ERRORS, removed_pages as removed_in_batch
 
 
 FIELDS = ["category", "state", "source", "url", "question", "detail"]
 SOURCE_NAMES = {"state": "state site", "vote411": "Vote411"}
 # Category: what a row in that category means. The order here is the order in both output files.
-# removed_page comes first because it is the one to act on before the next run.
+# removed_page and menu_page come first because they are the ones to act on before the next run.
 CATEGORIES = {
     "removed_page": "State-site pages still in sources.csv that are gone from the site, so nothing was collected from them. "
                     "Check the candidate replacements listed below and update sources.csv by hand before the next run.",
+    "menu_page": "Saved state-site pages with no questions of their own that link to FAQ pages on the same site. "
+                 "Each is listed below with its linked pages and their question counts. A linked page that is not "
+                 "saved yet is missing from the dataset.",
     "flagged_page": "Saved state-site pages the parser flagged: no Q&A found, or far fewer records than the baseline had for the same URL.",
     "missing_source": "States with no records from a source.",
     "below_baseline": "States whose record count for a source is below {below_baseline_ratio:.0%} of the baseline cycle's count.",
@@ -93,6 +96,49 @@ def removed_page_lines(year):
     return lines
 
 
+def menu_pages(year):
+    """The menu pages in the build's parse report, each with the pages it links to.
+
+    build_dataset.py writes the list when it parses the batch, so each linked page's question count
+    is the number of records the build took from it, before the non-FAQ rules.
+    """
+    report = json.loads((dataset_dir(year) / "state_site_parse_report.json").read_text(encoding="utf-8"))
+    return [page for page in report if page.get("menu_links")]
+
+
+def linked_page_result(link):
+    """One linked page in words: its question count, or why it is not in the dataset."""
+    if link["status"] == "saved":
+        return f"{link['records']} question{'s' if link['records'] != 1 else ''}"
+    if link["status"] == "failed" and link["error"] not in REMOVED_PAGE_ERRORS:
+        return f"still has to be saved by hand: {link['error']}"
+    if link["status"] == "failed":
+        return f"not downloaded: {link['error']}"
+    return "not downloaded yet"
+
+
+def menu_page_total(page):
+    """Such as "26 linked pages, 19 saved with 143 questions"."""
+    saved = [link for link in page["menu_links"] if link["status"] == "saved"]
+    return (f"{len(page['menu_links'])} linked page{'s' if len(page['menu_links']) != 1 else ''}, "
+            f"{len(saved)} saved with {sum(link['records'] for link in saved)} questions")
+
+
+def menu_page_lines(year):
+    """The summary's menu_page section: each menu page, with its linked pages listed under it."""
+    pages = menu_pages(year)
+    lines = ["A menu page has no questions of its own. Its questions are on the pages it links to. "
+             "`snapshot_state_sites.py --batch <batch folder> --follow-menus` downloads those pages into the batch. "
+             "A linked page that refuses the download has to be saved by hand like any other blocked page: "
+             "run the same script with `--checklist`, save the pages it lists, then run it with `--import-manual`. "
+             "Rebuild the dataset afterwards.", ""]
+    for page in pages:
+        lines.append(f"- {page['state'].upper()}: {page['url']} ({menu_page_total(page)})")
+        lines += [f"  - {link['url']}, {linked_page_result(link)} (link text \"{link['link_text']}\")"
+                  for link in page["menu_links"]]
+    return lines
+
+
 def find_issues(year, baseline_year, settings):
     """Return one dict per finding, using the fields in FIELDS."""
     limits = settings["quality"]
@@ -106,6 +152,9 @@ def find_issues(year, baseline_year, settings):
 
     for page in removed_pages(year):
         add("removed_page", page["state"], "state", page["url"], detail=removed_page_detail(page))
+    for page in menu_pages(year):
+        add("menu_page", page["state"], "state", page["url"], detail=menu_page_total(page) + ": " + ", ".join(
+            f"{link['url']} ({linked_page_result(link)})" for link in page["menu_links"]))
     for page in json.loads((folder / "state_site_parse_report.json").read_text(encoding="utf-8")):
         for flag in page["flags"]:
             add("flagged_page", page["state"], "state", page["url"], detail=flag)
@@ -171,6 +220,8 @@ def summary_markdown(rows, year, baseline_year, settings):
         lines += ["", f"## {category}", ""]
         if category == "removed_page":
             lines += removed_page_lines(year)
+        elif category == "menu_page":
+            lines += menu_page_lines(year)
         elif category in ("missing_source", "below_baseline"):
             lines += [f"- {row['state'].upper()}, {row['source']}: {row['detail']}" for row in found]
         elif category == "dropped_non_faq":

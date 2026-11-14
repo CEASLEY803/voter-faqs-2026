@@ -6,6 +6,7 @@ from copy import deepcopy
 import json
 from pathlib import Path
 import re
+from urllib.parse import urldefrag, urljoin, urlparse
 
 from bs4 import BeautifulSoup, NavigableString, Tag
 from bs4.element import Comment
@@ -224,6 +225,52 @@ def parse_html(content, metadata):
     return records_from_blocks(page_blocks(root), metadata), "general"
 
 
+def page_links(content, page_url):
+    """Return (address, link text) for every link on an HTML page, with addresses made absolute."""
+    links = []
+    for tag in BeautifulSoup(content, "html.parser").find_all("a", href=True):
+        address = urldefrag(urljoin(page_url, tag["href"].strip())).url
+        if urlparse(address).scheme in ("http", "https"):
+            links.append((address, " ".join(tag.get_text(" ", strip=True).split())))
+    return links
+
+
+def listed_urls():
+    """Every address in sources.csv, normalized for comparing."""
+    return {normalize_url(url) for _, _, url in load_sources()}
+
+
+def faq_links(content, page_url, listed):
+    """Links on a page that lead to FAQ pages on the same host, as {"url", "link_text"} dicts.
+
+    A link counts when its address or its text contains "faq" in any case. The page itself and
+    pages already in sources.csv (listed) are left out, and each address is returned once. A saved
+    page with no questions and at least one of these links is a menu page: its questions are on the
+    linked pages. Colorado's FAQsMain.html is one, with links such as VoterRegistrationFAQ.html.
+    """
+    own = normalize_url(page_url)
+    links = {}
+    for address, text in page_links(content, page_url):
+        key = normalize_url(address)
+        if (hostname(address) == hostname(page_url) and key != own and key not in listed
+                and "faq" in f"{address} {text}".lower()):
+            links.setdefault(key, {"url": address, "link_text": text})
+    return list(links.values())
+
+
+def linked_page_states(links, pages):
+    """Add to each menu link what the batch holds for it: saved, failed with its error, or not downloaded."""
+    by_url = {normalize_url(page["requested_url"]): page for page in pages if page["status"] != "superseded"}
+    described = []
+    for link in links:
+        page = by_url.get(normalize_url(link["url"]))
+        entry = dict(link, status=page["status"] if page else "not downloaded")
+        if page and page["status"] == "failed":
+            entry["error"] = page["error"]
+        described.append(entry)
+    return described
+
+
 def parse_pdf(path, metadata):
     """Split numbered PDF FAQs ("1. ... ?") into records; the question ends at its first ?."""
     text = "\n".join(page.extract_text() or "" for page in PdfReader(str(path)).pages)
@@ -271,6 +318,7 @@ def parse_batch(batch_dir, baseline=None, states=None):
     manifest = json.loads((batch_dir / "batch_manifest.json").read_text(encoding="utf-8"))
     counts = baseline_url_counts(baseline or {})
     replacements = replaced_urls()
+    listed = listed_urls()
     dataset, report = {}, []
     for state, pages in manifest["pages"].items():
         if states and state not in states:
@@ -289,16 +337,35 @@ def parse_batch(batch_dir, baseline=None, states=None):
             keys = {normalize_url(page["requested_url"]), normalize_url(metadata["final_url"])}
             keys |= {replacements[key] for key in list(keys) if key in replacements}
             baseline_count = max((counts.get(state, {}).get(key, 0) for key in keys), default=0)
-            flags = []
-            if not records:
-                flags.append("No Q&A text found in the saved page; the content may be loaded by JavaScript"
-                             if parser != "pdf" else "No numbered questions found in the PDF text")
+            flags, extra = [], {}
+            if "linked_from" in page:
+                extra["linked_from"] = page["linked_from"]
+            # A page with no questions that links to FAQ pages is a menu, not a page that failed to load.
+            links = faq_links(path.read_bytes(), metadata["final_url"], listed) if not records and parser != "pdf" else []
+            if not records and parser == "pdf":
+                flags.append("No numbered questions found in the PDF text")
+            elif links and "linked_from" in page:
+                # Menus are followed one level only, so the pages this one links to are not downloaded.
+                flags.append(f"No questions on this page. It links to {len(links)} more FAQ page{'s' if len(links) != 1 else ''}, "
+                             "not followed because this page was itself reached from a menu page")
+            elif links:
+                extra["menu_links"] = linked_page_states(links, pages)
+                flags.append(f"No questions on this page. It is a menu: it links to {len(links)} FAQ page{'s' if len(links) != 1 else ''} "
+                             "on the same site, and the questions are on those pages (listed under menu_page)")
+            elif not records:
+                flags.append("No Q&A text found in the saved page; the content may be loaded by JavaScript")
             elif baseline_count and len(records) < LOW_COUNT_RATIO * baseline_count:
                 flags.append(f"{len(records)} records, well below the {baseline_count} the baseline had for this URL")
             report.append({"state": state, "url": page["requested_url"], "final_url": metadata["final_url"],
                            "snapshot": page["snapshot"], "capture_method": page["capture_method"],
                            "parser": parser, "records": len(records), "baseline_records": baseline_count,
-                           "flags": flags})
+                           "flags": flags, **extra})
+    # Each menu link gets the question count of its saved page, now that every page has been parsed.
+    found = {(row["state"], normalize_url(row["url"])): row["records"] for row in report}
+    for row in report:
+        for link in row.get("menu_links", []):
+            if link["status"] == "saved":
+                link["records"] = found.get((row["state"], normalize_url(link["url"])))
     return dataset, report
 
 

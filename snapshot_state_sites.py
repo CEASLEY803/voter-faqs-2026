@@ -9,14 +9,14 @@ from difflib import SequenceMatcher
 from pathlib import Path
 import re
 import time
-from urllib.parse import urldefrag, urljoin, urlparse
+from urllib.parse import urlparse
 
 from bs4 import BeautifulSoup
 import requests
 
 from collect_sc import ROOT, source_urls
 from datasets import normalize_url
-from parse_state_sites import parse_html
+from parse_state_sites import faq_links, listed_urls, page_links, parse_html, parse_pdf
 
 
 USER_AGENT = "VoterFAQResearch/1.0"
@@ -151,16 +151,6 @@ def read_page(url):
     return response.url, content_type, response.content, error
 
 
-def page_links(content, page_url):
-    """Return (address, link text) for every link on an HTML page, with addresses made absolute."""
-    links = []
-    for tag in BeautifulSoup(content, "html.parser").find_all("a", href=True):
-        address = urldefrag(urljoin(page_url, tag["href"].strip())).url
-        if urlparse(address).scheme in ("http", "https"):
-            links.append((address, " ".join(tag.get_text(" ", strip=True).split())))
-    return links
-
-
 def words(text):
     return {word for word in re.split(r"[^a-z0-9]+", text.lower()) if len(word) > 2 and word not in COMMON_WORDS}
 
@@ -266,13 +256,80 @@ def find_replacements(batch_dir, manifest, urls, states=None):
     return pages, searched
 
 
+def still_wanted(state, record, urls):
+    """True for a page in sources.csv, and for a page linked from a menu page that is in sources.csv."""
+    listed = urls.get(state, [])
+    return record["requested_url"] in listed or record.get("linked_from") in listed
+
+
+def count_questions(record):
+    """How many questions the parser finds on one saved page."""
+    metadata = {"final_url": record["final_url"], "collected_at": record["collected_at"]}
+    path = ROOT / record["snapshot"]
+    if record["content_type"] == "application/pdf":
+        return len(parse_pdf(path, metadata)[0])
+    return len(parse_html(path.read_bytes(), metadata)[0])
+
+
+def menu_pages(manifest, urls, states=None):
+    """Return (state, record, links) for each saved page in sources.csv that is a menu page.
+
+    A menu page has no questions of its own and links to FAQ pages on the same host (see faq_links).
+    Pages that were themselves reached from a menu are never checked, so menus are followed one level only.
+    """
+    listed = listed_urls()
+    menus = []
+    for state, records in manifest["pages"].items():
+        if states and state not in states:
+            continue
+        for record in records:
+            if (record["status"] != "saved" or record["content_type"] != "text/html"
+                    or record["requested_url"] not in urls.get(state, []) or count_questions(record)):
+                continue
+            links = faq_links((ROOT / record["snapshot"]).read_bytes(), record["final_url"], listed)
+            if links:
+                menus.append((state, record, links))
+    return menus
+
+
+def follow_menus(batch_dir, manifest, urls, states=None):
+    """Download the FAQ pages that each menu page links to into the batch; return what happened to each.
+
+    A linked page is saved and checked exactly like a page from sources.csv, and its record also says
+    which menu page it came from (linked_from) and the link's text. A linked page already saved in
+    the batch is not downloaded again. sources.csv is never changed here.
+    """
+    results, fetched = [], 0
+    for state, menu, links in menu_pages(manifest, urls, states):
+        records = manifest["pages"][state]
+        print(f"{state.upper()} menu page, {len(links)} linked FAQ pages: {menu['requested_url']}")
+        for link in links:
+            url = link["url"]
+            record = next((old for old in records if old["requested_url"] == url and old["status"] == "saved"), None)
+            if record is None:
+                if fetched:
+                    time.sleep(DELAY_SECONDS)
+                fetched += 1
+                record = snapshot_page(state, url, batch_dir / state)
+                record |= {"linked_from": menu["requested_url"], "link_text": link["link_text"]}
+                records[:] = [old for old in records if old["requested_url"] != url] + [record]
+                write_json(batch_dir / state / "source_metadata.json", records)
+                write_json(batch_dir / "batch_manifest.json", manifest)
+            questions = count_questions(record) if record["status"] == "saved" else None
+            results.append({"state": state, "menu": menu["requested_url"], "url": url, "status": record["status"],
+                            "error": record.get("error", ""), "questions": questions})
+            print(f"    {record['status']}" + (f", {questions} questions" if questions is not None else f" ({record['error']})")
+                  + f": {url}")
+    return results
+
+
 def write_checklist(manifest, urls):
-    """List failed pages still in sources.csv, with the file name each manual save should use."""
+    """List failed pages still wanted, with the file name each manual save should use."""
     rows = []
     for state, records in manifest["pages"].items():
         for record in records:
             url = record["requested_url"]
-            if record["status"] == "failed" and url in urls.get(state, []) and record["error"] not in REMOVED_PAGE_ERRORS:
+            if record["status"] == "failed" and still_wanted(state, record, urls) and record["error"] not in REMOVED_PAGE_ERRORS:
                 rows.append({"state": state, "url": url, "save_as": snapshot_name(state, url) + ".html",
                              "reason": record["error"][:80]})
     MANUAL_DIR.mkdir(exist_ok=True)
@@ -294,9 +351,11 @@ def main():
                         help="With --batch, add pages saved by hand into manual_saves/ instead of downloading")
     parser.add_argument("--find-replacements", action="store_true",
                         help=f"With --batch, look for pages that replaced removed pages and write {CANDIDATES_FILE} in the batch folder")
+    parser.add_argument("--follow-menus", action="store_true",
+                        help="With --batch, download the FAQ pages linked from saved pages that are only a menu of FAQ topics")
     arguments = parser.parse_args()
-    if (arguments.checklist or arguments.import_manual or arguments.find_replacements) and not arguments.batch:
-        parser.error("--checklist, --import-manual and --find-replacements need --batch.")
+    if (arguments.checklist or arguments.import_manual or arguments.find_replacements or arguments.follow_menus) and not arguments.batch:
+        parser.error("--checklist, --import-manual, --find-replacements and --follow-menus need --batch.")
     urls = source_urls("state")
     for state in arguments.states:
         if state not in urls:
@@ -337,9 +396,19 @@ def main():
                 print(f"{state.upper()} not saved yet: {url}")
                 continue
             record = import_manual_page(state, url, files[0], batch_dir / state)
+            # A page linked from a menu keeps the note of which menu it came from.
+            earlier = next((old for old in records if old["requested_url"] == url), {})
+            record |= {key: earlier[key] for key in ("linked_from", "link_text") if key in earlier}
             records[:] = [old for old in records if old["requested_url"] != url] + [record]
             print(f"{state.upper()} {record['status']} (manual): {url}" + (f" ({record['error']})" if "error" in record else ""))
             write_json(batch_dir / state / "source_metadata.json", records)
+        states = []
+    if arguments.follow_menus:
+        results = follow_menus(batch_dir, manifest, urls, arguments.states)
+        blocked = sum(result["status"] == "failed" and result["error"] not in REMOVED_PAGE_ERRORS for result in results)
+        print(f"{len({result['menu'] for result in results})} menu pages; {len(results)} linked pages, "
+              f"{sum(result['status'] == 'saved' for result in results)} saved."
+              + (f" {blocked} refused scripted downloads; add them to the save-by-hand list with --checklist." if blocked else ""))
         states = []
     fetched = 0
     for state in states:
@@ -361,7 +430,8 @@ def main():
     for state, records in manifest["pages"].items():
         for record in records:
             # A failed URL later replaced in sources.csv stays as a record, but no longer counts as a failure.
-            if record["status"] == "failed" and record["requested_url"] not in urls.get(state, []):
+            # The same goes for a page linked from a menu page that has left sources.csv.
+            if record["status"] == "failed" and not still_wanted(state, record, urls):
                 record["status"] = "superseded"
     all_records = [record for records in manifest["pages"].values() for record in records
                    if record["status"] != "superseded"]
