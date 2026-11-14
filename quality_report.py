@@ -7,7 +7,8 @@ import json
 from pathlib import Path
 
 from collect_sc import ROOT
-from datasets import SOURCES, dataset_dir, load_dataset, load_manifest, load_settings, normalize_text, record_source
+from datasets import (SOURCES, below_baseline, dataset_dir, load_dataset, load_manifest, load_settings, normalize_text,
+                      record_source)
 
 
 FIELDS = ["category", "state", "source", "url", "question", "detail"]
@@ -44,7 +45,7 @@ def find_issues(year, baseline_year, settings):
             baseline_count = sum(record_source(record) == source for record in baseline.get(state, []))
             if count == 0:
                 add("missing_source", state, source, detail=f"0 records; the {baseline_year} baseline had {baseline_count}")
-            elif count < limits["below_baseline_ratio"] * baseline_count:
+            elif below_baseline(count, baseline_count, limits["below_baseline_ratio"]):
                 add("below_baseline", state, source, detail=f"{count} records; the {baseline_year} baseline had {baseline_count}")
     for record in json.loads((folder / "dropped_records.json").read_text(encoding="utf-8")):
         add("dropped_non_faq", record["state"], "state", record["s"], record["q"], f"Rule: {record['rule']}")

@@ -2,24 +2,45 @@
 
 import argparse
 import csv
+from collections import Counter
 from pathlib import Path
+import statistics
+import textwrap
 
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-from matplotlib.colors import LinearSegmentedColormap
+from matplotlib.colors import BoundaryNorm, ListedColormap
+from matplotlib.lines import Line2D
+from matplotlib.patches import Patch, Rectangle
 
 from collect_sc import ROOT
 from compare_years import compare, write_comparison
-from datasets import (SOURCES, dataset_dir, load_dataset, load_manifest, load_settings, question_topics, record_source,
-                      topic_rules)
+from datasets import (SOURCES, below_baseline, dataset_dir, load_dataset, load_manifest, load_settings, question_topics,
+                      record_source, state_name, topic_rules)
 
 
-SOURCE_LABELS = {"state": "State election site", "vote411": "Vote411"}
-# Reference palette: categorical slots 1 and 2, sequential blue ramp, text and surface tokens.
+SOURCE_LABELS = {"state_site": "State election site", "vote411": "Vote411"}
+# Reference palette: categorical slots 1 and 2, text and surface tokens.
 COLORS = {"baseline": "#2a78d6", "current": "#eb6834", "major": "#2a78d6", "minor": "#86b6ef",
-          "text": "#0b0b0b", "muted": "#52514e", "grid": "#e4e3df", "surface": "#fcfcfb"}
-SEQUENTIAL = ["#fcfcfb", "#cde2fb", "#9ec5f4", "#6da7ec", "#3987e5", "#256abf", "#184f95", "#0d366b"]
+          "text": "#0b0b0b", "muted": "#52514e", "grid": "#e4e3df", "surface": "#fcfcfb", "empty": "#ffffff"}
+# Topic chart: the lowest question count of each color step, its legend label and its color. The
+# colors are one blue ramp, checked as an ordinal palette, whose lightest step is still clearly
+# visible, so a square with one question never looks like an empty one.
+TOPIC_STEPS = [(1, "1 question", "#86b6ef"), (2, "2 to 4", "#3987e5"), (5, "5 to 9", "#184f95"), (10, "10 or more", "#0d366b")]
+# How each Vote411 extraction method (see VOTE411_METHODS in datasets.py) is described on a chart.
+METHOD_WORDS = {"question_headings": "one record per question", "section_titles": "one record per section",
+                "sections_without_questions": "one record per section", "mixed": "sections split into questions",
+                "page_fragments": "records are page fragments"}
+NUMBER_WORDS = {1: "one", 2: "two", 3: "three", 4: "four", 5: "five", 6: "six", 7: "seven", 8: "eight", 9: "nine", 10: "ten"}
+# GitHub shows a chart about 850 pixels wide, whatever its real size. Every chart is drawn 8.5 by 8
+# inches, so a hundredth of an inch is one pixel on that page. The chart code below is written in
+# those page pixels: positions are measured from the top left corner, and no text is under 10.
+PAGE_WIDTH, PAGE_HEIGHT = 850, 800
+SAVE_DPI = 200
+SMALL, BODY, PANEL_TITLE, TITLE = 10, 10.5, 11.5, 14.5
+# The two side by side panels of a chart: left edge of each, and their width.
+PANEL_LEFTS, PANEL_WIDTH = (38, 464), 366
 
 
 def topic_counts(records, topics):
@@ -55,11 +76,7 @@ def rank(rows, key, reverse=True):
 
 
 def missing_year_note(baseline_count, current_count, baseline_year, year):
-    """Why a state's change rates are left blank for a source, or "" when both years have records.
-
-    With no records in one year, every question in the other year would count as new or removed:
-    that is missing data, not change.
-    """
+    """Which year has no records for a source, such as "no 2024 records", or "" when both years have some."""
     if not baseline_count and not current_count:
         return f"no {baseline_year} or {year} records"
     if not baseline_count:
@@ -67,7 +84,20 @@ def missing_year_note(baseline_count, current_count, baseline_year, year):
     return f"no {year} records" if not current_count else ""
 
 
-def per_state_table(baseline, current, details, summary, states, baseline_year, year, topics):
+def no_rate_note(baseline_count, current_count, baseline_year, year, below_baseline_ratio):
+    """Why a state's change rates are left blank for a source, or "" when the two years can be compared.
+
+    With no records in one year, every question in the other year would count as new or removed.
+    With far fewer records than the baseline year, most "removed" questions are questions the
+    collection missed. Both are missing data, not change.
+    """
+    note = missing_year_note(baseline_count, current_count, baseline_year, year)
+    if not note and below_baseline(current_count, baseline_count, below_baseline_ratio):
+        note = f"{current_count} records in {year}, {baseline_count} in {baseline_year}"
+    return note
+
+
+def per_state_table(baseline, current, details, summary, states, baseline_year, year, topics, below_baseline_ratio):
     by_key = {(row["state"], row["source"]): row for row in summary}
     rows = []
     for state in states:
@@ -87,7 +117,7 @@ def per_state_table(baseline, current, details, summary, states, baseline_year, 
                 row[f"{status}_{label}"] = stats[status]
             row[f"answers_minor_{label}"] = stats["answers_minor"]
             row[f"answers_major_{label}"] = stats["answers_major"]
-            note = missing_year_note(row[f"baseline_{label}"], row[f"current_{label}"], baseline_year, year)
+            note = no_rate_note(row[f"baseline_{label}"], row[f"current_{label}"], baseline_year, year, below_baseline_ratio)
             (row[f"minor_edit_rate_{label}"], row[f"major_change_rate_{label}"], row[f"change_rate_{label}"]) = (
                 (None, None, None) if note else change_rates([item for item in details[state] if item["source"] == source]))
             row[f"change_rate_note_{label}"] = note
@@ -119,108 +149,211 @@ def write_csv(path, rows):
         writer.writerows(rows)
 
 
-def style_axis(axis):
+def points(pixels):
+    """Page pixels to the points matplotlib uses for text and line sizes."""
+    return pixels * 72 / 100
+
+
+def percent(share):
+    """A share as a whole percent, with halves rounded up."""
+    return f"{int(100 * share + 0.5)}%"
+
+
+def new_figure():
+    return plt.figure(figsize=(PAGE_WIDTH / 100, PAGE_HEIGHT / 100), facecolor=COLORS["surface"])
+
+
+def write(figure, left, top, text, size=BODY, color="muted", **style):
+    """Put text on the page, with its top left corner at (left, top) in page pixels."""
+    figure.text(left / PAGE_WIDTH, 1 - top / PAGE_HEIGHT, text, fontsize=points(size), color=COLORS[color],
+                va="top", ha="left", **style)
+
+
+def add_legend(figure, top, handles):
+    figure.legend(handles=handles, frameon=False, fontsize=points(BODY), labelcolor=COLORS["text"], loc="upper left",
+                  bbox_to_anchor=(6 / PAGE_WIDTH, 1 - top / PAGE_HEIGHT), ncols=len(handles), borderaxespad=0,
+                  handlelength=1.4, handletextpad=0.5, columnspacing=1.6)
+
+
+def add_panel(figure, left, top, height, states):
+    """One panel, placed in page pixels, with one row per state code, the first at the top."""
+    axis = figure.add_axes([left / PAGE_WIDTH, 1 - (top + height) / PAGE_HEIGHT, PANEL_WIDTH / PAGE_WIDTH, height / PAGE_HEIGHT])
     axis.set_facecolor(COLORS["surface"])
-    for side in ("top", "right", "left"):
-        axis.spines[side].set_visible(False)
+    for spine in axis.spines.values():
+        spine.set_visible(False)
+    axis.set_yticks(range(len(states)), [state.upper() for state in states])
+    axis.set_ylim(len(states) - 0.5, -0.5)
+    axis.tick_params(axis="y", colors=COLORS["muted"], labelsize=points(SMALL), length=0, pad=points(4))
+    axis.tick_params(axis="x", colors=COLORS["muted"], labelsize=points(SMALL), length=0, pad=points(3))
+    return axis
+
+
+def bar_panel(figure, left, top, height, states):
+    axis = add_panel(figure, left, top, height, states)
+    axis.spines["bottom"].set_visible(True)
     axis.spines["bottom"].set_color(COLORS["grid"])
-    axis.tick_params(colors=COLORS["muted"], labelsize=8, length=0)
-    axis.grid(axis="x", color=COLORS["grid"], linewidth=0.8)
+    axis.grid(axis="x", color=COLORS["grid"], linewidth=points(1))
     axis.set_axisbelow(True)
+    return axis
+
+
+def row_note(axis, x, row, text, italic=True):
+    """Words in place of a bar. Reasons for a missing bar are in italics; "no change" is not."""
+    axis.text(x, row, text, va="center", ha="left", fontsize=points(SMALL), color=COLORS["muted"],
+              style="italic" if italic else "normal")
+
+
+def save(figure, path):
+    figure.savefig(path, dpi=SAVE_DPI, facecolor=COLORS["surface"])
+    plt.close(figure)
+
+
+def vote411_build_note(rows, baseline_year, year):
+    """Title and two lines for the Vote411 panel of the counts chart, from the methods in the manifests.
+
+    When the most common extraction method differs between the two cycles, the record counts are not
+    like for like, and the panel says how each cycle was mostly built.
+    """
+    lines = []
+    for key, cycle in (("baseline", baseline_year), ("current", year)):
+        methods = Counter(r[f"vote411_method_{key}"] for r in rows if r[f"vote411_method_{key}"] != "none")
+        method, states = methods.most_common(1)[0] if methods else ("none", 0)
+        lines.append((method, f"{cycle}: {METHOD_WORDS.get(method, method)} in {states} of {sum(methods.values())} states"))
+    if lines[0][0] == lines[1][0]:
+        return "Vote411", ["Records per state"]
+    return "Vote411: the two years are not like for like", [line for _, line in lines]
 
 
 def chart_counts(rows, path, baseline_year, year):
-    """Questions per state in both years, one panel per source so each keeps its own scale."""
-    order = sorted(rows, key=lambda r: r["current_state_site"] + r["current_vote411"])
-    positions = range(len(order))
-    figure, axes = plt.subplots(1, 2, figsize=(11, max(4, 0.22 * len(order) + 1.5)), sharey=True, facecolor=COLORS["surface"])
-    for axis, label in zip(axes, ("state_site", "vote411")):
-        style_axis(axis)
-        axis.barh([p + 0.21 for p in positions], [r[f"baseline_{label}"] for r in order], height=0.38,
-                  color=COLORS["baseline"], label=str(baseline_year), edgecolor=COLORS["surface"], linewidth=1)
-        axis.barh([p - 0.21 for p in positions], [r[f"current_{label}"] for r in order], height=0.38,
-                  color=COLORS["current"], label=str(year), edgecolor=COLORS["surface"], linewidth=1)
-        axis.set_title(SOURCE_LABELS["state" if label == "state_site" else "vote411"], color=COLORS["text"], fontsize=10, loc="left")
-        axis.set_xlabel("Questions", color=COLORS["muted"], fontsize=8)
-    axes[0].set_yticks(list(positions), [r["state"].upper() for r in order])
-    axes[0].set_ylim(-0.6, len(order) - 0.4)
-    axes[1].legend(frameon=False, fontsize=8, labelcolor=COLORS["text"], loc="lower right")
-    figure.suptitle(f"Voter FAQ questions per state, {baseline_year} and {year}", color=COLORS["text"], x=0.01, ha="left")
-    figure.tight_layout()
-    figure.savefig(path, dpi=150, facecolor=COLORS["surface"])
-    plt.close(figure)
+    """Records per state in both years, one panel per source so each keeps its own scale."""
+    order = sorted(rows, key=lambda r: (-(r["current_state_site"] + r["current_vote411"]), r["state"]))
+    figure = new_figure()
+    write(figure, 8, 8, f"Voter FAQ records collected per state, {baseline_year} and {year}", TITLE, "text", fontweight="bold")
+    write(figure, 8, 32, f"States are sorted by their {year} records from both sources together, most at the top.")
+    add_legend(figure, 51, [Patch(color=COLORS["baseline"], label=str(baseline_year)), Patch(color=COLORS["current"], label=str(year))])
+    vote411_title, vote411_lines = vote411_build_note(rows, baseline_year, year)
+    headings = {"state_site": (SOURCE_LABELS["state_site"], ["Questions per state"]), "vote411": (vote411_title, vote411_lines)}
+    top = 96 + 15 * max(len(lines) for _, lines in headings.values())
+    for left, label in zip(PANEL_LEFTS, ("state_site", "vote411")):
+        title, lines = headings[label]
+        write(figure, left, 76, title, PANEL_TITLE, "text", fontweight="bold")
+        for number, line in enumerate(lines):
+            write(figure, left, 93 + 15 * number, line)
+        axis = bar_panel(figure, left, top, PAGE_HEIGHT - 26 - top, [r["state"] for r in order])
+        rows_at = range(len(order))
+        # Each row holds two bars, the earlier year on top, with a gap of surface color between them.
+        axis.barh([row - 0.2 for row in rows_at], [r[f"baseline_{label}"] for r in order], height=0.4,
+                  color=COLORS["baseline"], edgecolor=COLORS["surface"], linewidth=points(0.6))
+        axis.barh([row + 0.2 for row in rows_at], [r[f"current_{label}"] for r in order], height=0.4,
+                  color=COLORS["current"], edgecolor=COLORS["surface"], linewidth=points(0.6))
+        longest = max(max(r[f"baseline_{label}"], r[f"current_{label}"]) for r in order)
+        axis.set_xlim(0, longest * 1.03)
+        for row, r in enumerate(order):
+            note = missing_year_note(r[f"baseline_{label}"], r[f"current_{label}"], baseline_year, year)
+            if note:
+                row_note(axis, max(r[f"baseline_{label}"], r[f"current_{label}"]) + longest * 0.015, row, note)
+    save(figure, path)
 
 
 def chart_change(rows, path, baseline_year, year, minor_threshold):
     """Major and minor change per state, one panel per source, each sorted by its major change rate."""
-    figure, axes = plt.subplots(1, 2, figsize=(11, max(4, 0.22 * len(rows) + 2)), facecolor=COLORS["surface"])
-    for axis, label in zip(axes, ("state_site", "vote411")):
-        style_axis(axis)
-        ranked = sorted((r for r in rows if r[f"change_rate_{label}"] is not None),
-                        key=lambda r: (r[f"major_change_rate_{label}"], r[f"change_rate_{label}"]))
-        # States with no records in one year have no rate; they go at the bottom with a note instead of a bar.
-        unrated = sorted((r for r in rows if r[f"change_rate_{label}"] is None), key=lambda r: r["state"], reverse=True)
-        positions = range(len(unrated), len(unrated) + len(ranked))
-        major = [100 * r[f"major_change_rate_{label}"] for r in ranked]
-        minor = [100 * r[f"minor_edit_rate_{label}"] for r in ranked]
+    figure = new_figure()
+    by_section = [r["state"] for r in rows if r["vote411_unit"] == "section"]
+    by_question = [r["state"] for r in rows if r["vote411_unit"] != "section"]
+    write(figure, 8, 8, f"How much each state's voter FAQ changed from {baseline_year} to {year}", TITLE, "text", fontweight="bold")
+    write(figure, 8, 32, f"The share of each state's questions{' (or Vote411 sections)' if by_section else ''} that changed. "
+                         "States are sorted by major change. The line marks the median state.")
+    add_legend(figure, 51, [
+        Patch(color=COLORS["major"], label=f"Major: new, removed, or edited below {minor_threshold} similarity"),
+        Patch(color=COLORS["minor"], label=f"Minor edits ({minor_threshold} similarity or above)"),
+        Line2D([], [], color=COLORS["text"], linewidth=points(1.5), label="Median major change")])
+    for left, label in zip(PANEL_LEFTS, ("state_site", "vote411")):
+        rated = sorted((r for r in rows if r[f"major_change_rate_{label}"] is not None),
+                       key=lambda r: (-r[f"major_change_rate_{label}"], -r[f"change_rate_{label}"], r["state"]))
+        # States with no rate go below the others, with the reason in place of a bar.
+        unrated = sorted((r for r in rows if r[f"major_change_rate_{label}"] is None), key=lambda r: r["state"])
+        axis = bar_panel(figure, left, 111, PAGE_HEIGHT - 26 - 111, [r["state"] for r in rated + unrated])
+        major = [100 * r[f"major_change_rate_{label}"] for r in rated]
+        minor = [100 * r[f"minor_edit_rate_{label}"] for r in rated]
         # The surface-colored edge leaves a gap between the two segments of a bar.
-        axis.barh(positions, major, height=0.7, color=COLORS["major"], edgecolor=COLORS["surface"], linewidth=1,
-                  label=f"Major: new, removed, or edited below {minor_threshold} similarity")
-        axis.barh(positions, minor, left=major, height=0.7, color=COLORS["minor"], edgecolor=COLORS["surface"],
-                  linewidth=1, label=f"Minor edits only ({minor_threshold} similarity or above)")
-        for position, r in enumerate(unrated):
-            axis.text(1, position, r[f"change_rate_note_{label}"], va="center", ha="left", fontsize=8,
-                      style="italic", color=COLORS["muted"])
-        axis.set_yticks(range(len(unrated) + len(ranked)), [r["state"].upper() for r in unrated + ranked])
-        axis.set_ylim(-0.6, max(len(unrated) + len(ranked), 1) - 0.4)
+        axis.barh(range(len(rated)), major, height=0.7, color=COLORS["major"], edgecolor=COLORS["surface"], linewidth=points(1))
+        axis.barh(range(len(rated)), minor, left=major, height=0.7, color=COLORS["minor"], edgecolor=COLORS["surface"],
+                  linewidth=points(1))
+        for row, r in enumerate(rated):
+            if r[f"change_rate_{label}"] == 0:
+                row_note(axis, 1, row, "no change", italic=False)
+        for row, r in enumerate(unrated, start=len(rated)):
+            row_note(axis, 1, row, r[f"change_rate_note_{label}"])
+        if rated and unrated:
+            axis.axhline(len(rated) - 0.5, color=COLORS["grid"], linewidth=points(1))
+        title = SOURCE_LABELS[label]
+        if rated:
+            median = statistics.median(r[f"major_change_rate_{label}"] for r in rated)
+            axis.plot([100 * median] * 2, [-0.5, len(rated) - 0.5], color=COLORS["text"], linewidth=points(1.5))
+            title += f": median major change {percent(median)} ({len(rated)} states)"
         axis.set_xlim(0, 100)
-        title = SOURCE_LABELS["state" if label == "state_site" else "vote411"]
-        unit = "questions"
-        if label == "vote411":
-            by_section = sum(r["vote411_unit"] == "section" for r in ranked)
-            unit = "sections" if by_section == len(ranked) else "questions" if not by_section else "sections or questions"
-            if 0 < by_section < len(ranked):
-                title += f" (by section in {by_section} states, by question in {len(ranked) - by_section})"
-        axis.set_xlabel(f"Share of {unit} (%)", color=COLORS["muted"], fontsize=8)
-        axis.set_title(title, color=COLORS["text"], fontsize=10, loc="left")
-    handles, labels = axes[0].get_legend_handles_labels()
-    figure.legend(handles, labels, frameon=False, fontsize=8, labelcolor=COLORS["text"], loc="lower left",
-                  bbox_to_anchor=(0.01, 0), ncols=2)
-    figure.suptitle(f"Change per state, {baseline_year} to {year}", color=COLORS["text"], x=0.01, ha="left")
-    figure.tight_layout(rect=(0, 0.025, 1, 1))
-    figure.savefig(path, dpi=150, facecolor=COLORS["surface"])
-    plt.close(figure)
+        axis.set_xticks(range(0, 101, 25), [f"{tick}%" for tick in range(0, 101, 25)])
+        line = "Share of questions"
+        if label == "vote411" and by_section:
+            line = f"Compared by section in {len(by_section)} states"
+            if by_question:
+                named = f" ({', '.join(state.upper() for state in by_question)})" if len(by_question) <= 5 else ""
+                line += f", by question in {len(by_question)}{named}"
+        write(figure, left, 76, title, PANEL_TITLE, "text", fontweight="bold")
+        write(figure, left, 93, line)
+    save(figure, path)
+
+
+def coverage_title(rows, topics, baseline_year, year):
+    """The topic chart's finding, such as "49 of 50 states covered all six topics in 2024, and all 50 in 2026"."""
+    def states(key):
+        full = sum(r[f"topics_covered_{key}"] == len(topics) for r in rows)
+        return f"all {len(rows)}" if full == len(rows) else f"{full} of {len(rows)}"
+    title = (f"{states('baseline')} states covered all {NUMBER_WORDS.get(len(topics), len(topics))} topics in {baseline_year}, "
+             f"and {states('current')} in {year}")
+    return title[0].upper() + title[1:]
 
 
 def chart_topics(rows, path, baseline_year, year, topics):
-    """Questions per topic and state for both years on one color scale."""
+    """Questions per topic and state for both years, in a few color steps, with empty squares marked."""
     order = sorted(rows, key=lambda r: r["coverage_rank"])
-    labels = [topic["label"] for topic in topics]
-    topics = [topic["name"] for topic in topics]
-    peak = max([1] + [r[f"{t}_{k}"] for r in order for t in topics for k in ("baseline", "current")])
-    colormap = LinearSegmentedColormap.from_list("blues", SEQUENTIAL)
-    figure, axes = plt.subplots(1, 2, figsize=(9, max(4, 0.22 * len(order) + 2)), sharey=True,
-                                facecolor=COLORS["surface"], layout="constrained")
-    for axis, key, title in zip(axes, ("baseline", "current"), (str(baseline_year), str(year))):
-        grid = [[r[f"{t}_{key}"] for t in topics] for r in order]
-        # The surface-colored cell edges keep neighboring cells of similar shade apart.
-        image = axis.pcolormesh(grid, cmap=colormap, vmin=0, vmax=min(peak, 20),
-                                edgecolors=COLORS["surface"], linewidth=1.5)
-        axis.set_facecolor(COLORS["surface"])
-        axis.set_xticks([i + 0.5 for i in range(len(topics))], labels, rotation=40, ha="right")
-        axis.set_yticks([i + 0.5 for i in range(len(order))], [r["state"].upper() for r in order])
+    cycles = (("baseline", baseline_year), ("current", year))
+    gaps = [f"{state_name(r['state'])} {topic['label'].lower()} in {cycle}" for key, cycle in cycles for r in order
+            for topic in topics if not r[f"{topic['name']}_{key}"]]
+    figure = new_figure()
+    write(figure, 8, 8, coverage_title(rows, topics, baseline_year, year), TITLE, "text", fontweight="bold")
+    write(figure, 8, 32, f"Each square is one state and topic. States are ordered by topics covered in {year}, then by their "
+                         f"{year} questions on those topics, most at the top.")
+    if not gaps:
+        gap_line = "No state is missing a topic in either year."
+    else:
+        gap_line = f"An X marks a topic with no question: {'; '.join(gaps)}." if len(gaps) <= 3 else \
+            f"An X marks a topic with no question ({len(gaps)} squares)."
+    write(figure, 8, 47, gap_line)
+    add_legend(figure, 66, [Line2D([], [], linestyle="none", marker="x", color=COLORS["text"], markersize=points(8),
+                                   markeredgewidth=points(1.6), label="no question")]
+               + [Patch(color=color, label=label) for _, label, color in TOPIC_STEPS])
+    colors = ListedColormap([COLORS["empty"]] + [color for _, _, color in TOPIC_STEPS])
+    steps = BoundaryNorm([0] + [low for low, _, _ in TOPIC_STEPS] + [float("inf")], colors.N)
+    names = ["\n".join(textwrap.wrap(topic["label"], 9, break_long_words=False)) for topic in topics]
+    for left, (key, cycle) in zip(PANEL_LEFTS, cycles):
+        write(figure, left, 90, str(cycle), PANEL_TITLE, "text", fontweight="bold")
+        axis = add_panel(figure, left, 137, PAGE_HEIGHT - 8 - 137, [r["state"] for r in order])
+        grid = [[r[f"{topic['name']}_{key}"] for topic in topics] for r in order]
+        # The surface-colored cell edges keep neighboring squares apart.
+        axis.pcolormesh(grid, cmap=colors, norm=steps, edgecolors=COLORS["surface"], linewidth=points(2))
+        axis.set_yticks([row + 0.5 for row in range(len(order))], [r["state"].upper() for r in order])
         axis.set_ylim(len(order), 0)
-        axis.tick_params(colors=COLORS["muted"], labelsize=8, length=0)
-        axis.set_title(title, color=COLORS["text"], fontsize=10, loc="left")
-        for spine in axis.spines.values():
-            spine.set_visible(False)
-    bar = figure.colorbar(image, ax=axes, shrink=0.4, pad=0.02)
-    bar.set_label("Questions on the topic (20 or more shown darkest)", color=COLORS["muted"], fontsize=8)
-    bar.ax.tick_params(colors=COLORS["muted"], labelsize=8)
-    bar.outline.set_visible(False)
-    figure.suptitle("Topic coverage by state, ordered by coverage rank", color=COLORS["text"], x=0.01, ha="left")
-    figure.savefig(path, dpi=150, facecolor=COLORS["surface"])
-    plt.close(figure)
+        axis.xaxis.tick_top()
+        axis.set_xticks([column + 0.5 for column in range(len(topics))], names, linespacing=1.05)
+        for row, counts in enumerate(grid):
+            for column, count in enumerate(counts):
+                if not count:
+                    axis.add_patch(Rectangle((column + 0.04, row + 0.1), 0.92, 0.8, facecolor=COLORS["empty"],
+                                             edgecolor=COLORS["text"], linewidth=points(1.2)))
+                    axis.plot(column + 0.5, row + 0.5, marker="x", color=COLORS["text"], markersize=points(8),
+                              markeredgewidth=points(1.8))
+    save(figure, path)
 
 
 def analyze(year, baseline_year, output, states=None):
@@ -231,7 +364,8 @@ def analyze(year, baseline_year, output, states=None):
     topics = topic_rules(settings)
     details, summary = compare(baseline, current, states, load_manifest(baseline_year), load_manifest(year), settings)
     write_comparison(output, details, summary, baseline_year, year, settings)
-    rows = per_state_table(baseline, current, details, summary, states, baseline_year, year, topics)
+    rows = per_state_table(baseline, current, details, summary, states, baseline_year, year, topics,
+                           settings["quality"]["below_baseline_ratio"])
     write_csv(Path(output) / "per_state.csv", rows)
     topic_rows = [{"state": r["state"], "year": y, "topic": t, "questions": r[f"{t}_{k}"]}
                   for r in rows for y, k in ((baseline_year, "baseline"), (year, "current"))

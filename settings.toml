@@ -74,6 +74,8 @@ pattern = '^going abroad$'
 short_answer_chars = 25
 long_answer_chars = 6000
 # A state's record count for a source below this share of the baseline cycle's count is reported.
+# The analysis also leaves that state's change rates for the source blank, with the two counts as
+# the reason, because most of its "removed" questions are questions the collection missed.
 below_baseline_ratio = 0.5
 
 # Topics for the topic coverage numbers, topics.csv and the topic chart. A question counts for a

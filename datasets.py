@@ -19,6 +19,18 @@ NON_STATE_HOSTS = {
     "ohiovoterrights.org": "Ohio Voter Rights Coalition",
 }
 SOURCES = ("state", "vote411")
+# Full names for files a person browses, such as pairs.csv.
+STATE_NAMES = {
+    "ak": "Alaska", "al": "Alabama", "ar": "Arkansas", "az": "Arizona", "ca": "California", "co": "Colorado",
+    "ct": "Connecticut", "de": "Delaware", "fl": "Florida", "ga": "Georgia", "hi": "Hawaii", "ia": "Iowa", "id": "Idaho",
+    "il": "Illinois", "in": "Indiana", "ks": "Kansas", "ky": "Kentucky", "la": "Louisiana", "ma": "Massachusetts",
+    "md": "Maryland", "me": "Maine", "mi": "Michigan", "mn": "Minnesota", "mo": "Missouri", "ms": "Mississippi",
+    "mt": "Montana", "nc": "North Carolina", "nd": "North Dakota", "ne": "Nebraska", "nh": "New Hampshire",
+    "nj": "New Jersey", "nm": "New Mexico", "nv": "Nevada", "ny": "New York", "oh": "Ohio", "ok": "Oklahoma",
+    "or": "Oregon", "pa": "Pennsylvania", "ri": "Rhode Island", "sc": "South Carolina", "sd": "South Dakota",
+    "tn": "Tennessee", "tx": "Texas", "ut": "Utah", "va": "Virginia", "vt": "Vermont", "wa": "Washington",
+    "wi": "Wisconsin", "wv": "West Virginia", "wy": "Wyoming",
+}
 SETTINGS_FILE = ROOT / "settings.toml"
 # How a state's Vote411 records were extracted, as recorded in each cycle's manifest.json:
 #   question_headings           one record per published question heading inside a section
@@ -57,6 +69,20 @@ def load_settings(path=SETTINGS_FILE):
         if not topic.get("label") or not topic.get("pattern"):
             raise SystemExit(f"{Path(path).name}: topic {topic['name']} needs a label and a pattern")
     return settings
+
+
+def state_name(code):
+    """The full state name, or the code in capitals when it is not one of the 50 states."""
+    return STATE_NAMES.get(code, code.upper())
+
+
+def below_baseline(count, baseline_count, ratio):
+    """True when a source has records this cycle, but fewer than the given share of the baseline cycle's count.
+
+    The quality report lists these cases, and the analysis leaves their change rates blank. Both call
+    this function with [quality] below_baseline_ratio, so they always agree.
+    """
+    return 0 < count < ratio * baseline_count
 
 
 def non_faq_rules(settings):

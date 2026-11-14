@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 
 from collect_sc import ROOT, source_text
 from datasets import (SOURCES, assign_vote411_section, dataset_dir, load_dataset, load_manifest, load_settings,
-                      normalize_text, record_source, vote411_method, vote411_section_rules, write_json)
+                      normalize_text, record_source, state_name, vote411_method, vote411_section_rules, write_json)
 
 
 # The thresholds used here (rewording, minor and major edits, boilerplate) live in settings.toml's
@@ -21,10 +21,6 @@ SUMMARY_FIELDS = ["state", "source", "unit", "unit_basis", "baseline_method", "c
                   "excluded_other_baseline", "excluded_other_current"]
 # Current-cycle Vote411 methods that include one record per published question heading.
 QUESTION_LEVEL_METHODS = {"question_headings", "mixed"}
-# pairs.csv: one row per compared question or section, across all states.
-PAIR_FIELDS = ["state", "source", "unit", "result", "question_status", "answer_status", "question_similarity",
-               "answer_similarity", "baseline_question", "current_question", "baseline_answer", "current_answer",
-               "baseline_url", "current_url"]
 PAIR_SOURCE_NAMES = {"state": "state site", "vote411": "Vote411"}
 ANSWER_KEYS = ("baseline_a", "current_a")
 ANSWER_WORDS = {"unchanged": "same", "minor_change": "minor", "major_change": "major"}
@@ -232,23 +228,30 @@ def result_label(entry, baseline_year, year):
 
 
 def write_pairs(path, details, baseline_year, year):
-    """Write every compared question or section of every state to one CSV, sorted by state, then source."""
+    """Write every compared question or section of every state to one CSV, sorted by state name, then source.
+
+    This is the file people browse and filter, so it uses full state names and names its columns by
+    year. The result column already says the unit and both statuses in words; the separate status
+    fields stay in the per-state JSON files.
+    """
+    old, new = baseline_year, year
+    fields = ["state", "source", "result", f"question_{old}", f"question_{new}", f"answer_{old}", f"answer_{new}",
+              "question_similarity", "answer_similarity", f"url_{old}", f"url_{new}"]
     with open(path, "w", newline="", encoding="utf-8-sig") as file:  # the byte order mark lets Excel read it as UTF-8
-        writer = csv.DictWriter(file, fieldnames=PAIR_FIELDS)
+        writer = csv.DictWriter(file, fieldnames=fields)
         writer.writeheader()
-        for state in sorted(details):
+        for state in sorted(details, key=state_name):
             for source in SOURCES:
                 for entry in details[state]:
                     if entry["source"] == source:
                         writer.writerow({
-                            "state": state, "source": PAIR_SOURCE_NAMES[source], "unit": entry["unit"],
+                            "state": state_name(state), "source": PAIR_SOURCE_NAMES[source],
                             "result": result_label(entry, baseline_year, year),
-                            "question_status": entry["status"], "answer_status": entry.get("answer_status", ""),
+                            f"question_{old}": entry["baseline_q"], f"question_{new}": entry["current_q"],
+                            f"answer_{old}": entry["baseline_a"], f"answer_{new}": entry["current_a"],
                             "question_similarity": entry["question_similarity"],
                             "answer_similarity": entry.get("answer_similarity", ""),
-                            "baseline_question": entry["baseline_q"], "current_question": entry["current_q"],
-                            "baseline_answer": entry["baseline_a"], "current_answer": entry["current_a"],
-                            "baseline_url": entry["baseline_s"], "current_url": entry["current_s"]})
+                            f"url_{old}": entry["baseline_s"], f"url_{new}": entry["current_s"]})
 
 
 def write_comparison(output, details, summary, baseline_year, year, settings=None):
