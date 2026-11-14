@@ -14,7 +14,7 @@ from pathlib import Path
 import subprocess
 import sys
 
-from analyze_states import analyze
+from analyze_states import analyze, left_out_warning
 from build_dataset import build, latest_state_site_batch, latest_vote411_batch
 from collect_sc import ROOT
 from collect_vote411 import vote411_urls
@@ -143,6 +143,10 @@ def main():
         states, output = None, ROOT / "data" / str(year) / "analysis"
     analyzed = analyze(year, arguments.baseline_year, output, states)
     print(f"Compared {year} with {arguments.baseline_year} for {len(analyzed)} states")
+    # A chart with states missing looks complete, so the run says which ones are left out and why.
+    warning = left_out_warning(analyzed, arguments.baseline_year, year, load_settings()["quality"])
+    if warning:
+        print("\n" + "\n".join(warning))
     # Each line above is printed as its step finishes. The steps below say which file to open for each one.
     folder = f"data/{year}/{output.name}"
     print(f"""

@@ -16,7 +16,7 @@ from matplotlib.patches import Patch, Rectangle
 
 from collect_sc import ROOT
 from compare_years import compare, write_comparison
-from datasets import (SOURCES, below_baseline, dataset_dir, load_dataset, load_manifest, load_settings, question_topics,
+from datasets import (SOURCES, above_baseline, below_baseline, dataset_dir, load_dataset, load_manifest, load_settings, question_topics,
                       record_source, state_name, topic_rules)
 
 
@@ -75,29 +75,89 @@ def rank(rows, key, reverse=True):
     return {row["state"]: (values.index(row[key]) + 1 if row[key] is not None else None) for row in rows}
 
 
-def missing_year_note(baseline_count, current_count, baseline_year, year):
-    """Which year has no records for a source, such as "no 2024 records", or "" when both years have some."""
-    if not baseline_count and not current_count:
-        return f"no {baseline_year} or {year} records"
-    if not baseline_count:
-        return f"no {baseline_year} records"
-    return f"no {year} records" if not current_count else ""
+# Why a state's change rates are left out for a source, in the order the end-of-run warning lists them.
+LEFT_OUT_REASONS = ("none_collected", "under", "over", "none_in_baseline", "none_in_either")
 
 
-def no_rate_note(baseline_count, current_count, baseline_year, year, below_baseline_ratio):
-    """Why a state's change rates are left blank for a source, or "" when the two years can be compared.
+def left_out_reason(source, baseline_count, current_count, limits):
+    """One of LEFT_OUT_REASONS, or "" when the two years' records for a source can be compared.
 
     With no records in one year, every question in the other year would count as new or removed.
     With far fewer records than the baseline year, most "removed" questions are questions the
-    collection missed. Both are missing data, not change.
+    collection missed. With far more, most "new" questions come from pages the baseline year did
+    not include. All of these measure the collection, not the state. limits is settings.toml's
+    [quality] table.
     """
-    note = missing_year_note(baseline_count, current_count, baseline_year, year)
-    if not note and below_baseline(current_count, baseline_count, below_baseline_ratio):
-        note = f"{current_count} records in {year}, {baseline_count} in {baseline_year}"
-    return note
+    if not baseline_count and not current_count:
+        return "none_in_either"
+    if not baseline_count:
+        return "none_in_baseline"
+    if not current_count:
+        return "none_collected"
+    if below_baseline(current_count, baseline_count, limits["below_baseline_ratio"]):
+        return "under"
+    return "over" if above_baseline(source, current_count, baseline_count, limits["above_baseline_ratio"]) else ""
 
 
-def per_state_table(baseline, current, details, summary, states, baseline_year, year, topics, below_baseline_ratio):
+def missing_year_words(baseline_year, year):
+    """The three missing-year reasons in words. They say what the collection has, so "none collected
+    in 2026" is not read as "this state has no FAQ page"."""
+    return {"none_collected": f"none collected in {year}",
+            "none_in_baseline": f"none in {baseline_year} to compare with",
+            "none_in_either": "none in either year"}
+
+
+def reason_words(reason, baseline_year, year, limits):
+    """A left-out reason in words, such as "none collected in 2026" or "under half as many as 2024"."""
+    under, over = limits["below_baseline_ratio"], limits["above_baseline_ratio"]
+    return {**missing_year_words(baseline_year, year),
+            "under": f"under {'half' if under == 0.5 else f'{under:.0%}'} as many as {baseline_year}",
+            "over": f"over {'twice' if over == 2 else f'{over:g} times'} as many as {baseline_year}"}[reason]
+
+
+def missing_year_note(baseline_count, current_count, baseline_year, year):
+    """Which year has no records for a source, such as "none collected in 2026", or "" when both years have some."""
+    words = missing_year_words(baseline_year, year)
+    if not baseline_count and not current_count:
+        return words["none_in_either"]
+    if not baseline_count:
+        return words["none_in_baseline"]
+    return words["none_collected"] if not current_count else ""
+
+
+def no_rate_note(source, baseline_count, current_count, baseline_year, year, limits):
+    """Why a state's change rates are left blank for a source, or "" when the two years can be compared.
+
+    A missing year gets the missing-year note. A count under or over the limits gets both counts,
+    such as "13 records in 2026, 79 in 2024" or "123 records in 2026, 22 in 2024".
+    """
+    reason = left_out_reason(source, baseline_count, current_count, limits)
+    if reason in ("under", "over"):
+        return f"{current_count} records in {year}, {baseline_count} in {baseline_year}"
+    return missing_year_note(baseline_count, current_count, baseline_year, year) if reason else ""
+
+
+def left_out_warning(rows, baseline_year, year, limits):
+    """Lines that name every state the change charts leave out, grouped by source and reason; [] when none is.
+
+    A state is listed when its change_rate_note for the source is not empty, which is exactly when
+    the change chart shows a note in place of its bar.
+    """
+    lines = []
+    for source in SOURCES:
+        label = "state_site" if source == "state" else "vote411"
+        plural = {"state_site": "State election sites", "vote411": "Vote411"}[label]
+        groups = {}
+        for row in rows:
+            if row[f"change_rate_note_{label}"]:
+                reason = left_out_reason(source, row[f"baseline_{label}"], row[f"current_{label}"], limits)
+                groups.setdefault(reason, []).append(state_name(row["state"]))
+        lines += [f"  {plural}, {reason_words(reason, baseline_year, year, limits)}: {', '.join(sorted(groups[reason]))}"
+                  for reason in LEFT_OUT_REASONS if reason in groups]
+    return ["Warning: the change charts leave these out.", *lines] if lines else []
+
+
+def per_state_table(baseline, current, details, summary, states, baseline_year, year, topics, limits):
     by_key = {(row["state"], row["source"]): row for row in summary}
     rows = []
     for state in states:
@@ -117,7 +177,7 @@ def per_state_table(baseline, current, details, summary, states, baseline_year, 
                 row[f"{status}_{label}"] = stats[status]
             row[f"answers_minor_{label}"] = stats["answers_minor"]
             row[f"answers_major_{label}"] = stats["answers_major"]
-            note = no_rate_note(row[f"baseline_{label}"], row[f"current_{label}"], baseline_year, year, below_baseline_ratio)
+            note = no_rate_note(source, row[f"baseline_{label}"], row[f"current_{label}"], baseline_year, year, limits)
             (row[f"minor_edit_rate_{label}"], row[f"major_change_rate_{label}"], row[f"change_rate_{label}"]) = (
                 (None, None, None) if note else change_rates([item for item in details[state] if item["source"] == source]))
             row[f"change_rate_note_{label}"] = note
@@ -364,8 +424,7 @@ def analyze(year, baseline_year, output, states=None):
     topics = topic_rules(settings)
     details, summary = compare(baseline, current, states, load_manifest(baseline_year), load_manifest(year), settings)
     write_comparison(output, details, summary, baseline_year, year, settings)
-    rows = per_state_table(baseline, current, details, summary, states, baseline_year, year, topics,
-                           settings["quality"]["below_baseline_ratio"])
+    rows = per_state_table(baseline, current, details, summary, states, baseline_year, year, topics, settings["quality"])
     write_csv(Path(output) / "per_state.csv", rows)
     topic_rows = [{"state": r["state"], "year": y, "topic": t, "questions": r[f"{t}_{k}"]}
                   for r in rows for y, k in ((baseline_year, "baseline"), (year, "current"))

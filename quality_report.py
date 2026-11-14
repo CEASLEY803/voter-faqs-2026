@@ -7,7 +7,7 @@ import json
 from pathlib import Path
 
 from collect_sc import ROOT, source_urls
-from datasets import (DATASET_FOLDER, SOURCES, below_baseline, dataset_dir, load_dataset, load_manifest, load_settings,
+from datasets import (DATASET_FOLDER, SOURCES, above_baseline, below_baseline, dataset_dir, load_dataset, load_manifest, load_settings,
                       normalize_text, normalize_url, record_source)
 from snapshot_state_sites import CANDIDATES_FILE, REMOVED_PAGE_ERRORS, removed_pages as removed_in_batch
 
@@ -28,6 +28,9 @@ CATEGORIES = {
     "flagged_page": "Saved state-site pages the parser flagged: no Q&A found, or far fewer records than the baseline had for the same URL.",
     "missing_source": "States with no records from a source.",
     "below_baseline": "States whose record count for a source is below {below_baseline_ratio:.0%} of the baseline cycle's count.",
+    "above_baseline": "States whose state-site record count is more than {above_baseline_ratio:g} times the baseline cycle's count. "
+                      "Their change rates are left blank, because most of the extra questions come from pages the "
+                      "baseline cycle did not include.",
     "dropped_non_faq": "State-site records left out by the non-FAQ rules in settings.toml.",
     "short_answer": "Answers shorter than {short_answer_chars} characters.",
     "long_answer": "Answers longer than {long_answer_chars} characters, which can mean an answer ran on into later content.",
@@ -181,6 +184,8 @@ def find_issues(year, baseline_year, settings):
                 add("missing_source", state, source, detail=f"0 records; the {baseline_year} baseline had {baseline_count}")
             elif below_baseline(count, baseline_count, limits["below_baseline_ratio"]):
                 add("below_baseline", state, source, detail=f"{count} records; the {baseline_year} baseline had {baseline_count}")
+            elif above_baseline(source, count, baseline_count, limits["above_baseline_ratio"]):
+                add("above_baseline", state, source, detail=f"{count} records; the {baseline_year} baseline had {baseline_count}")
     for record in json.loads((folder / "dropped_records.json").read_text(encoding="utf-8")):
         add("dropped_non_faq", record["state"], "state", record["s"], record["q"], f"Rule: {record['rule']}")
     for state in sorted(current):
@@ -239,7 +244,7 @@ def summary_markdown(rows, year, baseline_year, settings):
             lines += menu_page_lines(year)
         elif category == "archive_copy":
             lines += [f"- {row['state'].upper()}: {row['url']} ({row['detail'].split(':')[0]})" for row in found]
-        elif category in ("missing_source", "below_baseline"):
+        elif category in ("missing_source", "below_baseline", "above_baseline"):
             lines += [f"- {row['state'].upper()}, {row['source']}: {row['detail']}" for row in found]
         elif category == "dropped_non_faq":
             lines += [f"- {row['state'].upper()}: \"{row['question']}\" ({row['detail']})" for row in found]

@@ -74,6 +74,10 @@ def load_settings(path=SETTINGS_FILE):
     github = settings.get("github", {})
     if not re.fullmatch(r"[\w.-]+/[\w.-]+", str(github.get("repository", ""))) or not re.fullmatch(r"[\w./-]+", str(github.get("branch", ""))):
         raise SystemExit(f"{Path(path).name}: [github] needs repository = \"owner/name\" and branch = \"name\"")
+    limits = settings["quality"]
+    if not 0 < limits["below_baseline_ratio"] < 1 < limits["above_baseline_ratio"]:
+        raise SystemExit(f"{Path(path).name}: [quality] needs below_baseline_ratio between 0 and 1 and "
+                         "above_baseline_ratio above 1")
     days = settings.get("archive", {}).get("window_days")
     if not isinstance(days, int) or isinstance(days, bool) or days < 1:
         raise SystemExit(f"{Path(path).name}: [archive] needs window_days set to a whole number of days, 1 or more")
@@ -92,6 +96,22 @@ def below_baseline(count, baseline_count, ratio):
     this function with [quality] below_baseline_ratio, so they always agree.
     """
     return 0 < count < ratio * baseline_count
+
+
+# The over-double rule looks at state election sites only. A Vote411 record is not the same thing in
+# every cycle: most 2024 records are whole sections and most 2026 records are single questions, so
+# 21 states have over twice as many Vote411 records in 2026 with nothing new collected.
+ABOVE_BASELINE_SOURCES = ("state",)
+
+
+def above_baseline(source, count, baseline_count, ratio):
+    """True when a state site has more than the given multiple of the baseline cycle's record count.
+
+    Most of the extra records then come from pages the baseline cycle did not include, so they would
+    all count as new questions. The quality report lists these cases, and the analysis leaves their
+    change rates blank. Both call this function with [quality] above_baseline_ratio, so they always agree.
+    """
+    return source in ABOVE_BASELINE_SOURCES and baseline_count > 0 and count > ratio * baseline_count
 
 
 def non_faq_rules(settings):
