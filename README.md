@@ -45,7 +45,7 @@ The `result` column says in plain words what happened to each question, such as 
 
 ### Limits
 
-Known data problems are listed in the data quality report, which contains 122 findings in 7 categories at [`data/2026/quality/quality_summary.md`](data/2026/quality/quality_summary.md).
+Known data problems are listed in the data quality report, which contains 126 findings in 8 categories at [`data/2026/quality/quality_summary.md`](data/2026/quality/quality_summary.md).
 
 Passing automated checks does not mean every record parsed perfectly. The HTML parser grabs text ending in a question mark, which can occasionally pull in generic web text like "How Can We Help You?" (the non-FAQ rules help drop these).
 
@@ -262,19 +262,26 @@ python run_pipeline.py --year 2026 --skip-build --approved-only
 
 To run this for an upcoming cycle like 2028:
 
-1. Open `sources.csv` to ensure the URLs still open the correct pages. Update any that moved and log the old URL in the notes.
-
-2. Collect, build, and compare in one run:
+1. Collect, build, and compare in one run:
 
    ```
    python run_pipeline.py --year 2028 --baseline-year 2026 --collect
    ```
 
-3. If the run stops because pages refused scripted downloads, save them by hand (see "Save pages by hand") using the provided batch folder, then rerun without the `--collect` flag.
+2. If the run stops because pages refused scripted downloads, save them by hand (see "Save pages by hand") using the provided batch folder, then rerun without the `--collect` flag.
 
-4. Review `data/2028/quality/quality_summary.md` and check flagged pages.
+3. Open `data/2028/quality/quality_summary.md`. Its `removed_page` section lists every page in `sources.csv` that is gone, with up to three suggested replacements and how many questions the parser finds on each. Open a suggestion before using it.
 
-5. Review each state in `review.csv` and run the final comparison with `--skip-build --approved-only`.
+4. Put the right addresses in `sources.csv` and log each old URL in the notes. Then download just those pages into the same batch and rerun without `--collect`:
+
+   ```
+   python snapshot_state_sites.py --batch "PATH_TO_BATCH_FOLDER"
+   python run_pipeline.py --year 2028 --baseline-year 2026
+   ```
+
+5. Check the flagged pages in the quality summary.
+
+6. Review each state in `review.csv` and run the final comparison with `--skip-build --approved-only`.
 
 ### Source List
 
@@ -321,6 +328,14 @@ To resume an existing batch and fetch only unsaved pages:
 ```
 python snapshot_state_sites.py --batch "PATH_TO_BATCH_FOLDER"
 ```
+
+To look for replacements for pages that are gone (`run_pipeline.py --collect` does this automatically):
+
+```
+python snapshot_state_sites.py --batch "PATH_TO_BATCH_FOLDER" --find-replacements
+```
+
+The suggestions are saved in the batch folder as `replacement_candidates.json` and listed in the quality summary. `sources.csv` is never changed automatically.
 
 ### Save Pages By Hand
 
