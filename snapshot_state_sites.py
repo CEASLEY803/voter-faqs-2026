@@ -271,11 +271,12 @@ def count_questions(record):
     return len(parse_html(path.read_bytes(), metadata)[0])
 
 
-def menu_pages(manifest, urls, states=None):
+def menu_pages(manifest, urls, states=None, only=None):
     """Return (state, record, links) for each saved page in sources.csv that is a menu page.
 
     A menu page has no questions of its own and links to FAQ pages on the same host (see faq_links).
     Pages that were themselves reached from a menu are never checked, so menus are followed one level only.
+    states limits the check to those states; only limits it to the given (state, address) pairs.
     """
     listed = listed_urls()
     menus = []
@@ -283,6 +284,8 @@ def menu_pages(manifest, urls, states=None):
         if states and state not in states:
             continue
         for record in records:
+            if only is not None and (state, record["requested_url"]) not in only:
+                continue
             if (record["status"] != "saved" or record["content_type"] != "text/html"
                     or record["requested_url"] not in urls.get(state, []) or count_questions(record)):
                 continue
@@ -292,7 +295,7 @@ def menu_pages(manifest, urls, states=None):
     return menus
 
 
-def follow_menus(batch_dir, manifest, urls, states=None):
+def follow_menus(batch_dir, manifest, urls, states=None, only=None):
     """Download the FAQ pages that each menu page links to into the batch; return what happened to each.
 
     A linked page is saved and checked exactly like a page from sources.csv, and its record also says
@@ -300,7 +303,7 @@ def follow_menus(batch_dir, manifest, urls, states=None):
     the batch is not downloaded again. sources.csv is never changed here.
     """
     results, fetched = [], 0
-    for state, menu, links in menu_pages(manifest, urls, states):
+    for state, menu, links in menu_pages(manifest, urls, states, only):
         records = manifest["pages"][state]
         print(f"{state.upper()} menu page, {len(links)} linked FAQ pages: {menu['requested_url']}")
         for link in links:
@@ -348,7 +351,8 @@ def main():
     parser.add_argument("--checklist", action="store_true",
                         help="With --batch, write manual_saves/checklist.csv of failed pages to save by hand")
     parser.add_argument("--import-manual", action="store_true",
-                        help="With --batch, add pages saved by hand into manual_saves/ instead of downloading")
+                        help="With --batch, add pages saved by hand into manual_saves/ instead of downloading; "
+                             "an imported menu page has its linked FAQ pages downloaded too")
     parser.add_argument("--find-replacements", action="store_true",
                         help=f"With --batch, look for pages that replaced removed pages and write {CANDIDATES_FILE} in the batch folder")
     parser.add_argument("--follow-menus", action="store_true",
@@ -385,6 +389,7 @@ def main():
     if arguments.import_manual:
         with open(MANUAL_DIR / "checklist.csv", newline="", encoding="utf-8") as file:
             checklist = list(csv.DictReader(file))
+        imported = set()
         for row in checklist:
             state, url = row["state"], row["url"]
             records = manifest["pages"].setdefault(state, [])
@@ -402,6 +407,16 @@ def main():
             records[:] = [old for old in records if old["requested_url"] != url] + [record]
             print(f"{state.upper()} {record['status']} (manual): {url}" + (f" ({record['error']})" if "error" in record else ""))
             write_json(batch_dir / state / "source_metadata.json", records)
+            if record["status"] == "saved":
+                imported.add((state, url))
+        # A menu page that had to be saved by hand is first seen here, so its linked pages are fetched now.
+        # Its site usually refuses those downloads too; they then join the checklist for the next round.
+        results = follow_menus(batch_dir, manifest, urls, only=imported) if imported else []
+        blocked = sum(result["status"] == "failed" and result["error"] not in REMOVED_PAGE_ERRORS for result in results)
+        if blocked:
+            write_checklist(manifest, urls)
+            print(f"{blocked} pages linked from an imported menu page refused scripted downloads. They are now in "
+                  f"{MANUAL_DIR / 'checklist.csv'}: save them by hand and run --import-manual again.")
         states = []
     if arguments.follow_menus:
         results = follow_menus(batch_dir, manifest, urls, arguments.states)

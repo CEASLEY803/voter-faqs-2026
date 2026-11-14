@@ -54,7 +54,8 @@ def collect(year):
         run("snapshot_state_sites.py", "--year", year, "--batch", batch.relative_to(ROOT), "--checklist")
         raise SystemExit(f"{len(blocked)} pages refused scripted downloads. Save them by hand as listed in "
                          f"manual_saves/checklist.csv, import them with snapshot_state_sites.py --batch "
-                         f"{batch.relative_to(ROOT)} --import-manual, then rerun this pipeline without --collect.")
+                         f"{batch.relative_to(ROOT)} --import-manual (it says so if an imported page leads to more "
+                         f"pages to save), then rerun this pipeline without --collect.")
 
 
 def latest_vote411_batch_path(year):
