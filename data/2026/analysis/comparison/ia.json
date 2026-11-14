@@ -370,6 +370,136 @@
             "unit": "question"
         },
         {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Can I request an Iowa Voter Identification Card if I have an Iowa Driver’s License or Non-Operator’s ID or if I need a replacement card?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "source": "state",
+            "unit": "question"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How will Voter ID work for voters who choose to vote absentee-by-mail?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "source": "state",
+            "unit": "question"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I need to show an ID when I vote absentee in-person?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "source": "state",
+            "unit": "question"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are valid forms of ID to show when voting absentee in-person or at the polls on election day?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "source": "state",
+            "unit": "question"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do voters have to show ID at the polls?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "source": "state",
+            "unit": "question"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What about voters who don’t have an ID?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "source": "state",
+            "unit": "question"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Do I have to prove my residence?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "source": "state",
+            "unit": "question"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How does this law impact Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA)?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "source": "state",
+            "unit": "question"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How does this law affect voter registration?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "source": "state",
+            "unit": "question"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What will be the impact on college students?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "source": "state",
+            "unit": "question"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "How do the Electronic Poll Books work?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "source": "state",
+            "unit": "question"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "Who is adversely impacted by this law?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "source": "state",
+            "unit": "question"
+        },
+        {
+            "status": "new",
+            "baseline_q": null,
+            "current_q": "What are provisional ballots and how do they work?",
+            "question_similarity": null,
+            "baseline_s": null,
+            "current_s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "source": "state",
+            "unit": "question"
+        },
+        {
             "status": "same",
             "baseline_q": "Absentee Ballot Process",
             "current_q": "Absentee Ballot Process",

@@ -90,8 +90,296 @@
         "records": 0,
         "baseline_records": 22,
         "flags": [
-            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            "No questions on this page. It is a menu: it links to 26 FAQ pages on the same site, and the questions are on those pages (listed under menu_page)"
+        ],
+        "menu_links": [
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMainEsp.html",
+                "link_text": "Versión en Español",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/passwords.html",
+                "link_text": "Password disclosure",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/GeneralInfoFAQ.html",
+                "link_text": "General election information",
+                "status": "saved",
+                "archive_copy_date": "2026-10-20",
+                "records": 9
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+                "link_text": "BallotTrax",
+                "status": "saved",
+                "archive_copy_date": "2026-11-02",
+                "records": 22
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/Candidate.html",
+                "link_text": "Candidates",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
+                "link_text": "Caucuses, assemblies and conventions",
+                "status": "saved",
+                "archive_copy_date": "2026-10-20",
+                "records": 12
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/crimesRulesFAQ.html",
+                "link_text": "Election crimes, rules, and penalties",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+                "link_text": "Election day",
+                "status": "saved",
+                "archive_copy_date": "2026-09-29",
+                "records": 14
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/ENR.html",
+                "link_text": "Election Night Reporting (ENR)",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/electoralCollege.html",
+                "link_text": "Electoral College",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/foreclosureHomelessFAQ.html",
+                "link_text": "Foreclosure and homeless voters",
+                "status": "saved",
+                "archive_copy_date": "2026-10-20",
+                "records": 9
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/languageAssist.html",
+                "link_text": "Language assistance hotline",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/mailBallotsFAQ.html",
+                "link_text": "Mail-in ballots",
+                "status": "saved",
+                "archive_copy_date": "2026-10-17",
+                "records": 5
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/majorParty.html",
+                "link_text": "Major parties",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/QPOandMinorParty.html",
+                "link_text": "Minor and qualified political organizations",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+                "link_text": "Primary elections",
+                "status": "saved",
+                "archive_copy_date": "2026-10-30",
+                "records": 14
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/ProvisionalBallots.html",
+                "link_text": "Provisional ballots",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+                "link_text": "Public voter data & information requests",
+                "status": "saved",
+                "archive_copy_date": "2026-10-28",
+                "records": 12
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/rejectedBallots.html",
+                "link_text": "Rejected ballots",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/RLA/faqs.html",
+                "link_text": "Risk-limiting audit (RLA)",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+                "link_text": "Uniformed and overseas electors",
+                "status": "saved",
+                "archive_copy_date": "2026-10-28",
+                "records": 18
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
+                "link_text": "Voter registration",
+                "status": "saved",
+                "archive_copy_date": "2026-10-29",
+                "records": 8
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegDrive.html",
+                "link_text": "Voter registration drives",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/VotingAndConviction.html",
+                "link_text": "Voters with convictions",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectorsWithDisabilities.html",
+                "link_text": "Voters with disabilities",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://www.sos.state.co.us/pubs/elections/FAQs/college.html",
+                "link_text": "Voting while in college",
+                "status": "failed",
+                "error": "HTTP 403"
+            }
         ]
+    },
+    {
+        "state": "co",
+        "url": "https://www.sos.state.co.us/pubs/elections/FAQs/GeneralInfoFAQ.html",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/GeneralInfoFAQ.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-20acbf8921.html",
+        "capture_method": "Internet Archive copy",
+        "parser": "general",
+        "records": 9,
+        "baseline_records": 0,
+        "flags": [],
+        "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html"
+    },
+    {
+        "state": "co",
+        "url": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-b525a09b32.html",
+        "capture_method": "Internet Archive copy",
+        "parser": "general",
+        "records": 22,
+        "baseline_records": 0,
+        "flags": [],
+        "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html"
+    },
+    {
+        "state": "co",
+        "url": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-1d4f4290d5.html",
+        "capture_method": "Internet Archive copy",
+        "parser": "general",
+        "records": 12,
+        "baseline_records": 0,
+        "flags": [],
+        "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html"
+    },
+    {
+        "state": "co",
+        "url": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-674afb6e03.html",
+        "capture_method": "Internet Archive copy",
+        "parser": "general",
+        "records": 14,
+        "baseline_records": 0,
+        "flags": [],
+        "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html"
+    },
+    {
+        "state": "co",
+        "url": "https://www.sos.state.co.us/pubs/elections/FAQs/foreclosureHomelessFAQ.html",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/foreclosureHomelessFAQ.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-cc75c2cbf1.html",
+        "capture_method": "Internet Archive copy",
+        "parser": "general",
+        "records": 9,
+        "baseline_records": 0,
+        "flags": [],
+        "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html"
+    },
+    {
+        "state": "co",
+        "url": "https://www.sos.state.co.us/pubs/elections/FAQs/mailBallotsFAQ.html",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/mailBallotsFAQ.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-1954d3d249.html",
+        "capture_method": "Internet Archive copy",
+        "parser": "general",
+        "records": 5,
+        "baseline_records": 0,
+        "flags": [],
+        "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html"
+    },
+    {
+        "state": "co",
+        "url": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-90f2c83c8d.html",
+        "capture_method": "Internet Archive copy",
+        "parser": "general",
+        "records": 14,
+        "baseline_records": 0,
+        "flags": [],
+        "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html"
+    },
+    {
+        "state": "co",
+        "url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-b38fad5d2e.html",
+        "capture_method": "Internet Archive copy",
+        "parser": "general",
+        "records": 12,
+        "baseline_records": 0,
+        "flags": [],
+        "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html"
+    },
+    {
+        "state": "co",
+        "url": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-cb54d44196.html",
+        "capture_method": "Internet Archive copy",
+        "parser": "general",
+        "records": 18,
+        "baseline_records": 0,
+        "flags": [],
+        "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html"
+    },
+    {
+        "state": "co",
+        "url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-65bd738edf.html",
+        "capture_method": "Internet Archive copy",
+        "parser": "general",
+        "records": 8,
+        "baseline_records": 0,
+        "flags": [],
+        "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html"
     },
     {
         "state": "ct",
@@ -274,7 +562,39 @@
         "records": 0,
         "baseline_records": 0,
         "flags": [
-            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            "No questions on this page. It is a menu: it links to 6 FAQ pages on the same site, and the questions are on those pages (listed under menu_page)"
+        ],
+        "menu_links": [
+            {
+                "url": "https://elections.delaware.gov/public/faq/security-facts.html",
+                "link_text": "10 FACTS About Delaware Elections' Security & Transparency 2026",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://elections.delaware.gov/public/faq/election-security-and-audits.html",
+                "link_text": "Delaware Election Security and Audits: Questions and Answers",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://elections.delaware.gov/elections/election-results-audits.html",
+                "link_text": "Election Results Audits FAQs",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://elections.delaware.gov/voter/pdfs/SpecialElectionFAQs.pdf",
+                "link_text": "Special Election FAQs",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://elections.delaware.gov/candidates/campaignfinance/pdfs/candidates_cf_faqs.pdf",
+                "link_text": "Candidates and Campaign Finance FAQs",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://elections.delaware.gov/voter/pdfs/Election%20Mail%20FAQ.pdf",
+                "link_text": "What to Do If You Receive Mail for Someone Not at Your Address",
+                "status": "not downloaded"
+            }
         ]
     },
     {
@@ -488,8 +808,65 @@
         "records": 0,
         "baseline_records": 0,
         "flags": [
-            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            "No questions on this page. It is a menu: it links to 7 FAQ pages on the same site, and the questions are on those pages (listed under menu_page)"
+        ],
+        "menu_links": [
+            {
+                "url": "https://sos.iowa.gov/absentee-voting-faq",
+                "link_text": "Absentee Voting FAQ",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://sos.iowa.gov/voters/elections-accessibility-faq",
+                "link_text": "Elections Accessibility FAQ",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://sos.iowa.gov/voters/election-day-faq",
+                "link_text": "Election Day FAQ",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://sos.iowa.gov/iowans/candidate-faq",
+                "link_text": "Candidate FAQ",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://sos.iowa.gov/voters/military-and-uocava-faqs",
+                "link_text": "Military and UOCAVA FAQs",
+                "status": "failed",
+                "error": "HTTP 403"
+            },
+            {
+                "url": "https://sos.iowa.gov/voters/voter-id-faq",
+                "link_text": "Voter ID FAQs",
+                "status": "saved",
+                "archive_copy_date": "2026-10-31",
+                "records": 13
+            },
+            {
+                "url": "https://sos.iowa.gov/voters/voter-registration-faqs",
+                "link_text": "Voter Registration FAQs",
+                "status": "failed",
+                "error": "HTTP 403"
+            }
         ]
+    },
+    {
+        "state": "ia",
+        "url": "https://sos.iowa.gov/voters/voter-id-faq",
+        "final_url": "https://sos.iowa.gov/voters/voter-id-faq",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/ia/ia-6fa5914474.html",
+        "capture_method": "Internet Archive copy",
+        "parser": "general",
+        "records": 13,
+        "baseline_records": 0,
+        "flags": [],
+        "linked_from": "https://sos.iowa.gov/elections-and-voting-faqs"
     },
     {
         "state": "id",
@@ -593,7 +970,19 @@
         "records": 0,
         "baseline_records": 3,
         "flags": [
-            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            "No questions on this page. It is a menu: it links to 2 FAQ pages on the same site, and the questions are on those pages (listed under menu_page)"
+        ],
+        "menu_links": [
+            {
+                "url": "https://elect.ky.gov/Voters/Pages/Voter-Residency-FAQs.aspx",
+                "link_text": "Voter Residency FAQs",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/default.aspx",
+                "link_text": "FAQ",
+                "status": "not downloaded"
+            }
         ]
     },
     {
@@ -1065,7 +1454,14 @@
         "records": 0,
         "baseline_records": 8,
         "flags": [
-            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            "No questions on this page. It is a menu: it links to 1 FAQ page on the same site, and the questions are on those pages (listed under menu_page)"
+        ],
+        "menu_links": [
+            {
+                "url": "https://www.sos.nd.gov/elections/campaign-finance-statement-interests/campaign-finance/campaign-finance-faqs",
+                "link_text": "Campaign Finance FAQs",
+                "status": "not downloaded"
+            }
         ]
     },
     {
@@ -1091,7 +1487,14 @@
         "records": 0,
         "baseline_records": 6,
         "flags": [
-            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            "No questions on this page. It is a menu: it links to 1 FAQ page on the same site, and the questions are on those pages (listed under menu_page)"
+        ],
+        "menu_links": [
+            {
+                "url": "https://www.sos.nd.gov/elections/campaign-finance-statement-interests/campaign-finance/campaign-finance-faqs",
+                "link_text": "Campaign Finance FAQs",
+                "status": "not downloaded"
+            }
         ]
     },
     {
@@ -1115,7 +1518,14 @@
         "records": 0,
         "baseline_records": 2,
         "flags": [
-            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            "No questions on this page. It is a menu: it links to 1 FAQ page on the same site, and the questions are on those pages (listed under menu_page)"
+        ],
+        "menu_links": [
+            {
+                "url": "https://www.sos.nd.gov/elections/campaign-finance-statement-interests/campaign-finance/campaign-finance-faqs",
+                "link_text": "Campaign Finance FAQs",
+                "status": "not downloaded"
+            }
         ]
     },
     {
@@ -1194,7 +1604,24 @@
         "records": 0,
         "baseline_records": 5,
         "flags": [
-            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            "No questions on this page. It is a menu: it links to 3 FAQ pages on the same site, and the questions are on those pages (listed under menu_page)"
+        ],
+        "menu_links": [
+            {
+                "url": "https://www.sos.nh.gov/corporations-0/business-faqs",
+                "link_text": "Business FAQs",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.nh.gov/ucc-and-statutory-liens/ucc-faqs",
+                "link_text": "UCC FAQs",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.nh.gov/vital-records-0/faqs",
+                "link_text": "FAQs",
+                "status": "not downloaded"
+            }
         ]
     },
     {
@@ -1418,7 +1845,119 @@
         "records": 0,
         "baseline_records": 7,
         "flags": [
-            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            "No questions on this page. It is a menu: it links to 22 FAQ pages on the same site, and the questions are on those pages (listed under menu_page)"
+        ],
+        "menu_links": [
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/additional-services/domestic-partnerships/domestic-partnerships-faqs",
+                "link_text": "Domestic Partnership FAQs",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/nonprofits-charities/charities/information-donors/resources-donors/frequently-asked-questions-donors",
+                "link_text": "Consumer FAQs",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs",
+                "link_text": "Frequently Asked Questions (FAQs)",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/common-reasons-returned-documents",
+                "link_text": "Common Reasons for Returned Documents",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/glossary-terms",
+                "link_text": "Glossary of Terms",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/contact-info-requirements-updates",
+                "link_text": "What addresses to use when filing?",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/what-are-washington-state-business-structures",
+                "link_text": "What are Washington State Business Structures?",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/governors-officers-directors-members-managers",
+                "link_text": "Governors/Officers/Directors/Members/Managers",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/fee-schedules-priority-services",
+                "link_text": "Fee Schedule / Expedited Service",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/charitable-organizations-frequently-asked-questions",
+                "link_text": "FAQ - Charitable Organizations",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/corporations-charities-filing-system-tools-resources",
+                "link_text": "CCFS",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/third-party-notices-and-solicitations-tips-examples",
+                "link_text": "Examples of Potentially Confusing or Misleading “Notices” & “Solicitations”",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/certificates-certified-copies",
+                "link_text": "How Do I Order Certified Copies?",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/how-verify-notice-secretary-state",
+                "link_text": "I think I received a notice from your office; what should I do?",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/order-certificate-existence-out-state",
+                "link_text": "Order a Certificate of Existence (Out‑of‑State)",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+                "link_text": "Top 2 Primary: FAQs for Voters",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/elections/voters/helpful-information/presidential-primary-faq",
+                "link_text": "Presidential Primary FAQ",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/elections/candidates/frequently-asked-questions/candidate-filing-frequently-asked-questions",
+                "link_text": "Candidate Filing FAQ",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/elections/candidates/frequently-asked-questions/top-two-primary-faqs-candidates",
+                "link_text": "Top Two Primary: FAQs for Candidates",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/elections/candidates/frequently-asked-questions/recount-faq",
+                "link_text": "Recount FAQs",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/elections/initiatives-referenda/filing-initiative/frequently-asked-questions-about-circulating-initiative-and-referendum-petitions",
+                "link_text": "FAQ - Circulating Initiative and Referendum Petitions",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/library/resources-you/librarian-certification/washington-librarian-certification-faq",
+                "link_text": "Washington Librarian Certification FAQ",
+                "status": "not downloaded"
+            }
         ]
     },
     {
@@ -1453,7 +1992,119 @@
         "records": 0,
         "baseline_records": 2,
         "flags": [
-            "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+            "No questions on this page. It is a menu: it links to 22 FAQ pages on the same site, and the questions are on those pages (listed under menu_page)"
+        ],
+        "menu_links": [
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/additional-services/domestic-partnerships/domestic-partnerships-faqs",
+                "link_text": "Domestic Partnership FAQs",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/nonprofits-charities/charities/information-donors/resources-donors/frequently-asked-questions-donors",
+                "link_text": "Consumer FAQs",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs",
+                "link_text": "Frequently Asked Questions (FAQs)",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/common-reasons-returned-documents",
+                "link_text": "Common Reasons for Returned Documents",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/glossary-terms",
+                "link_text": "Glossary of Terms",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/contact-info-requirements-updates",
+                "link_text": "What addresses to use when filing?",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/what-are-washington-state-business-structures",
+                "link_text": "What are Washington State Business Structures?",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/governors-officers-directors-members-managers",
+                "link_text": "Governors/Officers/Directors/Members/Managers",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/fee-schedules-priority-services",
+                "link_text": "Fee Schedule / Expedited Service",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/charitable-organizations-frequently-asked-questions",
+                "link_text": "FAQ - Charitable Organizations",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/corporations-charities-filing-system-tools-resources",
+                "link_text": "CCFS",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/third-party-notices-and-solicitations-tips-examples",
+                "link_text": "Examples of Potentially Confusing or Misleading “Notices” & “Solicitations”",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/certificates-certified-copies",
+                "link_text": "How Do I Order Certified Copies?",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/how-verify-notice-secretary-state",
+                "link_text": "I think I received a notice from your office; what should I do?",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/corporations-charities/frequently-asked-questions-faqs/order-certificate-existence-out-state",
+                "link_text": "Order a Certificate of Existence (Out‑of‑State)",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
+                "link_text": "Top 2 Primary: FAQs for Voters",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/elections/voters/helpful-information/presidential-primary-faq",
+                "link_text": "Presidential Primary FAQ",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/elections/candidates/frequently-asked-questions/candidate-filing-frequently-asked-questions",
+                "link_text": "Candidate Filing FAQ",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/elections/candidates/frequently-asked-questions/top-two-primary-faqs-candidates",
+                "link_text": "Top Two Primary: FAQs for Candidates",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/elections/candidates/frequently-asked-questions/recount-faq",
+                "link_text": "Recount FAQs",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/elections/initiatives-referenda/filing-initiative/frequently-asked-questions-about-circulating-initiative-and-referendum-petitions",
+                "link_text": "FAQ - Circulating Initiative and Referendum Petitions",
+                "status": "not downloaded"
+            },
+            {
+                "url": "https://www.sos.wa.gov/library/resources-you/librarian-certification/washington-librarian-certification-faq",
+                "link_text": "Washington Librarian Certification FAQ",
+                "status": "not downloaded"
+            }
         ]
     },
     {

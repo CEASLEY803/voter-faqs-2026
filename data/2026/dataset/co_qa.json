@@ -1,9 +1,747 @@
 {
     "state": "co",
-    "num_questions": 38,
-    "num_answers": 38,
+    "num_questions": 161,
+    "num_answers": 161,
     "contributor": "Cole Easley",
     "questions": [
+        {
+            "q": "Q1. What is the purpose of a Primary Election and a General Election?",
+            "a": "A1. The State of Colorado holds regularly scheduled state elections every two years. During a regularly scheduled election year, a Primary election is held in June, followed by the General election in November. During a Presidential Election year, a presidential primary is also held in March.\n\nThe purpose of the Primary election is to nominate candidates from each party's primary ballot for the November General Election. The winner(s) of the November General Election are then elected to hold office. For more information on Primary Elections, see the Primary Election FAQ (https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html) page.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/GeneralInfoFAQ.html",
+            "t": "2026-10-20T06:48:57+00:00"
+        },
+        {
+            "q": "Q2. What is a Coordinated Election?",
+            "a": "A2. A coordinated election is one that the county clerk and recorder conducts on behalf of two or more political subdivisions that are hosting an election on the same day in November. Specifically, for a coordinated election to take place, the election must:\n\n- Have more than one political subdivision holding an election (state, county, municipality, school district, or special district);\n- Take place on the same day in November; and\n- The eligible voters either are the same for each election or live in overlapping subdivision boundaries.\n\nGenerally, the November odd-year election is referred to as the coordinated election. And, like all elections in Colorado, coordinated elections are conducted by mail ballot.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/GeneralInfoFAQ.html",
+            "t": "2026-10-20T06:48:57+00:00"
+        },
+        {
+            "q": "Q3. Where can I find Federal and State election laws?",
+            "a": "A3. Federal and State election laws and the Secretary of State election rules are available on the Election Laws, Rules, & Resources (https://www.sos.state.co.us/pubs/elections/lawsRulesResources.html) page.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/GeneralInfoFAQ.html",
+            "t": "2026-10-20T06:48:57+00:00"
+        },
+        {
+            "q": "Q4. Where can I find a list of all the relevant election dates?",
+            "a": "A4. The best resource is the current Elections Calendar (https://www.sos.state.co.us/pubs/elections/Resources/ElectionCalendars.html). The Elections Calendar has all of the relevant dates for the election cycle, and helpful citations to relevant Colorado law.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/GeneralInfoFAQ.html",
+            "t": "2026-10-20T06:48:57+00:00"
+        },
+        {
+            "q": "Q5. How do I get my ballot?",
+            "a": "A5. Every voter in Colorado receives a mail ballot. Your mail ballot will be sent to the mailing address you provided when you registered to vote. To check what address you provided when registering to vote, please visit www.GoVoteColorado.gov (https://www.GoVoteColorado.gov).\n\nIf you wish to vote in-person, you may do so at a voter service and polling center. To find your local polling locations, please visit www.GoVoteColorado.gov (https://www.GoVoteColorado.gov).",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/GeneralInfoFAQ.html",
+            "t": "2026-10-20T06:48:57+00:00"
+        },
+        {
+            "q": "Q6. How do I know if my mail ballot has been mailed to me?",
+            "a": "A6. There are a few ways for you to check the status of your mail ballot.\n\n- BallotTrax is a free service that you can sign-up for that allows you to track the status of your mail ballot. Once enrolled you will receive notifications by phone, email, or text updating you when your mail ballot is sent, received, and counted. To sign-up simply go to Colorado.BallotTrax.net (https://colorado.ballottrax.net/voter/) and enter your first name, last name, date of birth, and residential zip code. You will be prompted to select methods of notification, your language preference, and notification hours.\n- Go to www.GoVoteColorado.gov (https://www.govotecolorado.gov/). You can then log into your voter record. Once you are logged into your voter record, it should show you whether your mail ballot has been sent.\n- If you run into any snags, are a confidential voter, or have questions about the status of your mail ballot, please contact your local county clerk and recorder (https://www.sos.state.co.us/pubs/elections/Resources/CountyElectionOffices.html).",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/GeneralInfoFAQ.html",
+            "t": "2026-10-20T06:48:57+00:00"
+        },
+        {
+            "q": "Q7. If I choose not to vote on a candidate or question, will my other votes still be counted?",
+            "a": "A7. Yes. If you choose not to vote for a candidate or a ballot question, the rest of the votes on your ballot will be counted.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/GeneralInfoFAQ.html",
+            "t": "2026-10-20T06:48:57+00:00"
+        },
+        {
+            "q": "Q8. How do I make sure my mail ballot will be counted?",
+            "a": "A8. Every valid mail ballot is counted. To be sure your ballot is valid, follow the instructions on the mail ballot envelope. This includes making sure your ballot envelope is signed when it is returned.\n\nFor your ballot to count, your county clerk must receive your ballot no later than 7:00 PM on Election Day. If you are unsure whether your ballot will arrive through the mail on time, drop it off in-person at either a drop-box or a drop-off location. There are drop-box and drop-off sites located throughout your county. Drop box locations are open 24 hours per day. If you have trouble finding a drop-box or drop-off location, contact your county clerk and recorder (https://www.sos.state.co.us/pubs/elections/Resources/CountyElectionOffices.html).\n\nIf you are registering to vote for the first time, you may need to provide a copy of your ID with your mail ballot. These instructions will be provided by your county clerk with your mail ballot.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/GeneralInfoFAQ.html",
+            "t": "2026-10-20T06:48:57+00:00"
+        },
+        {
+            "q": "Q9. My number is registered on the \"Do Not Call\" list, but I still receive calls from candidates and political campaigns. Is this legal?",
+            "a": "A9. Yes. The law makes an exemption for \"political calls\" when defining \"telephone solicitation.\" Specifically, Section 6-1-903(10) of the Colorado Revised Statutes, states:\n\n(a) \"Telephone solicitation\" means any voice, telefacsimile, graphic imaging, or data communication, including text messaging communication over a telephone line or through a wireless telephone for the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services.\n\n(b) Notwithstanding [the above definition], \"telephone solicitation\" does not include communications:\n\n(V) Made for the sole purpose of urging support for or opposition to a political candidate or ballot issue; or\n\n(VI) Made for the sole purpose of conducting political polls or soliciting the expression of opinions, ideas, or votes. In addition to the political phone calls, there is an increase in the volume of political literature sent through the mail.\n\nThere is no complaint or removal process established for political calls or mailings. One option is contacting your county clerk and recorder and requesting that your phone number be removed from your voter registration information. But this will NOT guarantee that your phone number will not be obtained from other sources.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/GeneralInfoFAQ.html",
+            "t": "2026-10-20T06:48:57+00:00"
+        },
+        {
+            "q": "Q1. What is BallotTrax?",
+            "a": "A1. BallotTrax is a free service that enables Colorado voters to receive notifications by phone, email, or text about the status of their mail ballots, from the time their County Clerk & Recorder mails the outgoing ballot packet, to when their mailed ballot is received and counted.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q2. How do I sign up for BallotTrax?",
+            "a": "A2. Go to BallotTrax.coloradosos.gov (https://ballottrax.coloradosos.gov). Simply enter your first name, last name, date of birth, and residential zip code to access the voter portal or to sign-up.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q3. I’m a confidential voter. Can I use BallotTrax?",
+            "a": "A3. No. As a confidential voter you are not included in any public voter lists, so you are not able to enroll in BallotTrax, you should contact your county election division to get updates on the status of your ballot.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q4. I signed up to receive email messages but haven’t received any emails, what’s wrong?",
+            "a": "A4. Check your email spam folder. You can also search your email by the sender address, noreply_ballottrax@coloradosos.gov. As it gets closer to election day your county may be receiving a large volume of ballots and it may take 1-2 days for your mail ballot to be processed.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q5. Can I get SMS/text or voice messages instead?",
+            "a": "A5. Yes. You can change your notification methods, turn off notifications, modify contact hours, or check the status of your mail ballot at any time (Only US phone numbers can be used for SMS/text and voice calls).",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q6. I signed up for BallotTrax text notifications and received a confirmation text. Do I have to respond yes?",
+            "a": "A6. Yes. BallotTrax wants to make sure they have your correct mobile number and that you want to receive text messages. If you do, simply reply yes.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q7. If I’ve gotten ballot tracking messages in the past do I need to sign up again?",
+            "a": "A7. No. Voters previously signed up for BallotTrax do not need to re-enroll and will continue to have their ballots tracked without interruption.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q8. Will I still get my mail ballot if I don’t sign up or opt-out?",
+            "a": "A8. Yes. This is only a tracking system and does not change your voter registration or affect the receipt of your mail ballot in any way.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q9. I’m unable to login. What am I doing wrong?",
+            "a": "A9. The most common mistake is using an alias to login. Voters must login with their name, date of birth and residential zip code exactly how it appears on their voter registration.\n\nFor example, if a voter’s first name is James and the voter attempts to login as Jim, they will be denied access.\n\nAnother issue is having canceled, incomplete or inactive voter registration. Make sure your registration is active and up to date. To check your voter registration, go to www.GoVoteColorado.gov (https://www.GoVoteColorado.gov) or contact your county election division.\n\nThe final reason you may have trouble signing up for BallotTrax is if you are a confidential voter. Confidential voters are not able to enroll in BallotTrax, and need to contact their county election division to get updates on the status of their ballot.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q10. What if I don’t want to get these messages? What do I do?",
+            "a": "A10. You can opt-out at any time. There is an unsubscribe link at the bottom of the email that you can click to remove yourself from getting further messages. Or you can login to the BallotTrax voter portal at BallotTrax.coloradosos.gov (https://ballottrax.coloradosos.gov) and unselect the notification methods you’re opted in for and click “Update.”",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q11. Will my ballot remain confidential?",
+            "a": "A11. Yes. Voters’ ballot & vote remain confidential. BallotTrax provides updates to voters on the status of their mail ballot by tracking their envelope (not their ballot).",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q12. Is my voter information private?",
+            "a": "A12. Yes. The information you provide is used only for the purpose of sending messages regarding ballot status. BallotTrax will not sell or share that information with any other person or company. Voters may opt-out at any time.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q13. Is BallotTrax secure?",
+            "a": "A13. The State of Colorado requires system vendors to meet rigorous security requirements. The BallotTrax system satisfies the system requirements for state vendors.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q14. Will my email be shared, sold, or used by anyone other than the elections division?",
+            "a": "A14. No. Your information will not be used for any other purpose except to send messages regarding your mail ballot status.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q15. How come I haven’t gotten any more messages about my ballot yet?",
+            "a": "A15. Messages about the status of your ballot will begin once ballots are mailed out by your county. The earliest date ballots can be mailed is 22 days before election day. You will get notifications as your ballot goes through the different stages.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q16. Does BallotTrax update my voter registration?",
+            "a": "A16. No. BallotTrax will not update your voter registration. To update your voter registration please go to www.GoVoteColorado.gov (https://www.GoVoteColorado.gov) or contact your county election division.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q17. I received a message stating that my ballot was undeliverable. What does this mean and what do I need to do?",
+            "a": "A17. This means your mail ballot was returned as undeliverable by the US Postal Service. Visit www.GoVoteColorado.gov (https://www.GoVoteColorado.gov) to update your voter registration and your county will mail a replacement ballot to your updated address if completed 8 days or more before election day. If you do not update your voter registration by 8 days before election day, you will need to visit a voter service & polling location to obtain a replacement ballot or vote in person.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q18. I received a message from BallotTrax stating that my ballot was rejected. What does this mean and how do I fix it?",
+            "a": "A18. Your mail ballot was rejected because of an issue with your signature or missing ID. Your county is mailing you a letter with instructions on how to resolve the issue by 8 days after election day to ensure your ballot is counted. You can fix the issue now if you prefer by visiting GoVoteColorado.gov (https://www.GoVoteColorado.gov). Look for the heading Track or cure your ballot, then click on the Cure my ballot (https://myballot.coloradosos.gov/ecure/app/home) link to use the Colorado BallotCure system.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q19. Why was I notified that my ballot was rejected?",
+            "a": "A19. You received a ballot rejection letter from your county election office, or a ballot rejection message from BallotTrax, because two election judges of different political party affiliations agreed that the signature on your reply envelope was either missing or did not match your signature on file with the County Clerk and Recorder, or you were required to and did not enclose a photocopy of an acceptable form of ID with your voted ballot.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q20. Can I resolve the problem with my signature or missing ID so that my ballot will be counted?",
+            "a": "A20. Yes. Colorado law requires county clerks to mail you a letter explaining why your ballot was rejected, and the steps you need to take to resolve or “cure” the problems so that your ballot will be counted. The information you need to provide is detailed in the letter from your county election office. The deadline for you to submit the necessary information is 11:59 PM MT on the eighth day after Election Day. If the eighth day falls on a state or federal holiday, the deadline moves to 11:59 MT on the following day.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q21. Do I have to wait until I receive the rejection letter from my county clerk before I submit the additional information necessary to ensure my ballot is counted?",
+            "a": "A21. No. You may submit the required information now, using your mobile phone and Colorado’s BallotCure system. Visit the GoVoteColorado.gov (https://www.GoVoteColorado.gov) website and look for the heading Track or cure your ballot then click on the Cure my ballot (https://myballot.coloradosos.gov/ecure/app/home) link to use the Colorado BallotCure system.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q22. If two people in a household share an email address, can we both sign up using the same email?",
+            "a": "A22. Yes. You will get two emails for ballot status messages in that case. The emails will contain your first and last name so you will be able to tell which voter the ballot status message is for.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+            "t": "2026-11-02T14:03:04+00:00"
+        },
+        {
+            "q": "Q1. What is a precinct caucus?",
+            "a": "A1. Precinct caucuses are meetings of registered electors within a precinct who are members of a particular major political party. The purpose of precinct caucuses is to elect precinct committee persons and delegates to county assemblies. Caucuses are held in locations across Colorado and are open to the public.",
+            "s": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
+            "t": "2026-10-20T06:29:25+00:00"
+        },
+        {
+            "q": "Q2. Who can vote in a precinct caucus?",
+            "a": "A2. To be eligible to vote in a political party's precinct caucus a voter must be:\n\n- A resident of the precinct for at least 22 days;\n- Registered, or preregistered if allowed by a political party’s rules, to vote no later than 22 days before the caucus; and\n- Affiliated with the party holding the caucus for at least 22 days before the caucus.\n\nAlso, some voters under the age of 18 may be eligible to vote at precinct caucuses. The major parties have slightly different eligibility requirements.\n\nA pre-registrant who is affiliated with the Republican party, is seventeen years of age on the date of a caucus, and who will be eighteen years of age on the date of the next general election may vote at the caucus.\n\nA pre-registrant who is affiliated with the Democratic party and is 16 years or older may vote at the caucus.\n\nPlease consult each major political party’s bylaws for more information.",
+            "s": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
+            "t": "2026-10-20T06:29:25+00:00"
+        },
+        {
+            "q": "Q3. Can I participate if I turned 18 or became a citizen less than 22 days before my party's caucus?",
+            "a": "A3. Yes. Anyone who turns 18 or becomes a naturalized citizen less than 22 days before their party's caucus may still participate, if they are a registered member of the Democratic or Republican party.",
+            "s": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
+            "t": "2026-10-20T06:29:25+00:00"
+        },
+        {
+            "q": "Q4. Where do I caucus if I moved within 22 days before my party's caucus?",
+            "a": "A4. In this instance, you may only participate in your party's caucus at your old address. However, you will not be eligible to be elected as a delegate or committeeperson.",
+            "s": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
+            "t": "2026-10-20T06:29:25+00:00"
+        },
+        {
+            "q": "Q5. Can unaffiliated voters participate in precinct caucuses?",
+            "a": "A5. No. Although unaffiliated voters may vote in primary elections, they cannot participate in party precinct caucuses. For more information about primary election activities that unaffiliated voters may participate in, please see our Primary Elections FAQs (https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html).",
+            "s": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
+            "t": "2026-10-20T06:29:25+00:00"
+        },
+        {
+            "q": "Q6. Where can I get information about my precinct caucus?",
+            "a": "A6. Contact your political party (https://www.sos.state.co.us/pubs/elections/Candidates/PoliticalPartyDirectory.html) for information about your precinct caucus.",
+            "s": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
+            "t": "2026-10-20T06:29:25+00:00"
+        },
+        {
+            "q": "Q7. When are precinct caucuses held?",
+            "a": "A7. Precinct caucuses are held no earlier than the first Tuesday in March and no later than the first Saturday after the first Tuesday in March in each even numbered year.",
+            "s": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
+            "t": "2026-10-20T06:29:25+00:00"
+        },
+        {
+            "q": "Q8. Where are precinct caucuses located?",
+            "a": "A8. The county central committee or executive committee of the political party is responsible for determining the time and place of the caucus. Precinct caucuses may be held in a public place or a private home that is open to the public during the caucus that is in or near the precinct. The location must be physically accessible to persons with disabilities and comply with the rules of the county central committee.\n\nSigns must be posted designating precinct caucus locations no later than 12 days before the caucus. The signs must state: \"Precinct caucus place for precinct no. ________\"",
+            "s": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
+            "t": "2026-10-20T06:29:25+00:00"
+        },
+        {
+            "q": "Q9. What happens at a precinct caucus?",
+            "a": "A9. Caucus attendees elect officers who will be responsible for organizing political activities within the precinct. Caucus attendees also elect delegates and alternates to represent the precinct at the political party's county or district convention.",
+            "s": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
+            "t": "2026-10-20T06:29:25+00:00"
+        },
+        {
+            "q": "Q10. Can I participate at a precinct caucus or assembly remotely?",
+            "a": "A10. A precinct caucus attendee may participate in the precinct caucus or assembly remotely if allowed by the party’s rules. This includes casting a vote by email, mail, telephone, or through an internet-based application.",
+            "s": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
+            "t": "2026-10-20T06:29:25+00:00"
+        },
+        {
+            "q": "Q11. When are county assemblies, district assemblies, and state assemblies held?",
+            "a": "A11. The county assembly is held no later than 21 days after the precinct caucuses.\n\nIf allowed by a party’s rules, a county assembly may be held on the same day as the precinct caucuses.\n\nThe date of the district assembly is determined by the chairperson of the district committee, but happens after the county assemblies.\n\nThe state assembly is held after the district and county assemblies, but no later than 73 days before the June Primary Election.",
+            "s": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
+            "t": "2026-10-20T06:29:25+00:00"
+        },
+        {
+            "q": "Q12. What happens at a county assembly, district assembly and state assembly?",
+            "a": "A12. The county assembly is convened to designate county candidates for the primary election and to select delegates to the congressional district assemblies and the state assembly.\n\nThe district assembly is then convened to designate district level delegates to the national convention. The delegates also nominate candidates for Congress, the Colorado General Assembly, the State Board of Education, the Board of Regents, and District Attorneys.\n\nThe purpose of the state assembly is to nominate candidates for statewide offices to the primary election ballot. During the assembly, delegates will also be elected to the national convention.\n\nI have more questions.\n\nContact your political party (https://www.sos.state.co.us/pubs/elections/Candidates/PoliticalPartyDirectory.html) for information about caucuses and assemblies.",
+            "s": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
+            "t": "2026-10-20T06:29:25+00:00"
+        },
+        {
+            "q": "Q1. If I want to vote in-person what should I do with my mail ballot?",
+            "a": "A1. If you want to vote in-person, you may return your mail ballot and vote in-person at a voter service and polling center. Even if you do not return your mail ballot you may still vote in person. Once you vote in person your county clerk will not accept for counting any ballot that was mailed to you. The deadline to vote in-person is 7:00 PM on Election Day.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+            "t": "2026-09-29T11:25:58+00:00"
+        },
+        {
+            "q": "Q2. Do I need identification if I vote in person?",
+            "a": "A2. All voters who vote in-person must provide identification. While there are many forms of acceptable identification, most voters find it convenient to bring their Colorado driver's license or Colorado ID. A Colorado ID is available at no cost to those who are eligible. For more information on obtaining a Colorado ID, please contact the Colorado Department of Revenue.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+            "t": "2026-09-29T11:25:58+00:00"
+        },
+        {
+            "q": "Q3. When I vote and show an ID like my Colorado driver's license, does the address on my ID need to match my voter registration?",
+            "a": "A3. If you show ID that has an address on it, the address must be in Colorado but it does not have to match your voter registration",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+            "t": "2026-09-29T11:25:58+00:00"
+        },
+        {
+            "q": "Q4. If I am a new citizen, do I need to show proof of citizenship when I vote?",
+            "a": "A4. You are NOT required to show proof of your citizenship when voting. Because you already affirmed your citizenship when you registered to vote, this is unnecessary when you vote.\n\nKeep in mind, however, that all voters are required to present ID when voting in-person and sometimes when voting by mail. To make sure you do not run in to any problems when voting, please see the list of acceptable forms of identification.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+            "t": "2026-09-29T11:25:58+00:00"
+        },
+        {
+            "q": "Q5. Can I get time off from my job to vote?",
+            "a": "A5. Possibly. Under Colorado law, voters may get time off without loss of pay if they do not have sufficient time outside of regular working hours to vote. Please refer to Section 1-7-102 of the Colorado Revised Statutes for details.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+            "t": "2026-09-29T11:25:58+00:00"
+        },
+        {
+            "q": "Q6. How can I find my polling location?",
+            "a": "A6. All general, primary, odd-year, coordinated, recall, and congressional vacancy elections are now conducted by mail ballot. If you want to vote at a polling location, you can find your polling location by visiting www.GoVoteColorado.gov (https://www.GoVoteColorado.gov).",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+            "t": "2026-09-29T11:25:58+00:00"
+        },
+        {
+            "q": "Q7. Will I still be able to vote if I am in line past 7:00 PM on Election Day?",
+            "a": "A7. Voters who are in line at their polling location by 7:00 PM are allowed to vote no matter how long it takes for each person to cast his or her ballot.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+            "t": "2026-09-29T11:25:58+00:00"
+        },
+        {
+            "q": "Q8. How do provisional ballots work?",
+            "a": "A8. If you try to register to vote on Election Day, but do not have verifiable identification, you may vote a provisional ballot. After Election Day, the election official will review the provisional ballot to verify your eligibility to vote. If you are eligible, your ballot will be counted. For more information please see Provisional Ballot FAQs (https://www.sos.state.co.us/pubs/elections/FAQs/ProvisionalBallots.html).",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+            "t": "2026-09-29T11:25:58+00:00"
+        },
+        {
+            "q": "Q9. Will my ballot be counted if I don't vote every race on it? What if I leave some races blank?",
+            "a": "A9. You do not have to vote on every race unless you choose to do so. For example, some voters only cast a vote for President while others may vote for every race. Whatever races you do choose to vote on will be counted.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+            "t": "2026-09-29T11:25:58+00:00"
+        },
+        {
+            "q": "Q10. If I am voting by mail, when must the county clerk and recorder receive my ballot?",
+            "a": "A10. Mail ballots must be received by the county clerk and recorder no later than 7:00 PM on Election Day. Voters are encouraged to drop off ballots at designated drop off sites, drop-boxes, or mail their ballots in time to be received by the county clerk before the polls close. Postmarks do not count; ballots must be in the hands of the county clerk by 7:00 PM on Election Day in order to be counted.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+            "t": "2026-09-29T11:25:58+00:00"
+        },
+        {
+            "q": "Q11. What should I do if I do not receive my mail ballot, make a mistake, damage, or lose my mail ballot?",
+            "a": "A11. Your options are two-fold. You can either:\n\n- Request a replacement mail ballot from your county clerk; or\n- Vote in-person at a voter service and polling center.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+            "t": "2026-09-29T11:25:58+00:00"
+        },
+        {
+            "q": "Q12. Are accessible voting machines available in every polling location?",
+            "a": "A12. Accessible voting machines are available in every polling location for voters. Accessible voting machines provide the ability for voters with disabilities, including visual impairments, to vote privately and independently.\n\nVoters using a touch screen voting machine or voting machines that use a wheel to make choices (called DREs) are encouraged to review their choices on the machine and on the paper printout. Touch screen machines place votes based on where the voter touches the screen. Sometimes voters may inadvertently touch a section of the screen that does not reflect the voter's choice. For voting machines that use a wheel to navigate to the ballot, voters are encouraged to carefully maneuver the wheel to make appropriate selections. For more information please see Voters with Disabilities FAQs (https://www.sos.state.co.us/pubs/elections/FAQs/ElectorsWithDisabilities.html).",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+            "t": "2026-09-29T11:25:58+00:00"
+        },
+        {
+            "q": "Q13. How are election judges assigned to polling locations?",
+            "a": "A13. All major political parties provide lists of election judges to the election official. The election official, then, utilizes these lists to assign bi-partisan teams of election judges to designated polling locations.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+            "t": "2026-09-29T11:25:58+00:00"
+        },
+        {
+            "q": "Q14. Can people observe the voting process?",
+            "a": "A14. Many polling places will have poll watchers assigned to observe the voting process. Poll watchers are certified by political parties, unaffiliated candidates, and proponents and opponents of ballot questions. Poll watchers may observe the election process from before the polls open until after the election results are posted. However, poll watchers are not allowed to see how an individual votes. For more information please see our Watchers FAQ (https://www.sos.state.co.us/pubs/elections/watchers.html).",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+            "t": "2026-09-29T11:25:58+00:00"
+        },
+        {
+            "q": "Q1. If my home is in foreclosure, will I be allowed to vote?",
+            "a": "A1. Every eligible voter has the right to vote in Colorado. The fact that your home is in foreclosure has no bearing on your right to vote. It may, however, affect where you vote.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/foreclosureHomelessFAQ.html",
+            "t": "2026-10-20T06:48:58+00:00"
+        },
+        {
+            "q": "Q2. I received a notice of foreclosure. Is my voter registration affected?",
+            "a": "A2. A foreclosure notice does not affect residence for the purposes of voter registration. You may register, or remain registered to vote at your current address.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/foreclosureHomelessFAQ.html",
+            "t": "2026-10-20T06:48:58+00:00"
+        },
+        {
+            "q": "Q3. What if I am no longer living in the house for which I received a foreclosure notice?",
+            "a": "A3. You may register, or remain registered to vote at the address of the property in foreclosure unless you establish a new permanent residence.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/foreclosureHomelessFAQ.html",
+            "t": "2026-10-20T06:48:58+00:00"
+        },
+        {
+            "q": "Q4. I established a new permanent residence due to foreclosure. Do I need to update my voter registration?",
+            "a": "A4. If you have adopted a new permanent residence prior to the election, you will need to update your voter registration information. You can update your voter registration information by visiting www.GoVoteColorado.gov (https://www.GoVoteColorado.gov).",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/foreclosureHomelessFAQ.html",
+            "t": "2026-10-20T06:48:58+00:00"
+        },
+        {
+            "q": "Q5. How do I register to vote if I do not have a fixed permanent residence?",
+            "a": "A5. If you are homeless, permanently reside in a recreational vehicle (RV), or for whatever reason have no fixed permanent address, you may use any address that you regularly return to and have the intent to remain. This location is referred to as a \"home base\" (residential address) and may be used for voter registration purposes.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/foreclosureHomelessFAQ.html",
+            "t": "2026-10-20T06:48:58+00:00"
+        },
+        {
+            "q": "Q6. What are acceptable residence locations for individuals without a fixed permanent home?",
+            "a": "A6. If a voter lacks a fixed permanent address, then a residential address does NOT need to be provided when registering to vote. For example, a voter who permanently resides in an RV may use a campground as a \"home base\" for voter registration purposes.\n\nLikewise, individuals who cannot afford regular or adequate shelter may use a park, vacant lot, or homeless shelter as \"home base\" for voter registration purposes. The voter may provide any physical location as an address if they intend that location to be their \"home base.\"",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/foreclosureHomelessFAQ.html",
+            "t": "2026-10-20T06:48:58+00:00"
+        },
+        {
+            "q": "Q7. What if a voter provides a location that does not have a mailing address?",
+            "a": "A7. While a voter may use any physical location as a residence, they cannot be registered to vote without providing a valid mailing address. This means, that although a voter may provide a physical location as their residence, the voter must also provide a valid mailing address where they can receive correspondence such as a mail ballot or TABOR notice. Without a valid mailing address, a voter cannot be registered to vote.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/foreclosureHomelessFAQ.html",
+            "t": "2026-10-20T06:48:58+00:00"
+        },
+        {
+            "q": "Q8. Can a post office box be used as a \"home base\" for voter registration purposes?",
+            "a": "A8. No. Post office boxes may NEVER be used as a residence address. Voters must provide a physical location so the designated election official can determine the appropriate candidates and issues to place on the voter's ballot.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/foreclosureHomelessFAQ.html",
+            "t": "2026-10-20T06:48:58+00:00"
+        },
+        {
+            "q": "Q9. Can a post office box be used as a mailing address for voter registration purposes?",
+            "a": "A9. Yes. Post office boxes are ONLY acceptable as a mailing address. Meaning, that if a homeless voter uses a physical location that does not have a mailing address (such as a park), they may provide a post office as a mailing address. Post office boxes, however, are NEVER acceptable for residence purposes.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/foreclosureHomelessFAQ.html",
+            "t": "2026-10-20T06:48:58+00:00"
+        },
+        {
+            "q": "Q1. How do I receive my mail ballot?",
+            "a": "A1. Every voter receives a mail ballot. The ballot will be sent to the mailing address you provided for your voter registration file. To check the address on file, or to make any changes to your voter registration visit www.GoVoteColorado.gov.\n\nIf you prefer to vote at the polls, you can vote in-person at a voter service and polling center. Please visit www.GoVoteColorado.gov to find your polling locations.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/mailBallotsFAQ.html",
+            "t": "2026-10-17T22:39:24+00:00"
+        },
+        {
+            "q": "Q2. How do I know if my mail ballot has been mailed?",
+            "a": "A2. To check the status of your mail ballot visit www.GoVoteColorado.gov. Then log in to your voter record, which will show whether your mail ballot has been mailed. If you have further questions about your mail ballot's status, contact your local county clerk and recorder's office or sign up for BallotTrax, a system that will allow you to track your ballot from sent to accepted. Go to https://colorado.ballottrax.net (https://colorado.ballottrax.net/) to sign up.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/mailBallotsFAQ.html",
+            "t": "2026-10-17T22:39:24+00:00"
+        },
+        {
+            "q": "Q3. Will my other votes be counted if I choose not to vote on a candidate or question?",
+            "a": "A3. Yes. If you choose to leave a race or question blank, your other votes will still be counted.\n\nQ4. Will my mail ballot be counted? I heard that mail ballots might not be counted.\n\nA4. Every valid mail ballot is counted. Be sure to sign the envelope when you return your mail ballot. Your county clerk must receive your ballot no later than 7:00 PM on Election Day. If you are not sure if your ballot will arrive in time, drop it off in person. Contact your county clerk and recorder for drop-off and drop-box locations.\n\nIf you recently registered for the first time, you may need to provide a copy of your ID along with your mail ballot. Your county clerk will have provided instructions about the ID requirement along with your ballot.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/mailBallotsFAQ.html",
+            "t": "2026-10-17T22:39:24+00:00"
+        },
+        {
+            "q": "Q5. If I am voting by mail, when must the county clerk and recorder receive my ballot?",
+            "a": "A5. Mail ballots must be received by the county clerk and recorder no later than 7:00 PM on Election Day. Voters are encouraged to drop off ballots at designated drop off locations, drop-box locations, or mail their ballots in time to be received by the county clerk before the polls close. Postmarks do not count; ballots must be in the hands of the county clerk by 7:00 PM on Election Day in order to be counted.\n\nDrop-box locations are open and are under video surveillance 24/7. A bi-partisan team of election judges will regularly retrieve ballots from the drop-box locations to be sent to the central counting location in the county for processing.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/mailBallotsFAQ.html",
+            "t": "2026-10-17T22:39:24+00:00"
+        },
+        {
+            "q": "Q6. What should I do if I do not receive my mail ballot or make a mistake, damage, or lose my mail ballot?",
+            "a": "A6. You may request a replacement mail ballot from your county clerk. You may also vote in-person at a voter service and polling center.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/mailBallotsFAQ.html",
+            "t": "2026-10-17T22:39:24+00:00"
+        },
+        {
+            "q": "Q1. What is the difference between a primary and a general election?",
+            "a": "A1. The State of Colorado holds regularly scheduled state elections every two years; a state Primary Election in June and a General election in November. In presidential election years, the state also holds a presidential primary election in March.\n\nThe nominated candidates from each party's primary ballot will be placed on the November General Election ballot. The winner of the November General Election will hold office.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+            "t": "2026-10-30T09:47:19+00:00"
+        },
+        {
+            "q": "Q2. Who can vote in a Primary Election?",
+            "a": "A2. During either the Presidential or June primary:\n\n- Voters affiliated with a major party: may cast a ballot for candidates of the party they are affiliated with.\n- Voters affiliated with a minor party: if there is a minor party contest those affiliated with that minor party may cast a ballot for those candidates.\n- Unaffiliated voters: An unaffiliated voter may cast a ballot for any major political party, or minor political party who allows unaffiliated voters to participate in their primary. In the June 2026 election, this means unaffiliated voters may cast a ballot in Democratic, Republican, or Unity Party primaries. If an unaffiliated voter returns a ballot with more than one political party, the ballot will be rejected and none of the votes will be counted.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+            "t": "2026-10-30T09:47:19+00:00"
+        },
+        {
+            "q": "Q3. How old do I have to be to vote in a primary election?",
+            "a": "A3. Every individual who is 18 years of age is eligible to vote in the primary election or presidential primary election.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+            "t": "2026-10-30T09:47:19+00:00"
+        },
+        {
+            "q": "Q4. Does Colorado hold a presidential Primary Election?",
+            "a": "A4. Yes. Like other primary elections, affiliated voters will be eligible to vote for candidates in their party while unaffiliated voters will be eligible to vote for a candidate in any one party's election.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+            "t": "2026-10-30T09:47:19+00:00"
+        },
+        {
+            "q": "Q5. Do I still have to attend a party caucus meeting to vote in a presidential Primary Election?",
+            "a": "A5. No. Voting in a presidential primary is similar to voting in a regular primary election. Like other elections, voters will receive a ballot in the mail. While each political party will still conduct caucus meetings, these meetings will not select presidential candidates.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+            "t": "2026-10-30T09:47:19+00:00"
+        },
+        {
+            "q": "Q6. Are parties required to allow unaffiliated voters to participate in their primary election?",
+            "a": "A6. Major parties are required to allow unaffiliated voters to vote in their primary election. Minor parties, on the other hand, may refuse to allow unaffiliated voters to vote in their primary.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+            "t": "2026-10-30T09:47:19+00:00"
+        },
+        {
+            "q": "Q7. I am an unaffiliated voter. Do I have to choose in advance which party's primary ballot to vote?",
+            "a": "A7. No. You will receive both major party ballots in the mail and may choose which one to vote and return.\n\nIf you want to vote in a minor party primary and that party allows unaffiliated voters to participate, you must contact your county clerk to request that party’s ballot.\n\nYou can also appear in person at any Voter Service and Polling Center in your county and choose the major or minor party's ballot you want to vote.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+            "t": "2026-10-30T09:47:19+00:00"
+        },
+        {
+            "q": "Q8. Does voting in a party's primary as an unaffiliated voter mean that I am joining that party?",
+            "a": "A8. No. An unaffiliated voter who votes in a party's primary will remain unaffiliated. However, the primary that you vote in will be a public record (but not how you voted).",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+            "t": "2026-10-30T09:47:19+00:00"
+        },
+        {
+            "q": "Q9. I am an unaffiliated voter. Why did I get two ballots sent to me during a primary?",
+            "a": "A9. All unaffiliated voters will receive the ballots of both major political parties during a primary election. This allows an unaffiliated voter to choose which party's primary they will vote in. Unaffiliated voters may only return one party's ballot. Returning two voted ballots will result in neither ballot counting.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+            "t": "2026-10-30T09:47:19+00:00"
+        },
+        {
+            "q": "Q10. How do I vote in a minor party's primary election if I am unaffiliated?",
+            "a": "A10. You may contact your local County Clerk's office or visit any Voter Service and Polling Center in your county and request that minor party's ballot.\n\nFor the June 2026 primary election, the only minor party that is holding a primary and that allows unaffiliated voters to participate is the Unity Party.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+            "t": "2026-10-30T09:47:19+00:00"
+        },
+        {
+            "q": "Q11. Where can I find information about caucus?",
+            "a": "A11. Precinct caucuses are held no earlier than the first Tuesday in March and no later than the first Saturday after the first Tuesday in March in each even numbered year. The persons receiving the highest number of votes at the precinct caucus are the delegates to the county assembly from the precinct. Contact your political party for additional information relating to caucus and party rules.\n\nFor more questions about caucuses, see our caucus FAQs (https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html).",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+            "t": "2026-10-30T09:47:19+00:00"
+        },
+        {
+            "q": "Q12. Can I participate in a party's caucus meeting if I am unaffiliated?",
+            "a": "A12. No. To participate in a party caucus meeting you must join that party before the party's caucus. However, you are still eligible to vote in any participating party's primary election.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+            "t": "2026-10-30T09:47:19+00:00"
+        },
+        {
+            "q": "Q13. Besides caucus meetings, what other election activities are available only to members of a party?",
+            "a": "A13. You must be a member of a political party to participate and vote in that party’s county assembly. Delegates to each party’s county assembly are elected at precinct caucuses. Delegates to higher district assemblies and the state convention are elected at each major party’s county assembly.\n\nAlso, you must be a member of a political party to sign a petition for a candidate of that party. You also cannot run for office with a party without first being a member of that party.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+            "t": "2026-10-30T09:47:19+00:00"
+        },
+        {
+            "q": "Q14. What political parties are recognized in Colorado?",
+            "a": "A14. A list of the current Colorado political parties (https://www.sos.state.co.us/pubs/elections/Candidates/PoliticalPartyDirectory.html) is available online.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+            "t": "2026-10-30T09:47:19+00:00"
+        },
+        {
+            "q": "Q1: Does the Secretary of State post my personal voter information online?",
+            "a": "A1: No. The Secretary of State is, however, required by law to maintain certain pieces of information about registered voters, and some of this information is considered a \"public record.\"\n\nThe Secretary of State is also required by law to provide \"public record\" information to people who ask for it without regard to how these people might use the information.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+            "t": "2026-10-28T22:01:37+00:00"
+        },
+        {
+            "q": "Q2: Will the Secretary of State give out all of my personal information to anyone who requests it?",
+            "a": "A2: No. Certain information you provide when registering to vote is considered confidential, and will NOT be released to a member of the public who requests it. This confidential information includes, your social security number, driver's license number, month and day of birth, signature, and email address.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+            "t": "2026-10-28T22:01:37+00:00"
+        },
+        {
+            "q": "Q3: What information in my voter record is considered a \"public record\"?",
+            "a": "A3: Several pieces of information in your voter record are considered a \"public record.\" The Secretary of State is required by law to provide this information to any member of the public who requests it. This information includes, your full name, residential address, political party affiliation and date of affiliation, phone number (if provided by the voter), gender identity (if provided by the voter), birth year, and information about whether you have voted in prior elections.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+            "t": "2026-10-28T22:01:37+00:00"
+        },
+        {
+            "q": "Q4: What can I do if I believe releasing this public information may put me or my family at risk?",
+            "a": "A4: If you believe that you or a member of your household will be exposed to criminal harassment or bodily harm because your voter information is publicly available, you may elect to become a confidential voter. Confidential voters' voting information will NOT be released to the public. To become a confidential voter, you must go to your local county clerk and recorder's office, fill out a voter confidentiality form, and pay a $5.00 fee. Refer to this list of county clerk and recorder offices (https://www.sos.state.co.us/pubs/elections/Resources/CountyElectionOffices.html) for the necessary contact information.\n\nSurvivors of domestic violence, sexual offenses, or stalking may also consider enrolling in the Colorado Address Confidentiality Program (https://www.colorado.gov/pacific/dcs/acp). Voters who are part of this program will NOT have any of their voter information released to the public.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+            "t": "2026-10-28T22:01:37+00:00"
+        },
+        {
+            "q": "Q5: Where can I obtain information on the number of registered voters in Colorado?",
+            "a": "A5: The Secretary of State maintains some statistical summary information on current and historical voter registration. Please refer to the Voter Registration Statistics (https://www.sos.state.co.us/pubs/elections/VoterRegNumbers/VoterRegNumbers.html) for more information.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+            "t": "2026-10-28T22:01:37+00:00"
+        },
+        {
+            "q": "Q6: Where can I find information about purchasing voter's information?",
+            "a": "A6: The Secretary of State's website has a chart describing the types of information which is available, the frequency with which it can be provided, and the fees charged for the information. Please refer to the Elections Division Fee Schedule (https://www.sos.state.co.us/pubs/info_center/fees/elections.html) for the charges associated with obtaining this information.\n\nPlease contact your local county election official for county-specific requests.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+            "t": "2026-10-28T22:01:37+00:00"
+        },
+        {
+            "q": "Q7: Where can I find out which voters have received a mail ballot?",
+            "a": "A7: All active registered voters receive a mail ballot. Local county election officials maintain voting records, conduct elections, and can provide reports and exports listing the voters who have received a ballot in their county.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+            "t": "2026-10-28T22:01:37+00:00"
+        },
+        {
+            "q": "Q8: Where can I find out which voters have voted their mail ballots?",
+            "a": "A8: For countywide contests, all facets of mail ballot processing is completed by the local county election official. As such, all requests for countywide reports and exports should be directed to the local county election official.\n\nFor statewide contests, please refer to the Secretary of State's website for a chart describing the types of information which is available, the frequency with which the information can be provided, and the fees charged for the information. Please refer to the Elections Division Fee Schedule (https://www.sos.state.co.us/pubs/info_center/fees/elections.html) for the charges associated with obtaining this information.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+            "t": "2026-10-28T22:01:37+00:00"
+        },
+        {
+            "q": "Q9: Where can I find out which voters have voted at a Voter Service and Polling Center (\"VSPC\") location?",
+            "a": "A9: For countywide contests, local county election officials oversee voting at VSPC locations. Election officials can provide reports or exports which portrays voters who voted in-person at selected VSPCs. The report is available after in-person voting begins through the close of the election.\n\nFor statewide contests, a chart describing what information is available, the frequency with which it can provided, and the fees charged for providing information is located on the Secretary of State's website. Please refer to the Elections Division Fee Schedule (https://www.sos.state.co.us/pubs/info_center/fees/elections.html) for the charges associated with obtaining this information.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+            "t": "2026-10-28T22:01:37+00:00"
+        },
+        {
+            "q": "Q10: How can I track voting on Election Day?",
+            "a": "A10: For countywide contests, voter participation on Election Day is usually monitored by poll watchers at voting sites. This information may also be transmitted through updates from a local county election office. The best bet is to contact your local county election official for guidance.\n\nFor statewide contests, a chart describing what information is available, the frequency with which it can provided, and the fees charged for providing information is located on the Secretary of State's website. Please refer to the Elections Division Fee Schedule (https://www.sos.state.co.us/pubs/info_center/fees/elections.html) for the charges associated with obtaining this information.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+            "t": "2026-10-28T22:01:37+00:00"
+        },
+        {
+            "q": "Q11: If I am a member of the media can I obtain voter information at a reduced cost?",
+            "a": "A11: Accredited representatives of media and academic institutions can receive data requests at a reduced cost from the Secretary of State. Please contact our Public Information Officer for specific details or requests.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+            "t": "2026-10-28T22:01:37+00:00"
+        },
+        {
+            "q": "Q12: How can I request bulk voter registration information?",
+            "a": "A12: A chart describing what information is available, the frequency with which it can provided, and the fees charged for providing information is located on the Secretary of State's website. Please refer to the Elections Division Fee Schedule (https://www.sos.state.co.us/pubs/info_center/fees/elections.html) for the charges associated with obtaining this information.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+            "t": "2026-10-28T22:01:37+00:00"
+        },
+        {
+            "q": "Q1. What are the qualifications to register to vote as a Colorado citizen?",
+            "a": "A1. Every person who will be 18 years of age or older at the time of the next election, is a United States citizen, and who is a legal resident of Colorado is entitled to register and vote in Colorado. (Persons otherwise qualified to register that are 16 years of age but who will not be 18 years old by the time of the next election may preregister to vote.)\n\nFor the purposes of military and overseas electors, \"Resident of Colorado\" means that:\n\n- For a military elector or dependent, they consider Colorado to be their home but are absent because of the service member's active duty or service.\n- For an overseas elector, their last legal residence before the United States was in Colorado.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q2. Who is covered under the Uniformed and Overseas Citizens and Absentee Voting Act (\"UOCAVA\")?",
+            "a": "A2. Colorado citizens living outside the United States and all active military personnel absent from Colorado are eligible to register and vote by mail as UOCAVA voters. UOCAVA provisions also cover the spouses, civil union partners, and voting dependents of active military personnel absent from Colorado.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q3. Who qualifies as a \"Military Elector\" (\"Uniformed-Service Voter\")?",
+            "a": "A3. A \"Military Elector\" is anyone who is:\n\n- A member of any active or reserve branch of the military who is on active duty and a resident of Colorado, but absent from the state;\n- A member of the Merchant Marine, the commissioned corps of the Public Health Service, or the National Oceanic and Atmospheric Administration who is a resident of Colorado, but who is absent because of service;\n- A member of the Colorado National Guard who is a resident of Colorado, but who is absent from Colorado on active duty; or\n- A spouse, civil union partner, or dependent of a person described above who is a resident of Colorado, but who is absent from the state because of the service member's active duty or service.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q4. Who qualifies as an \"Overseas Elector\"?",
+            "a": "A4. An \"Overseas Elector\" is anyone who:\n\n- Is a resident of Colorado that is, either temporarily or permanently, living outside of the United States; and\n- Was a resident of Colorado immediately before leaving the United States.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q5. What if I am a United States citizen who has never lived in the United States?",
+            "a": "A5. If you are a United States citizen who has never lived in the United States, you can register to vote in Colorado if your parent, legal guardian, spouse, or domestic partner was a resident of Colorado before leaving the United States. To register to vote, you should use the last Colorado residence address of one of the parties listed above.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q6. How do I register to vote, update my registration, and request a ballot?",
+            "a": "A6. If you have a Colorado driver's license or identification card, log on to www.GoVoteColorado.gov. This online voter registration portal can be used to register to vote, request a ballot, or update voter registration information. You can also indicate how you would like to receive your ballot by filling out the form provided through the online portal.\n\nYou can update your voter registration to reflect UOCAVA status through the online portal by selecting \"Find my Registration\" and clicking on the \"Change my Address\" link. You will then be given the option to update your status as a UOCAVA elector and prompted to indicate whether you would like to receive your ballot by mail, fax, or email.\n\nIf you prefer, you can submit a Federal Post Card Application (\"FPCA\") to your county clerk. The FCPA is available through the Federal Voting Assistance Program (\"FVAP\"). And serves as a universal form for both voter registration and absentee ballot requests.\n\nAll military and overseas voters should review their registration information online and update it as necessary. Likewise, military and overseas voters can also update their registration information by submitting a FCPA each year to their county clerk.\n\nWe encourage all military and overseas voters to provide alternate contact information, including an email address. This information allows county election officials to contact voters about their ballot and to provide important election information. This information will NOT be made available to the public and will ONLY be used for the purpose of communicating about the voting process.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q7. When I register as an overseas voter what address should I use?",
+            "a": "A7. You must provide 2 addresses:\n\n- Your residential address in Colorado; and\n- Your current mailing address.\n\nFor overseas citizens, your residential address is the last residence you maintained in Colorado before your departure. While you may no longer maintain formal ties to that residence, the address determines your proper voting jurisdiction.\n\nNote: A post office box is NOT a residential address.\n\nYour current mailing address is necessary to send you voting information, including your ballot. If your mailing address changes, you should timely update it with the county elections office so that you continue to receive elections and voting information.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q8. What is the deadline to submit a voter registration application and to request a ballot?",
+            "a": "A8. An eligible elector can register to vote up to and on Election Day. But if you wish to receive a mail ballot, the application must be received by the designated election official by the close of business on the 7th day before the election. Please keep in mind that if you would like to receive the ballot by mail, 7 days may not be a sufficient amount of time to receive, vote, and return your ballot.\n\nMilitary and overseas voters can also request to have their ballots be sent by fax, email, or by downloading a ballot online.\n\nThe online ballot delivery program will allow you to download your ballot, mark and review it, and print and sign self-affirmation for return to the county elections office. To access your ballot online, you must have notified your county elections office that you are a military or overseas voter. To download your ballot, go to https://myballot.coloradosos.gov and log in using your date of birth and either your Colorado driver's license number or the last four digits of your social security number. Then follow the instructions to complete and print your ballot for return.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q9. Do I need to submit a separate ballot application for each election?",
+            "a": "A9. Under Colorado law, all active voters will be mailed a ballot for each primary, coordinated, and general election. While submission of a Federal Post Card Application (FPCA) is not required, you should submit an updated FPCA each year to ensure your ballot will be mailed to the correct address.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q10. How will I know if my application is received?",
+            "a": "A10. Once the county elections office has processed your application, the county will mail you a postcard. If your application is incomplete for any reason, the county will send you a letter advising you what additional information is required. You can also check the status of your application and ballot online at www.GoVoteColorado.gov (https://www.GoVoteColorado.gov).",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q11. How can I verify that my voter registration information is complete?",
+            "a": "A11. To review your voter registration information, click on the \"Find my Registration\" link at www.GoVoteColorado.gov (https://www.GoVoteColorado.gov). To access your information, you will need to enter your first and last name, date of birth, and the zip code of your residential address in Colorado. Through the online portal, you will be able to review your mailing address, precinct and district information, party affiliation, and contact information for your county clerk and recorder, as well as track the status of your ballot during an election.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q12. When should I receive my ballot by mail?",
+            "a": "A12. Counties will mail ballots to military and overseas voters 45 days before the election. You should receive your ballot within 2 weeks after it has been mailed by the county. You can also check whether your ballot has been mailed through the registration verification tool at www.GoVoteColorado.gov (https://www.GoVoteColorado.gov).",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q13. What if I have not received my ballot?",
+            "a": "A13. Contact your county elections office if you have not received your ballot 2 weeks before the election. Your county clerk will assist you in determining the status of your ballot; and if necessary, issue you a replacement ballot. For contact information visit the Military and Overseas Electors page (https://www.sos.state.co.us/pubs/elections/UOCAVA.html).",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q14. Who is eligible to receive and return a ballot by fax or email?",
+            "a": "A14. All military and overseas voters can request to receive and return their ballot by fax or email. If you would like to receive your ballot by fax, be sure to provide your county elections office with a complete fax number, including the international prefix and country code.\n\nIf requesting a ballot by email, provide a complete email address where the ballot is to be sent. If you receive your ballot by email, you will receive the blank ballot as a PDF attachment. In order to return your voted ballot by email, you must print and vote the ballot, then scan it and attach it as a PDF.\n\nNote: If you choose to return your voted ballot by fax or email, you must voluntarily waive your right to a secret ballot.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q15. What is a Federal Write-in Ballot?",
+            "a": "A15. Any military or overseas voter is entitled to vote by a Federal Write-in Absentee Ballot (\"FWAB\"). You can use the FWAB to cast votes for all federal, state, and local contests that you are eligible to vote on. You can designate the candidate by writing in the name of the candidate or by writing in the name of a political party or political organization, in which case the ballot will be counted for the candidate of that political party or political organization.\n\nIf the county processed a ballot application and later receives a FWAB, the FWAB will count. If, however, you return both a ballot and a FWAB, the county will void the FWAB and count the ballot.\n\nYou can get a FWAB from federal and civilian Voting Assistance Officers or on the Federal Voting Assistance Program website.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q16. What is the deadline for returning my voted ballot?",
+            "a": "A16. All military or overseas voters must vote and send their ballots back by 7:00 PM Mountain Time on Election Day.\n\nThe county elections office must receive mailed ballots no later than the close of business on the 8th day after Election Day. If you are returning your ballot electronically, then your county clerk must receive it no later than 7:00 PM Mountain Time on Election Day.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q17. What if there is a change in my UOCAVA status or a change in my address?",
+            "a": "A17. If the address listed on your application changes due to reassignment or if you return to the United States, you will need to update your voter registration by contacting your county elections office. The best way to update your voter registration is to log on to www.GoVoteColorado.gov (https://www.GoVoteColorado.gov). If preferable, you can also submit an updated Federal Post Card Application.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q18. What if my registration record is inactive?",
+            "a": "A18. Military and overseas electors who find out that their registration is inactive should update their information to ensure a ballot will be mailed for the next regularly scheduled election. You can update your information by submitting an updated Federal Post Card Application or by logging in to www.GoVoteColorado.gov (https://www.GoVoteColorado.gov).\n\nIf it is close to Election Day, you can also download your ballot using the \"Address Locator\" function of the online ballot delivery system. You will also need to download the Federal Post Card Application through the system to update your information. You must submit the ballot and the application before the deadlines listed above.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+            "t": "2026-10-28T19:39:29+00:00"
+        },
+        {
+            "q": "Q1. How do I register to vote or update my voter registration?",
+            "a": "A1. You may register online at www.GoVoteColorado.gov (https://www.GoVoteColorado.gov), if you have a valid Colorado driver's license or state issued ID card from the Colorado Department of Revenue, or you may register by providing the last four digits of your social security number.\n\nPrintable voter registration forms are also available on the Secretary of State's website, the county clerk and recorder's office, and any federal post office that provides voter registration applications. You may then mail, fax, or scan and email your complete and signed form to your county clerk and recorder's office.\n\nYou can also register to vote in-person. Registering to vote in-person may be done at a physical office, which includes:\n\n- A Colorado Department of Motor Vehicle office when you apply for a driver's license, or when updating your driver's license information;\n- Offices that provide public assistance, including offices that provide state funded programs primarily engaged in providing services to person with disabilities;\n- Recruitment offices of the armed forces of the United States;\n- Any federal, state, or local government office or any nongovernment office that chooses to provide voter registration service or applications; or\n- A voter service and polling center.\n\nYou can also register to vote in-person through a voter registration drive.\n\nIf you are already a registered voter in Colorado you may confirm your registration by visiting www.GoVoteColorado.gov (https://www.GoVoteColorado.gov). Once your registration is verified, you may update your address and party affiliation as well.\n\nIf your voter registration is inactive, you may change your inactive status by submitting a signed request, an online voter registration application, or making an in-person request.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
+            "t": "2026-10-29T18:18:20+00:00"
+        },
+        {
+            "q": "Q2. Will I still be registered to vote if I did not vote in the last election?",
+            "a": "A2. Yes. If you did not vote in the last election, you are still registered and eligible to vote. You will still receive a mail ballot unless your county clerk has received information that you have moved out of state. Visit www.GoVoteColorado.gov to make sure your voter registration information is current.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
+            "t": "2026-10-29T18:18:20+00:00"
+        },
+        {
+            "q": "Q3. What is the voter registration deadline?",
+            "a": "A3. Voters may register through Election Day. Please note that how you register to vote will impact how you receive your ballot.\n\nTo receive your ballot by mail:\n\n- Register to vote or update your voter registration online at www.GoVoteColorado.gov through the 8th day before Election Day;\n- Submit an application through the mail, at a voter registration agency, or at a local driver's license examination facility through the 8th day before Election Day; or\n- Submit an application through a voter registration drive no later than 22 days before Election Day.\n\nIf you miss the above deadlines, you may register in-person at a voter service and polling center in your county through Election Day.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
+            "t": "2026-10-29T18:18:20+00:00"
+        },
+        {
+            "q": "Q4. What is a \"residence\" for purposes of voter registration and voting?",
+            "a": "A4. The term \"residence\" generally means the principal or primary home or place in which a person lives. A \"residence\" is a permanent building or part of a building and may include a house, apartment, condominium, room in a house, or mobile home.\n\nHomeless voters can register to vote. A homeless voter may use any address within a specific county that he/she regularly returns to and has the intent to remain. This may include a homeless shelter, a homeless service provider, a park, a campground, a vacant lot, a business address, or any other physical location.\n\nYou must have a residence to register to vote. Once you establish a residence, it exists until you establish a new residence.\n\nNote: you may not have more than one residence.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
+            "t": "2026-10-29T18:18:20+00:00"
+        },
+        {
+            "q": "Q5. Can I vote in Colorado if I have moved away or moved to Colorado because I am in the military or a student?",
+            "a": "A5. For the purposes of registering to vote and voting, no person may gain residence because of their presence in Colorado. Likewise, persons may not lose residence because of their absence while in military service or while a student at any institution of higher education.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
+            "t": "2026-10-29T18:18:20+00:00"
+        },
+        {
+            "q": "Q6. I am planning to attend a college or university out-of-state, should I wait to register there? May I remain registered in Colorado?",
+            "a": "A6. This is the student's decision. College students that are residents of Colorado may keep their registration in their hometown and vote by mail.\n\nAlternatively, if the student attends a college or university out-of-state and wishes to register to vote there, they should check that state's voter registration rules. Should the student change their voter registration to a different state, they are no longer eligible to vote in Colorado.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
+            "t": "2026-10-29T18:18:20+00:00"
+        },
+        {
+            "q": "Q7. If a person no longer lives in Colorado, is it legal for that person to use my address for their voter registration?",
+            "a": "A7. Maybe. Sometimes, the old address is the only address that a person can use for voter registration purposes. For example, a member of the armed services stationed out-of-state or a student attending school abroad who formerly resided at your address may use that address for voter registration and voting purposes.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
+            "t": "2026-10-29T18:18:20+00:00"
+        },
+        {
+            "q": "Q8. What is Automatic Voter Registration?",
+            "a": "A8. When an individual interacts with certain agencies, such as the DMV, they usually will provide information such as name, address, date of birth, etc. This information is then used to register that individual to vote in Colorado.\n\nThe elector’s county clerk will verify if they have a complete record to register the individual to vote. If the elector’s record is complete, the county clerk will send a notice to the elector that they are registered to vote. The elector can return the notice to either decline to be registered or to affiliate with a party. If the elector does not decline to be registered within 20 days after the notice is mailed and the form is not returned as undeliverable, the elector is then registered to vote.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
+            "t": "2026-10-29T18:18:20+00:00"
+        },
         {
             "q": "What is a ballot drop box?",
             "a": "A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night.",

@@ -1,9 +1,87 @@
 {
     "state": "ia",
-    "num_questions": 23,
-    "num_answers": 23,
+    "num_questions": 36,
+    "num_answers": 36,
     "contributor": "Cole Easley",
     "questions": [
+        {
+            "q": "Can I request an Iowa Voter Identification Card if I have an Iowa Driver’s License or Non-Operator’s ID or if I need a replacement card?",
+            "a": "- YES. Voters who do not appear in the Iowa Department of Transportation’s Driver’s License or Non-Operator ID files are automatically mailed an Iowa Voter Identification Card at the time of registration. However, any voter may request an Iowa Voter Identification Card from their County Auditor (https://sos.iowa.gov/node/61).\n- An Iowa Voter Identification Card can be used to vote absentee-by-mail, absentee in-person, or at the polls on election day.",
+            "s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "t": "2026-10-31T20:58:21+00:00"
+        },
+        {
+            "q": "How will Voter ID work for voters who choose to vote absentee-by-mail?",
+            "a": "A registered voter may make written application to their County Auditor for an absentee ballot. A written application for a mailed absentee ballot must be received by the voter's County Auditor no later than 5:00 p.m. 15 days before the election.\n\nIn order to receive an absentee ballot, a registered voter MUST provide the following necessary information:\n\n- Name\n- Date of birth\n- Iowa residential address\n- Voter Verification Number (ID Number)\n\n  - Iowa Driver's License or Non-Operator ID Number OR\n  - Four digit Voter PIN located on the voter's Iowa Voter ID Card\n  - Any voter may request an Iowa Voter ID Card by contacting their County Auditor's Office\n- The name OR date of the election for which you are requesting an absentee ballot\n- Party affiliation - only required for Primary Elections, which are held in even numbered years\n- Signature\n\nFor information on how to request an absentee ballot and to download and print a fillable absentee ballot request form, visit Requesting a Ballot. (https://sos.iowa.gov/voters/absentee-voting)\n\nAll voters are encouraged to provide their phone number and/or email address in the event their County Auditor needs to confirm any information on the request form.\n\nIf you have questions about absentee voting, please contact your County Auditor.",
+            "s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "t": "2026-10-31T20:58:21+00:00"
+        },
+        {
+            "q": "Do I need to show an ID when I vote absentee in-person?",
+            "a": "YES. Voters in Iowa are required to show an ID when voting absentee in-person and at the polls on Election Day.",
+            "s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "t": "2026-10-31T20:58:21+00:00"
+        },
+        {
+            "q": "What are valid forms of ID to show when voting absentee in-person or at the polls on election day?",
+            "a": "- Iowa Voter Identification Card\n- Iowa Driver’s License\n- Iowa Non-Operator ID\n- U.S. Military ID or Veteran ID\n- U.S. Passport\n- Tribal ID Card/Document\n\nA voter may prove identity and residence using Election Day Registration documents.",
+            "s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "t": "2026-10-31T20:58:21+00:00"
+        },
+        {
+            "q": "Do voters have to show ID at the polls?",
+            "a": "Iowa voters are required to show an Iowa driver’s license or non-operator ID, U.S. passport, U.S. military ID or veteran’s ID, tribal ID/document, or Iowa voter ID card at the polls before they vote. A voter without one of the listed forms of ID on Election Day may prove identity and residence using Election Day Registration documents. Voters without the necessary ID will be offered a provisional ballot and can provide ID up until the time of the county canvass of votes (Monday after election day for Primary and General Elections).",
+            "s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "t": "2026-10-31T20:58:21+00:00"
+        },
+        {
+            "q": "What about voters who don’t have an ID?",
+            "a": "Any registered voter who does not have a valid driver's license or non-operator's ID issued by the Iowa Department of Transportation will be issued a Voter ID Card for free, automatically, in the mail. This also applies to anyone who registers to vote in the future. Upon receipt of the Voter ID Card, it should be immediately signed. Obtaining the Voter ID Card does not require any further documentation or action by the voter; voters simply need to be registered to vote in the county where they live. Any voter may request an Iowa Voter ID Card by contacting their County Auditor’s (https://sos.iowa.gov/auditors) office.",
+            "s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "t": "2026-10-31T20:58:21+00:00"
+        },
+        {
+            "q": "Do I have to prove my residence?",
+            "a": "A voter who moves to a different precinct in the same county where the voter is registered will be required to prove identity and residence. If the voter’s acceptable ID card/document also shows the voter’s new address, no further proof is needed. If it does not include the voter’s new address, the voter may provide a separate proof of residence, including:\n\n- Residential lease\n- Utility bill, including a cell phone bill\n- Bank statement\n- Paycheck\n- Government check\n- Other government document\n- Property tax statement\n\nEach of the separate proofs of residence must include the voter’s name and current address and be current within 45 days. A separate proof of residence may be in an electronic format – such as a document on a cell phone – or on paper.\n\nAny person who is not registered in the county where the person lives is required to prove identity and residence, following Election Day registration standards.",
+            "s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "t": "2026-10-31T20:58:21+00:00"
+        },
+        {
+            "q": "How does this law impact Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA)?",
+            "a": "The Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA) is a federal law that makes it easier for members of the armed forces and certain overseas U.S. citizens to register to vote and cast absentee ballots.\n\nUOCAVA voters are exempt from the requirement to include a voter verification number on an absentee ballot application.\n\nUOCAVA voters can find copies of the federal postcard application (FPCA), federal write-in absentee ballot (FWAB), and information for voter registration and absentee voting specific to Iowa by visiting our Absentee Voting page or on FVAP’s website, www.fvap.gov (https://www.fvap.gov/).",
+            "s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "t": "2026-10-31T20:58:21+00:00"
+        },
+        {
+            "q": "How does this law affect voter registration?",
+            "a": "This law does not affect Iowa’s voter registration process. There are still multiple ways to register to vote, including at the polls on Election Day, and online. Voters registering on Election Day still need to bring a picture ID and proof of residency in the precinct, like a utility bill. This has not been changed from previous elections.",
+            "s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "t": "2026-10-31T20:58:21+00:00"
+        },
+        {
+            "q": "What will be the impact on college students?",
+            "a": "NONE. The Election Integrity Act does not create any obstacles for college students to vote. Students still can pre-register to vote using all registration opportunities previously available or at the polls on Election Day. Prior Iowa law requires Election Day registrants to show proof of identification and proof of residency, which may include college ID cards IF the cards include a photo and expiration date. If college students do not have an Iowa ID, all they have to do is register to vote before Election Day and they will be provided a Voter ID Card for free, automatically.\n\nLearn more about how to register to vote in Iowa (https://sos.iowa.gov/voters/voter-registration)",
+            "s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "t": "2026-10-31T20:58:21+00:00"
+        },
+        {
+            "q": "How do the Electronic Poll Books work?",
+            "a": "The goal is to install electronic poll books in every precinct in the state. These will make the voter check-in process quicker and more efficient, reduce the potential for human error, and streamline the system statewide. 77 of Iowa’s 99 counties use electronic pollbooks.",
+            "s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "t": "2026-10-31T20:58:21+00:00"
+        },
+        {
+            "q": "Who is adversely impacted by this law?",
+            "a": "NO ONE. Every Iowa voter will be treated exactly the same. Every registered Iowa voter who does not possess an ID will be provided one, for free, automatically.",
+            "s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "t": "2026-10-31T20:58:21+00:00"
+        },
+        {
+            "q": "What are provisional ballots and how do they work?",
+            "a": "Provisional ballots provide a way for voters to cast their ballots on Election Day if there is a question about their eligibility to vote. Voters will be offered a provisional ballot if the voter had been sent an absentee ballot, if the voter does not provide ID when required, or if the voter is challenged by another registered voter. Provisional ballots are sealed in a secure envelope after the voter has marked the ballot. The ballot envelope is reviewed later by the absentee board. Provisional voters receive a notice on Election Day with information about the reason for the challenge and whether they need to provide additional documentation regarding their eligibility.\n\nAll voters registering and voting on Election Day (https://sos.iowa.gov/voters/voter-registration) in precincts without electronic pollbooks will cast provisional ballots. These ballots will be counted, unless the voter’s name appears on the felon database list.",
+            "s": "https://sos.iowa.gov/voters/voter-id-faq",
+            "t": "2026-10-31T20:58:21+00:00"
+        },
         {
             "q": "What is a valid form of ID to show at the polls?",
             "a": "· Iowa Driver's License\n\n· Iowa Non-Operator's ID\n\n· Military ID\n\n· U.S. Passport\n\n· Tribal ID\n\n· Veteran's ID\n\n· Voter ID Card",

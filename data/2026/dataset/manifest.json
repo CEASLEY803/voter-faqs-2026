@@ -1,7 +1,7 @@
 {
     "year": 2026,
     "baseline_year": 2024,
-    "built_at": "2026-11-10T18:15:43+00:00",
+    "built_at": "2026-11-14T18:33:11+00:00",
     "vote411_batch": "data/2026/batches/20261022T201244360248Z",
     "state_site_batch": "data/2026/state_sites/20261029T220403252970Z",
     "state_site_parser_version": 2,
@@ -114,12 +114,12 @@
             "total": 129
         },
         "co": {
-            "state_site": 0,
+            "state_site": 123,
             "state_site_dropped_non_faq": 0,
             "vote411": 38,
             "vote411_question_records": 19,
             "vote411_section_records": 19,
-            "total": 38
+            "total": 161
         },
         "ct": {
             "state_site": 42,
@@ -162,12 +162,12 @@
             "total": 36
         },
         "ia": {
-            "state_site": 0,
+            "state_site": 13,
             "state_site_dropped_non_faq": 0,
             "vote411": 23,
             "vote411_question_records": 2,
             "vote411_section_records": 21,
-            "total": 23
+            "total": 36
         },
         "id": {
             "state_site": 37,
@@ -493,7 +493,7 @@
             "state": "co",
             "url": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
             "flags": [
-                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+                "No questions on this page. It is a menu: it links to 26 FAQ pages on the same site, and the questions are on those pages (listed under menu_page)"
             ]
         },
         {
@@ -521,7 +521,7 @@
             "state": "de",
             "url": "https://elections.delaware.gov/public/faq/",
             "flags": [
-                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+                "No questions on this page. It is a menu: it links to 6 FAQ pages on the same site, and the questions are on those pages (listed under menu_page)"
             ]
         },
         {
@@ -577,7 +577,7 @@
             "state": "ia",
             "url": "https://sos.iowa.gov/elections-and-voting-faqs",
             "flags": [
-                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+                "No questions on this page. It is a menu: it links to 7 FAQ pages on the same site, and the questions are on those pages (listed under menu_page)"
             ]
         },
         {
@@ -598,7 +598,7 @@
             "state": "ky",
             "url": "https://elect.ky.gov/Voters/Pages/Voter-Rights.aspx",
             "flags": [
-                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+                "No questions on this page. It is a menu: it links to 2 FAQ pages on the same site, and the questions are on those pages (listed under menu_page)"
             ]
         },
         {
@@ -633,7 +633,7 @@
             "state": "nd",
             "url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/military-and-overseas-us-citizens",
             "flags": [
-                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+                "No questions on this page. It is a menu: it links to 1 FAQ page on the same site, and the questions are on those pages (listed under menu_page)"
             ]
         },
         {
@@ -647,21 +647,21 @@
             "state": "nd",
             "url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/how-do-i-vote/absentee-voting",
             "flags": [
-                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+                "No questions on this page. It is a menu: it links to 1 FAQ page on the same site, and the questions are on those pages (listed under menu_page)"
             ]
         },
         {
             "state": "nd",
             "url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota",
             "flags": [
-                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+                "No questions on this page. It is a menu: it links to 1 FAQ page on the same site, and the questions are on those pages (listed under menu_page)"
             ]
         },
         {
             "state": "nh",
             "url": "https://www.sos.nh.gov/elections/voting-disabilities",
             "flags": [
-                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+                "No questions on this page. It is a menu: it links to 3 FAQ pages on the same site, and the questions are on those pages (listed under menu_page)"
             ]
         },
         {
@@ -675,14 +675,14 @@
             "state": "wa",
             "url": "https://www.sos.wa.gov/elections/voters/helpful-information/voting-assisted-living-facilities",
             "flags": [
-                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+                "No questions on this page. It is a menu: it links to 22 FAQ pages on the same site, and the questions are on those pages (listed under menu_page)"
             ]
         },
         {
             "state": "wa",
             "url": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/felony-convictions-and-voting-rights",
             "flags": [
-                "No Q&A text found in the saved page; the content may be loaded by JavaScript"
+                "No questions on this page. It is a menu: it links to 22 FAQ pages on the same site, and the questions are on those pages (listed under menu_page)"
             ]
         },
         {
