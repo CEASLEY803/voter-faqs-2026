@@ -24,7 +24,8 @@
         "status": "failed",
         "error": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Versión en Español"
+        "link_text": "Versión en Español",
+        "archive_lookup": "no copy from 2026-09-04 to 2026-11-02; checked 2026-11-14"
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/passwords.html",
@@ -37,33 +38,46 @@
         "status": "failed",
         "error": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Password disclosure"
+        "link_text": "Password disclosure",
+        "archive_lookup": "no copy from 2026-09-04 to 2026-11-02; checked 2026-11-14"
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/GeneralInfoFAQ.html",
-        "capture_method": "requests",
+        "capture_method": "Internet Archive copy",
         "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-11-14T18:00:25+00:00",
-        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/GeneralInfoFAQ.html",
-        "status_code": 403,
-        "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403",
+        "archive_url": "https://web.archive.org/web/20261020064857id_/https://www.sos.state.co.us/pubs/elections/FAQs/GeneralInfoFAQ.html",
+        "collected_at": "2026-10-20T06:48:57+00:00",
+        "collected_at_source": "capture time of the Internet Archive copy",
+        "downloaded_at": "2026-11-14T18:19:15+00:00",
+        "error_before_archive": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "General election information"
+        "link_text": "General election information",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/GeneralInfoFAQ.html",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-20acbf8921.html",
+        "sha256": "b73dc5e70cfa67678aa544efc95fefae0e39a830d5fc4139718c68193fe27a47",
+        "bytes": 36100
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
-        "capture_method": "requests",
+        "capture_method": "Internet Archive copy",
         "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-11-14T18:00:27+00:00",
-        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
-        "status_code": 403,
-        "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403",
+        "archive_url": "https://web.archive.org/web/20261102140304id_/https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+        "collected_at": "2026-11-02T14:03:04+00:00",
+        "collected_at_source": "capture time of the Internet Archive copy",
+        "downloaded_at": "2026-11-14T18:19:19+00:00",
+        "error_before_archive": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "BallotTrax"
+        "link_text": "BallotTrax",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/BallotTrax.html",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-b525a09b32.html",
+        "sha256": "498f0f6b809b6c5c9ffb7d1e3ed71bd270ed7312c6233b5aa069db167680d9d4",
+        "bytes": 38221
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/Candidate.html",
@@ -76,20 +90,27 @@
         "status": "failed",
         "error": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Candidates"
+        "link_text": "Candidates",
+        "archive_lookup": "no copy from 2026-09-04 to 2026-11-02; checked 2026-11-14"
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
-        "capture_method": "requests",
+        "capture_method": "Internet Archive copy",
         "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-11-14T18:00:29+00:00",
-        "final_url": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
-        "status_code": 403,
-        "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403",
+        "archive_url": "https://web.archive.org/web/20261020062925id_/https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
+        "collected_at": "2026-10-20T06:29:25+00:00",
+        "collected_at_source": "capture time of the Internet Archive copy",
+        "downloaded_at": "2026-11-14T18:19:28+00:00",
+        "error_before_archive": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Caucuses, assemblies and conventions"
+        "link_text": "Caucuses, assemblies and conventions",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-1d4f4290d5.html",
+        "sha256": "dc16e424f2e723fe6e65b8fc17e1abbec69ab4406b2612839d6bc6f6a07ea41e",
+        "bytes": 35410
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/crimesRulesFAQ.html",
@@ -102,20 +123,27 @@
         "status": "failed",
         "error": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Election crimes, rules, and penalties"
+        "link_text": "Election crimes, rules, and penalties",
+        "archive_lookup": "no copy from 2026-09-04 to 2026-11-02; checked 2026-11-14"
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
-        "capture_method": "requests",
+        "capture_method": "Internet Archive copy",
         "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-11-14T18:00:32+00:00",
-        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
-        "status_code": 403,
-        "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403",
+        "archive_url": "https://web.archive.org/web/20260929112558id_/https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+        "collected_at": "2026-09-29T11:25:58+00:00",
+        "collected_at_source": "capture time of the Internet Archive copy",
+        "downloaded_at": "2026-11-14T18:19:33+00:00",
+        "error_before_archive": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Election day"
+        "link_text": "Election day",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-674afb6e03.html",
+        "sha256": "1c70dfe7f42742c33c88c44d2bfc28c97e4ccabf00e1d746cfabe499348635b0",
+        "bytes": 32016
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/ENR.html",
@@ -128,7 +156,8 @@
         "status": "failed",
         "error": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Election Night Reporting (ENR)"
+        "link_text": "Election Night Reporting (ENR)",
+        "archive_lookup": "no copy from 2026-09-04 to 2026-11-02; checked 2026-11-14"
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/electoralCollege.html",
@@ -141,20 +170,27 @@
         "status": "failed",
         "error": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Electoral College"
+        "link_text": "Electoral College",
+        "archive_lookup": "no copy from 2026-09-04 to 2026-11-02; checked 2026-11-14"
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/foreclosureHomelessFAQ.html",
-        "capture_method": "requests",
+        "capture_method": "Internet Archive copy",
         "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-11-14T18:00:36+00:00",
-        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/foreclosureHomelessFAQ.html",
-        "status_code": 403,
-        "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403",
+        "archive_url": "https://web.archive.org/web/20261020064858id_/https://www.sos.state.co.us/pubs/elections/FAQs/foreclosureHomelessFAQ.html",
+        "collected_at": "2026-10-20T06:48:58+00:00",
+        "collected_at_source": "capture time of the Internet Archive copy",
+        "downloaded_at": "2026-11-14T18:19:43+00:00",
+        "error_before_archive": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Foreclosure and homeless voters"
+        "link_text": "Foreclosure and homeless voters",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/foreclosureHomelessFAQ.html",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-cc75c2cbf1.html",
+        "sha256": "ecbd086b29b56eb168da73bc1b27361de74fbeb3fc719202ed087c24edeadcb6",
+        "bytes": 32767
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/languageAssist.html",
@@ -167,20 +203,27 @@
         "status": "failed",
         "error": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Language assistance hotline"
+        "link_text": "Language assistance hotline",
+        "archive_lookup": "no copy from 2026-09-04 to 2026-11-02; checked 2026-11-14"
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/mailBallotsFAQ.html",
-        "capture_method": "requests",
+        "capture_method": "Internet Archive copy",
         "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-11-14T18:00:38+00:00",
-        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/mailBallotsFAQ.html",
-        "status_code": 403,
-        "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403",
+        "archive_url": "https://web.archive.org/web/20261017223924id_/https://www.sos.state.co.us/pubs/elections/FAQs/mailBallotsFAQ.html",
+        "collected_at": "2026-10-17T22:39:24+00:00",
+        "collected_at_source": "capture time of the Internet Archive copy",
+        "downloaded_at": "2026-11-14T18:19:52+00:00",
+        "error_before_archive": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Mail-in ballots"
+        "link_text": "Mail-in ballots",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/mailBallotsFAQ.html",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-1954d3d249.html",
+        "sha256": "a2e62d8a29aa9c4754f54de2d5d0a3b5b7281b9898e2d2e874d21214614a6356",
+        "bytes": 31989
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/majorParty.html",
@@ -193,7 +236,8 @@
         "status": "failed",
         "error": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Major parties"
+        "link_text": "Major parties",
+        "archive_lookup": "no copy from 2026-09-04 to 2026-11-02; checked 2026-11-14"
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/QPOandMinorParty.html",
@@ -206,20 +250,27 @@
         "status": "failed",
         "error": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Minor and qualified political organizations"
+        "link_text": "Minor and qualified political organizations",
+        "archive_lookup": "no copy from 2026-09-04 to 2026-11-02; checked 2026-11-14"
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
-        "capture_method": "requests",
+        "capture_method": "Internet Archive copy",
         "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-11-14T18:00:42+00:00",
-        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
-        "status_code": 403,
-        "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403",
+        "archive_url": "https://web.archive.org/web/20261030094719id_/https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+        "collected_at": "2026-10-30T09:47:19+00:00",
+        "collected_at_source": "capture time of the Internet Archive copy",
+        "downloaded_at": "2026-11-14T18:26:22+00:00",
+        "error_before_archive": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Primary elections"
+        "link_text": "Primary elections",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/primaryElectionsFAQ.html",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-90f2c83c8d.html",
+        "sha256": "9a32abbe1e6c9b77a57959f74fd40474848066be7168983c684c14f655b2d76d",
+        "bytes": 34911
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/ProvisionalBallots.html",
@@ -232,20 +283,27 @@
         "status": "failed",
         "error": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Provisional ballots"
+        "link_text": "Provisional ballots",
+        "archive_lookup": "no copy from 2026-09-04 to 2026-11-02; checked 2026-11-14"
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
-        "capture_method": "requests",
+        "capture_method": "Internet Archive copy",
         "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-11-14T18:00:45+00:00",
-        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
-        "status_code": 403,
-        "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403",
+        "archive_url": "https://web.archive.org/web/20261028220137id_/https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+        "collected_at": "2026-10-28T22:01:37+00:00",
+        "collected_at_source": "capture time of the Internet Archive copy",
+        "downloaded_at": "2026-11-14T18:22:25+00:00",
+        "error_before_archive": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Public voter data & information requests"
+        "link_text": "Public voter data & information requests",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-b38fad5d2e.html",
+        "sha256": "97724b2ce52ae322c5205a11da0a8525a9b501276fa9fd01e7e230c762be2791",
+        "bytes": 35403
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/rejectedBallots.html",
@@ -258,7 +316,8 @@
         "status": "failed",
         "error": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Rejected ballots"
+        "link_text": "Rejected ballots",
+        "archive_lookup": "no copy from 2026-09-04 to 2026-11-02; checked 2026-11-14"
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/RLA/faqs.html",
@@ -271,33 +330,46 @@
         "status": "failed",
         "error": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Risk-limiting audit (RLA)"
+        "link_text": "Risk-limiting audit (RLA)",
+        "archive_lookup": "no answer after 4 tries (ConnectionError); checked 2026-11-14"
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
-        "capture_method": "requests",
+        "capture_method": "Internet Archive copy",
         "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-11-14T18:00:48+00:00",
-        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
-        "status_code": 403,
-        "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403",
+        "archive_url": "https://web.archive.org/web/20261028193929id_/https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+        "collected_at": "2026-10-28T19:39:29+00:00",
+        "collected_at_source": "capture time of the Internet Archive copy",
+        "downloaded_at": "2026-11-14T18:22:46+00:00",
+        "error_before_archive": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Uniformed and overseas electors"
+        "link_text": "Uniformed and overseas electors",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/UOCAVA.html",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-cb54d44196.html",
+        "sha256": "2baf9530c098df2cd5ce2424fdf6c5dcbd953d3f17870635336274e1d7abdd61",
+        "bytes": 42904
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
-        "capture_method": "requests",
+        "capture_method": "Internet Archive copy",
         "user_agent": "VoterFAQResearch/1.0",
-        "collected_at": "2026-11-14T18:00:50+00:00",
-        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
-        "status_code": 403,
-        "content_type": "text/html",
-        "status": "failed",
-        "error": "HTTP 403",
+        "archive_url": "https://web.archive.org/web/20261029181820id_/https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
+        "collected_at": "2026-10-29T18:18:20+00:00",
+        "collected_at_source": "capture time of the Internet Archive copy",
+        "downloaded_at": "2026-11-14T18:22:52+00:00",
+        "error_before_archive": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Voter registration"
+        "link_text": "Voter registration",
+        "final_url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
+        "status_code": 200,
+        "content_type": "text/html",
+        "status": "saved",
+        "snapshot": "data/2026/state_sites/20261029T220403252970Z/co/co-65bd738edf.html",
+        "sha256": "b4a8dd94790e8c985a498bd11f7fa8e48593c5528820848fda46f6907789eb42",
+        "bytes": 36019
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegDrive.html",
@@ -310,7 +382,8 @@
         "status": "failed",
         "error": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Voter registration drives"
+        "link_text": "Voter registration drives",
+        "archive_lookup": "no copy from 2026-09-04 to 2026-11-02; checked 2026-11-14"
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/VotingAndConviction.html",
@@ -323,7 +396,8 @@
         "status": "failed",
         "error": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Voters with convictions"
+        "link_text": "Voters with convictions",
+        "archive_lookup": "no copy from 2026-09-04 to 2026-11-02; checked 2026-11-14"
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/ElectorsWithDisabilities.html",
@@ -336,7 +410,8 @@
         "status": "failed",
         "error": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Voters with disabilities"
+        "link_text": "Voters with disabilities",
+        "archive_lookup": "no copy from 2026-09-04 to 2026-11-02; checked 2026-11-14"
     },
     {
         "requested_url": "https://www.sos.state.co.us/pubs/elections/FAQs/college.html",
@@ -349,6 +424,7 @@
         "status": "failed",
         "error": "HTTP 403",
         "linked_from": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
-        "link_text": "Voting while in college"
+        "link_text": "Voting while in college",
+        "archive_lookup": "no copy from 2026-09-04 to 2026-11-02; checked 2026-11-14"
     }
 ]
