@@ -7,6 +7,7 @@ import json
 from pathlib import Path
 
 from collect_sc import ROOT, source_urls
+from compare_years import compared_counts, count_word
 from datasets import (DATASET_FOLDER, SOURCES, above_baseline, below_baseline, dataset_dir, load_dataset, load_manifest, load_settings,
                       normalize_text, normalize_url, record_source)
 from snapshot_state_sites import CANDIDATES_FILE, REMOVED_PAGE_ERRORS, removed_pages as removed_in_batch
@@ -27,10 +28,12 @@ CATEGORIES = {
                     "archive captured the page.",
     "flagged_page": "Saved state-site pages the parser flagged: no Q&A found, or far fewer records than the baseline had for the same URL.",
     "missing_source": "States with no records from a source.",
-    "below_baseline": "States whose record count for a source is below {below_baseline_ratio:.0%} of the baseline cycle's count.",
-    "above_baseline": "States whose state-site record count is more than {above_baseline_ratio:g} times the baseline cycle's count. "
-                      "Their change rates are left blank, because most of the extra questions come from pages the "
-                      "baseline cycle did not include.",
+    "below_baseline": "States whose count for a source is below {below_baseline_ratio:.0%} of the baseline cycle's count. "
+                      "Counts are the ones the comparison uses: sections where Vote411 is compared by section, records otherwise. "
+                      "Their change rates for the source are left blank.",
+    "above_baseline": "States whose count for a source is more than {above_baseline_ratio:g} times the baseline cycle's count, "
+                      "counted the same way. Their change rates for the source are left blank, because most of the extra "
+                      "questions or sections come from content the baseline cycle did not include.",
     "dropped_non_faq": "State-site records left out by the non-FAQ rules in settings.toml.",
     "short_answer": "Answers shorter than {short_answer_chars} characters.",
     "long_answer": "Answers longer than {long_answer_chars} characters, which can mean an answer ran on into later content.",
@@ -176,16 +179,20 @@ def find_issues(year, baseline_year, settings):
     for page in json.loads((folder / "state_site_parse_report.json").read_text(encoding="utf-8")):
         for flag in page["flags"]:
             add("flagged_page", page["state"], "state", page["url"], detail=flag)
+    # The same counts the analysis compares, so this report and the change charts leave out the same states.
+    compared = compared_counts(baseline, current, load_manifest(baseline_year), load_manifest(year), settings)
     for state in sorted(current):
         for source in SOURCES:
             count = sum(record_source(record) == source for record in current[state])
             baseline_count = sum(record_source(record) == source for record in baseline.get(state, []))
+            unit, compared_baseline, compared_current = compared[(state, source)]
+            detail = f"{compared_current} {count_word(source, unit)}; the {baseline_year} baseline had {compared_baseline}"
             if count == 0:
                 add("missing_source", state, source, detail=f"0 records; the {baseline_year} baseline had {baseline_count}")
-            elif below_baseline(count, baseline_count, limits["below_baseline_ratio"]):
-                add("below_baseline", state, source, detail=f"{count} records; the {baseline_year} baseline had {baseline_count}")
-            elif above_baseline(source, count, baseline_count, limits["above_baseline_ratio"]):
-                add("above_baseline", state, source, detail=f"{count} records; the {baseline_year} baseline had {baseline_count}")
+            elif below_baseline(compared_current, compared_baseline, limits["below_baseline_ratio"]):
+                add("below_baseline", state, source, detail=detail)
+            elif above_baseline(compared_current, compared_baseline, limits["above_baseline_ratio"]):
+                add("above_baseline", state, source, detail=detail)
     for record in json.loads((folder / "dropped_records.json").read_text(encoding="utf-8")):
         add("dropped_non_faq", record["state"], "state", record["s"], record["q"], f"Rule: {record['rule']}")
     for state in sorted(current):

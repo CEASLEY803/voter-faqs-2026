@@ -90,28 +90,26 @@ def state_name(code):
 
 
 def below_baseline(count, baseline_count, ratio):
-    """True when a source has records this cycle, but fewer than the given share of the baseline cycle's count.
+    """True when a source has something this cycle, but fewer than the given share of the baseline cycle's count.
 
+    The counts are the counts actually compared (compare_years.comparison_inputs): sections where
+    Vote411 is compared by section, records otherwise, so both years are counted in the same unit.
     The quality report lists these cases, and the analysis leaves their change rates blank. Both call
     this function with [quality] below_baseline_ratio, so they always agree.
     """
     return 0 < count < ratio * baseline_count
 
 
-# The over-double rule looks at state election sites only. A Vote411 record is not the same thing in
-# every cycle: most 2024 records are whole sections and most 2026 records are single questions, so
-# 21 states have over twice as many Vote411 records in 2026 with nothing new collected.
-ABOVE_BASELINE_SOURCES = ("state",)
+def above_baseline(count, baseline_count, ratio):
+    """True when a source has more than the given multiple of the baseline cycle's count.
 
-
-def above_baseline(source, count, baseline_count, ratio):
-    """True when a state site has more than the given multiple of the baseline cycle's record count.
-
-    Most of the extra records then come from pages the baseline cycle did not include, so they would
-    all count as new questions. The quality report lists these cases, and the analysis leaves their
-    change rates blank. Both call this function with [quality] above_baseline_ratio, so they always agree.
+    Most of the extra items then come from pages or sections the baseline cycle did not include, so
+    they would all count as new. The counts are the counts actually compared, as for below_baseline.
+    Raw Vote411 record counts would not work: most 2024 records are whole sections and most 2026
+    records are single questions, which alone more than doubles the count in 21 states. The quality
+    report and the analysis both call this function with [quality] above_baseline_ratio.
     """
-    return source in ABOVE_BASELINE_SOURCES and baseline_count > 0 and count > ratio * baseline_count
+    return baseline_count > 0 and count > ratio * baseline_count
 
 
 def non_faq_rules(settings):

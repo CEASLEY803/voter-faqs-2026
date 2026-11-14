@@ -15,7 +15,7 @@ from matplotlib.lines import Line2D
 from matplotlib.patches import Patch, Rectangle
 
 from collect_sc import ROOT
-from compare_years import compare, write_comparison
+from compare_years import compare, count_word, write_comparison
 from datasets import (SOURCES, above_baseline, below_baseline, dataset_dir, load_dataset, load_manifest, load_settings, question_topics,
                       record_source, state_name, topic_rules)
 
@@ -79,8 +79,11 @@ def rank(rows, key, reverse=True):
 LEFT_OUT_REASONS = ("none_collected", "under", "over", "none_in_baseline", "none_in_either")
 
 
-def left_out_reason(source, baseline_count, current_count, limits):
+def left_out_reason(baseline_count, current_count, limits):
     """One of LEFT_OUT_REASONS, or "" when the two years' records for a source can be compared.
+
+    The counts are the counts actually compared (the compared_ columns of per_state.csv), so both
+    years are counted in the same unit.
 
     With no records in one year, every question in the other year would count as new or removed.
     With far fewer records than the baseline year, most "removed" questions are questions the
@@ -96,7 +99,7 @@ def left_out_reason(source, baseline_count, current_count, limits):
         return "none_collected"
     if below_baseline(current_count, baseline_count, limits["below_baseline_ratio"]):
         return "under"
-    return "over" if above_baseline(source, current_count, baseline_count, limits["above_baseline_ratio"]) else ""
+    return "over" if above_baseline(current_count, baseline_count, limits["above_baseline_ratio"]) else ""
 
 
 def missing_year_words(baseline_year, year):
@@ -125,15 +128,16 @@ def missing_year_note(baseline_count, current_count, baseline_year, year):
     return words["none_collected"] if not current_count else ""
 
 
-def no_rate_note(source, baseline_count, current_count, baseline_year, year, limits):
+def no_rate_note(baseline_count, current_count, baseline_year, year, limits, counted="records"):
     """Why a state's change rates are left blank for a source, or "" when the two years can be compared.
 
     A missing year gets the missing-year note. A count under or over the limits gets both counts,
-    such as "13 records in 2026, 79 in 2024" or "123 records in 2026, 22 in 2024".
+    such as "13 records in 2026, 79 in 2024" or "23 sections in 2026, 2 in 2024". counted names
+    what the two counts are counts of.
     """
-    reason = left_out_reason(source, baseline_count, current_count, limits)
+    reason = left_out_reason(baseline_count, current_count, limits)
     if reason in ("under", "over"):
-        return f"{current_count} records in {year}, {baseline_count} in {baseline_year}"
+        return f"{current_count} {counted} in {year}, {baseline_count} in {baseline_year}"
     return missing_year_note(baseline_count, current_count, baseline_year, year) if reason else ""
 
 
@@ -150,7 +154,7 @@ def left_out_warning(rows, baseline_year, year, limits):
         groups = {}
         for row in rows:
             if row[f"change_rate_note_{label}"]:
-                reason = left_out_reason(source, row[f"baseline_{label}"], row[f"current_{label}"], limits)
+                reason = left_out_reason(row[f"compared_baseline_{label}"], row[f"compared_current_{label}"], limits)
                 groups.setdefault(reason, []).append(state_name(row["state"]))
         lines += [f"  {plural}, {reason_words(reason, baseline_year, year, limits)}: {', '.join(sorted(groups[reason]))}"
                   for reason in LEFT_OUT_REASONS if reason in groups]
@@ -177,7 +181,9 @@ def per_state_table(baseline, current, details, summary, states, baseline_year, 
                 row[f"{status}_{label}"] = stats[status]
             row[f"answers_minor_{label}"] = stats["answers_minor"]
             row[f"answers_major_{label}"] = stats["answers_major"]
-            note = no_rate_note(source, row[f"baseline_{label}"], row[f"current_{label}"], baseline_year, year, limits)
+            # The compared counts are used, so a Vote411 state compared by section is judged by its sections.
+            note = no_rate_note(stats["baseline_count"], stats["current_count"], baseline_year, year, limits,
+                                count_word(source, stats["unit"]))
             (row[f"minor_edit_rate_{label}"], row[f"major_change_rate_{label}"], row[f"change_rate_{label}"]) = (
                 (None, None, None) if note else change_rates([item for item in details[state] if item["source"] == source]))
             row[f"change_rate_note_{label}"] = note

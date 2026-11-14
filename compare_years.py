@@ -170,6 +170,48 @@ def vote411_sections(manifest, state, records, rules):
     return (from_page, []) if from_page is not None else record_sections(records, rules)
 
 
+def comparison_inputs(state, source, baseline, current, baseline_manifest, current_manifest, config, rules):
+    """What is compared for one state and source, before any matching.
+
+    Returns the unit ("question" or "section"), what decided it, the two extraction methods, the two
+    years' items (records, or sections with their unassigned records) and how many items each year has.
+    Those two counts are the counts actually compared: sections when the unit is "section", records
+    otherwise. Wisconsin's Vote411 page is 2 sections in 2024 and 23 in 2026, whatever its record counts.
+    """
+    old = [record for record in baseline.get(state, []) if record_source(record) == source]
+    new = [record for record in current.get(state, []) if record_source(record) == source]
+    methods = (vote411_method(baseline_manifest, state), vote411_method(current_manifest, state)) if source == "vote411" else ("", "")
+    unit, basis = comparison_unit(config, state, *methods) if source == "vote411" else ("question", "")
+    if unit == "section":
+        old, new = vote411_sections(baseline_manifest, state, old, rules), vote411_sections(current_manifest, state, new, rules)
+        counted = (len(old[0]), len(new[0]))
+    else:
+        counted = (len(old), len(new))
+    return {"unit": unit, "basis": basis, "methods": methods, "old": old, "new": new, "counted": counted}
+
+
+def compared_counts(baseline, current, baseline_manifest=None, current_manifest=None, settings=None):
+    """Return {(state, source): (unit, baseline count, current count)} without matching anything.
+
+    The quality report uses this for its count checks, so it sees the same counts as the analysis
+    without running the slow matching step.
+    """
+    settings = settings or load_settings()
+    rules = vote411_section_rules(settings)
+    counts = {}
+    for state in sorted(current):
+        for source in SOURCES:
+            inputs = comparison_inputs(state, source, baseline, current, baseline_manifest or {}, current_manifest or {},
+                                       settings["comparison"], rules)
+            counts[(state, source)] = (inputs["unit"], *inputs["counted"])
+    return counts
+
+
+def count_word(source, unit):
+    """The name of what was counted, for notes such as "23 sections in 2026, 2 in 2024"."""
+    return "sections" if unit == "section" else "records"
+
+
 def compare(baseline, current, states=None, baseline_manifest=None, current_manifest=None, settings=None):
     """Return ({state: items}, summary rows) for the states present in the current cycle.
 
@@ -184,18 +226,13 @@ def compare(baseline, current, states=None, baseline_manifest=None, current_mani
     for state in sorted(states or current):
         details[state] = []
         for source in SOURCES:
-            old = [record for record in baseline.get(state, []) if record_source(record) == source]
-            new = [record for record in current.get(state, []) if record_source(record) == source]
-            methods = (vote411_method(baseline_manifest, state), vote411_method(current_manifest, state)) if source == "vote411" else ("", "")
-            unit, basis = comparison_unit(config, state, *methods) if source == "vote411" else ("question", "")
+            inputs = comparison_inputs(state, source, baseline, current, baseline_manifest, current_manifest, config, rules)
+            unit, basis, methods, counted = inputs["unit"], inputs["basis"], inputs["methods"], inputs["counted"]
             if unit == "section":
-                (old_sections, old_unassigned), (new_sections, new_unassigned) = (
-                    vote411_sections(baseline_manifest, state, old, rules), vote411_sections(current_manifest, state, new, rules))
+                (old_sections, old_unassigned), (new_sections, new_unassigned) = inputs["old"], inputs["new"]
                 items = match_sections(old_sections, new_sections, old_unassigned, new_unassigned, config)
-                counted = (len(old_sections), len(new_sections))
             else:
-                items = match_questions(old, new, config)
-                counted = (len(old), len(new))
+                items = match_questions(inputs["old"], inputs["new"], config)
             for entry in items:
                 entry["source"], entry["unit"] = source, unit
             details[state] += items

@@ -91,15 +91,16 @@ pattern = '^going abroad$'
 [quality]
 short_answer_chars = 25
 long_answer_chars = 6000
-# A state's record count for a source below this share of the baseline cycle's count is reported.
+# A state's count for a source below this share of the baseline cycle's count is reported.
 # The analysis also leaves that state's change rates for the source blank, with the two counts as
 # the reason, because most of its "removed" questions are questions the collection missed.
+# The counts are the ones actually compared, so both years are counted in the same unit: records
+# for state sites, and for Vote411 sections where the state is compared by section (most states)
+# and records where it is compared question by question.
 below_baseline_ratio = 0.5
-# A state site's record count above this many times the baseline cycle's count is reported too.
-# The analysis leaves that state's state-site change rates blank, with the two counts as the
-# reason, because most of its "new" questions come from pages the baseline cycle did not include.
-# Vote411 is not checked, because its records were built differently in 2024 and 2026 (whole
-# sections, then single questions), which alone more than doubles the count in many states.
+# A state's count for a source above this many times the baseline cycle's count is reported too,
+# and its change rates for the source are left blank, because most of its "new" questions come
+# from pages or sections the baseline cycle did not include. The same counts are used.
 above_baseline_ratio = 2.0
 
 # Topics for the topic coverage numbers, topics.csv and the topic chart. A question counts for a
