@@ -1,6 +1,6 @@
 # VOICE: U.S. Voter FAQs Collection and Analysis Engine
 
-Basically, this project scrapes voter FAQs from official state election websites and Vote411.org for the 2026 election. It formats that data to match the AI for Society Research Group's 2024 dataset, and then runs a comparison to see exactly how each state's voter information changed between the two elections. 
+This project scrapes voter FAQs from official state election websites and Vote411.org for the 2026 election. It formats that data to match the AI for Society Research Group's 2024 dataset, and then runs a comparison to see exactly how each state's voter information changed between the two elections.
 
 ## Why
 
@@ -20,9 +20,9 @@ The 2026 dataset pulled 4,388 records across all 50 states (2,028 from state sit
 
 ![How much each state's voter FAQ changed from 2024 to 2026](data/2026/analysis/charts/change_rate_by_state.png)
 
-How to read the chart: Look at Oregon's state site. It has 21 questions between both years. 5 of them changed in a major way (24%, dark blue) and 3 had minor edits (14%, light blue). A major change means the state added a new question, deleted an old one, or changed the answer by more than a small edit (below 0.85 similarity). 
+How to read the chart: Look at Oregon's state site. It has 21 questions between both years. 5 of them changed in a major way (24%, dark blue) and 3 had minor edits (14%, light blue). A major change means the state added a new question, deleted an old one, or changed the answer by more than a small edit (below 0.85 similarity).
 
-If a state is listed at the bottom without a bar, the chart will tell you why it was skipped. 
+If a state is listed at the bottom without a bar, the chart will tell you why it was skipped.
 
 I put every compared question into one massive table you can filter in your browser: [browse all 3,949 rows here](https://lite.datasette.io/?csv=https://github.com/CEASLEY803/voter-faqs-2026/blob/master/data/2026/analysis/comparison/pairs.csv&metadata=https://raw.githubusercontent.com/CEASLEY803/voter-faqs-2026/master/data/2026/analysis/comparison/pairs_metadata.json#/data/pairs?_col=state&_col=source&_col=result&_col=question_2024&_col=question_2026&_facet=result&_facet=source&_size=20).
 
@@ -59,8 +59,7 @@ I (Cole Easley) built this for a CSCE 498 independent study at the University of
 
 **Software:** Python with [Requests](https://requests.readthedocs.io/), [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/), [pypdf](https://pypdf.readthedocs.io/), and [Matplotlib](https://matplotlib.org/). [Datasette Lite](https://lite.datasette.io/) is what displays the CSV in the browser. I used the [Internet Archive](https://web.archive.org/) as a fallback for state sites that blocked the scraper.
 
-**Generative AI:** I used generative AI for the coding: OpenAI Codex (GPT-6) and Claude Code (Claude Opus 5.5 and Claude Fable 5.2). The prompts and models are logged in [`AI_USAGE.md`](AI_USAGE.md). Claude also helped organize and draft this README and the technical description, which I then rewrote in my own words.
-
+**Generative AI:** I used generative AI for a large portion of the coding work: OpenAI Codex (GPT-6) and Claude Code (Claude Opus 5.5 and Claude Fable 5.2). The prompts and models are logged in [`AI_USAGE.md`](AI_USAGE.md). Claude also helped organize and improve formatting of README, as well as updating outdated links/filepaths when architecture changed over the course of development.
 ### Citation
 
 If you find this work useful, please cite the paper behind the 2024 dataset:
