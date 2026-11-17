@@ -27,7 +27,7 @@ SPOT_ROWS_PER_RESULT = 2
 SOURCES = (("state_site", "state site", "state election site"), ("vote411", "Vote411", "Vote411"))
 COUNTS = ("same", "reworded", "new", "removed", "answers_minor", "answers_major", "compared_baseline", "compared_current")
 # The columns of spot_check.csv a person fills in.
-PERSON_FIELDS = ("agree", "checked_by", "date", "notes")
+PERSON_FIELDS = ("agree", "notes")
 
 
 def read_csv(path):
@@ -314,8 +314,8 @@ def report_lines(check, facts, spot, year, baseline_year):
                          f"{counts['minor']} of {counts['total']} minor ({percent(counts['minor'] / counts['total'])})"))
     lines += ["", "## Spot check by a person", "",
               f"`spot_check.csv` holds {spot['rows']} rows of `pairs.csv`, {SPOT_ROWS_PER_RESULT} for each source and result that occurs. "
-              "Open the two addresses of a row, see whether the result is right, and write yes or no in the agree column, "
-              "with your name and the date. A row that is filled in is never changed by a later run.", "",
+              "Open the two addresses of a row, see whether the result is right, and write yes or no in the agree column. "
+              "A row that is filled in is never changed by a later run.", "",
               f"- Filled in: {spot['filled']} of {spot['rows']}",
               f"- Say yes: {spot['yes']}", f"- Say no: {spot['no']}"]
     if spot["filled"] - spot["yes"] - spot["no"]:

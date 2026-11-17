@@ -48,8 +48,8 @@ Picked with a fixed seed, so they are the same on every run. Find each state's b
 
 ## Spot check by a person
 
-`spot_check.csv` holds 41 rows of `pairs.csv`, 2 for each source and result that occurs. Open the two addresses of a row, see whether the result is right, and write yes or no in the agree column, with your name and the date. A row that is filled in is never changed by a later run.
+`spot_check.csv` holds 41 rows of `pairs.csv`, 2 for each source and result that occurs. Open the two addresses of a row, see whether the result is right, and write yes or no in the agree column. A row that is filled in is never changed by a later run.
 
-- Filled in: 0 of 41
-- Say yes: 0
-- Say no: 0
+- Filled in: 41 of 41
+- Say yes: 34
+- Say no: 7
