@@ -16,6 +16,7 @@ import sys
 
 from analyze_states import analyze, left_out_warning
 from build_dataset import build, latest_state_site_batch, latest_vote411_batch
+from check_results import check_results, not_matching
 from collect_sc import CODE, ROOT
 from collect_vote411 import vote411_urls
 from compare_years import pairs_table_link
@@ -143,18 +144,28 @@ def main():
         states, output = None, ROOT / "data" / str(year) / "analysis"
     analyzed = analyze(year, arguments.baseline_year, output, states)
     print(f"Compared {year} with {arguments.baseline_year} for {len(analyzed)} states")
+    folder = f"data/{year}/{output.name}"
+    # The numbers just written are worked out a second time by separate code. A difference means a mistake
+    # in one of the two, so the run stops before anyone shares the outputs.
+    recounted, mismatches = check_results(year, arguments.baseline_year, output)
+    if mismatches:
+        print(f"Cross-check: {recounted:,} numbers recounted, {not_matching(len(mismatches))}:")
+        print("\n".join("  " + line for line in mismatches))
+        raise SystemExit(f"The recount and the published numbers differ, so do not share these outputs. "
+                         f"The differences are also listed in {folder}/check/check_results.md.")
+    print(f"Cross-check: {recounted:,} numbers recounted, all match")
     # A chart with states missing looks complete, so the run says which ones are left out and why.
     warning = left_out_warning(analyzed, arguments.baseline_year, year, load_settings()["quality"])
     if warning:
         print("\n" + "\n".join(warning))
     # Each line above is printed as its step finishes. The steps below say which file to open for each one.
-    folder = f"data/{year}/{output.name}"
     print(f"""
 Next steps:
   1. Check the possible problems: data/{year}/quality/quality_summary.md
   2. Approve each state after checking its data: data/{year}/review.csv
   3. See each state's change rates: {folder}/per_state.csv and the charts in {folder}/charts/
-  4. Browse every compared question (the link reads the copy on GitHub, so push this data first):
+  4. Check the results by hand: fill in {folder}/check/spot_check.csv and compare {folder}/check/check_results.md with the charts
+  5. Browse every compared question (the link reads the copy on GitHub, so push this data first):
      {pairs_table_link(output, arguments.baseline_year, year, load_settings()["github"])}""")
 
 
