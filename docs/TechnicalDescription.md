@@ -8,7 +8,7 @@ This doc covers the technical details behind the project's [README](../README.md
 
 ## Results in detail
 
-The main numbers and the change chart are in the [README](../README.md#what-it-found). To break it down: the 2024 dataset has 3,183 records (2,020 from state sites, 1,163 from Vote411). The 2026 dataset has 4,388 (2,028 from state sites, 2,360 from Vote411).
+The main numbers and the change chart are in the [README](../README.md#what-it-found). To break it down: the 2024 dataset has 3,287 records (2,020 from state sites, 1,163 from Vote411, and 104 from other pages like county sites, which aren't compared). The 2026 dataset has 4,388 (2,028 from state sites, 2,360 from Vote411).
 
 I downloaded the Vote411 pages on October 22, 2026, and the state pages on October 29 and 30. Eleven state pages blocked the scraper, so I pulled those from the Internet Archive (dated between September 29 and November 2). Every record logs the exact date and time it was saved.
 
