@@ -16,7 +16,7 @@ import sys
 
 from analyze_states import analyze, left_out_warning
 from build_dataset import build, latest_state_site_batch, latest_vote411_batch
-from collect_sc import ROOT
+from collect_sc import CODE, ROOT
 from collect_vote411 import vote411_urls
 from compare_years import pairs_table_link
 from datasets import DATASET_FOLDER, load_settings
@@ -30,10 +30,10 @@ STATUSES = {"pending", "approved", "rejected"}
 
 def run(script, *arguments):
     """Run one of the project's scripts with the same Python; stop the pipeline if it fails."""
-    command = [sys.executable, str(ROOT / script), *map(str, arguments)]
+    command = [sys.executable, str(CODE / script), *map(str, arguments)]
     print("Running:", " ".join(command[1:]))
     if subprocess.run(command, cwd=ROOT).returncode != 0:
-        raise SystemExit(f"{script} failed; fix the problem above and run the pipeline again.")
+        raise SystemExit(f"code/{script} failed; fix the problem above and run the pipeline again.")
 
 
 def blocked_pages(batch):
@@ -61,7 +61,7 @@ def collect(year):
     if blocked:
         raise SystemExit(f"{len(blocked)} pages refused scripted downloads and have no Internet Archive copy "
                          f"from the weeks before election day. Save them by hand as listed in "
-                         f"manual_saves/checklist.csv, import them with snapshot_state_sites.py --batch "
+                         f"manual_saves/checklist.csv, import them with code/snapshot_state_sites.py --batch "
                          f"{batch.relative_to(ROOT)} --import-manual (it says so if an imported page leads to more "
                          f"pages to save), then rerun this pipeline without --collect.")
 

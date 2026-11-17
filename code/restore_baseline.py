@@ -9,7 +9,8 @@ import zipfile
 import requests
 
 
-ROOT = Path(__file__).resolve().parent
+# The repository root, one level above code/, so the baseline goes to data/2024/ and reference/ in the root.
+ROOT = Path(__file__).resolve().parent.parent
 COMMIT = "27105405530734ac5466826829d0446e48dda079"
 URL = f"https://codeload.github.com/ai4society/election-dataset-us/zip/{COMMIT}"
 

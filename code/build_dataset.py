@@ -21,14 +21,14 @@ def latest_vote411_batch(year):
             report = json.loads(report_path.read_text(encoding="utf-8"))
             if report["status"] == "passed" and report["all_50_states_present"]:
                 return batch
-    raise SystemExit(f"No validated Vote411 batch for {year}; run validate_vote411_batch.py first.")
+    raise SystemExit(f"No validated Vote411 batch for {year}; run code/validate_vote411_batch.py first.")
 
 
 def latest_state_site_batch(year):
     batches = sorted(path for path in (ROOT / "data" / str(year) / "state_sites").glob("*")
                      if (path / "batch_manifest.json").is_file())
     if not batches:
-        raise SystemExit(f"No state-site batch for {year}; run snapshot_state_sites.py first.")
+        raise SystemExit(f"No state-site batch for {year}; run code/snapshot_state_sites.py first.")
     return batches[-1]
 
 

@@ -14,7 +14,11 @@ from bs4 import BeautifulSoup, Comment, Tag
 import requests
 
 
-ROOT = Path(__file__).resolve().parent
+# The scripts are in code/. The repository root is one level up: data/, reference/, manual_saves/,
+# settings.toml and sources.csv are there. Both are worked out from this file's own location, so
+# the scripts find them whichever folder they are started from.
+CODE = Path(__file__).resolve().parent
+ROOT = CODE.parent
 SOURCES_CSV = ROOT / "sources.csv"
 WEBSITES = {"state", "vote411"}
 EXTRACTION_VERSION = 4
