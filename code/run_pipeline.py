@@ -20,7 +20,7 @@ from check_results import check_results, not_matching
 from collect_sc import CODE, ROOT
 from collect_vote411 import vote411_urls
 from compare_years import pairs_table_link
-from datasets import DATASET_FOLDER, load_settings
+from datasets import DATASET_FOLDER, load_manifest, load_settings
 from quality_report import write_quality_report
 from snapshot_state_sites import REMOVED_PAGE_ERRORS
 
@@ -111,6 +111,50 @@ def approved_states(rows):
     return approved
 
 
+def year_folder_contents(year, baseline_year):
+    """(name, what it holds) for everything the pipeline can put in data/<year>/, in the order a cycle makes it."""
+    return [
+        ("state_sites/", "State election site pages exactly as they were saved. One folder per collection batch, with a "
+                         "subfolder per state and a `batch_manifest.json` that says where each page came from and when."),
+        ("batches/", "Vote411 pages exactly as they were saved, and the records taken from them. One folder per "
+                     "collection batch, with a subfolder per state."),
+        ("runs/", "Runs of the South Carolina collector `code/collect_sc.py`, each with the pages it saved and the records taken from them."),
+        (f"{DATASET_FOLDER}/", f"The {year} dataset: one file per state (`<state>_qa.json`) with its questions and answers from both "
+                               "sources, plus `manifest.json` and the build's reports."),
+        ("quality/", "The data quality report: possible problems in the dataset, as `quality_report.csv` and `quality_summary.md`."),
+        ("review.csv", "One row per state. A person marks a state approved or rejected here after checking its data."),
+        ("analysis/", f"The comparison with {baseline_year} for every state: change rates in `per_state.csv`, the charts, every "
+                      "compared question in `comparison/pairs.csv`, and the cross-check in `check/`."),
+        ("analysis_approved/", "The same comparison, for only the states marked approved in `review.csv`."),
+    ]
+
+
+def write_year_readme(year, baseline_year):
+    """Write data/<year>/README.md: what the folder holds, the record counts and one line per folder or file in it.
+
+    It lists only what exists, and it holds no date or time, so a second run on the same data writes
+    the same file. It is written into data/<year>/ itself and nowhere deeper: batches/ and
+    state_sites/ must hold batch folders only, because the newest entry in them is taken as the newest batch.
+    """
+    folder = ROOT / "data" / str(year)
+    counts = load_manifest(year)["counts"]
+    totals = {key: sum(count[key] for count in counts.values()) for key in ("state_site", "vote411", "total")}
+    lines = [
+        f"# {year} voter FAQ data", "",
+        f"This folder holds the voter FAQ data collected for the {year} election cycle, for {len(counts)} state{'s' if len(counts) != 1 else ''}. "
+        f"It was compared with the {baseline_year} data in `data/{baseline_year}/`.", "",
+        "| Source | Records |", "| --- | --- |",
+        f"| State election sites | {totals['state_site']:,} |", f"| Vote411 | {totals['vote411']:,} |",
+        f"| Both | {totals['total']:,} |", "",
+        "| Folder or file | What it holds |", "| --- | --- |",
+    ]
+    lines += [f"| `{name}` | {holds} |" for name, holds in year_folder_contents(year, baseline_year) if (folder / name).exists()]
+    lines += ["", "How the data is collected, built, checked and compared is described in "
+                  "[docs/TechnicalDescription.md](../../docs/TechnicalDescription.md).", "",
+              "This file is written by `code/run_pipeline.py` at the end of each run."]
+    (folder / "README.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--year", type=int, required=True, help="Collection cycle, for example 2026")
@@ -158,6 +202,7 @@ def main():
     warning = left_out_warning(analyzed, arguments.baseline_year, year, load_settings()["quality"])
     if warning:
         print("\n" + "\n".join(warning))
+    write_year_readme(year, arguments.baseline_year)
     # Each line above is printed as its step finishes. The steps below say which file to open for each one.
     print(f"""
 Next steps:
