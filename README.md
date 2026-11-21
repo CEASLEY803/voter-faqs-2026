@@ -43,7 +43,7 @@ You shouldn't need to touch the Python code for a new cycle. Just update `source
 
 | Folder or file | What's in it |
 | ----- | ----- |
-| [`docs/`](docs/) | The technical description (how it works and how to run it). |
+| [`docs/`](docs/) | The [writeup](docs/Writeup.pdf), the [presentation](docs/Presentation.pdf), and the technical description (how it works and how to run it). |
 | [`code/`](code/) | The Python scripts. `run_pipeline.py` runs everything. |
 | [`data/2024/`](data/2024/) | The 2024 dataset. (Untouched). |
 | [`data/2026/`](data/2026/) | The saved HTML pages, datasets, quality reports, and charts. |
