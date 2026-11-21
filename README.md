@@ -20,8 +20,6 @@ A **major change** means a question was added, a question was removed, or an ans
 
 **So what:** the 2024 answers can't be assumed to still be current. Some states barely changed their FAQs, while others rewrote almost all of them. Because the whole comparison runs with one command, it can be repeated for 2028 under the same rules.
 
-These numbers are preliminary, because no state's data has been reviewed by hand yet.
-
 ![How much each state's voter FAQ changed from 2024 to 2026](data/2026/analysis/charts/change_rate_by_state.png)
 
 You can [browse all 3,949 compared questions](https://lite.datasette.io/?csv=https://github.com/CEASLEY803/voter-faqs-2026/blob/master/data/2026/analysis/comparison/pairs.csv&metadata=https://raw.githubusercontent.com/CEASLEY803/voter-faqs-2026/master/data/2026/analysis/comparison/pairs_metadata.json#/data/pairs?_col=state&_col=source&_col=result&_col=question_2024&_col=question_2026&_facet=result&_facet=source&_size=20) in your browser, filtered by state, source, or result.
