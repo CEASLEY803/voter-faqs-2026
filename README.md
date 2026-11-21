@@ -1,54 +1,51 @@
 # VOICE: U.S. Voter FAQs Collection and Analysis Engine
 
-This project scrapes voter FAQs from official state election websites and Vote411.org for the 2026 election. It formats that data to match the AI for Society Research Group's 2024 dataset, and then runs a comparison to see exactly how each state's voter information changed between the two elections.
+This project scrapes voter frequently asked questions (FAQs) from official state election websites and Vote411.org for the 2026 election. It formats that data to match the AI for Society Research Group's 2024 dataset, and then runs a comparison to see exactly how each state's voter information changed between the two elections.
+
+**Read more:** the [writeup](docs/Writeup.pdf), the [slides](docs/Presentation.pdf), and the [technical description](docs/TechnicalDescription.md).
 
 ## Why
 
-Voter FAQs answer the biggest questions voters have, like how to register, where to vote, and what ID to bring. The 2024 dataset grabbed these answers for the last election. This project grabs them for 2026 so we can see what shifted. 
-
-It is also set up so that an IT person or future student can easily run the pipeline again for 2028 without having to rewrite the codebase.
+Voter FAQs answer the biggest questions voters have, like how to register, where to vote, and what ID to bring. When an answer changes and the old version is still in use, voters can act on outdated rules.
 
 ## What it found
 
-The 2026 dataset pulled 4,388 records across all 50 states (2,028 from state sites, 2,360 from Vote411). I saved these pages in the weeks leading up to the November 3 election. Keep in mind, nobody has manually reviewed every state yet, so these numbers aren't final.
+The 2026 dataset pulled 4,388 records across all 50 states (2,028 from state sites, 2,360 from Vote411). I saved these pages in the weeks leading up to the November 3 election.
 
-| Question | Result | Keep in mind |
-| ----- | ----- | ----- |
-| How much did state election sites change? | In the median state, 21% of questions had major changes (37 states) | 13 states don't have a rate: 3 didn't have 2024 records, 8 had under half as many 2026 records as 2024, and 2 had over twice as many |
-| How much did Vote411 change? | In the median state, 52% had major changes (44 states) | I had to count these in whole sections for almost every state, so you can't really compare this directly against the 21% above |
-| Do states cover the main voter topics? | 49 of 50 states covered all six topics in 2024. All 50 do in 2026 | The script assigns topics just based on keyword matching in the question |
+A **major change** means a question was added, a question was removed, or an answer was rewritten (less than 85% similar to the 2024 answer).
+
+- **State election sites:** in the median state, 21% of questions had a major change (out of 37 states with enough data to compare). States ranged from 0% to 94%.
+- **Vote411:** the median is 52% (44 states). Vote411 is compared by whole section rather than by question, so this number can't be compared directly with the 21%.
+- **Topics:** all 50 states now cover six core topics (registration, mail voting, early voting, voter ID, polling places, and deadlines), up from 49 states in 2024.
+
+**So what:** the 2024 answers can't be assumed to still be current. Some states barely changed their FAQs, while others rewrote almost all of them. Because the whole comparison runs with one command, it can be repeated for 2028 under the same rules.
+
+These numbers are preliminary, because no state's data has been reviewed by hand yet.
 
 ![How much each state's voter FAQ changed from 2024 to 2026](data/2026/analysis/charts/change_rate_by_state.png)
 
-How to read the chart: Look at Oregon's state site. It has 21 questions between both years. 5 of them changed in a major way (24%, dark blue) and 3 had minor edits (14%, light blue). A major change means the state added a new question, deleted an old one, or changed the answer by more than a small edit (below 0.85 similarity).
-
-If a state is listed at the bottom without a bar, the chart will tell you why it was skipped.
-
-I put every compared question into one massive table you can filter in your browser: [browse all 3,949 rows here](https://lite.datasette.io/?csv=https://github.com/CEASLEY803/voter-faqs-2026/blob/master/data/2026/analysis/comparison/pairs.csv&metadata=https://raw.githubusercontent.com/CEASLEY803/voter-faqs-2026/master/data/2026/analysis/comparison/pairs_metadata.json#/data/pairs?_col=state&_col=source&_col=result&_col=question_2024&_col=question_2026&_facet=result&_facet=source&_size=20).
-
-For the rest of the charts, more links, and a rundown of the data's limitations, check out the [technical description](docs/TechnicalDescription.md#results-in-detail).
+You can [browse all 3,949 compared questions](https://lite.datasette.io/?csv=https://github.com/CEASLEY803/voter-faqs-2026/blob/master/data/2026/analysis/comparison/pairs.csv&metadata=https://raw.githubusercontent.com/CEASLEY803/voter-faqs-2026/master/data/2026/analysis/comparison/pairs_metadata.json#/data/pairs?_col=state&_col=source&_col=result&_col=question_2024&_col=question_2026&_facet=result&_facet=source&_size=20) in your browser, filtered by state, source, or result.
 
 ## How to run it
 
-I built it so one command handles the whole pipeline. It scrapes the pages, builds the JSON records, checks for data problems, compares it against the baseline year, and generates the charts. 
+One command handles the whole pipeline. It scrapes the pages, builds the JSON records, checks for data problems, compares it against the baseline year, and generates the charts. To collect 2028 and compare it to 2026:
 
-If you wanted to collect 2028 and compare it to 2026, you'd just run:
 ```
 python code/run_pipeline.py --year 2028 --baseline-year 2026 --collect
 ```
 
-You shouldn't need to touch the Python code for a new cycle. Just update `sources.csv` with the new URLs and tweak the thresholds in `settings.toml`. The full setup guide and command list are in the [technical description](docs/TechnicalDescription.md#getting-started--how-to-run).
+You shouldn't need to touch the Python code for a new cycle. Update `sources.csv` with the new URLs, and adjust the thresholds in `settings.toml` if needed. Setup and every option are in the [technical description](docs/TechnicalDescription.md#getting-started--how-to-run).
 
 ## Where things are
 
 | Folder or file | What's in it |
 | ----- | ----- |
-| [`docs/`](docs/) | The [writeup](docs/Writeup.pdf), the [presentation](docs/Presentation.pdf), and the technical description (how it works and how to run it). |
+| [`docs/`](docs/) | The writeup, the slides, and the technical description. |
 | [`code/`](code/) | The Python scripts. `run_pipeline.py` runs everything. |
-| [`data/2024/`](data/2024/) | The 2024 dataset. (Untouched). |
-| [`data/2026/`](data/2026/) | The saved HTML pages, datasets, quality reports, and charts. |
-| `sources.csv`, `settings.toml` | The URLs to scrape, plus the rules/thresholds. |
-| [`reference/`](reference/) | Files kept from the original 2024 project. |
+| [`data/2024/`](data/2024/) | The 2024 dataset, unchanged. |
+| [`data/2026/`](data/2026/) | The saved pages, the dataset, quality reports, and charts. |
+| `sources.csv`, `settings.toml` | The URLs to scrape, plus the rules and thresholds. |
+| [`reference/`](reference/) | Files kept unchanged from the 2024 project (its README, license, and a notebook), plus a record of the exact version used. |
 | [`AI_USAGE.md`](AI_USAGE.md) | Log of the prompts and AI models I used. |
 
 ## Credits
@@ -60,6 +57,7 @@ I (Cole Easley) built this for a CSCE 498 independent study at the University of
 **Software:** Python with [Requests](https://requests.readthedocs.io/), [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/), [pypdf](https://pypdf.readthedocs.io/), and [Matplotlib](https://matplotlib.org/). [Datasette Lite](https://lite.datasette.io/) is what displays the CSV in the browser. I used the [Internet Archive](https://web.archive.org/) as a fallback for state sites that blocked the scraper.
 
 **Generative AI:** I used generative AI for a large portion of the coding work: OpenAI Codex (GPT-6) and Claude Code (Claude Opus 5.5 and Claude Fable 5.2). The prompts and models are logged in [`AI_USAGE.md`](AI_USAGE.md). Claude also helped organize and improve formatting of README, as well as updating outdated links/filepaths when architecture changed over the course of development.
+
 ### Citation
 
 If you find this work useful, please cite the paper behind the 2024 dataset:
